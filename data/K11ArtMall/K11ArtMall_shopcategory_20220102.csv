@@ -1,0 +1,20 @@
+mall,type,shop_category_id,shop_category_name,update_date
+K11ArtMall,Shopping,1023,K11 Natural,2022-01-02
+K11ArtMall,Shopping,1024,K11 Select,2022-01-02
+K11ArtMall,Shopping,1000,Others,2022-01-02
+K11ArtMall,Shopping,1013,Beauty & Personal Care,2022-01-02
+K11ArtMall,Shopping,1014,Electronics & Gadgets,2022-01-02
+K11ArtMall,Shopping,1016,Jewellery & Watches,2022-01-02
+K11ArtMall,Shopping,1015,Fashion,2022-01-02
+K11ArtMall,Shopping,1017,Lifestyle,2022-01-02
+K11ArtMall,Shopping,1018,Services,2022-01-02
+K11ArtMall,Shopping,1019,"Shoes, Bags & Accessories",2022-01-02
+K11ArtMall,Shopping,1020,Sports & Wellness,2022-01-02
+K11ArtMall,Shopping,1021,Supermarket,2022-01-02
+K11ArtMall,Shopping,1026,New,2022-01-02
+K11ArtMall,Dining,2,Asian Delicacies,2022-01-02
+K11ArtMall,Dining,3,Chinese Cuisine,2022-01-02
+K11ArtMall,Dining,4,Café & Confectionery,2022-01-02
+K11ArtMall,Dining,6,Western Gourmet,2022-01-02
+K11ArtMall,Dining,9,K11 Natural,2022-01-02
+K11ArtMall,Dining,19,New,2022-01-02
