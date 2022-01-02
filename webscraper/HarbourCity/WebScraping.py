@@ -143,7 +143,7 @@ def getShopMaster():
                     shop_category_id = np.nan
 
                 try:
-                    shop_category_name = ';'.join([category['name'] for category in shop['category']])
+                    shop_category_name = ';'.join([html.parser.unescape(category['name']) for category in shop['category']])
                 except:
                     shop_category_name = np.nan
             elif type == 'Dining':
