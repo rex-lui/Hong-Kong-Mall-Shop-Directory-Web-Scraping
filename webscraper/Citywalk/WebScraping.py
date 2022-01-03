@@ -7,6 +7,7 @@ import numpy as np
 import datetime as dt
 import configparser
 import os
+import json
 
 #Configure parameter
 config = configparser.ConfigParser()
