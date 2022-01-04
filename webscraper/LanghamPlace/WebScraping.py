@@ -22,6 +22,8 @@ shoplistapi = config['api']['shoplistapi']
 fnblistapi = config['api']['fnblistapi']
 shopcatapi = config['api']['shopcatapi']
 fnbcatapi = config['api']['fnbcatapi']
+shopflooridmapping = eval(config['mapping']['shopflooridmapping'])
+
 headers = {
     'Accept': 'application/json',
     'Api-key': apikey,
@@ -77,9 +79,6 @@ def getShopMaster():
     #Create empty DataFrame for shop master
     shoplist = pd.DataFrame()
     shoplisttc = pd.DataFrame()
-
-    #Create floor mapping
-    shop_floor_id_mapping = {'B3':'B3F','B2':'B2F','B1':'B1F','G':'GF','L1':'1F','L2':'2F','L3':'3F','L4':'4F','L5':'5F','L6':'6F','L7':'7F','L8':'8F','L9':'9F','L10':'10F','L11':'11F','L12':'12F','L13':'13F'}
 
     for type, api in zip(['Shopping','Dining'],[shoplistapi,fnblistapi]):
         LastPage = getLastPage(api)
@@ -178,6 +177,6 @@ def getShopMaster():
     shopmaster['mall'] = mall
     shopmaster['loyalty_offer'] = np.nan
     shopmaster['tag'] = np.nan
-    shopmaster['shop_floor'] = shopmaster['shop_floor'].map(shop_floor_id_mapping)
+    shopmaster['shop_floor'] = shopmaster['shop_floor'].map(shopflooridmapping)
     shopmaster = shopmaster.loc[:, ['mall','type','shop_id','shop_name_en','shop_name_tc','shop_number','shop_floor','phone','opening_hours','loyalty_offer','voucher_acceptance','shop_category_id','shop_category_name','tag','update_date']]
     return shopmaster
