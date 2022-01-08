@@ -15,6 +15,7 @@ mall = config['general']['mall']
 shoplisturl = config['url']['shoplisturl']
 fnblisturl = config['url']['fnblisturl']
 shopdetailbasicurl = config['url']['shopdetailbasicurl']
+shopflooridmapping = eval(config['mapping']['shopflooridmapping'])
 
 #Get shop category data and export into csv
 def getShopCategory():
@@ -55,9 +56,6 @@ def getShopMaster():
     #Create empty DataFrame for shop master
     shoplist = pd.DataFrame()
     shopdetail = pd.DataFrame()
-
-    #Create floor mapping
-    shop_floor_id_mapping = {'1':'B3','2':'B2','3':'B1','4':'GF','5':'1F','6':'2F','7':'3F','8':'4F','9':'5F','10':'6F','11':'7F','12':'8F','13':'9F','14':'9F','15':'10F','16':'11F','17':'12F','18':'13F','20':'14F','21':'15F','22':'17F'}
 
     for type, url in zip(['Shopping','Dining'],[shoplisturl,fnblisturl]):
         #Get shop list
@@ -171,6 +169,6 @@ def getShopMaster():
     shopmaster['update_date'] = dt.date.today()
     shopmaster['mall'] = mall
     shopmaster['voucher_acceptance'] = np.nan
-    shopmaster['shop_floor'] = shopmaster['shop_floor'].map(shop_floor_id_mapping)
+    shopmaster['shop_floor'] = shopmaster['shop_floor'].map(shopflooridmapping)
     shopmaster = shopmaster.loc[:, ['mall','type','shop_id','shop_name_en','shop_name_tc','shop_number','shop_floor','phone','opening_hours','loyalty_offer','voucher_acceptance','shop_category_id','shop_category_name','tag','update_date']]
     return shopmaster

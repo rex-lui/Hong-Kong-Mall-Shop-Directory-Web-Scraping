@@ -1,3 +1,4 @@
+#%%
 #Import necessary package
 import requests
 import re
@@ -85,7 +86,12 @@ def getShopMaster():
             shop_number = np.nan
         
         try:
-            shop_floor = shop.find(class_ = 'shopEntryFloor').text.replace(' ','')
+            exist = set()
+            exist_add = exist.add
+            shop_floor = shop.find(class_ = 'shopEntryFloor').text.strip()
+            shop_floor_split = [parts.strip().replace('L','')+'F' for parts in shop_floor.split('  ')]
+            shop_floor_split = [x for x in shop_floor_split if not (x in exist or exist_add(x))]
+            shop_floor = ';'.join(shop_floor_split)
         except:
             shop_floor = np.nan
         

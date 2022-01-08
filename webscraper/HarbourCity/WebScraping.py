@@ -143,7 +143,7 @@ def getShopMaster():
                     shop_category_id = np.nan
 
                 try:
-                    shop_category_name = ';'.join([category['name'] for category in shop['category']])
+                    shop_category_name = ';'.join([html.parser.unescape(category['name']) for category in shop['category']])
                 except:
                     shop_category_name = np.nan
             elif type == 'Dining':
@@ -199,7 +199,7 @@ def getShopMaster():
     shopmaster['mall'] = mall
     shopmaster['shop_id'] = shopmaster['shop_id'].astype(str)
     shopmaster['shop_id'] = shopmaster['shop_id'].apply(lambda x: x.replace('.0',''))
-    shopmaster['shop_floor'] = shopmaster['shop_location'] + ' - ' + shopmaster['shop_floor']
+    shopmaster['shop_floor'] = shopmaster['shop_location'].fillna('') + ' - ' + shopmaster['shop_floor']
     shopmaster['loyalty_offer'] = np.nan
     shopmaster['voucher_acceptance'] = np.nan
     shopmaster['tag'] = np.nan
