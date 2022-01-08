@@ -48,3 +48,5 @@ webscraper/TimeSquare/__pycache__/WebScraping.cpython-37.pyc
 webscraper/Tmtplaza/__pycache__/WebScraping.cpython-37.pyc
 data/Windsor/Windsor_shopcategory_20220106.csv
 data/Windsor/Windsor_shopmaster_20220106.csv
+*.csv
+*.py
