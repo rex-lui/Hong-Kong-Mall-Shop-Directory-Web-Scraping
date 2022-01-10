@@ -1,0 +1,20 @@
+mall,type,shop_category_id,shop_category_name,update_date
+Landmark,Shopping,banking_services,Banking&Services,2022-01-09
+Landmark,Shopping,beauty_wellness,Beauty&Wellness,2022-01-09
+Landmark,Shopping,forher,ForHer,2022-01-09
+Landmark,Shopping,forhim,ForHim,2022-01-09
+Landmark,Shopping,gourmet_groceries,Gourmet&Groceries,2022-01-09
+Landmark,Shopping,home,Home,2022-01-09
+Landmark,Shopping,jewellery_watches,Jewellery&Watches,2022-01-09
+Landmark,Shopping,kids,Kids,2022-01-09
+Landmark,Shopping,popup,PopUp,2022-01-09
+Landmark,Shopping,travel_lifestyle,Travel&Lifestyle,2022-01-09
+Landmark,Dining,asian,Asian,2022-01-09
+Landmark,Dining,bars_juiceries,Bars&Juiceries,2022-01-09
+Landmark,Dining,chinese,Chinese,2022-01-09
+Landmark,Dining,foodhall,Food Hall (Old: basehall),2022-01-09
+Landmark,Dining,international,International,2022-01-09
+Landmark,Dining,japanese,Japanese,2022-01-09
+Landmark,Dining,patisseries_cafes,Patisseries&Cafés,2022-01-09
+Landmark,Dining,pop_up,Pop-up,2022-01-09
+Landmark,Dining,western,Western,2022-01-09
