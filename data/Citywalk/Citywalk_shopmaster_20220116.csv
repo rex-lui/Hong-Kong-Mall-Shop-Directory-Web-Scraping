@@ -1,0 +1,194 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+Citywalk,Shopping,1,1 + 1 Professional Optical Shop,1+1專業眼鏡,127a,Citywalk 1F,29410238,Mon - Sun: 11:00am - 08:30pm,,,11,"Jewellery, Watches, Optical & Accessories​​",,2022-01-16
+Citywalk,Shopping,2,7-Eleven,7-11便利店,G01,Citywalk2 GF,22991110,24 hours,,,8,"Department Stores, Supermarkets and Convenience Stores​​",Convenience Stores;Daily Necessities;Drink;Food,2022-01-16
+Citywalk,Shopping,3,759 Store,759 阿信屋,G18a-b,Citywalk GF,36696780,Mon - Sun: 09:00am - 10:00pm,,,8,"Department Stores, Supermarkets and Convenience Stores​​",,2022-01-16
+Citywalk,Shopping,7,A-Fontane,雅芳婷,102,Citywalk 1F,29410565,Mon - Sun: 11:00am - 08:00pm,,,10,Furniture & Lifestyle​​,Bedding;Mattress,2022-01-16
+Citywalk,Shopping,9,ad-lib,ad-lib,UG38,Citywalk UGF,21521520,Mon - Sun: 12:00pm - 09:00pm,,,9,Fashion​​,Clothing;Fashion;Kids' Fashion;Men’s Fashion,2022-01-16
+Citywalk,Shopping,8,adidas,adidas,UG73&75,Citywalk UGF,23323970,Mon - Thu: 11:30am - 09:00pmFri - Sun: 11:30am - 09:30pm,,,14,Sportswear & Equipment​​,Bag;Shoes;Sneakers;Sports Accessories;Sportswear,2022-01-16
+Citywalk,Shopping,298,Ark Studio,Ark Studio,12-13,Citywalk2 UGF,63654047,"Mon - Fri: 11:00am - 09:30pmSat, Sun: 09:00am - 08:00pm",,,5,"Books, Stationery & Education​​",Art;Drawing;Education;Interest;Learning Centre,2022-01-16
+Citywalk,Shopping,225,Aureus Academy,Aureus Academy,UG15-21&47-49,Citywalk2 UGF,58032564,Mon - Sun: 10:00am - 08:00pm,,,5,"Books, Stationery & Education​​",Education;Extracurricular Activity;Interest;Music;Study,2022-01-16
+Citywalk,Shopping,244,B51,B51,135,Citywalk 1F,26613989,"Mon - Wed, Sun: 11:00am - 09:00pmThu - Sat: 11:00am - 10:00pm",,,12,Kid's Wear & Toys​​,,2022-01-16
+Citywalk,Shopping,10,Bank of China (Hong Kong),中國銀行 (香港 ),G65,Citywalk GF,29203211,Mon - Fri: 09:00am - 04:00pmSat: 09:00am - 12:00pm,,,2,Banking Services​​,ATM;Bank;Money Exchange;Wealth,2022-01-16
+Citywalk,Shopping,183,Beijing Tong Ren Tang,北京同仁堂,G35,Citywalk GF,29410139,Mon - Sun: 10:30am - 08:30pm,,,4,Health Products & Personal Care​​,Chinese Medicine;Drug;Health Care;Supplements,2022-01-16
+Citywalk,Shopping,11,Best Mart 360°,優品 360°,G08-09,Citywalk GF,31508088,Mon - Sun: 09:00am - 10:00pm,,,8,"Department Stores, Supermarkets and Convenience Stores​​",,2022-01-16
+Citywalk,Shopping,14,Bloom Dance Academy (Temporary Closure Until Further Notice),兒童流行舞蹈學院  (暫停營業至另行通知),UG56-57,Citywalk2 UGF,24671919,"Mon, Thu, Fri: 12:00pm - 08:00pmSat, Sun: 09:45am - 07:00pm",,,5,"Books, Stationery & Education​​",Dancing;School,2022-01-16
+Citywalk,Shopping,288,blueplace,blueplace,UG57,Citywalk UGF,29410087,"Mon - Fri: 10:30am - 08:30pmSat, Sun: 11:00am - 08:30pm",,,14,Sportswear & Equipment​​,Backpack;Outdoor;Shoes;Sport;Sports Accessories,2022-01-16
+Citywalk,Shopping,245,Boatat Foods Market,寶達食品超市,UG29-33&35-36,Citywalk2 UGF,24301148,"Mon - Wed, Fri - Sun, PH, Day before PH: 10:00am - 10:00pmThu: 10:10am - 10:00pm",,,8,"Department Stores, Supermarkets and Convenience Stores​​",Food;Fresh Food,2022-01-16
+Citywalk,Shopping,16,Bright International Education (Tsuen Wan),明師教育(荃灣),UG55,Citywalk2 UGF,31651343,Mon: 02:00pm - 06:00pmTue - Sat: 10:00am - 07:00pmSun: 10:00am - 02:00pm,,,5,"Books, Stationery & Education​​",Education;Learning Centre;Tutorial,2022-01-16
+Citywalk,Shopping,18,Bubbly English,Bubbly English,UG67,Citywalk2 UGF,28055368,Mon - Sat: 10:00am - 07:00pm,,,5,"Books, Stationery & Education​​",Education;English;Learning Centre,2022-01-16
+Citywalk,Shopping,23,Catalog,Catalog,UG77,Citywalk UGF,29410398,"Mon - Fri: 12:00pm - 09:00pmSat, Sun: 11:30am - 09:00pm",,,14,Sportswear & Equipment​​,Fashion;Shoes;Sneakers;Sportswear,2022-01-16
+Citywalk,Shopping,24,Centaline Property (Citywalk G/F),中原地產 (Citywalk G/F),G20b,Citywalk GF,24144828/24998266,Mon - Sun: 09:30am - 09:30pm,,,17,Others​​,Buying Property;Property;Real Estate;Renting Property,2022-01-16
+Citywalk,Shopping,26,Centaline Property (Citywalk2 UG/F),中原地產 (Citywalk2 UG/F),UG66,Citywalk2 UGF,24933699,Mon - Sun: 09:30am - 09:30pm,,,17,Others​​,Buying Property;Property;Real Estate;Renting Property,2022-01-16
+Citywalk,Shopping,28,CHEVIGNON,CHEVIGNON,UG59,Citywalk UGF,26684041,Mon - Sun: 11:30am - 08:30pm,,,9,Fashion​​,Casual Wear;Fashion;Jeans;Ladies’ Fashion;Men’s Fashion,2022-01-16
+Citywalk,Shopping,290,China Construction Bank (Asia),中國建設銀行（亞洲）,G21-22,Citywalk GF,37187199,Mon - Fri: 09:00am - 05:00pmSat: 09:00am - 01:00pm,,,2,Banking Services​​,Bank;Money Exchange;Wealth,2022-01-16
+Citywalk,Shopping,31,Citibank,花旗銀行,G16,Citywalk2 GF,28600333,24 hours,,,2,Banking Services​​,ATM,2022-01-16
+Citywalk,Shopping,34,colourmix,卡萊美,G81a-b,Citywalk GF,29410502,Mon - Sun: 10:30am - 10:00pm,,,3,Beauty & Cosmetics​​,Beauty;Body Care;Cosmetics;Personal Care;Skin Care,2022-01-16
+Citywalk,Shopping,35,Columbia,Columbia,UG61,Citywalk UGF,68288985,"Mon - Fri: 12:00pm - 09:00pmSat, Sun: 11:30am - 08:30pm",,,14,Sportswear & Equipment​​,Bag;Outdoor;Shoes;Sports Accessories;Sportswear,2022-01-16
+Citywalk,Shopping,43,Cosway,科士威,G13&15,Citywalk2 GF,29410547,Mon - Sun: 10:30am - 08:30pm,,,4,Health Products & Personal Care​​,Daily Necessities;Healthy Living;Personal Care,2022-01-16
+Citywalk,Shopping,36,CR Care,華潤堂,G33,Citywalk GF,29410570,Mon - Sun: 10:00am - 08:00pm,,,4,Health Products & Personal Care​​,Chinese Medicine;Drug;Health Care,2022-01-16
+Citywalk,Shopping,39,DG Lifestyle Store,DG Lifestyle Store,G76c-d,Citywalk GF,29410182,Mon - Sun: 11:00am - 08:00pm,,,1,Audio-Visual & Electrical Appliances​​,Audiovisual;Lifestyle;Phone Accessories;Smartphone;Tablet,2022-01-16
+Citywalk,Shopping,40,Dickies,Dickies,UG48,Citywalk UGF,21160382,Mon - Sun: 11:00am - 08:00pm,,,9,Fashion​​,Casual Wear;Clothing,2022-01-16
+Citywalk,Shopping,41,Dr. Kong,Dr. Kong,G47,Citywalk GF,24930368,"Mon - Fri: 11:30am - 09:00pmSat, Sun: 11:00am - 09:00pm",,,13,Shoes & Bags​​,Foot Health;Shoes,2022-01-16
+Citywalk,Shopping,42,Dynasty Hair Salon,唐朝髮型,UG43&45,Citywalk2 UGF,26200811,Mon - Sun: 10:00am - 09:00pm,,,4,Health Products & Personal Care​​,Hair Salon,2022-01-16
+Citywalk,Shopping,239,Easy A Learning,筠喬學習中心,UG53,Citywalk2 UGF,23685968,Mon - Fri: 10:00am - 07:30pmSat: 10:00am - 05:30pm,,,5,"Books, Stationery & Education​​",Education;English;Learning Centre;Study,2022-01-16
+Citywalk,Shopping,44,eGG,eGG,UG46,Citywalk UGF,29410289,"Mon - Fri: 11:00am - 09:00pmSat, Sun: 10:30am - 09:00pm",,,11,"Jewellery, Watches, Optical & Accessories​​",Optical;Sunglasses,2022-01-16
+Citywalk,Shopping,227,ELBA,ELBA,UG42,Citywalk UGF,23162028,Mon - Sun: 10:00am - 10:00pm,,,9,Fashion​​,Casual Wear;Clothing;Fashion;Jeans;Ladies’ Fashion,2022-01-16
+Citywalk,Shopping,229,Emperor Cinemas (Temporary Closure Until Further Notice),英皇戲院 (暫停營業至另行通知),109,Citywalk2 1F,25222996,"Mon - Sun, PH, Day before PH: 10:45am - 10:15pm",,,6,Cinema & Entertainment​​,3D Movie;Cinema;Entertainment;Movie;Movie Ticket,2022-01-16
+Citywalk,Shopping,46,Emperor Jewellery,英皇珠寶,UG07,Citywalk UGF,28386232,"Mon - Fri: 10:30am - 08:30pmSat, Sun: 10:30am - 09:00pm",,,11,"Jewellery, Watches, Optical & Accessories​​",Diamond;Gold;Jewellery;Platinum,2022-01-16
+Citywalk,Shopping,48,Eu Yan Sang,余仁生,G37,Citywalk GF,24900833,Mon - Sun: 10:30am - 09:00pm,,,4,Health Products & Personal Care​​,Chinese Medicine;Drug;Health Care;Healthy Living,2022-01-16
+Citywalk,Shopping,50,Eye's Mate Optical,愛視美眼鏡,UG58,Citywalk UGF,24021570,Mon - Sun: 11:00am - 08:00pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Contact Lens;Optical;Sunglasses,2022-01-16
+Citywalk,Shopping,51,FANCL and F&H BY FANCL,FANCL and F&H BY FANCL,UG09,Citywalk UGF,31853607,Mon - Sun: 11:00am - 10:00pm,,,3,Beauty & Cosmetics​​,Facial;Healthy Living;Personal Care;Skin Care,2022-01-16
+Citywalk,Shopping,52,FORTRESS,豐澤,G66&80,Citywalk GF,36950191,Mon - Sun: 11:30am - 09:00pm,,,1,Audio-Visual & Electrical Appliances​​,Audiovisual;Electrical Appliances;Electronics;Home Appliances,2022-01-16
+Citywalk,Shopping,53,FOTOMAX,快圖美,147,Citywalk 1F,29410598,Mon - Sun: 10:30am - 07:30pm,,,10,Furniture & Lifestyle​​,Document Printing;Photo Printing;Photography,2022-01-16
+Citywalk,Shopping,251,Fred Chan Hair Care Pro,髮棧,UG55,Citywalk UGF,,Mon - Sun: 10:00am - 08:30pm,,,4,Health Products & Personal Care​​,Beauty;Daily Necessities;Hair Care;Personal Care;Supplements,2022-01-16
+Citywalk,Shopping,299,Fruit of the Loom,Fruit of the Loom,UG26,Citywalk UGF,37517254,"Mon - Sun, PH: 12:00pm - 09:00pm",,,9,Fashion​​,Casual Wear;Clothing;Fashion;Underwear,2022-01-16
+Citywalk,Shopping,178,G-SHOCK CASIO,G-SHOCK CASIO,UG08,Citywalk UGF,21530115,Mon - Sun: 11:00am - 09:00pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Accessories;Gift;Watch,2022-01-16
+Citywalk,Shopping,277,Gala Interior Design,珈室內設計,111 & 119,Citywalk2 1F,23869808/26826608,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,10,Furniture & Lifestyle​​,Family;Home Decoration;Lifestyle,2022-01-16
+Citywalk,Shopping,60,GR Play,GR Play,UG22-23,Citywalk2 UGF,26828377,Mon - Sun: 12:30pm - 07:00pm,,,12,Kid's Wear & Toys​​,Entertainment;Game;Toy,2022-01-16
+Citywalk,Shopping,285,Guei Lutucchi Youth,年青古易路兒,133,Citywalk 1F,28575155,Mon - Sun: 12:00pm - 08:00pm,,,13,Shoes & Bags​​,,2022-01-16
+Citywalk,Shopping,69,Heman Hair Shop,千悠髮型用品,UG80,Citywalk2 UGF,23380933,"Mon - Sun, PH: 01:00pm - 07:30pm",,,4,Health Products & Personal Care​​,Hair Care,2022-01-16
+Citywalk,Shopping,275,Her Own Words,Her Own Words,UG40,Citywalk UGF,,Mon - Sun: 11:30am - 08:30pm,,,9,Fashion​​,Ladies’ Fashion;Sportswear;Underwear,2022-01-16
+Citywalk,Shopping,70,Hisso,Hisso,UG21,Citywalk UGF,21179148,Mon - Sun: 11:00am - 10:00pm,,,9,Fashion​​,Casual Wear;Clothing,2022-01-16
+Citywalk,Shopping,249,HKTVmall,HKTVmall,G19b,Citywalk GF,,"Mon - Sun, PH: 10:00am - 08:00pm",,,8,"Department Stores, Supermarkets and Convenience Stores​​",Frozen Food;Grocery;Supermarket,2022-01-16
+Citywalk,Shopping,71,Home Baking Day,Home. 焙小日子,G25-27,Citywalk2 GF,27263108,"Mon - Sun, PH, Day before PH: 10:00am - 10:00pm",,,6,Cinema & Entertainment​​,,2022-01-16
+Citywalk,Shopping,78,I-PRIMO,I-PRIMO,UG15,Citywalk UGF,28901525,"Mon - Fri: 12:00pm - 08:00pmSat, Sun: 11:30am - 09:00pm",,,11,"Jewellery, Watches, Optical & Accessories​​",Diamond;Earrings;Jewellery;Platinum;Ring,2022-01-16
+Citywalk,Shopping,80,INADA,稻田,UG79,Citywalk2 UGF,27770168,Mon - Sun: 10:00am - 09:00pm,,,4,Health Products & Personal Care​​,,2022-01-16
+Citywalk,Shopping,255,Instyle Living Wine & Grocery,Instyle Living Wine & Grocery,122,Citywalk 1F,23639398,"Mon - Sun, PH: 10:00am - 08:00pm",,,10,Furniture & Lifestyle​​,Home Decoration;Houseware;Kitchenware;Lifestyle,2022-01-16
+Citywalk,Shopping,200,INTIQUE,INTIQUE,UG36,Citywalk UGF,28120041,Mon - Sun: 11:00am - 10:00pm,,,9,Fashion​​,Clothing;Fashion;Ladies’ Fashion,2022-01-16
+Citywalk,Shopping,83,ITSU,ITSU,101,Citywalk 1F,21522239,Mon - Sun: 11:00am - 10:00pm,,,4,Health Products & Personal Care​​,,2022-01-16
+Citywalk,Shopping,241,K-korea taekwondo (Temporary Closure Until Further Notice),K-korea taekwondo (暫停營業至另行通知),UG42&46,Citywalk2 UGF,94705885,"Mon - Sat, PH, Day before PH: 10:00am - 07:30pm",,,5,"Books, Stationery & Education​​",Art;Education;Interest;Music,2022-01-16
+Citywalk,Shopping,86,Kamda Beauty (Temporary Closure Until Further Notice),Kamda Beauty (暫停營業至另行通知),103,Citywalk 1F,26996898,Mon - Sun: 11:00am - 08:00pm,,,4,Health Products & Personal Care​​,Beauty;Facial;Skin Care,2022-01-16
+Citywalk,Shopping,271,KEDMA,KEDMA,Nature Walk 8,Citywalk UGF,,Mon - Sun: 11:00am - 09:00pm,,,3,Beauty & Cosmetics​​,Beauty;Body Care,2022-01-16
+Citywalk,Shopping,300,KIDS KIDS CAR (Temporary Closure Until Further Notice),KIDS KIDS CAR (暫停營業至另行通知),119,Citywalk 1F,56462499,"Mon - Fri: 12:00pm - 07:30pmSat, Sun, PH: 11:00am - 08:30pm",,,6,Cinema & Entertainment​​,Entertainment;Games;Indoor Amusement Park,2022-01-16
+Citywalk,Shopping,234,Kwong Tai Medicine,光大海味,G51,Citywalk GF,,Mon - Sun: 10:00am - 08:00pm,,,4,Health Products & Personal Care​​,Chinese Medicine;Health Care;Personal Care,2022-01-16
+Citywalk,Shopping,95,Lan Lan Cosmetic House,靚靚日本化粧品專門店,UG31,Citywalk UGF,25460079,Mon - Sun: 11:30am - 07:30pm,,,3,Beauty & Cosmetics​​,Facial;Skin Care,2022-01-16
+Citywalk,Shopping,96,LEARNING DELIGHT,悅學,UG65b,Citywalk2 UGF,36896908,Mon - Sat: 02:00pm - 06:30pm,,,5,"Books, Stationery & Education​​",Learning Centre;Study,2022-01-16
+Citywalk,Shopping,98,Levi's,Levi's,UG16,Citywalk UGF,24109636,Mon - Wed: 11:00am - 09:00pmThu: 11:00am - 08:00pmFri - Sun: 11:00am - 09:30pm,,,9,Fashion​​,Casual Wear;Fashion;Jeans;Ladies’ Fashion;Men’s Fashion,2022-01-16
+Citywalk,Shopping,100,Lisa & Sara,Lisa & Sara,UG33,Citywalk UGF,28862931,Mon - Sun: 12:00pm - 10:00pm,,,3,Beauty & Cosmetics​​,Fragrance;Gift,2022-01-16
+Citywalk,Shopping,301,Litebox,Litebox,Common Area Next To Shop 120,Citywalk 1F,97008358,"Mon - Sun, PH: 10:00am - 10:00pm",,,12,Kid's Wear & Toys​​,Game;Gift;Toy,2022-01-16
+Citywalk,Shopping,274,Logitech Store by 2000fun,Logitech 體驗館,UG32,Citywalk UGF,23883550,"Mon - Fri: 12:00pm - 08:30pmSat, Sun, PH: 11:30am - 09:00pm",,,1,Audio-Visual & Electrical Appliances​​,Earphone;Electronics;Entertainment;Headphone;Lifestyle,2022-01-16
+Citywalk,Shopping,102,LUKFOOK JEWELLERY,六福珠寶,UG06,Citywalk UGF,26732121,Mon - Sun: 10:30am - 09:00pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Diamond;Gold;Jewellery;Platinum,2022-01-16
+Citywalk,Shopping,103,Lyrical Music,樂坊,UG50,Citywalk2 UGF,35430486,Mon - Fri: 12:00pm - 06:00pmSat: 10:00am - 08:00pmSun: 10:00am - 07:00pmPH: 09:30am - 08:00pm,,,5,"Books, Stationery & Education​​",Interest;Music;Musical Instrument,2022-01-16
+Citywalk,Shopping,104,MaBelle,MaBelle,UG03,Citywalk UGF,29410515,Mon - Sun: 10:30am - 08:30pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Diamond;Jewellery;Necklace;Ring,2022-01-16
+Citywalk,Shopping,106,Mannings (Citywalk G/F),萬寧 (Citywalk G/F),G39&41,Citywalk GF,26446573,Mon - Sun: 09:30am - 09:30pm,,,4,Health Products & Personal Care​​,Daily Necessities;Drug;Personal Care,2022-01-16
+Citywalk,Shopping,107,Mannings (Citywalk2 UG/F),萬寧 (Citywalk2 UG/F),UG70-77,Citywalk2 UGF,26144542,Mon - Sun: 10:00am - 10:00pm,,,4,Health Products & Personal Care​​,Daily Necessities;Drug;Personal Care,2022-01-16
+Citywalk,Shopping,108,Marathon Sports,馬拉松,UG63,Citywalk UGF,29410555,Mon - Sun: 11:30am - 08:30pm,,,14,Sportswear & Equipment​​,Shoes;Sneakers;Sports Accessories;Sportswear,2022-01-16
+Citywalk,Shopping,109,Marchio,Marchio,UG08,Citywalk2 UGF,24222228,"Mon - Sun, PH: 01:00pm - 09:00pm",,,9,Fashion​​,Casual Wear;Fashion,2022-01-16
+Citywalk,Shopping,112,Marks and Spencer (G/F),英國馬莎 (G/F),G01-05,Citywalk GF,29294100,Mon - Sun: 11:00am - 10:00pmG/F Food Section: 9:00am - 10:00pm,,,8,"Department Stores, Supermarkets and Convenience Stores​​",Department Store;Food;Kids' Fashion;Ladies’ Fashion;Men’s Fashion,2022-01-16
+Citywalk,Shopping,113,Marks and Spencer (UG/F),英國馬莎 (UG/F),UG47,Citywalk UGF,29294100,Mon - Sun: 11:00am - 10:00pmG/F Food Section: 9:00am - 10:00pm,,,8,"Department Stores, Supermarkets and Convenience Stores​​",Department Store;Food;Kids' Fashion;Ladies’ Fashion;Men’s Fashion,2022-01-16
+Citywalk,Shopping,115,Meka,美康,G53,Citywalk GF,24992728,Mon - Sun: 10:00am - 09:30pm,,,4,Health Products & Personal Care​​,Facial;Hair Care;Personal Care;Skin Care,2022-01-16
+Citywalk,Shopping,117,Midland Realty (Citywalk G/F),美聯物業 (Citywalk G/F),G19a,Citywalk GF,29203300,Mon - Sun: 09:30am - 09:30pm,,,17,Others​​,Buying Property;Property;Real Estate;Renting Property,2022-01-16
+Citywalk,Shopping,230,Midland Realty (Citywalk2 G/F),美聯物業 (Citywalk2 G/F),G12,Citywalk2 GF,26681438,"Mon - Sun, PH, Day before PH: 09:30am - 09:30pm",,,17,Others​​,Buying Property;Property;Real Estate;Renting Property,2022-01-16
+Citywalk,Shopping,250,Mini Punch,Mini Punch,UG25,Citywalk UGF,21531256,Mon - Sun: 10:30am - 08:00pmDay before PH: 11:30am - 10:00pm,,,9,Fashion​​,Accessories;Casual Wear;Clothing;Fashion;Jeans,2022-01-16
+Citywalk,Shopping,219,Mujosh,木九十,UG27,Citywalk UGF,28611197,Mon - Sun: 11:00am - 08:00pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Accessories;Optical,2022-01-16
+Citywalk,Shopping,289,Mushroomland Creative Art  x STEM Academy,Mushroomland Creative Art  x STEM Academy,UG61,Citywalk2 UGF,97304948,"Mon - Sun, PH, Day before PH: 10:00am - 06:00pm",,,5,"Books, Stationery & Education​​",Art;Education;Interest;STEM;Tutorial,2022-01-16
+Citywalk,Shopping,124,namco  (Temporary Closure Until Further Notice),namco (暫停營業至另行通知),UG26-28&37-38,Citywalk2 UGF,31074876,"Mon - Sun, PH: 10:00am - 10:00pm",,,6,Cinema & Entertainment​​,Games;Indoor Amusement Park,2022-01-16
+Citywalk,Shopping,296,namco (Temporary Closure Until further notice),namco (暫停營業至另行通知),UG05-07,Citywalk2 UGF,31074876,"Mon - Sun, PH: 10:00am - 10:00pm",,,6,Cinema & Entertainment​​,Games;Indoor Amusement Park,2022-01-16
+Citywalk,Shopping,129,Nikko,Nikko,UG78,Citywalk2 UGF,24610311,Mon - Sun: 11:00am - 09:00pm,,,14,Sportswear & Equipment​​,Backpack;Outdoor;Sporting Goods;Sports Accessories;Sportswear,2022-01-16
+Citywalk,Shopping,205,OGAWA,OGAWA,UG45,Citywalk UGF,22495221,Mon - Sun: 12:00pm - 09:00pm,,,4,Health Products & Personal Care​​,,2022-01-16
+Citywalk,Shopping,233,OME32,OME32,UG35,Citywalk UGF,96407196,Mon - Thu: 12:00pm - 10:00pmFri - Sun: 11:00am - 10:00pm,,,9,Fashion​​,Accessories;Clothing;Fashion;Ladies’ Fashion,2022-01-16
+Citywalk,Shopping,304,Onitsuka Tiger,Onitsuka Tiger,UG65,Citywalk UGF,29410077,Mon - Sun: 11:00am - 09:00pm,,,14,Sportswear & Equipment​​,Shoes;Sneakers,2022-01-16
+Citywalk,Shopping,133,Optical 88,眼鏡88,G16a,Citywalk GF,29410212,Mon - Sun: 10:30am - 09:00pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Contact Lens;Optical;Sunglasses,2022-01-16
+Citywalk,Shopping,291,OPTISUNS VISION,玥目,UG39-41,Citywalk2 UGF,21867775,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,11,"Jewellery, Watches, Optical & Accessories​​",Accessories;Fashion;Luxury;Optical;Sunglasses,2022-01-16
+Citywalk,Shopping,292,P Jai and Friends,P Jai and Friends,UG39,Citywalk UGF,37047119,Mon - Sun: 12:00pm - 09:30pm,,,9,Fashion​​,Accessories;Casual Wear;Clothing;Fashion;Kids' Fashion,2022-01-16
+Citywalk,Shopping,202,Pak Shing Tong,百成堂,G38&40,Citywalk GF,26982208,Mon - Sun: 10:30am - 09:00pm,,,4,Health Products & Personal Care​​,,2022-01-16
+Citywalk,Shopping,136,PANDORA,潘多拉珠寶,UG11b,Citywalk UGF,21160949,"Mon - Thu, Sun: 10:30am - 09:00pmFri, Sat: 10:30am - 09:30pm",,,11,"Jewellery, Watches, Optical & Accessories​​",Accessories;Bracelet;Ring,2022-01-16
+Citywalk,Shopping,246,PicoLabb,PicoLabb,UG01,Citywalk UGF,93160157,Mon - Sun: 11:30am - 08:30pm,,,4,Health Products & Personal Care​​,Health Care;Healthy Living,2022-01-16
+Citywalk,Shopping,140,Porter International,Porter International,UG80,Citywalk UGF,27966990,"Mon - Thu, Sun: 11:00am - 09:00pmFri, Sat: 10:30am - 09:00pm",,,13,Shoes & Bags​​,Bag;Leather Goods,2022-01-16
+Citywalk,Shopping,284,PRESTIGE MEDICAL CENTRE,翹康醫務中心,UG51,Citywalk UGF,28930333/28930233,Mon - Fri: 10:00am - 07:00pmSat: 10:00am - 05:30pm,,,17,Others​​,Child Care;Clinic;Health Care,2022-01-16
+Citywalk,Shopping,142,Pretty House (Temporary Closure Until Further Notice),儷凝美聚 (暫停營業至另行通知),101-103,Citywalk2 1F,24133077,"Mon - Fri: 11:00am - 08:00pmSat, Sun: 10:00am - 07:00pm",,,4,Health Products & Personal Care​​,Beauty;Facial;Skin Care,2022-01-16
+Citywalk,Shopping,232,Procare,Procare脊醫及物理治療中心,G10,Citywalk GF,36980298,"Mon - Fri: 10:00am - 08:00pmSat, Sun: 10:00am - 04:00pmMon-Fri (lunch hour 1:30pm - 3:30pm)",,,17,Others​​,,2022-01-16
+Citywalk,Shopping,144,Pure Massage (Temporary Closure Until Further Notice),足君好沐足保健中心 (暫停營業至另行通知),113,Citywalk2 1F,27447888,Mon - Sun: 11:00am - 12:00am,,,4,Health Products & Personal Care​​,Massage,2022-01-16
+Citywalk,Shopping,146,RAYBAN,RAYBAN,UG23,Citywalk UGF,29410158,Mon - Sun: 11:30am - 08:00pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Contact Lens;Optical;Sunglasses,2022-01-16
+Citywalk,Shopping,149,Ricacorp Properties,利嘉閣地產,G20a,Citywalk GF,24198832,Mon - Sun: 11:00am - 09:30pm,,,17,Others​​,,2022-01-16
+Citywalk,Shopping,150,Rolex & Tudor,Rolex & Tudor,UG10,Citywalk UGF,34285206,Mon - Sun: 10:00am - 08:00pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Timepieces;Watch,2022-01-16
+Citywalk,Shopping,151,S & T Co.,S & T Co.,UG49,Citywalk UGF,29640933,"Mon - Fri: 10:00am - 08:00pmSat, Sun: 10:00am - 08:30pm",,,16,Travels & Travel Products​​,Bag;Suitcase;Travel Accessories,2022-01-16
+Citywalk,Shopping,154,Seoul Tower,Seoul Tower,132,Citywalk 1F,,Mon - Sun: 11:30am - 09:30pm,,,11,"Jewellery, Watches, Optical & Accessories​​",,2022-01-16
+Citywalk,Shopping,157,Sincere,先施,G18,Citywalk2 GF,22583688,"Mon - Thu: 11:00am - 09:00pmFri - Sun, PH: 11:00am - 09:30pm",,,8,"Department Stores, Supermarkets and Convenience Stores​​",Department Store;Fashion;Home Appliances;Houseware;Personal Care,2022-01-16
+Citywalk,Shopping,158,SKECHERS,SKECHERS,UG67,Citywalk UGF,29410542,"Mon - Sun, PH: 10:00am - 10:00pm",,,14,Sportswear & Equipment​​,Shoes;Sneakers,2022-01-16
+Citywalk,Shopping,278,SKYMART,SKYMART,UG20,Citywalk UGF,,"Mon - Sun, PH: 12:30pm - 10:00pm",,,9,Fashion​​,Casual Wear;Fashion;Ladies’ Fashion,2022-01-16
+Citywalk,Shopping,159,Smart Creative Art Centre,博文創藝中心,UG58,Citywalk2 UGF,36902310,Tue: 03:00pm - 06:00pmThu: 02:00pm - 05:00pmFri: 10:00am - 07:00pmSat: 10:00am - 06:00pmSun: 10:00am - 01:00pm,,,5,"Books, Stationery & Education​​",Drawing;Education;Interest,2022-01-16
+Citywalk,Shopping,162,Something,Something,111a,Citywalk 1F,31041108,Mon - Sun: 11:30am - 08:30pm,,,10,Furniture & Lifestyle​​,Gift;Home Decoration,2022-01-16
+Citywalk,Shopping,166,Tai Fook Jewellery,大福珠寶金行,G16b,Citywalk GF,23828088,Mon - Sun: 10:00am - 08:00pm,,,11,"Jewellery, Watches, Optical & Accessories​​",Diamond;Gold;Jewellery;Platinum,2022-01-16
+Citywalk,Shopping,171,The Ash,The Ash,UG29,Citywalk UGF,24650585,"Mon - Fri, Sun: 11:00am - 09:00pmSat: 11:00am - 09:30pm",,,9,Fashion​​,Accessories,2022-01-16
+Citywalk,Shopping,174,The Body Shop,The Body Shop,UG11a,Citywalk UGF,29410236,Mon - Thu: 11:00am - 09:00pmFri - Sun: 10:30am - 09:00pm,,,3,Beauty & Cosmetics​​,Beauty;Body Care;Cosmetics;Personal Care;Skin Care,2022-01-16
+Citywalk,Shopping,175,The Grand Pianist,鋼琴家音樂中心,UG62-63,Citywalk2 UGF,31523364,"Mon: 03:00pm - 07:30pmTue, Fri: 12:00pm - 08:00pmSat: 09:00am - 06:00pmSun: 09:00am - 05:00pm",,,5,"Books, Stationery & Education​​",Music;Musical Instrument;Study,2022-01-16
+Citywalk,Shopping,231,The Overlander,The Overlander,UG72&76,Citywalk UGF,21171720,Mon - Sun: 11:00am - 09:00pm,,,14,Sportswear & Equipment​​,Backpack;Hiking;Outdoor;Sport;Sportswear,2022-01-16
+Citywalk,Shopping,303,Three Dog Bakery,Three Dog Bakery,112b,Citywalk 1F,23922890,"Mon - Sun, PH: 11:30am - 08:30pm",,,17,Others​​,,2022-01-16
+Citywalk,Shopping,179,Timberland,Timberland,UG12-13,Citywalk UGF,29410311,Mon - Sun: 11:00am - 09:00pm,,,9,Fashion​​,,2022-01-16
+Citywalk,Shopping,180,TINY,微影,136,Citywalk 1F,31970078,Mon - Sun: 11:00am - 09:00pm,,,12,Kid's Wear & Toys​​,Gift;Toy,2022-01-16
+Citywalk,Shopping,181,Tiramisu,Tiramisu,115,Citywalk 1F,29410028,Mon - Sun: 12:00pm - 09:00pm,,,9,Fashion​​,Fashion;Ladies’ Fashion,2022-01-16
+Citywalk,Shopping,184,Toyeki,玩具站,106,Citywalk 1F,31820107,Mon - Sun: 11:00am - 09:00pm,,,12,Kid's Wear & Toys​​,Toy,2022-01-16
+Citywalk,Shopping,187,UNIQLO,UNIQLO,128,Citywalk 1F,29410471,Mon - Sun: 10:00am - 10:00pm,,,9,Fashion​​,Kids' Fashion;Ladies’ Fashion;Men’s Fashion;Sleepwear;Underwear,2022-01-16
+Citywalk,Shopping,189,VANS,VANS,UG50,Citywalk UGF,23744044,Mon - Sun: 11:00am - 08:00pm,,,9,Fashion​​,Bag;Fashion;Ladies’ Fashion;Men’s Fashion;Shoes,2022-01-16
+Citywalk,Shopping,190,Veeko,Veeko,G72,Citywalk GF,29410512,Mon - Sun: 10:30am - 09:00pm,,,9,Fashion​​,Fashion;Ladies’ Fashion,2022-01-16
+Citywalk,Shopping,280,Vegetarian Museum,尚素,UG88,Citywalk2 UGF,26081933,"Mon - Sun, PH, Day before PH: 10:30am - 09:00pm",,,8,"Department Stores, Supermarkets and Convenience Stores​​",,2022-01-16
+Citywalk,Shopping,191,VIRTUOSOS MUSIC ACADEMY,演奏‧家鋼琴音樂學院,118,Citywalk2 1F,31880948,"Thu, Fri: 11:30am - 07:30pmSat: 09:00am - 07:00pmSun: 10:00am - 05:00pm",,,5,"Books, Stationery & Education​​",Education;Interest;Learning Centre;Music,2022-01-16
+Citywalk,Shopping,192,Vita Green,維特健靈,G45,Citywalk GF,29410284,Mon - Sun: 10:00am - 09:00pm,,,4,Health Products & Personal Care​​,Health Care;Healthy Living;Supplements,2022-01-16
+Citywalk,Shopping,193,Wai Yuen Tong,位元堂,G49,Citywalk GF,24009101,Mon - Sun: 09:30am - 08:00pm,,,4,Health Products & Personal Care​​,Chinese Medicine;Drug;Health Care,2022-01-16
+Citywalk,Shopping,195,Watsons (Citywalk2 G/F),屈臣氏 (Citywalk2 G/F),G66-68,Citywalk2 GF,26143695,Mon - Sun: 10:30am - 08:00pm,,,4,Health Products & Personal Care​​,Drug;Facial;Hair Care;Health Care;Skin Care,2022-01-16
+Citywalk,Shopping,196,Watsons Health (Citywalk G/F),屈臣氏 (Citywalk G/F),G57,Citywalk GF,24122078,Mon - Sun: 10:00am - 08:00pm,,,4,Health Products & Personal Care​​,Drug;Health Care;Healthy Living,2022-01-16
+Citywalk,Shopping,197,Wellsoon Chinese Medicine Clinic,和順堂中醫診所 -名醫 . 名藥-,129,Citywalk2 1F,39529839,Mon - Sun: 10:30am - 07:30pm,,,4,Health Products & Personal Care​​,Chinese Medicine;Clinic;Drug,2022-01-16
+Citywalk,Shopping,266,Wilson Tech,Wilson Tech,Common Area opposite to Shop UG85,Citywalk2 UGF,91667367/91417000,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,4,Health Products & Personal Care​​,Health Care;Personal Care,2022-01-16
+Citywalk,Shopping,198,Wing's Puzzle,Wing's Puzzle,112a,Citywalk 1F,,Mon - Sun: 01:00pm - 09:00pm,,,12,Kid's Wear & Toys​​,Gift;Toy,2022-01-16
+Citywalk,Shopping,272,Wood Salon,黑木,129,Citywalk 1F,31884282,Mon - Sun: 10:30am - 09:00pm,,,4,Health Products & Personal Care​​,Hair Care;Hair Salon,2022-01-16
+Citywalk,Shopping,248,XC Lab,單剪專門店,113,Citywalk 1F,,Mon - Sun: 10:00am - 08:15pm,,,4,Health Products & Personal Care​​,Hair Care;Hair Salon;Personal Care,2022-01-16
+Citywalk,Shopping,214,YANKEE CANDLE,YANKEE CANDLE,UG17,Citywalk UGF,23226069,Mon - Sun: 11:30am - 09:30pm,,,10,Furniture & Lifestyle​​,,2022-01-16
+Citywalk,Shopping,5,正官庄,正官庄,G55,Citywalk GF,28868623,Mon - Sun: 11:00am - 09:00pm,,,4,Health Products & Personal Care​​,Health Care;Healthy Living,2022-01-16
+Citywalk,Shopping,4,精品,精品,131,Citywalk 1F,96196650,Mon - Sun: 11:00am - 08:30pm,,,12,Kid's Wear & Toys​​,,2022-01-16
+Citywalk,Dining,6,A-1 BAKERY,A-1 BAKERY,G25-26,Citywalk GF,29410173,Mon - Sun: 08:30am - 10:00pm,,,7,Confectionery & Deli,Bakery;Bread;Cake;Confectionery;Dessert,2022-01-16
+Citywalk,Dining,259,Caffé Milani,Caffé Milani,G76a-b,Citywalk GF,27551230,"Mon - Sun, PH: 10:00am - 10:00pm",,,21,Western Cuisine,Café;Coffee;Friends’ Gathering;Italian Restaurant;Pasta,2022-01-16
+Citywalk,Dining,20,Café de Coral,大家樂,FC3-5,Citywalk GF,29410172,Mon - Sun: 06:45am - 09:00pm,,,19,Chinese Cuisine,Fast Food,2022-01-16
+Citywalk,Dining,240,Celestial Teaing,茶色生香,UG86,Citywalk2 UGF,95188955,"Mon - Sun, PH, Day before PH: 12:00pm - 10:00pm",,,7,Confectionery & Deli,Bubble Tea;Drink;Fruit Tea;Milk Tea,2022-01-16
+Citywalk,Dining,287,Cha Thai / Chicken Factory,茶泰  / Chicken Factory,UG81,Citywalk2 UGF,26621068/26621012,"Mon - Sun, PH, Day before PH: 07:00am - 09:30pmChicken Factory opened at 11:00am",,,18,Asian Cuisine,Delivery;Fast Food;Friends’ Gathering;Hainanese Chicken Rice;Thai Restaurant,2022-01-16
+Citywalk,Dining,270,Chateraise,Chateraise,UG18,Citywalk UGF,25543212,Mon - Sun: 11:00am - 10:00pm,,,7,Confectionery & Deli,Bakery;Cake;Dessert,2022-01-16
+Citywalk,Dining,33,Coco Ichibanya,CoCo 壹番屋,G11-12,Citywalk GF,35758300,Mon - Sun: 11:30am - 10:00pm,,,18,Asian Cuisine,Curry;Japanese Restaurant,2022-01-16
+Citywalk,Dining,247,Deer Kitchen,Deer Kitchen,G06-07,Citywalk GF,25610016,"Mon - Fri, Sun, PH: 11:30am - 09:00pmSat: 12:00pm - 09:00pm",,,21,Western Cuisine,Drink;Western Restaurant,2022-01-16
+Citywalk,Dining,276,EBISOBA ICHIGEN,一幻拉麵,UG02,Citywalk UGF,23689099,Mon - Sun: 11:00am - 10:00pm,,,18,Asian Cuisine,Japanese Restaurant;Noodles;Ramen,2022-01-16
+Citywalk,Dining,294,Five Guys,Five Guys,UG69&71,Citywalk UGF,36160464,"Mon - Sun, PH, Day before PH: 11:00am - 10:00pm",,,21,Western Cuisine,American Restaurant;Burger;Fast Food;Fries;Western Restaurant,2022-01-16
+Citywalk,Dining,110,GF Bistro,GF Bistro,UG01-03,Citywalk2 UGF,23285655,"Mon - Sun, PH, Day before PH: 08:00am - 10:00pm",,,21,Western Cuisine,Italian Restaurant;Seafood;Western Restaurant,2022-01-16
+Citywalk,Dining,58,GODIVA,GODIVA,UG79,Citywalk UGF,27902590,Mon - Sun: 11:00am - 09:30pm,,,7,Confectionery & Deli,Chocolate;Dessert;Drink;Ice-cream,2022-01-16
+Citywalk,Dining,59,Goobne Korea Oven Roasted Chicken,Goobne Korea Oven Roasted Chicken,G29,Citywalk GF,21571131,Mon - Sun: 11:00am - 10:00pm,,,18,Asian Cuisine,Fried Chicken;Korean Restaurant,2022-01-16
+Citywalk,Dining,64,Gyu-Kaku,牛角日本燒肉專門店,G69,Citywalk2 GF,27806116,Mon - Sun: 12:00pm - 09:30pm,,,18,Asian Cuisine,,2022-01-16
+Citywalk,Dining,66,Gyujin,牛陣,G52,Citywalk GF,24062221,Mon - Sun: 12:00pm - 10:00pm,,,18,Asian Cuisine,Hotpot,2022-01-16
+Citywalk,Dining,65,Gyuta,牛太,G48&50,Citywalk GF,24062800,Mon - Sun: 12:00pm - 10:00pm,,,18,Asian Cuisine,,2022-01-16
+Citywalk,Dining,235,hana-musubi,華御結,UG19,Citywalk UGF,,Mon - Sun: 10:30am - 09:30pm,,,7,Confectionery & Deli,,2022-01-16
+Citywalk,Dining,268,Happy Shabu Shabu,一喜涮,126-128,Citywalk2 1F,26903282,"Mon - Sun, PH, Day before PH: 11:00am - 11:00pm",,,18,Asian Cuisine,Hotpot;Shabu Shabu;Taiwanese Restaurant,2022-01-16
+Citywalk,Dining,261,HoiHoi Pancake House,HoiHoi Pancake House,117,Citywalk 1F,23833860,"Mon - Fri: 12:00pm - 10:00pmSat, Sun, PH: 11:30am - 10:00pm",,,20,Café & Dessert,Café;Dessert;Drink;Friends’ Gathering;Pancake,2022-01-16
+Citywalk,Dining,76,Hung Fook Tong,鴻福堂,G42,Citywalk GF,29410405,Mon - Sun: 11:00am - 09:30pm,,,7,Confectionery & Deli,Confectionery;Drink;Food;Herbal Tea;Soup,2022-01-16
+Citywalk,Dining,242,Imperial Patisserie,香港皇玥,UG82,Citywalk UGF,23610633,Mon - Sun: 11:00am - 09:00pm,,,7,Confectionery & Deli,Cake;Confectionery;Dessert,2022-01-16
+Citywalk,Dining,81,ISARI KIYA Japanese Dining,漁屋日本料理,UG09-11,Citywalk2 UGF,24812688,"Mon - Fri: 12:00pm - 03:00pmSat, Sun: 12:00pm - 06:00pm",,,18,Asian Cuisine,All-you-can-eat;Japanese Restaurant;Sashimi;Sushi,2022-01-16
+Citywalk,Dining,253,Itamama,Itamama,UG82-83,Citywalk2 UGF,31604158,"Mon - Sun, PH, Day before PH: 07:00am - 09:00pm",,,21,Western Cuisine,Breakfast;Celebration;Friends’ Gathering;Pasta;Western Restaurant,2022-01-16
+Citywalk,Dining,84,Jade Garden,翠園,105&107,Citywalk 1F,29410092,Mon - Sun: 07:30am - 09:00pm,,,19,Chinese Cuisine,Chinese Restaurant;Dim Sum;Tea,2022-01-16
+Citywalk,Dining,88,Karami Curry,Karami Curry 辛味屋,UG60,Citywalk2 UGF,39023163,"Mon - Sun, PH: 11:00am - 03:00pm",,,18,Asian Cuisine,Curry;Japanese Restaurant;Ramen,2022-01-16
+Citywalk,Dining,89,Kee Wah Bakery,奇華餅家,G43,Citywalk GF,25126889,Mon - Sun: 08:30am - 09:00pm,,,7,Confectionery & Deli,Bakery;Confectionery,2022-01-16
+Citywalk,Dining,209,KFC,肯德基,G02,Citywalk2 GF,24308025,"Mon - Sun, PH, Day before PH: 07:30am - 10:00pm",,,21,Western Cuisine,,2022-01-16
+Citywalk,Dining,218,Law Mark Kee,羅麥記,G23,Citywalk GF,26871228,Mon - Sun: 08:00am - 10:00pm,,,18,Asian Cuisine,Breakfast;Friends’ Gathering;Noodles,2022-01-16
+Citywalk,Dining,228,Leisurely Veggie,天 · 悠蔬食,G08-11,Citywalk2 GF,26361808,Mon - Sun: 11:30am - 09:30pm,,,18,Asian Cuisine,Meatless Menu;Vegetarian,2022-01-16
+Citywalk,Dining,105,Mak's Noodle,麥奀雲吞麵世家,G13&15,Citywalk GF,26263036,Mon - Sun: 09:30am - 10:00pm,,,19,Chinese Cuisine,Dumpling;Noodles;Wonton,2022-01-16
+Citywalk,Dining,114,Maxim's Cakes,美心西餅,G17,Citywalk GF,29410053,Mon - Sun: 08:00am - 08:30pm,,,7,Confectionery & Deli,Bakery;Bread;Cake;Confectionery,2022-01-16
+Citywalk,Dining,226,Meet Fresh,鮮芋仙,G46,Citywalk GF,21511330,Mon: 11:00am - 11:00pmTue - Sun: 12:00pm - 11:00pm,,,20,Café & Dessert,,2022-01-16
+Citywalk,Dining,116,MeokBang Korean BBQ & BAR,炑八韓烤,125,Citywalk2 1F,23636408,Mon - Sun: 11:30am - 09:00pm,,,18,Asian Cuisine,Korean BBQ;Korean Restaurant,2022-01-16
+Citywalk,Dining,119,mixian sense,米線陣,FC1-2,Citywalk GF,24761198,Mon - Sun: 07:30am - 09:00pm,,,19,Chinese Cuisine,Fast Food;Noodles,2022-01-16
+Citywalk,Dining,293,MOD,買好啲,53,Citywalk UGF,31269500,"Mon - Sun, PH: 09:30am - 09:00pm",,,21,Western Cuisine,,2022-01-16
+Citywalk,Dining,121,MOS Cafe,MOS Cafe,G78,Citywalk GF,29410216,Mon - Sun: 07:30am - 10:00pm,,,18,Asian Cuisine,Burger;Fast Food;Fries,2022-01-16
+Citywalk,Dining,295,Nha Trang Vietnamese Cuisine,芽莊越式料理,G30,Citywalk GF,28892229,"Mon - Sun, PH, Day before PH: 12:00pm - 10:00pm",,,18,Asian Cuisine,,2022-01-16
+Citywalk,Dining,130,Okashi Galleria & Japan Ice-cream House,零食物語 & 日本雪糕物語,UG56,Citywalk UGF,26248311,Mon - Sun: 12:00pm - 09:00pm,,,7,Confectionery & Deli,Ice-cream;Snack,2022-01-16
+Citywalk,Dining,132,OOTOYA,大戶屋,118,Citywalk 1F,29410038,Mon - Sun: 11:30am - 10:00pm,,,18,Asian Cuisine,Japanese Restaurant,2022-01-16
+Citywalk,Dining,135,OS Plus,OS Plus,UG41,Citywalk UGF,36223456,Mon - Sun: 12:00pm - 09:00pm,,,21,Western Cuisine,Italian Restaurant;Pasta;Western Restaurant,2022-01-16
+Citywalk,Dining,243,Pak Don Chicken Rice,栢檔極品海南雞飯,G27-28,Citywalk GF,22648038,Mon - Sun: 11:00am - 09:00pm,,,18,Asian Cuisine,Hainanese Chicken Rice,2022-01-16
+Citywalk,Dining,256,Pickabowl,Pickabowl,G06,Citywalk2 GF,25909330,Mon - Sun: 12:00pm - 09:30pm,,,21,Western Cuisine,Delivery;Fast Food;Vegetarian;Western Restaurant,2022-01-16
+Citywalk,Dining,252,Pizza Maru - Korean Pizza & Chicken,Pizza Maru - Korean Pizza & Chicken,UG28&30,Citywalk UGF,26370338,Mon - Sun: 12:00pm - 10:00pm,,,18,Asian Cuisine,Celebration;Fried Chicken;Friends’ Gathering;Fries;Korean Restaurant,2022-01-16
+Citywalk,Dining,141,Prawn Noodle Shop,蝦麵店,108&110,Citywalk 1F,27846011,Mon - Sun: 11:30am - 10:00pm,,,18,Asian Cuisine,Malaysian Restaurant;Noodles;Seafood,2022-01-16
+Citywalk,Dining,152,Sapporo Raman,札幌拉麵,UG59,Citywalk2 UGF,36950511,Mon - Sun: 11:00am - 10:00pm,,,18,Asian Cuisine,Japanese Restaurant;Ramen,2022-01-16
+Citywalk,Dining,263,Savour,Savour,109,Citywalk 1F,,Mon - Sun: 10:30am - 08:00pm,,,7,Confectionery & Deli,,2022-01-16
+Citywalk,Dining,262,Sensu,Sensu,UG78,Citywalk UGF,28850968,Mon - Sun: 12:00pm - 08:30pm,,,18,Asian Cuisine,Japanese Restaurant;Sake;Sashimi;Seafood;Sushi,2022-01-16
+Citywalk,Dining,160,Social Place,唐宮小聚,UG43&81,Citywalk UGF,28080981,Mon - Sun: 11:30am - 08:30pm,,,19,Chinese Cuisine,Chinese Restaurant;Dim Sum;Tea,2022-01-16
+Citywalk,Dining,163,Starbucks Coffee,星巴克,UG60&62,Citywalk UGF,25839188,Mon - Sun: 08:00am - 10:00pm,,,20,Café & Dessert,Coffee,2022-01-16
+Citywalk,Dining,302,Sushi Dining Maguroya Tanaka,田中寿司,UG37,Citywalk UGF,29410590,"Mon - Sun, PH: 12:00pm - 10:00pm",,,18,Asian Cuisine,Japanese Restaurant;Sushi,2022-01-16
+Citywalk,Dining,167,Tai Hing,太興,UG89-90,Citywalk2 UGF,22531366,Mon - Sun: 07:00am - 09:15pm,,,19,Chinese Cuisine,Fast Food,2022-01-16
+Citywalk,Dining,168,TamJai SamGor Mixian,譚仔三哥米線,G57b,Citywalk2 GF,24619838,Mon - Sun: 11:00am - 10:00pm,,,19,Chinese Cuisine,Chinese Restaurant,2022-01-16
+Citywalk,Dining,170,TeaWood,茶木,G60,Citywalk GF,26770890,Mon - Sun: 11:30am - 10:00pm,,,19,Chinese Cuisine,Bubble Tea;Dessert;Drink;Taiwanese Restaurant,2022-01-16
+Citywalk,Dining,172,The BASE nature,The BASE nature,UG70,Citywalk UGF,23470211,Mon - Sun: 11:00am - 10:00pm,,,21,Western Cuisine,Italian Restaurant;Pasta;Western Restaurant,2022-01-16
+Citywalk,Dining,269,Yat Yuet Hin,逸月軒,130-133&135,Citywalk2 1F,26903168/26901808,"Mon - Sun, PH, Day before PH: 07:00am - 11:00pm",,,19,Chinese Cuisine,Cantonese Restaurant;Chinese Restaurant;Dim Sum;Friends’ Gathering,2022-01-16
+Citywalk,Dining,199,YiFang Taiwan Fruit Tea,一芳台灣水果茶,UG52a,Citywalk UGF,21102088,Mon - Sun: 11:00am - 10:00pm,,,7,Confectionery & Deli,Bubble Tea;Drink;Fruit Tea;Milk Tea,2022-01-16
