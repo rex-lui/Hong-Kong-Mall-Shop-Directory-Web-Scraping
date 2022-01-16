@@ -1,0 +1,645 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+HarbourCity,Shopping,2044,0/3 Baby Collection,0/3 Baby Collection,18,Ocean Terminal - GF,21109036,10:00 – 21:30 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,4361,1010/csl,1010/csl,4012-4,Gateway Arcade - 4F,34171010,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1459,111 SKIN,111 SKIN,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1760,45R,45R,2514-5,Gateway Arcade - 2F,21755545,10:00 – 21:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1761,7 For All Mankind,7 For All Mankind,311,Ocean Terminal - 3F,27229398,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,24761,A.Lange & Söehne,A.Lange & Söehne,209,Ocean Terminal - 2F,23122085,,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,6996,A80 Anoufa Paris,A80 Anoufa Paris,LCX Kiosk,Ocean Terminal - 3F,23113028,10:00 – 22:00 MON – SUN,,,,,,2022-01-16
+HarbourCity,Shopping,7287,aalis,aalis,2207,Gateway Arcade - 2F,25721233,11:00 – 20:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1763,Abercrombie & Fitch,Abercrombie & Fitch,3320,Gateway Arcade - 3F,27703618,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2000,Acanta,Acanta,3323,Gateway Arcade - 3F,21755169,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1464,ACCA KAPPA,ACCA KAPPA,2217-8,Gateway Arcade - 2F,31881748,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,7372,ACQUA DI PARMA,ACQUA DI PARMA,Kiosk 3F,Gateway Arcade - 3F,,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2101,adidas,adidas,4102,Gateway Arcade - 4F,29838381,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,3184,adidas FTWR SUPPLY,adidas FTWR SUPPLY,244A,Ocean Terminal - 2F,24323068,11:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1764,ADORE,ADORE,2119,Gateway Arcade - 2F,21110105,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,22072,Aerie,Aerie,LCX Shop 11-12,LCX - 3F,,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1466,Aesop,Aesop,3317,Gateway Arcade - 3F,21101701,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,3474,Aesop Harbour City Facial Room,Aesop 海港城面部護理空間,1415,Vita- World Commerce Centre - 14F,21105099,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2102,AIGLE,AIGLE,247-247A,Ocean Terminal - 2F,27309788,10:30 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,11182,ALBION,ALBION,OT202,"Ocean Terminal, Facesss  - 2F",31882008,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1767,Alexander McQueen,Alexander McQueen,G316 & 316A,Gateway Arcade - GF,25624828,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1769,Alexander Wang,Alexander Wang,103A,Ocean Centre - 1F,21182552,11:00 – 20:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1853,American Eagle Outfitters,American Eagle Outfitters,LCX5-7,Ocean Terminal - 3F,27306939,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,10295,AMOREPACIFIC,AMOREPACIFIC,3322,Gateway Arcade - 3F,31074845,10:00 – 22:00 Mon to Sun,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11221,Angela Caglia,Angela Caglia,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11184,Angellir,Angellir,OT202 ,"Ocean Terminal, Facesss - 2F",21185622,,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,11187,ANNA SUI,ANNA SUI,OT202,"Ocean Terminal, Facesss - 2F",21185622,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,21945,Annoushka,Annoushka,222,Ocean Centre - 2F,23882237,,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1775,Anteprima,Anteprima,2415,Gateway Arcade - 2F,21170633,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1776,Anteprima WireBag,Anteprima WireBag,2120A,Gateway Arcade - 2F,21750168,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1475,APIVITA,APIVITA,3208A,Gateway Arcade - 3F,96819026,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2123,APM Monaco,APM Monaco,2332A,Gateway Arcade - 2F,21100540,10:30 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,6277,APM Monaco,APM Monaco,LCX Kiosk,Ocean Terminal - 3F,,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1560,Armani Beauty,Armani Beauty,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",31185903,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1779,ASH,ASH,OT309,Ocean Terminal - 3F,21182450,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2103,ASHWORTH,Ashworth 雅獅威,OT217,Ocean Terminal - 2F,27308893,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,5730,ASICS,ASICS,268-9,Ocean Terminal - 2F,28186330,11:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,2040,Atelier De Courcelles,Atelier De Courcelles,OTG08,Ocean Terminal - GF,27350033,10:30 – 20:30 SUN – THU10:30 – 21:00 FRI – SAT,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1780,Atsuro Tayama,Atsuro Tayama,2419,Gateway Arcade - 2F,29181688,11:00 – 21:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2125,Audemars Piguet,愛彼,OC 208,Ocean Centre - 2F,27352800,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,7996,AUGUSTINUS BADER,AUGUSTINUS BADER,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2147,Auto Shop,Auto Shop,LCX Kiosk,Ocean Terminal - 3F,21570780,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1487,Aveda Experience Center,Aveda Experience Center,3301A,Gateway Arcade - 3F,21132618,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1486,Aveda,Aveda,OT202,"Ocean Terminal, Facesss - 2F",31881538,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1576,Aveda. IL COLPO,Aveda. IL COLPO,G112,Gateway Arcade - GF,31011128,11:00 – 20:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11188,Avène,Avène,OT202,"Ocean Terminal, Facesss - 2F",21185622,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1782,ba&sh,ba&sh,2322,Gateway Arcade - 2F,21132653,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4297,Baby Dior,Baby Dior,OTG55A,Ocean Terminal - GF,22764720,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,22313,balabala,balabala,17,Ocean Terminal - GF,35655428,,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1783,BALENCIAGA,BALENCIAGA,G313-4,Gateway Arcade - GF,27368801,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1785,Bally,Bally,225,Ocean Centre - 2F,27368068,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1786,Balmain Paris,Balmain Paris,G310-1,Gateway Arcade - GF,31029184;31029180,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,5470,Bao Bao Issey Miyake,Bao Bao Issey Miyake,117A,Ocean Centre - 1F,21140617,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2042,BAPE KIDS,BAPE KIDS,OTG55B,Ocean Terminal - GF,23229808,10:30 – 21:30 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,6278,BARREL,BARREL,LCX Kiosk 13,Ocean Terminal - 3F,,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,2003,Bee Bee Kids Playground,Bee Bee Kids Playground,604-7,Vita- World Commerce Centre - 6F,31060661;31060660,09:00 – 18:00 MON – SAT09:00 – 13:00 SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1496,Benefit Cosmetics,Benefit Cosmetics,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,13480,BERACAMY,BERACAMY,310C,Ocean Terminal - 3F,34889390,10:-00-22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1788,Berluti,Berluti  伯爾鲁帝,G318,Gateway Arcade - GF,21754500,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1497,BEYORG® | Beyond Organic,BEYORG® | 有機無限,3227,Gateway Arcade - 3F,31166818,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,24537,Bimbo Concept,Bimbo Concept,G06,Ocean Terminal - GF,60881090,,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1499,BIOTHERM,碧歐泉,OT202,"Ocean Terminal, Facesss - 2F",31880195,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1502,Bobbi Brown,Bobbi Brown,OT202,"Ocean Terminal, Facesss - 2F",21109387,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1791,Boggi Milano,Boggi Milano,OT317,Ocean Terminal - 3F,31884385,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,24317,Bonluxe,Bonluxe,2104,Gateway Arcade - 2F,23670313,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2046,Bonpoint,Bonpoint,OTG58,Ocean Terminal - GF,21104656,10:30 – 21:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,2047,Book Castle,Book Castle,OTG45,Ocean Terminal - GF,27372343,11:00 – 21:00 MON – SUN & PHs,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1793,BORA AKSU,BORA AKSU,2318,Gateway Arcade - 2F,21573600,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,7695,BORA AKSU KIDS,BORA AKSU KIDS,G32A,Ocean Terminal - GF,21109326,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1747,Bose,Bose,320,Ocean Centre - 3F,26886887,10:00 – 21:00 MON – FRI10:00 – 22:00 SAT – SUN,,,electronics,Electronics,,2022-01-16
+HarbourCity,Shopping,1796,BOTTEGA VENETA,BOTTEGA VENETA,G318A,Gateway Arcade - GF,27396865,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2126,Boucheron,寶詩龍,284,Ocean Terminal - 2F,26239190,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1748,BROADWAY,百老滙,341-7,Ocean Centre - 3F,27367733,10:00 – 22:00 MON – SUN,,,electronics,Electronics,,2022-01-16
+HarbourCity,Shopping,1797,Brooks Brothers,布克兄弟,2324-5,Gateway Arcade - 2F,21108493,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,21448,Brothers Men @Eslite,Brothers Men @Eslite,,Star Annex - 3F,55435701,,,,beautyorpersonalcare;homeandlifestyle,Beauty / Personal Care;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,13667,Brunello Cucinelli,Brunello Cucinelli,303,Gateway Arcade - GF,31071448,11:00 – 20:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,12540,Brunello Cucinelli Kids,Brunello Cucinelli Kids,54,Ocean Terminal - GF,31051884,11:00 – 20:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,12227,BRUNO Pop-Up Store,BRUNO期間限定店,OTG36,Ocean Terminal - GF,52902774,11:00-20:00 Mon-Sun,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,3487,Buccellati,Buccellati,G312,Gateway Arcade - GF,28015660,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2048,Burberry Children,Burberry Children,OTG11A,Ocean Terminal - GF,23774493,10:30 – 21:30 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1506,Burberry Fragrance,Burberry Fragrance,OT202,"Ocean Terminal, Facesss - 2F",63248083,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2127,BVLGARI,寶格麗,G126,Gateway Arcade - GF,21531538,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,11228,By Kilian,By Kilian,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11233,BYREDO,BYREDO,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1799,CALVIN KLEIN JEANS,CALVIN KLEIN JEANS,2520-1,Gateway Arcade - 2F,21170070,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4715,CALVIN KLEIN JEANS,CALVIN KLEIN JEANS,LCX41,Ocean Terminal - 3F,23029599,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1802,CALVIN KLEIN PERFORMANCE,CALVIN KLEIN PERFORMANCE,2601 & 2601A,Gateway Arcade - 2F,23526978,10:00 – 22:00 MON – SUN,,,fashion;sports,Fashion;Sports,,2022-01-16
+HarbourCity,Shopping,1801,CALVIN KLEIN UNDERWEAR,CALVIN KLEIN UNDERWEAR,2501A & B,Gateway Arcade - 2F,21160602,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1852,CALZEDONIA,CALZEDONIA,LCX35,Ocean Terminal - 3F,34685304,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,6820,Canada Goose,加拿大鵝,202-3,Gateway Arcade - GF,27560368,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1803,Canali,Canali,201,Gateway Arcade - GF,21185638,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,14738,CANVAS,CANVAS,OT202,"Ocean Terminal, Facesss - 2F",57211305,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2128,Cartier,Cartier,OT287,Ocean Terminal - 2F,21101980,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1511,Caudalie,Caudalie,OT202,"Ocean Terminal, Facesss - 2F",31021823,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1807,CELINE,CELINE,G216-8,Gateway Arcade - GF,21755988,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,5424,CELINE Men,CELINE Men,246-7 ,Ocean Centre - 2F,27791202,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4955,CHAMPION,CHAMPION,LCX14,Ocean Terminal - 3F,30123668,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1806,CHANEL,CHANEL,G003 & 251-60,Ocean Centre - GF & 2F,27353220,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1514,CHANEL BEAUTÉ,CHANEL BEAUTÉ,3225,Gateway Arcade - 3F,21755361,10:00 – 22:00 MON – SUN & PHs,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1515,CHANEL BEAUTÉ,CHANEL BEAUTÉ,OT201,Ocean Terminal - 2F,27363099,10:00 – 22:00 MON – SUN & PHs,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2130,CHANEL Watches and Fine Jewellery,CHANEL Watches and Fine Jewellery,OT203,Ocean Terminal - 2F,27361678,10:00 – 22:00 MON – SUN & PHs,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1516,CHANTECAILLE,香緹卡,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",35861521,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,10238,Charles & Keith,Charles & Keith,OT 304,Ocean Terminal - 3F,39052238,11:00 – 21:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,3264,Charlotte Tilbury,Charlotte Tilbury,201,Marco Polo Hongkong Hotel Arcade - 2F,31014799,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2129,Chaumet,Chaumet,205A,Ocean Terminal - 2F,27710318,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2131,CHAUMET,尚美巴黎,OT205A,Ocean Terminal - 2F,27710318,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1809,Chevignon,Chevignon,2511,Gateway Arcade - 2F,63906963,11:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2050,Chicco,Chicco,OTG05,Ocean Terminal - GF,21159992,10:30 – 21:00 MON – THU10:30 – 21:30 FRI – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1810,Chloé,Chloé,G207,Gateway Arcade - GF,21755091,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1518,Chloé Atelier des Fleurs,Chloé Atelier des Fleurs,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,19625,Chloé Atelier des Fleurs,Chloé Atelier des Fleurs,2407,Gateway Arcade - 2F,35637198,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2133,CHOPARD,CHOPARD,OT205,Ocean Terminal - 2F,21119175,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2132,CHOW TAI FOOK,周大福珠寶,OT207-8,Ocean Terminal - 2F,31881381,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1522,Christian Louboutin Beauty,Christian Louboutin Beauty,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",21108165,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2433,Christian Louboutin,Christian Louboutin,G210-1,Gateway Arcade - GF,21186502/21186507,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1749,Chung Yuen Electrical,中原電器,306-8,Ocean Centre - 3F,27368323,10:30 – 22:00 MON – SAT11:00 – 22:00 SUN & PHs,,,electronics,Electronics,,2022-01-16
+HarbourCity,Shopping,1812,Church's,Church's,2401,Gateway Arcade - 2F,25779321,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1523,CIRE TRUDON,CIRE TRUDON,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2134,City Chain Primo,時間廊,2516,Gateway Arcade - 2F,23761256,11:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2006,city'super,city'super,3001 & 3103-4,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1525,CLARINS,CLARINS,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",31010622,10:00 – 21:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,5341,Claudie Pierlot,Claudie Pierlot,309A,Ocean Terminal - 3F,31052085,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1527,Clé de Peau Beauté,Clé de Peau Beauté,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",27361838,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,7633,Clé de Peau Beauté,Clé de Peau Beauté,3223,Gateway Arcade - 3F,27892148,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,7848,CLEAN CLASSIC,CLEAN CLASSIC,LCX Kiosk,Ocean Terminal - 3F,,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1524,Clinique,Clinique,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,6144,Club Monaco,Club Monaco,2336,Gateway Arcade - 2F,21185648,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,11191,COACH,COACH,OT202,"Ocean Terminal, Facesss - 2F",21185622,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,10817,Cole Haan,Cole Haan,306,Ocean Terminal - 3F,26832800,10:00-22:00 Mon-Sun,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1528,COLLAGEN+,COLLAGEN+,713-4,Vita- World Commerce Centre - 7F,25750122,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,14471,Cookie DPT,Cookie DPT,Kiosk 9,Ocean Centre - 3F,,,,,,,,2022-01-16
+HarbourCity,Shopping,20549,CORPUS,CORPUS,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1821,COS,COS,2310,Gateway Arcade - 2F,21179433,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,3643,Cosmax,Cosmax,1402-07,Vita- World Commerce Centre - 14F,39299777,10:00 – 21:00 MON – FRI10:00 – 19:00 SATClosed on SUN & PHs,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,24588,Creed,Creed,2412,Gateway Arcade - 2F,37517933,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,14762,Crocs,Crocs,Glasshouse 02,Ocean Terminal - LCX,21119314,11:30 – 21:30 MON-SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,20553,D.R. HARRIS,D.R. HARRIS,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2155,Daniel Wellington,Daniel Wellington,LCX Kiosk,Ocean Terminal - 3F,31881946,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,5619,Darphin,Darphin,2404,Gateway Arcade - 2F,21140684,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,4541,De Beers Jewellers,戴比爾斯,141,Ocean Centre - 1F,21512803,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,11203,DECORTÉ,DECORTÉ,OT202,"Ocean Terminal, Facesss - 2F",21185622,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1824,Delvaux,Delvaux,G212,Gateway Arcade - GF,22599377,10:00 – 21:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,20552,DERM INSTITUTE,DERM INSTITUTE,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,12240,Descente,Descente,270-1,Ocean Terminal - 2F,25539400,11:00 – 21:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1751,DEVIALET,DEVIALET,311,Ocean Centre - 3F,21118928,10:00 – 22:00 MON – SUN & PHs,,,electronics;homeandlifestyle,Electronics;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,6988,Diamanti Per Tutti,Diamanti Per Tutti,LCX Kiosk,Ocean Terminal - 3F,,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,7658,Dickies,Dickies,LCX28-29,Ocean Terminal - 3F,,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1826,DIESEL,DIESEL,2506,Gateway Arcade - 2F,21170418,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,8658,Dim Sum Bar,點一龍,103,Gateway Arcade - GF,21753100,10:00 – 22:00 Mon-Sun,,,,,,2022-01-16
+HarbourCity,Shopping,1520,Dior Backstage Studio,Dior Backstage Studio,OT202,"Ocean Terminal, Facesss - 2F",31029490,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1521,Dior Beauty,Dior Beauty,3234,Gateway Arcade - 3F,21569820,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1519,Dior Beauty,Dior Beauty,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",31020832,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1828,Dior Homme,Dior Homme,105 & 211,Ocean Centre - 1F & 2F,27363020,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1535,Dior Maison de Beauté,Dior Maison de Beauté,802-4,Vita- World Commerce Centre - 3F,21511381,11:00 – 21:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2007,diptyque,diptyque,2410,Gateway Arcade - 2F,31889994,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1829,Dolce & Gabbana,杜嘉班納,G108,Gateway Arcade - GF,29560833,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2052,Dolce & Gabbana Junior,Dolce & Gabbana Junior,OTG52A&53A,Ocean Terminal - GF,37554622,10:30 – 21:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,11270,DR. BARBARA STURM,DR. BARBARA STURM,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1867,Dr. Martens,Dr. Martens,LCX21D,Ocean Terminal - 3F,26989825,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,11205,DSQUARED2,DSQUARED2,OT202,"Ocean Terminal, Facesss - 2F",21185622,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,3471,dunhill,dunhill,226-7 ,Ocean Centre - 2F,23754413,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,3713,ecco,ecco,OT259,Ocean Terminal - 2F,31011475,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2136,Elegant Watch & Jewellery,三寶鐘錶珠寶,OT286,Ocean Terminal - 2F,27358481,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1543,ÉLÉVATIONE Time Stops,ÉLÉVATIONE Time Stops,3325,Gateway Arcade - 3F,31880842,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11248,ÉLÉVATIONE Time Stops,ÉLÉVATIONE Time Stops,3325,Gateway Arcade - 3F,97805291,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11204,Elizabeth Arden,Elizabeth Arden,OT202,"Ocean Terminal, Facesss - 2F",21185622,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,23686,Embry Form,Embry Form,2106,Gateway Arcade - 2F,23601377,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,20554,EMMA J SHIPLEY,EMMA J SHIPLEY,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2137,Emperor Jewellery,英皇珠寶,OT282,Ocean Terminal - 2F,27361180,10:30 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2135,EMPHASIS,EMPHASIS,3235,Gateway Arcade - 3F,21968660,10:00 – 21:30 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1839,Emporio Armani,Emporio Armani,G103A,Gateway Arcade - GF,27307922,10:00 – 22:00 MON – SUN & PHs,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2138,Emporio Armani Watches and Jewelry,Emporio Armani 腕錶及首飾店,3305A,Gateway Arcade - 3F,21755828,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,3501,Ermanno Scervino,Ermanno Scervino,143,Ocean Centre - 1F,31880229,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1545,ERNO LASZLO,ERNO LASZLO,2403,Gateway Arcade - 2F,21750688,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1743,eslite spectrum,誠品生活,,Star Annex - 2F-3F,34191088,10:00 – 22:00 MON – SUN,,,departmentstore;homeandlifestyle,Department Store;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1544,Estée Lauder,雅詩蘭黛,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",27309111,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1838,Etro,Etro,215,Ocean Centre - 2F,31010600,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1547,EVE LOM,EVE LOM,2408,Gateway Arcade - 2F,21579950,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,4009,Evisu,Evisu,2603,Gateway Arcade - 2F,23761955,10:00 -22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4010,Evisukuro,Evisukuro,LCX40,Ocean Terminal - 3F,27706955,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2009,Exclusivites,集雅廊,323A,Ocean Centre - 3F,27350579,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1700,Face College Medical Laser Center,Face College醫學美容專家,814,Vita- World Commerce Centre - 3F,21165065,10:00 – 20:00 MON – SAT,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1552,Facesss,Facesss,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1553,FANCL,FANCL,2349-50,Gateway Arcade - 2F,36220884,10:30 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,3525,FENDI,FENDI,G113,Gateway Arcade - GF,23758603,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2055,Fendi Kids,Fendi Kids,OTG10A,Ocean Terminal - GF,23752820,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,3186,FILA,FILA,OT245-6,Ocean Terminal - 2F,25233317,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,4721,Fila Fusion,Fila Fusion,LCX 20A,Ocean Terminal  - 3F,27542148,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,6279,Fila Kids,Fila Kids,OTG37 & G38,Ocean Terminal - GF,24333485,10:00 – 22:00 MON – SUN,,,kidsandfamily;sports,Kids & Family;Sports,,2022-01-16
+HarbourCity,Shopping,11206,FILORGA,FILORGA,OT202,"Ocean Terminal, Facesss - 2F",21185622,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,7114,First Aid Beauty,First Aid Beauty,OT202,"Ocean Terminal, Facesss - 2F",,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2010,Fitness First Platinum,Fitness First Platinum,,VITA - 5F,31063111,06:30 – 23:00 MON – FRI07:00 – 22:00 SAT08:00 – 22:00 SUN09:00 – 20:30 PHs,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,7999,FLORAÏKU PARIS,FLORAÏKU PARIS,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1858,Flower Mountain,Flower Mountain,LCX Glass House 1,Ocean Terminal - 3F,31023668,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2011,Fook Ming Tong Tea Shop,福茗堂茶莊,313B,Ocean Centre - 3F,27351077,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1554,FOREO,FOREO,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",23756601,11:00 – 21:00 SUN – THU11:00 – 22:00 FRI – SAT,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1752,Fortress 豐澤,Fortress 豐澤,"333 A&B, 335-7",Ocean Centre - 3F,31011413,10:00 – 22:00 MON – SUN,,,electronics,Electronics,,2022-01-16
+HarbourCity,Shopping,2141,Fossil,Fossil,2108A,Gateway Arcade - 2F,26796811,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2140,FRANCK MULLER,FRANCK MULLER,OT285,Ocean Terminal - 2F,23141181,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,20555,FRANZ SKINCARE,FRANZ SKINCARE,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1872,FRED PERRY,FRED PERRY,LCX4,Ocean Terminal - 3F,23763072,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,11236,Frederic Malle Perfumes,Frederic Malle Perfumes,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1557,Fresh,Fresh,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",21131711,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1845,FURLA,FURLA,2335,Gateway Arcade - 2F,21755328,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,3595,G-shock Casio,G-shock Casio,OT231 ,Ocean Terminal - 2F,21173660,11:00 – 21:30 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,7732,GeneHarbor,基因港,3236,Gateway Arcade - 3F,21173117,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2144,Georg Jensen,Georg Jensen,3222A,Gateway Arcade - 3F,23020888,09:30 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,23212,ghd,ghd,3212,Gateway Arcade - 3F,36891184,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,14018,Gianvito Rossi,Gianvito Rossi,204,Gateway Arcade - GF,25224001,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2108,GigaSports,GigaSports,OT 226-229 & 242,Ocean Terminal - 2F,21159930,10:30 – 22:00 MON – FRI10:00 – 22:00 SAT – SUN & PHs,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1850,Giorgio Armani,Giorgio Armani,G101,Gateway Arcade - GF,29562123,10:00 – 22:00 MON – SUN & PHs,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1851,Giuseppe Zanotti,Giuseppe Zanotti,217-7A,Ocean Centre - 2F,35861927,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1854,GIVENCHY,GIVENCHY,"142, 242-43",Ocean Centre - 2F,31214488,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1561,GIVENCHY,GIVENCHY,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",21159959,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11237,Glacce,Glacce,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,3829,Glashütte Original,格拉蘇蒂 原創,2230,Gateway Arcade - 2F,25189936,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2145,Global Timepieces,高時鐘錶,3219,Gateway Arcade - 3F,21750233,11:00 – 21:30 MON – THU11:00 – 22:00 FRI – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,7739,Golden Goose,Golden Goose,2337,Gateway Arcade - 2F,21100804,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2012,Grand Ocean,海運戲院,300,Marco Polo Hongkong Hotel Arcade - 3F,23772100,10:30 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,2087,Grand Optical,佳運眼鏡,338,Ocean Centre - 3F,27308963,10:30 – 22:00 MON – SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,1856,GUCCI,古馳,G124-125A & G220,Gateway Arcade - GF,21997728,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,7242,Gucci Beauty,Gucci Beauty,3323A,Gateway Arcade - 3F,37554592,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1567,Gucci Beauty,Gucci Beauty,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",35720192,11:00 – 21:00 SUN – THU11:00 – 22:00 FRI – SAT,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2057,GUCCI KIDS,GUCCI KIDS,OTG12,Ocean Terminal - GF,23756686,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,6679,Gucci Timepieces & Jewelry,Gucci Timepieces & Jewelry,Kiosk 3E,Gateway Arcade - 3F,34683076,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1568,GUERLAIN,法國嬌蘭,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",31010667,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1529,GUERLAIN,法國嬌蘭,1001,Vita- World Commerce Centre - 10F,35794931,10:00 – 21:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,24765,GUESS,GUESS,2607,Gateway Arcade - 2F,,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2109,Haglofs,Haglofs,OT225,Ocean Terminal - 2F,54169849,11:30 – 21:30 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1605,Hair Spa by Leonor Greyl,Hair Spa by Leonor Greyl,1016,Vita- World Commerce Centre - 10F,31070133,11:00 – 20:00 TUE – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1800,Harrison Wong,Harrison Wong,LCX21B,Ocean Terminal - 3F,31040909,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,17395,HEAVEN PLEASE,HEAVEN PLEASE,2613,Gateway Arcade - 2F,21178078,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1960,Her Own Words,Her Own Words,LCXn 18,Ocean Terminal - 3F,27881368,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1859,Hermès,Hermès,G106 & G205,Gateway Arcade - GF,28663118,10:30 – 21:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,8624,Hermès Beauty,Hermès Beauty,201,Marco Polo Hongkong Hotel Arcade - 2F,21182288,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1573,HH Hair.Nail,HH Hair.Nail,413,Ocean Centre - 4F,21113888,11:00 – 20:30 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1861,HOGAN,HOGAN,2348,Gateway Arcade - 2F,21755121,10:00 – 21:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2935,Homme Plisse Issey Miyake,Homme Plisse Issey Miyake,238,Ocean Centre - 2F,21101421,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4822,Hot Toys Rebel Base,Hot Toys Rebel Base,4017,Gateway Arcade - 4F,23237716,11:00 – 21:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,2099,HSBC,香港上海滙豐銀行,351-60,Ocean Centre - 3F,22333000,09:00 – 17:00 MON – FRI09:00 – 13:00 SATClosed SUN,,,servicebankandmedicalservice,Banking / Medical Services,,2022-01-16
+HarbourCity,Shopping,2146,Hublot,Hublot,OT211,Ocean Terminal - 2F,27031808,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1863,HUGO BOSS,HUGO BOSS,G302,Gateway Arcade - GF,31040598,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1864,I.T,I.T,2219 -20,Gateway Arcade - 2F,21755112,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1865,iBLUES,iBLUES,2418,Gateway Arcade - 2F,27229641,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,6062,IL Bisonte,IL Bisonte,2503,Gateway Arcade - 2F,23331638,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,6275,Infantry,Infantry,LCX Kiosk,Ocean Terminal - 3F,,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1893,initial,initial,LCX15,Ocean Terminal - 3F,23750609,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,16018,initial,initial,2404,Gateway Arcade - 2F,34279006,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4403,INTIMISSIMI,INTIMISSIMI,2302-4,Gateway Arcade - 2F,31060234,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2265,IPSA,IPSA,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1869,Isabel Marant,Isabel Marant,2417,Gateway Arcade - 2F,21140700,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1583,ISSEY MIYAKE PARFUMS,ISSEY MIYAKE PARFUMS,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,6570,Issey Miyake,Issey Miyake,2221,Gateway Arcade - 2F,21101372,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2148,IWC Schaffhausen,IWC萬國表,OT210,Ocean Terminal - 2F,23029528,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1771,izzue,izzue,LCX13,Ocean Terminal - 3F,23751781,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1871,J.LINDEBERG,J.LINDEBERG,"218-19, 220",Ocean Terminal - 2F,21755599,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,2149,Jaeger- LeCoultre,積家表專門店,G219,Gateway Arcade - GF,23148633,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,5900,Jaquet Droz,雅克德羅,302,Ocean Centre - 3F,,10:00 – 22:00 Mon – Sun,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1874,Jimmy Choo,Jimmy Choo,G119-20,Gateway Arcade - GF,23758086,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,5890,JINS,JINS,LCX19,Ocean Terminal - 3F,,10:00 – 22:00 MON – SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,1586,Jo Malone London,Jo Malone London,G307,Gateway Arcade - GF,21182169,10:30 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1877,Joy & Peace,Joy & Peace,2113,Gateway Arcade - 2F,23773980,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1588,JOYCE Beauty,JOYCE Beauty,3205-7,Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1878,Juicy Couture,Juicy Couture,OT302,Ocean Terminal - 3F,21188236,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2061,Jumpin Gym USA,美國冒險樂園,OTG11,Ocean Terminal - GF,23779551,11:00 – 21:00 MON – FRI10:30 – 22:00 SAT – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,17766,Jurlique,Jurlique,3314,Gateway Arcade - 3F,31021889,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2151,Just Gold,Just Gold鎮金店,3305,Gateway Arcade - 3F,21571284,10:15 – 21:30 MON – SUN & PHs,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1879,Kate Spade New York,Kate Spade New York,2330-1,Gateway Arcade - 2F,21103555,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,21262,KEF,KEF,OC 310,Ocean Centre - 3F,37934912,,,,electronics;homeandlifestyle,Electronics;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1881,KENZO,KENZO,2227-8,Gateway Arcade - 2F,21754118,10:30 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4544,KENZO,KENZO,111,Ocean Centre - 1F,31019338,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,3646,Kenzo Kids,Kenzo Kids,OTG03B,Ocean Terminal - GF,23678595,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1594,KÉRASTASE,KÉRASTASE,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1621,Kiehl's Place,Kiehl's Place,1002-3,Vita- World Commerce Centre - 10F,27362118,12:00 – 20:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1599,Kiehl's Since 1851,Kiehl's Since 1851,OT202,"Ocean Terminal, Facesss - 2F",29578683,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,7809,Kiehl's Since 1851,Kiehl's Since 1851,3306A,Gateway Arcade - 3F,23762921,10:00 – 22:00  MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,10648,KILIAN PARIS,KILIAN PARIS,2522,Gateway Arcade - 2F,21104010,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,6414,Kiton,Kiton,2128,Gateway Arcade - 2F,21100367,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1598,KOSÉ,KOSÉ,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1883,KURA CHIKA by PORTER,KURA CHIKA by PORTER,2517,Gateway Arcade - 2F,21754032,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,24606,Kyoto Express Pop-up Store,Kyoto Express 期間限定店,2610,Gateway Arcade - 2F,,,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1623,L'Occitane,歐舒丹,3326,Gateway Arcade - 3F,27305020,10:30 – 21:30 MON – FRI & SUN10:30 – 22:00 SAT,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,6284,La Bouche Rouge,La Bouche Rouge,201,Marco Polo Hongkong Hotel Arcade - 2F,,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,24501,La Maison VALMONT,La Maison VALMONT,3325A,Gateway Arcade - 3F,28820036,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1601,La Mer,La Mer,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",21110813,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,7727,La Mer,La Mer,3224,Gateway Arcade - 3F,21100842,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1603,La Prairie,La Prairie,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",21111636,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1608,LAB SERIES,LAB SERIES,OT202,"Ocean Terminal, Facesss - 2F",21104057,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2423,LAB SERIES,LAB SERIES,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",,11:00 – 21:00 SUN – THU11:00 – 22:00 FRI – SAT,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,23204,Lalique,Lalique,OT214,Ocean Terminal - 2F,,10:00-20:00 MON-SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,2016,LAMY,LAMY,320A,Ocean Centre - 3F,21579951,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1744,Lane Crawford,連卡佛,"G01, 101, 201 & 201A, 301A,330&331","Marco Polo Hongkong Hotel Arcade - GF, 1F, 2F, 3F",21182288,10:00 – 22:00 MON – SUN,,,departmentstore,Department Store,,2022-01-16
+HarbourCity,Shopping,1611,LANEIGE,LANEIGE,3228,Gateway Arcade - 3F,21101761,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1745,LCX,LCX,OT300,Ocean Terminal - 3F,31023668,10:00 – 22:00 MON – SUN,,,departmentstore,Department Store,,2022-01-16
+HarbourCity,Shopping,1886,LEE,LEE,2502A&B,Gateway Arcade - 2F,26339995,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1619,Les Merveilleuses LADURÉE,Les Merveilleuses LADURÉE,OT202,"Ocean Terminal, Facesss - 2F",21104919,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1887,LeSportsac,LeSportsac,3221,Gateway Arcade - 3F,23127955,10:00 – 22:00 MON – SUN,,,fashion;sports,Fashion;Sports,,2022-01-16
+HarbourCity,Shopping,1888,Levi's,李維斯,2518-9,Gateway Arcade - 2F,21103160,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1620,LightMAC Medical Skincare Centre,LightMAC Medical Skincare Centre,901 & 915-6,Vita- World Commerce Centre - 9F,31059568,10:45 – 22:45 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2017,LIQUID GOLD,至醇酒庫,OT317A,Ocean Terminal - 3F,27555868,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,6590,LIQUID GOLD,至醇酒庫,3317A,Gateway Arcade - 3F,,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,2066,LITTLE SUGARMAN,LITTLE SUGARMAN,OTG27,Ocean Terminal - GF,26616760,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,2018,Lladro,雅緻,260A,Ocean Centre - 2F,23218039,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1890,LOEWE,羅意威,203A-B,Ocean Centre - 2F,23750328,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1889,LOEWE,羅意威,2130,Gateway Arcade - 2F,23855355,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2019,LOG-ON,LOG-ON,3002,Gateway Arcade - 3F,27363866,10:00 – 22:00 SUN – THU& PHs10:00 – 22:30 FRI – SAT,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,6817,Longchamp,瓏驤,2129,Gateway Arcade - 2F,28827233,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2154,LONGINES,浪琴表,321,Ocean Centre - 3F,25189822,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1892,Loro Piana,Loro Piana,G213&213A,Gateway Arcade - GF,21753368,10:30 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1891,Louis Vuitton,路易威登,G005 & 261-71,Ocean Centre - GF & 2F,81001182,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,7373,lululemon,lululemon,3223A,Gateway Arcade - 3F,23240811,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1548,LUSH,LUSH 嵐舒,LCX35A,Ocean Terminal - 3F,37912131,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1626,M.A.C,M.A.C,OT202,"Ocean Terminal, Facesss - 2F",31019036,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1494,MAGIC HAUS,MAGIC HAUS,801,Vita- World Commerce Centre - 3F,25360688,11:00 – 20:00 MON – SAT,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,3126,Maison Christian Dior,Maison Christian Dior,3230A,Gateway Arcade - 3F,23950148,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11238,Maison Francis Kurkdjian,Maison Francis Kurkdjian,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,20556,MAISON FRANCIS KURKDJIAN,MAISON FRANCIS KURKDJIAN,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1894,Maison Margiela,Maison Margiela,G208-9,Gateway Arcade - GF,28400318,10:30 – 22:00 MON – SUN ,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1895,MAJE,MAJE,OT307A & 308,Ocean Terminal - 3F,31029111,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1632,MAKE UP FOR EVER,玫珂菲,OT202,"Ocean Terminal, Facesss - 2F",31010744,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2020,Mannings,萬寧,3304,Gateway Arcade - 3F,26799313,09:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,5033,Marimekko,Marimekko,2414,Gateway Arcade - 2F,27019288,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1899,Marina Rinaldi,Marina Rinaldi,2340-1,Gateway Arcade - 2F,27229632,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,21856,Mark Fast,Mark Fast,2507,Gateway Arcade - 2F,21172251,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1900,Marni,Marni,2616,Gateway Arcade - 2F,21182508,11:00 – 21:00 MON – THU11:00 – 22:00 FRI – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,12928,Maryling,Maryling,2221A,Gateway Arcade - 2F,21510927,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,7120,Masterpiece by King Fook,masterpiece by king fook,3326A,Gateway Arcade - 3F,23030636,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1903,MAX&Co.,MAX&Co.,2122,Gateway Arcade - 2F,27229617,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1902,Max Mara,Max Mara,231 - 2,Ocean Centre - 2F,27229604,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,20557,MD,MD,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1906,Melissa,Melissa,2604A,Gateway Arcade - 2F,31060111,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,20311,MEMO PARIS,MEMO PARIS,2409,Gateway Arcade - 2F,31883862,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,20578,Merge,Merge,2115,Gateway Arcade - 2F,96167828,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,15318,Messika,Messika,237,Ocean Centre - 2F,31133292,,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,21941,MICHAEL KORS,MICHAEL KORS,2342,Gateway Arcade - 2F,35801238,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,17275,MiDes,MiDes,OTG34 ,Ocean Terminal - GF,54608874,11am – 8pm ,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,4148,MIKIMOTO,MIKIMOTO,OT208A,Ocean Terminal - 2F,21140318,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2068,Mini Mdreams,Mini Mdreams,OTG49K,Ocean Terminal - GF,23758585,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1691,MIOGGI MediCentre,MIOGGI MediCentre,705-9,Vita- World Commerce Centre - 7F,28360877,11:00 – 21:00 MON – FRI11:00 – 20:00 SAT10:00 – 19:00 SUN & PHs,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,24579,MIOGGI,MIOGGI,902-7,Vita- World Commerce Centre - 9F,27213721,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1909,MISS SIXTY,MISS SIXTY,306B,Ocean Terminal - 3F,34254970,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1910,Miu Miu,Miu Miu,G123,Gateway Arcade - GF,24653732,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,3581,MLB,MLB,LCX 8,Ocean Terminal - 3F,35860001,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,13924,MM6,MM6,2338-39,Gateway Arcade - 2F,26200800,10:30 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1912,Moiselle,Moiselle,2214-5,Gateway Arcade - 2F,27363868,10:00 – 21:00 SUN – THU10:00 – 21:30 FRI – SAT,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,7694,MOMONITTU,MOMONITTU,G29,Ocean Terminal - GF,31050809,10:30 – 21:30 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1914,Moncler,Moncler,G107 & 206,Gateway Arcade - GF,21754555;21773020,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,19171,Moncler Enfant,Moncler Enfant,10,Ocean Terminal - GF,,,,,fashion;kidsandfamily,Fashion;Kids & Family,,2022-01-16
+HarbourCity,Shopping,2157,Monica Vinader,Monica Vinader,OT310B,Ocean Terminal - 3F,31029262,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,20602,monoyono | health • beauty,monoyono | health • beauty,LCX Shop 20B,Ocean Terminal - 3F,59306712,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2158,Montblanc,Montblanc 萬寶龍,G311A,Gateway Arcade - GF,23209215,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1641,MOSCHINO Fragrance,MOSCHINO Fragrance,OT202,"Ocean Terminal, Facesss - 2F",21040778,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1916,MOSCHINO,MOSCHINO,117,Ocean Centre - 1F,27359799,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2071,Mothercare,Mothercare,OTG52,Ocean Terminal - GF,27355738,10:00 – 21:30 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,23537,MOURI,MOURI,2208,Gateway Arcade - 2F,,,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1462,mtm labo,mtm labo,702,Vita- World Commerce Centre - 7F,29263633,11:30 – 21:00 MON – FRI　09:00 – 20:00 SAT – SUN & PHs,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2021,MUJI,無印良品,415-9,Ocean Centre - 4F,39713101,10:00 – 22:00 MON – SUN,,,departmentstore;homeandlifestyle,Department Store;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,2094,MUJOSH,MUJOSH,LCX Kiosk,Ocean Terminal - 3F,31023668,10:00 – 22:00 MON – SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,2110,Munsingwear,Munsingwear,OT216,Ocean Terminal - 2F,21101863,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,19228,My Little Korner,My Little Korner,28 & 35,Ocean Terminal - GF,31050581,,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,2022,Nam Pei Hong,南北行,3201,Gateway Arcade - 3F,21190386,10:00 – 21:30 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,7123,NANOS,NANOS,OTG31A,Ocean Terminal - GF,36223439,10:30 – 21:30 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1646,narciso rodriguez,narciso rodriguez,OT202,"Ocean Terminal, Facesss - 2F",21185622,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1648,NARS,NARS,OT202,"Ocean Terminal, Facesss - 2F",21110415,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,7810,NARS,NARS,3306,Gateway Arcade - 3F,27893363,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,20728,National Geographic,National Geographic,307,Ocean Terminal - 3F,34210020,11:00-21:30 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1649,NATURA BISSÉ,NATURA BISSÉ,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,20558,NATUREOFTHINGS,NATUREOFTHINGS,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2112,New Balance,New Balance,272-3,Ocean Terminal - 2F,23760222,10:30 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,4663,New Era,New Era,2501,Gateway Arcade - 2F,21100733,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,3298,Nike,Nike,OT244,Ocean Terminal - 2F,31041903,10:30 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,17696,NIKE,NIKE,GW3210 & 4103,Gateway Arcade - 3F-4F,21648566,Mon-Sun 11:00-22:00,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,2113,Nike Kicks Lounge,Nike Kicks Lounge,3237-8,Gateway Arcade - 3F,35802783,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1959,No Brand No Name,No Brand No Name,LCX Kiosk,Ocean Terminal - 3F,31040283,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4051,O-O Shop,零一零眼鏡店,OT274-5,Ocean Terminal - 2F,27360111,10:00 – 22:00 MON – SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,5575,O-O VISION,零一零視力,3208B,Gateway Arcade - 3F,25061238,10:00 – 20:00 MON – SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,2090,OCEAN OPTICAL,海洋眼鏡有限公司,348,Ocean Centre - 3F,27350611,09:30 – 22:00 MON – SAT11:00 – 22:00 SUN & PHs,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,7679,Ocular Plus,上目,2126,Gateway Arcade - 2F,21571286,11:00-21:00 MON-SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,6823,Off-White,Off-White,G301,Gateway Arcade - GF,27059329,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1921,Onitsuka Tiger,Onitsuka Tiger,2612,Gateway Arcade - 2F,25567888,11:00 – 21:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,22130,Optical 88 Family Eyecare,Optical 88 Family Eyecare,OT G30 ,Ocean Terminal - GF,27716103,,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,22463,organic mom,organic mom,25,Ocean Terminal - GF,28120018,,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,11282,ORIBE,ORIBE,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,13642,ORiental TRaffic,ORiental TRaffic,LCX shop 33,Ocean Terminal - 3F,31141158,11:00 – 22:00 (Mon – Sun & Public Holidays),,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1659,ORIGINS,ORIGINS,OT202,"Ocean Terminal, Facesss - 2F",21109987,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,20963,OROGOLD Prestige,OROGOLD Prestige,2334,Gateway Arcade - 2F,23240389,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11260,OSIM,OSIM,303,Ocean Centre - 3F,26726863,11:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,13912,OTO,OTO,323C,Ocean Centre - 3F,31700023,10:30 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,2024,Pak Shing Tong,百成堂,3301,Gateway Arcade - 3F,29562368,10:30 – 21:30 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,11754,PALLADIUM,PALLADIUM,2512,Gateway Arcade - 2F,36210386,10:00-22:00 Mon-Sun,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2161,PANDORA,PANDORA,3306B,Gateway Arcade - 3F,35802811,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,22443,Parsons Music,柏斯音樂,OTG46,Ocean Terminal - GF,35967014,,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1922,Patrizia Pepe,Patrizia Pepe,2320,Gateway Arcade - 2F,22347200,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1924,Paul Smith,Paul Smith,133,Ocean Centre - 1F,27307622,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1665,Penhaligon's,潘海利根,3224A,Gateway Arcade - 3F,21114174,11:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2075,Petit Bateau,Petit Bateau,OTG09A,Ocean Terminal - GF,31884051,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1926,Phase Eight,Phase Eight,2120B,Gateway Arcade - 2F,21551998,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1928,Philipp Plein,Philipp Plein  菲力沛,2346-47,Gateway Arcade - 2F,35860256,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2162,Piaget,伯爵,OT206,Ocean Terminal - 2F,23770328,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,16125,PicoLabb,PicoLabb,305,Ocean Centre - 3F,21161505,,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1930,PINKO,PINKO,2121,Gateway Arcade - 2F,23774500,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,13629,Pitanium,Pitanium,Kiosk 3B,Gateway Arcade - 3F,96599811,10:-00-22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1929,Pleats Please Issey Miyake,Pleats Please Issey Miyake,OT306A,Ocean Terminal - 3F,21140666,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1671,Plurecil,Plurecil,1012,Vita- World Commerce Centre - 10F,21164992,11:00 – 20:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,14008,POLA,POLA,3322A,Gateway Arcade - 3F,21171500,10:00-22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1931,Polo Ralph Lauren,Polo Ralph Lauren,2509-10,Gateway Arcade - 2F,31820170,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,8931,POMELLATO,POMELLATO 寶曼蘭朵,2343B,Gateway Arcade - 2F,35794616,10:00 -22:00 MON-SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2170,Poppis,Poppis,LCX Kiosk,Ocean Terminal - 3F,31023668,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,19129,PORTS INTERNATIONAL,PORTS INTERNATIONAL,2123,Gateway Arcade - 2F,24681920,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1937,Prada Canton Road,Prada Canton Road,G116-8,Gateway Arcade - GF,23689662,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2165,Prince Jewellery & Watch,太子珠寶鐘錶,315B - 319 & 366-7,Ocean Centre - 3F,27366636,10:15 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2163,Prince Jewellery & Watch,太子珠寶鐘錶,OT281 & 283,Ocean Terminal - 2F,23114432,10:15 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1946,Private Shop,Private Shop,2118,Gateway Arcade - 2F,21753050,10:30 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2116,PUMA,PUMA,2605-6,Gateway Arcade - 2F,23771775,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,2686,Puyi Optical,溥儀眼鏡,OT215,Ocean Terminal - 2F,25660166,10:00 – 22:00 MON – SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,11791,Qeelin,Qeelin,2343A,Gateway Arcade - 2F,23222250,10:00-22:00 Mon-Sun,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,13475,RabeancoRabeanco,RabeancoRabeanco,2116-2117,Gateway Arcade - 2F,34891600,10:-00-22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1938,Ralph Lauren,Ralph Lauren,OT313,Ocean Terminal - 3F,23762881,10:30 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2077,Ralph Lauren Childrenswear,Ralph Lauren Childrenswear,OTG13,Ocean Terminal - GF,27351388,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,5017,Ray-Ban,雷朋,OT224,Ocean Terminal - 2F,35896664,10:00 – 21:30 MON – SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,6911,Red Wing,Red Wing,2508,Gateway Arcade - 2F,31889232,10:30 – 21:30 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2093,REFLECTIONS,REFLECTIONS,2301,Gateway Arcade - 2F,27358238,10:00 – 22:00 MON – SUN,,,optical,Optical,,2022-01-16
+HarbourCity,Shopping,4853,Rene Caovilla,Rene Caovilla,201A,Gateway Arcade - GF,38415988,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1944,Repetto,Repetto,OT303A,Ocean Terminal - 3F,25212078,10:00 – 22:00 MON – SUN,,,fashion;homeandlifestyle,Fashion;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,20943,RITUALS,RITUALS,3316,Gateway Arcade - 3F,27892892,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1681,RMK,RMK,OT202,"Ocean Terminal, Facesss - 2F",21573219,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,20856,ROCOCO,ROCOCO,2406,Gateway Arcade - 2F,23101628,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,21866,Roger Dubuis,Roger Dubuis,283,Ocean Terminal - 2F,27390128,,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1947,Roger Vivier,Roger Vivier,G305-6,Gateway Arcade - GF,21750383,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2168,ROLEX,勞力士,OT278-80,Ocean Terminal - 2F,23020882,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,5731,Roots,Roots,2504,Gateway Arcade - 2F,21159908,"Mon – Fri 10:30-22:00 /Sat, Sun & Public Holiday 10:00-22:00",,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1686,RUBIS,RUBIS,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1948,Ruco Line,Ruco Line,2114,Gateway Arcade - 2F,31880384,11:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1688,SABON,SABON,OT309B,Ocean Terminal - 3F,27229351,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare;homeandlifestyle,Beauty / Personal Care;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,20559,SAINT JANE,SAINT JANE,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1950,SAINT LAURENT,SAINT LAURENT,G214-5,Gateway Arcade - GF,23772608,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1951,Salvatore Ferragamo,Salvatore Ferragamo,G115,Gateway Arcade - GF,21100668,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1754,Samsung,Samsung,332,Ocean Centre - 3F,24324668,10:00 – 22:00 MON – SUN,,,electronics,Electronics,,2022-01-16
+HarbourCity,Shopping,1954,SANDRO,Sandro,2323,Gateway Arcade - 2F,31070990,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,20561,SARAH CHAPMAN,SARAH CHAPMAN,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,21503,Satami Plus,Satami Plus,LCX 30A,Ocean Terminal - 3F,23113066,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,14991,SENSES,SENSES,407,Ocean Centre - 4F,26678198,,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,20560,SEOULISTA BEAUTY,SEOULISTA BEAUTY,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1957,Sergio Rossi,Sergio Rossi,213A & B,Ocean Centre - 2F,27301075,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2027,Shichida Educational Institute (HK) Limited,Shichida Educational Institute (HK) Limited,610-3,Vita- World Commerce Centre - 6F,23751886,09:00 – 18:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1692,SHISEIDO,資生堂,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",31011003,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,6891,SHISEIDO,資生堂,3209,Gateway Arcade - 3F,26020938,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,18551,SHOUT Art Hub and Gallery,SHOUT Art Hub and Gallery,OT308A,Ocean Terminal - 3F,,,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1695,shu uemura,植村秀,OT202,"Ocean Terminal, Facesss - 2F",31889153,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1696,Sisley,希思黎,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",31010634,10:00 – 21:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1697,SK-II,SK-II,201,Marco Polo Hongkong Hotel Arcade - 2F,31059632,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,3957,SKECHERS,SKECHERS,OT232,Ocean Terminal - 2F,27999121,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1699,SkinCeuticals,SkinCeuticals,3233,Gateway Arcade - 3F,26828281,11:00 – 20:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11288,SLIP,SLIP,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1819,Snidel,Snidel,LCX23-7,Ocean Terminal - 3F,27300281,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,11240,Solaris Laboratories,Solaris Laboratories,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,17900,Solitude,Solitude,305B,Ocean Terminal - 3F,,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1569,Spa L'OCCITANE,Spa L'OCCITANE,1013,Vita- World Commerce Centre - 10F,21436288,"11:00 – 21:00 MON – FRI10:00 – 20:00 SAT, SUN & PHs",,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,19863,Spectrum Lounge,Spectrum Lounge,,Star Annex - 2F,34191067,,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1965,Staccato,Staccato,2111-2,Gateway Arcade - 2F,21753883,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,3592,STANCE,STANCE,LCX Kiosk,Ocean Terminal - 3F,92850278,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1966,Stella McCartney,Stella McCartney,131,Ocean Centre - 1F,21182515,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2081,Stella McCartney Kids,Stella McCartney Kids,OTG32,Ocean Terminal - GF,21074222,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,22343,STORiES,STORiES,38-39,LCX - 3F,,,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1969,SUGARMAN,SUGARMAN,LCX 22,Ocean Terminal - 3F,27300829,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1707,Sulwhasoo,雪花秀,3321,Gateway Arcade - 3F,21140936,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1708,Sulwhasoo SPA & Beauty Lounge,雪花秀,"805-6, 807-13",Vita- World Commerce Centre - 3F,31040336,10:00 – 22:00 MON – SAT10:00 – 20:00 SUN & PHs,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,11290,SURRATT,SURRATT,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,17762,SWANK / Paule Ka,SWANK / Paule Ka,2124,Gateway Arcade - 2F,35824862,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2173,Swarovski,Swarovski 施華洛世奇,2413,Gateway Arcade - 2F,21755123,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2172,Swatch,斯沃琪,312,Ocean Centre - 3F,,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2174,TAG Heuer Boutique - Ocean Terminal,泰格豪雅專門店 - 尖沙咀海運大廈,OT213,Ocean Terminal - 2F,23750836,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,11292,TATA HARPER,TATA HARPER,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1712,TATCHA,TATCHA,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1710,TATCHA,TATCHA,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",31051648,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,21861,TAV,TAV,2108,Gateway Arcade - 2F,67582555,,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,24534,Tavolo Kids Living,Tavolo Kids Living,G14,Ocean Terminal - GF,,,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1640,THANN Sanctuary,THANN Sanctuary,1010-1,Vita- World Commerce Centre - 10F,36894391,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare;homeandlifestyle,Beauty / Personal Care;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,2045,rainbowxoxo,rainbowxoxo,OTG26,Ocean Terminal - GF,27392918,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,2028,The Groom Shoes Repair and Polish,修寶鞋藝,2208A,Gateway Arcade - 2F,23177794,10:00 – 21:30 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1716,The history of Whoo,The history of 后,201,Marco Polo Hongkong Hotel Arcade - 2F,21103959,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,10615,The history of Whoo,The history of 后,3230,Gateway Arcade - 3F,21101262,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,13012,THE MINERAL BOUTIQUE,The Mineral Boutique,Kiosk 15A,Gateway Arcade - 3F,23984191,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,4185,The North Face,The North Face,OT265-265A,Ocean Terminal - 2F,31020910,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1971,Theory,Theory,2319,Gateway Arcade - 2F,21118150,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,11062,Thom Browne,Thom Browne,223A,Ocean Centre - 2F,24759302,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,4093,Tic Tac Time,Tic Tac Time,OT231A,Ocean Terminal - 2F,25768201,11:00 -21:30 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2177,Tiffany & Co.,Tiffany & Co.,241,Ocean Centre - 2F,27862080,10:00 – 21:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1972,Timberland,Timberland,OT221,Ocean Terminal - 2F,27361662,10:30 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1489,TIME by MTM,TIME by MTM,703,Vita- World Commerce Centre - 7F,27786882,12:00 – 21:00 MON – FRI　10:00 – 19:00 SAT – SUN & PHs,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2183,Time + Style,Time + Style,LCX Kiosk,Ocean Terminal - 3F,31881319,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2178,TISSOT,瑞士天梭表旗艦店,339 & 339A,Ocean Centre - 3F,25342505,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,1973,TOD'S,TOD'S,G308-9,Gateway Arcade - GF,21997752,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1720,TOM FORD BEAUTY,湯姆福特,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",21104727,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,5891,TOM FORD BEAUTY,湯姆福特,3318,Gateway Arcade - 3F,21159346,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1974,Tommy Hilfiger,Tommy Hilfiger,2416,Gateway Arcade - 2F,29563883,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2083,Tommy Hilfiger Kids,Tommy Hilfiger Kids,OTG50,Ocean Terminal - GF,27368066,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1975,Tommy Jeans,Tommy Jeans,2604,Gateway Arcade - 2F,27357488,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,5758,Too Faced,Too Faced,OT202,"Ocean Terminal, Facesss - 2F",21159416,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1977,TORY BURCH,湯麗柏琦,118,Ocean Centre - 1F,37554042,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2084,ToysRUs,玩具反斗城,OTG21-4 & OTG39-42,Ocean Terminal - GF,27309462,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,20562,TREATY,TREATY,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2180,TUDOR,帝舵,OT276-7,Ocean Terminal - 2F,23020882,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2031,TUMI,途明,323B,Ocean Centre - 3F,21132704,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,20563,ULTRA VIOLETTE,ULTRA VIOLETTE,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,23290,Under Armour,Under Armour,OT 245A & 246A,Ocean Terminal - 2F,24986077,11:30-20:30 MON – FRI ; 11:00-21:00 SAT & SUN ,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1980,UNIQLO,UNIQLO,3231-2,Gateway Arcade - 3F,21750810,10:00 – 22:00 MON – SUN,,,fashion;homeandlifestyle;kidsandfamily,Fashion;Home & Lifestyle;Kids & Family,,2022-01-16
+HarbourCity,Shopping,4508,VACHERON CONSTANTIN,江詩丹頓,OT288,Ocean Terminal - 2F,25857272,10:00 – 22:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,21292,Valentino Beauty,Valentino Beauty,3229,Gateway Arcade - 3F,23233828,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1723,VALMONT,VALMONT,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",31029997,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2181,Van Cleef & Arpels,梵克雅寶, 233A & B,Ocean Centre - 2F,23279733,10:30 – 21:00 MON – SUN,,,watchesjewelleryandaccessories,"Watches, Jewellery & Accesories",,2022-01-16
+HarbourCity,Shopping,2119,VANS,VANS,LCX16,Ocean Terminal - 3F,23760776,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,2032,Venture Photography,Venture Photography,608-9,Vita- World Commerce Centre - 6F,23774888,10:00 – 21:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1984,VERSACE,VERSACE,G122,Gateway Arcade - GF,21997768,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,7273,VERSACE CHILDREN,VERSACE CHILDREN,58,Ocean Terminal - GF,27558007,10:00 – 22:00 MON – SUN,,,kidsandfamily,Kids & Family,,2022-01-16
+HarbourCity,Shopping,1728,VERSACE Fragrance,VERSACE,OT202,"Ocean Terminal, Facesss - 2F",21040778,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2120,VICTORINOX,瑞士維氏,OT243,Ocean Terminal - 2F,21755888,10:00 – 22:00 MON – SUN,,,sports,Sports,,2022-01-16
+HarbourCity,Shopping,1729,View Medical Group,韓國浤姬醫學集團,908-9,Vita- World Commerce Centre - 9F,21153211,11:00 – 21:00 MON – FRI10:30 – 19:30 SAT,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1986,Vilebrequin,Vilebrequin,2611,Gateway Arcade - 2F,21114585,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,20564,VILHELM PARFUMERIE,VILHELM PARFUMERIE,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1731,VitaJuwel,VitaJuwel,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",23756601,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1988,Vivienne Westwood,維維安•維斯特伍德,OT305,Ocean Terminal - 3F,23759688,11:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,2035,Watson's Wine Cellar,屈臣氏酒窖,313A,Ocean Centre - 3F,25228893,11:00 – 21:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,2034,Watsons Health,屈臣氏,3302,Gateway Arcade - 3F,39746304,09:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1989,Weekend Max Mara,Weekend Max Mara,2411,Gateway Arcade - 2F,27223132,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,11295,WILDSMITH SKIN,WILDSMITH SKIN,"3205-7, JOYCE Beauty",Gateway Arcade - 3F,23670860,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,24333,XOVĒ,XOVĒ,Kiosk 3305,Gateway Arcade  - 3F,39291817,,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,2002,XPLUS,XPLUS,LCX20C,Ocean Terminal - 3F,31023674,10:00 – 22:00 MON – SUN,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1993,Y-3,Y-3,OT303,Ocean Terminal - 3F,27307115,10:30 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,21530,YAYOI,彌生閣 YAYOI,OTE 205, - 2F,,,,,homeandlifestyle,Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,1740,Yves Saint Laurent Beaute,Yves Saint Laurent Beaute,201,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - 2F",21181111,10:00 – 22:00 MON – SUN,,,beautyorpersonalcare,Beauty / Personal Care,,2022-01-16
+HarbourCity,Shopping,1996,ZADIG & VOLTAIRE,ZADIG & VOLTAIRE,2614,Gateway Arcade - 2F,29560627,10:00 – 22:00 MON – SUN,,,fashion,Fashion,,2022-01-16
+HarbourCity,Shopping,1997,Zara,Zara,2210 & 2328,Gateway Arcade - 2F,26291858,10:00 – 22:00 MON – SUN,,,fashion;homeandlifestyle,Fashion;Home & Lifestyle,,2022-01-16
+HarbourCity,Shopping,23864,Zoff,Zoff,2109-10,Gateway Arcade - 2F,,,,,optical,Optical,,2022-01-16
+HarbourCity,Dining,6240,7-Eleven,7-Eleven,4015-6,Gateway Arcade - 4F,31010947,0700 – 2300 MON – SUN,,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,7796,Amelia by Paulo Airaudo,Amelia by Paulo Airaudo,G63,Ocean Terminal - GF,37051983,12:00nn -11:00pm MON – THU12:00nn -12:00am FRI – SUN & PUBLIC HOLIDAYS,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,753,ANA Ten,天穴,OTE304,Ocean Terminal - 3F,27019881,12:00 – 23:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,4595,Artisan De La Truffe,松藝館,OTE303 ,Ocean Terminal - 3F,28852030,11:30 – 23:00 MON – SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,754,Be on Canton,Be on Canton,MPG,Gateway Hotel - 3F,21137828,12:00 – 24:00 MON – SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,725,Bears & Friends,Bears & Friends,LCX Kiosk,Ocean Terminal - 3F,,10:00 – 22:00 MON – SUN,,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,759,Cafe Marco,馬哥孛羅咖啡廳,MPHK,Marco Polo Hongkong Hotel Arcade - 1F,21133912,06:00 – 23:00 MON – SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,757,Café&Meal MUJI,Café&Meal MUJI,415-9,Ocean Centre - 4F,39713220,10:00 – 22:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,7846,CAFÉ @ OFF-WHITE,CAFÉ @ OFF-WHITE,301,Gateway Arcade - GF,27059340,10:00 – 22:00 MON – SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,16406,CheckCheckCin @Eslite,CheckCheckCin @Eslite,,Star Annex - 2F,34191055,10:00 – 22:00 MON – SUN,,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,21802,CHICHA San Chen,吃茶三千,OT264,Ocean Terminal - 2F,27960210,12:15 PM – 08:45 PM MON-THU12:00 PM – 09:00 PM FRI-SUN and Public Holidays ,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,23721,ChocoNext,ChocoNext,Kiosk3AA,Ocean Centre - 3F,94075813,,,,,,,2022-01-16
+HarbourCity,Dining,23714,COCOPARADISE,COCOPARADISE,Kiosk 7,Gateway Arcade - 2F,,11:00-22:00,,,,,,2022-01-16
+HarbourCity,Dining,3473,Coffee DX by Colour Brown,Coffee DX by Colour Brown,OTE206,Ocean Terminal - 2F,31082123,10:00 – 22:00 MON – SUN,,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,761,COVA Ristorante & Caffe,COVA Ristorante & Caffe,G315,Gateway Arcade - GF,29073882(Ristorante);29073881(Cake&Chocolate),"Ristorante – 11:00 – 21:00 MON – SUN & PUBLIC HOLIDAYSPasticceria – 9:30 – 20:30 MON – FRI11:00 – 20:30 SAT, SUN & PUBLIC HOLIDAYS",,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,762,COVA Pasticceria & Confetteria,COVA Pasticceria & Confetteria,116 A&B,Ocean Centre - 1F,29920720(TeaRoom);29920710(Cake&ChocolateShop),"Ristorante – 11:00 – 21:00 MON – SUN & PUBLIC HOLIDAYSPasticceria – 9:30 – 20:30 MON – FRI11:00 – 20:30 SAT, SUN & PUBLIC HOLIDAYS",,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,763,Crystal Jade La Mian Xiao Long Bao,翡翠拉麵小籠包,3328,Gateway Arcade - 3F,26222699,10:00 – 23:00 MON – SUN,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,764,Cucina,Cucina,MPHK,Marco Polo Hongkong Hotel Arcade - 6F,21130808,12:00 – 01:00 MON – SAT11:30 – 01:00 SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,16152,Cupping Room Coffee Roasters,Cupping Room Coffee Roasters,309,Ocean Centre - 3F,94468699,08:00 – 20:00 MON-FRI09:00 – 20:00 SAT-SUN & PUBLIC HOLIDAYS,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,15998,Da Filippo Trattoria,Da Filippo Trattoria,3203 - 3204A,Gateway Arcade - 3F,21171984,08:00 – 22:00 MON – FRI11:00 – 22:00 SAT – SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,765,DALLOYAU,DALLOYAU,3220,Gateway Arcade - 3F,31858330,08:30 – 21:30 MON – FRI11:00 – 22:00 SAT – SUN & PHs,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,767,Dan Ryan's Chicago Grill,Dan Ryan's Chicago Grill,OT315,Ocean Terminal - 3F,27356111,11:00 – 22:00 MON – WED11:00 – 23:00 THU11:00 – 00:00 FRI & eves of PHs10:30 – 00:00 SAT10:30 – 23:00 SUN & PHs,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,7825,Dang Wen Li by Dominique Ansel,當文歷餅店 by Dominique Ansel,G63A,Ocean Terminal - GF,26138618,10:00 – 21:30 MON – THUR10:00 – 22:00 FRI – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,724,danish Bar @city'super,danish Bar @city'super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,768,Dim Sum Bar,點一龍,G103,Gateway Arcade - GF,21753100,08:00 – 22:30 MON – SUN,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,769,Du Hsiao Yueh,度小月,LCX31,Ocean Terminal - 3F,83002001,10:00 – 22:00 MON – SUN,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,786,Duck Victoria,城中鴨子,3319,Gateway Arcade - 3F,23476898,11:30 – 22:30 MON – SUN & PHs,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,4091,Ebisoba Ichigen,一幻,OTG59,Ocean Terminal - GF,31051199,11:30 – 23:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,771,EPURE,EPURE,403,Ocean Centre - 4F,31858338,"12:00 – 14:30 , 18:30 – 22:30 MON – SUN",,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,15495,Espresso Alchemy,Espresso Alchemy,G104,Gateway Arcade - GF,26102998,08:00 to 21:00 MON – WED08:00 to 21:30 THUR – FRI10:00 to 21:30 SAT / SUN / PUBLIC HOLIDAYS,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,17092,Florté @city'super,Florté @city'super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,2752,FU RONG,映水芙蓉,OTE201,Ocean Terminal - 2F,23882008,11:30 – 00:00 MON – SUN,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,726,Fusion Deli @city'super,Fusion Deli @city'super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,8061,GāGǐNāng,GāGǐNāng 飯館,310,Ocean Terminal - 3F,21169068,11:30AM – 11:00PM MON – SUN ,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,727,GODIVA,GODIVA,3222,Gateway Arcade - 3F,21755701,10:00 – 21:30 MON – SUN,,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,24478,Gold Garden Shanghai Cuisine,个園竹語,3202,Gateway Arcade - 3F,21168328,,,,,,,2022-01-16
+HarbourCity,Dining,728,Green Common,Green Common,OTG61,Ocean Terminal - GF,31021220,11:30 – 22:00 MON – THU  (Deli Opens at 12:00)11:30 – 22:30 FRI – SUN & PHs  (Deli Opens at 12:00),,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,772,Greyhound Café,Greyhound Café,OTG01,Ocean Terminal - GF,23836600,11:00 – 23:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,23684,Grill Manten-Boshi,グリル滿天星,OT301-301A,Ocean Terminal - 3F,37515345,MON to FRI: 12noon – 10pmSAT to SUN: 11:30am – 10pm,,,,,,2022-01-16
+HarbourCity,Dining,782,Gyu-Kaku Japanese Yakiniku Restaurant,牛角日本燒肉專門店,LCX37B,Ocean Terminal - 3F,21531686,11:30 – 23:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,17035,Hachiban Menkoubou @cookedDeli,八番麵工房 @cookedDeli,3001,Gateway Arcade - 3F,27363866,11:00am – 10:00pm (Daily),,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,773,Hainan Shaoye,海南少爺,OTG16,Ocean Terminal - GF,21103533,11:00 – 22:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,774,HAKU Curated By Hideaki Matsuo,HAKU Curated By Hideaki Matsuo,OTG04B,Ocean Terminal - GF,21159965,10:00 – 22:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,9585,Harbourside Grill • Bar • Terrace,Harbourside Grill • Bar • Terrace,OTE401,Ocean Terminal - 4F,26199100,12:00 – 22:00 MON – SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,776,HEXA,六公館,OTE101,Ocean Terminal - GF,25771668,Lunch: 11:30 – 14:30Drinks and Snacks: 15:00 – 18:00Dinner: 18:00 – 22:30Bar area: closed at 01:00 (SUN – THU)Bar area closed at 02:00 (FRI & SAT),,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,7295,HIYAMA,HIYAMA日山,OTE 302,Ocean Terminal - 3F,28853203,11:30am – 3:00pm6:00pm – 11:00pmMON-SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,23894,Honbo,Honbo,2602,Gateway Arcade - 2F,,12:00-22:00,,,,,,2022-01-16
+HarbourCity,Dining,17030,Honeymoon Dessert @cookedDeli,滿記甜品 @cookedDeli,3001,Gateway Arcade - 3F,27363866,11:00am – 10:00pm (Daily),,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,777,House of Jasmine,八月居,401,Ocean Centre - 4F,29920232,"11:00 – 16:30, 17:30 – 23:00 MON – SAT10:00 – 16:30, 17:30 – 23:00 SUN & PHs",,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,730,i CREMERiA,i CREMERiA,OTG03A,Ocean Terminal - GF,23866266,10:30 – 23:00 MON – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,24989,Infiniti C,Infiniti C,OT G49,Ocean Terminal - GF,36119878,11:30-21:00,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,8040,J.S. FOODIES,J.S. FOODIES,2608,Gateway Arcade - 2F,24217478,Mon to Fri 11:30-22:00Sat to Sun and Public Holiday 11:00-22:00,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,17093,Jean-Paul Hévin @city'super,Jean-Paul Hévin @city'super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,731,KFC,肯德基家鄉雞,OTG19,Ocean Terminal - GF,27303730,11:00 – 22:00 MON – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,13127,Kinabaji,奇納百川,LCX 34,Ocean Terminal - 3F,90884428,11:30AM – 10PM MON – SUN ,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,20408,KITKAT® Chocolatory® @city’super,KITKAT® Chocolatory® @city’super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,5868,Kyoto ICHINODEN,京都一の傳,402,Ocean Centre - 4F,31014981,12:00 – 22:30 MON – FRI11:30 – 22:30 SAT – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,3948,La Famille,La Famille,Kiosk 5,Ocean Centre - 2F,37582631,10:00 – 22:00 MON – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,733,Lady M New York,Lady M New York,OT215K,Ocean Terminal - 2F,28732356,11:00 – 21:00 SUN – THU11:00 – 22:00 FRI – SAT,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,16148,Lady Nara,Lady Nara,3303,Gateway Arcade - 3F,21533730,,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,17095,Le Dessert @city'super,Le Dessert @city'super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,17029,Lee Fa Yuen Express @cookedDeli,梨花園韓國料理 @cookedDeli,3001,Gateway Arcade - 3F,27363866,11:00am – 10:00pm (Daily),,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,735,Little Mermaid @city'super,Little Mermaid @city'super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,785,Lobby Lounge,大堂酒廊,MPHK,Marco Polo Hongkong Hotel Arcade - GF,21133919,10:00 – 01:00 MON – SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,787,Mak's Noodles,麥奀雲吞麵世家,OTG02,Ocean Terminal - GF,31023862,10:00 – 22:00 MON – SUN,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,17027,May’s Court @cookedDeli,味閣燒味 @cookedDeli,3001,Gateway Arcade - 3F,27363866,11:00am – 10:00pm (Daily),,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,17097,Mon cher @city’super,Mon cher @city’super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,15996,NARA,NARA,3303,Gateway Arcade - 3F,21533660,,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,788,Nha Trang Vietnamese Cuisine,芽莊越式料理,OTG51,Ocean Terminal - GF,21997779,11:30 – 17:00 18:15 – 21:55 MON – FRI11:30 – 16:30 17:45 – 21:55 SAT – SUN ,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,19861,NINETYs,NINETYs,202 & 203,Star Annex - 2F,34191090,10:00 – 22:00 MON – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,789,Nishimura,西村日本料理,MPHK 602,Marco Polo Hongkong Hotel Arcade - 6F,27356899,"12:00 – 15:00, 18:00-23:00 MON – SUN",,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,793,On-Yasai,温野菜,LCX37A,Ocean Terminal - 3F,21531801,11:30 – 23:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,13129,Palco,Palco,OTE 403 & 404,Ocean Terminal - 4F,23823123,,,,,,,2022-01-16
+HarbourCity,Dining,791,Paper Moon,Paper Moon,OTE301,Ocean Terminal - 3F,21562256,Dine-in & Takeaway11:30am-10:00pm (Last Order: 9:30pm),,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,736,Paul Lafayet @city'super,PAUL LAFAYET @city'super,3001,Gateway Arcade - 3F,91482624,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,4295,Quan Alley,寬巷子,OTG57,Ocean Terminal - GF,31882840,10:00 – 22:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,3065,Ralph's Coffee,Ralph's Coffee,"OT311A&312, OT312A&313",Ocean Terminal - 3F,23763936,10:00 – 19:00 MON – FRI11:00 – 20:00 SAT – SUN & PUBLIC HOLIDAY,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,5183,Reserva Ibérica,Reserva Ibérica,305A,Ocean Terminal - 3F,21111338,10:00 – 22:00 MON – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,16408,Ricky’s Spicy Kitchen,祥仔辣辣,LCX 32,Ocean Terminal - 3F,28188988,MON – SUN 10:30 – 22:30,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,737,ROYCE' @city'super,ROYCE’ @city'super,3001,Gateway Arcade - 3F,27363866,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,16101,SAKImoto Bakery,SAKImoto Bakery嵜本高級Shokupan專門店,3208,Gateway Arcade - 3F,35908297,9:00 – 21:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,23470,SAVVY,SAVVY,GW 3209A,Gateway Arcade - 3F,21136188,12noon – 12midnight,,,asiandelights;westerndelicacies,Asian Delights;Western Delicacies,,2022-01-16
+HarbourCity,Dining,794,sen-ryo,千両,2101-2,Gateway Arcade - 2F,28712275,11:30 – 22:30 SUN – THU11:30 – 23:00 FRI – SAT&PH,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,3598,sensory ZERO,sensory ZERO,,"Marco Polo Hongkong Hotel Arcade, Lane Crawford - GF",21186090,10:00 – 22:00 MON – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,15994,Seolhamyeok,雪下覓炙,"OT G47, OT G47A & OT G48",Ocean Terminal - GF,23030038,,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,6889,Shake Shack,Shake Shack,G53,Ocean Terminal - GF,22622768,11:00 – 23:00 MON – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,15756,SHIAWASE,幸・匠燒,OTE402,Ocean Terminal - 4F,36113014,"12:00 – 15:00 ; 18:00 – 23:00 MON – FRI11:30 – 15:00 ; 18:00 – 23:00 SAT, SUN & PUBLIC HOLIDAYS",,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,740,Starbucks Coffee,星巴克咖啡,406,Ocean Centre - 4F,26091598,10:00 – 22:00 MON – SUN,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,8044,Starbucks Coffee,星巴克咖啡,21E,LCX - 3F,,,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,3268,Starbucks Coffee,星巴克咖啡,2402K,Gateway Arcade - 2F,25658223,07:30 – 22:00 MON – THU08:00 – 22:30 FRI & SAT09:00 – 22:00 SUN & PHs,,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,3954,Sugarfina,Sugarfina,3327,Gateway Arcade - 3F,21164688,10:00 – 21:00	MON – THU10:00 – 22:00   FRI – SUN & PHs,,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,24033,Sushi Hisayoshi,鮨 央泰,G111,Gateway Arcade - GF,23833366,12:00 – 15:3018:00 – 22:30,,,,,,2022-01-16
+HarbourCity,Dining,796,Sushi Tokami,鮨とかみ· Sushi Tokami,216A,Ocean Centre - 2F,27713938,(Lunch)12:00 – 15:00(Dinner)18:00 – 22:30 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,795,Sweet Basil Thai Cuisine,金不換泰國餐廳,OT260-3,Ocean Terminal - 2F,27301963,10:00 – 22:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,742,sweets house Cha Cha @city'super,sweets house Cha Cha @city'super,3001,Gateway Arcade - 3F,23758222,10:00am – 10:00pm (Daily),,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,797,Tai Hing,太興,4002,Gateway Arcade - 4F,26680702,07:30 – 22:00 MON – SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,16355,TamJai Yunnan Mixian,譚仔雲南米線,4001,Gateway Arcade - 4F,22781788,,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,744,Ten Ren's Tea @Eslite,天仁茗茶 @誠品,,Star Annex - 2F,34191061,10:00 – 22:00 MON – SUN,,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,799,The Cheesecake Factory,芝樂坊餐廳,G102,Gateway Arcade - GF,27916628,11:00 – 23:00 MON – SAT10:00 – 23:00 SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,15853,The Coffee Academics,The Coffee Academics,4201K & 4202K,Gateway Arcade - 4F,,"8AM – 8PM MON – FRI10AM – 9PM SAT – SUN, PUBLIC HOLIDAYS",,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,801,Three on Canton,Three on Canton,MPG,Gateway Hotel - 3F,21137828,06:30 – 23:00 MON – SUN,,,westerndelicacies,Western Delicacies,,2022-01-16
+HarbourCity,Dining,17034,Tomikubo @cookedDeli,富久保讚岐手打烏冬 @cookedDeli,3001,Gateway Arcade - 3F,27363866,11:00am – 10:00pm (Daily),,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,803,TSUKADA NOJO 塚田農場,塚田農場,OTE202,Ocean Terminal - 2F,24670777,12:00 – 23:00 SUN －THU12:00 – 23:30 FRI －SAT,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,804,Umai SushiKan,うまい鮨勘,OTG04A,Ocean Terminal - GF,21159956,12:00 – 22:30 MON-SUN,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,748,Venchi,Venchi,OTG09,Ocean Terminal - GF,31019981,11:00 – 21:00 MON – SUN,,,confectionery,Confectionery,,2022-01-16
+HarbourCity,Dining,807,Xihe Ya Yuan Beijing Duck Restaurant,羲和雅苑北京烤鴨坊,OTE203,Ocean Terminal - 2F,21573128,12:00 – 23:00 MON – SUN,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,24992,XUÂN,XUÂN,2307A,Gateway Arcade - 2F,37023399,12:00-22:00,,,asiandelights,Asian Delights,,2022-01-16
+HarbourCity,Dining,24991,YAOYAO,姚姚酸菜魚,2307,Gateway Arcade - 2F,31050555,11:00-22:00,,,chinesecuisines,Chinese Cuisines,,2022-01-16
+HarbourCity,Dining,17032,Yifang Taiwan Fruit Tea @cookedDeli,一芳台灣水果茶 @cookedDeli,3001,Gateway Arcade - 3F,27363866,11:00am – 10:00pm (Daily),,,deli123,Deli,,2022-01-16
+HarbourCity,Dining,4749,yú teahouse @Eslite,瑜茶舍 @誠品生活,,Star Annex - 2F,34191089,10:00 – 22:00 MON – SUN,,,confectionery,Confectionery,,2022-01-16

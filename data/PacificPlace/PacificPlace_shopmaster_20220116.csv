@@ -1,0 +1,201 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+PacificPlace,Shopping,45r,45R,45R,"Vincent Mansion, No.7 Star Street",STARSTREET,28611145,12:00 pm - 9:00 pm,,,ladies_fashion,Ladies' Fashion,,2022-01-16
+PacificPlace,Shopping,acqua-di-parma,Acqua di Parma,Acqua di Parma,"L1, 101A",1F,63217457,10:30 am - 8:30 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,adidas,adidas,Adidas,"L1, 127",1F,22431822,10:30 am - 8:30 pm,,,sports;ladies_fashion;mens_fashion;childrenswear_toys,Sports;Ladies' Fashion;Men's Fashion;Children's Wear & Toys,,2022-01-16
+PacificPlace,Shopping,alexandre-de-paris,Alexandre de Paris,Alexandre de Paris,"L2, 221",2F,24655388,11:00 am - 6:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,american-vintage,American Vintage,American Vintage,"L1, 135",1F,35210115,10:00 am - 9:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,andre-fu-living,André Fu Living,André Fu Living,"L3, 355",3F,36890161,10:30 am - 8:00 pm,,,arts_gifts_home,"Arts, Gifts & Home",,2022-01-16
+PacificPlace,Shopping,giorgio-armani,ARMANI beauty,ARMANI beauty,"L1, 151",1F,29181871,11:00 am - 8:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,ashworth,ASHWORTH,ASHWORTH 雅獅威 ,"L2, 209B",2F,26239911,10:00 am - 8:00 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,Aveda,Aveda,Aveda,"L1, 160",1F,21112951,10:30 am - 8:30 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,Bash,ba&sh,ba&sh,"L1, 138",1F,21172876,11:00 am - 8:00 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,Balenciaga,Balenciaga,Balenciaga,"L2, 227",2F,27611811,10:30 am - 7:30 pm,,,ladies_fashion;shoes_bag_leathergoods;mens_fashion;childrenswear_toys,"Ladies' Fashion;Shoes, Bag & Leather Goods;Men's Fashion;Children's Wear & Toys",,2022-01-16
+PacificPlace,Shopping,bally,Bally,BALLY,"L2, 250",2F,25226123,10:00 am - 8:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,balmain,Balmain,Balmain,"L2, 235",2F,21164599,10:00 am - 8:00 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,bea-i-financial-centre,BEA i-Financial Centre,東亞銀行i-理財中心,"L3, 356",3F,36091496,Closed,,,banks_services,Banks & Services,,2022-01-16
+PacificPlace,Shopping,beyorg,BEYORG,BEYORG,"L1, 161",1F,28668238,10:30 am - 8:30 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,Bookazine,Bookazine,Bookazine,"Shop 4, Level B3 Three Pacific Place",STARSTREET,29973018,10:00 am - 7:00 pm,,,books_music_electronics,"Books, Music & Electronics",,2022-01-16
+PacificPlace,Shopping,bottega-veneta,Bottega Veneta,Bottega Veneta,"L3, 370",3F,29181792,11:00 am - 7:30 pm,,,shoes_bag_leathergoods,"Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,Boucheron,Boucheron,Boucheron,"L3, 318",3F,26122517,11:00 am - 7:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,brooks-brothers,Brooks Brothers,Brooks Brothers,"L2, 207",2F,21130223,10:00 am - 8:00 pm,,,mens_fashion;shoes_bag_leathergoods,"Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,burberry,Burberry,Burberry,"L2, 201",2F,29184010,10:30 am - 8:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods;childrenswear_toys,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods;Children's Wear & Toys",,2022-01-16
+PacificPlace,Shopping,BVLGARI,BVLGARI,BVLGARI 寶格麗,"L3, 325A",3F,29181221,11:00 am - 7:30 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,canali,Canali,Canali,"L3, 302",3F,21968793,10:00 am - 8:00 pm,,,mens_fashion,Men's Fashion,,2022-01-16
+PacificPlace,Shopping,cartier,Cartier,Cartier 卡地亞,"L3, 357",3F,25231852,10:30 am - 7:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,celine,CELINE,CELINE 賽琳,"L3, 334",3F,28694886,10:30 am - 7:30 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,chanel,Chanel,Chanel,"L2, 225L3, 337",2F;3F,29184391,12:00 pm - 7:00 pm,,,jewellery_watches_accessories;ladies_fashion;shoes_bag_leathergoods,"Jewellery, Watches & Accessories;Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,chanel-beaute,CHANEL BEAUTÉ ,CHANEL BEAUTÉ,"L1, 158",1F,28101083,11:00 am - 8:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,chinese-arts-crafts,Chinese Arts & Crafts,Chinese Arts & Crafts 中藝(香港)有限公司,"L3, 320",3F,25233933,11:00 am - 7:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,chloe,Chloé,Chloé,"L2, 231",2F,29181686,10:30 am - 7:30 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,cocktail,COCKTAIL,COCKTAIL,"L1, 144",1F,21677308,11:00 am - 8:00 pm,,,ladies_fashion,Ladies' Fashion,,2022-01-16
+PacificPlace,Shopping,columbia,Columbia,Columbia,"L1, 124A",1F,63913081,11:00 am - 8:00 pm,,,sports;ladies_fashion;mens_fashion,Sports;Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,cos,COS,COS,"L1, 118",1F,27487044,11:00 am - 8:00 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,Devialet,Devialet,Devialet,"L1, 134",1F,22199991,10:30 am - 9:00 pm,,,arts_gifts_home;entertainment,"Arts, Gifts & Home;Entertainment",,2022-01-16
+PacificPlace,Shopping,DIOR,DIOR ,DIOR 迪奧,"L3, 345-347L4, 401",3F;4F,25227938,10:00 am - 8:00 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,drivepro,drivepro,drivepro,"L2, 212",2F,26622333,10:00 am - 8:00 pm,,,books_music_electronics;entertainment,"Books, Music & Electronics;Entertainment",,2022-01-16
+PacificPlace,Shopping,Ellermann,Ellermann Flower Boutique,Ellermann Flower Boutique,"L1, 126",1F,21183518,10:00 am - 9:00 pm,,,arts_gifts_home,"Arts, Gifts & Home",,2022-01-16
+PacificPlace,Shopping,emphasis-jewellery,EMPHASIS,Emphasis Jewellery,"L1, 139",1F,21540061,11:00 am - 8:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,emporio-armani,Emporio Armani,Emporio Armani,"L2, 252",2F,29180699,11:00 am - 8:00 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,fendi,FENDI,FENDI 芬迪,"L3, 335",3F,29189665,10:00 am - 7:30 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,fendi-men,FENDI MEN,FENDI MEN,"L2, 223",2F,26309385,10:30 am - 7:30 pm,,,mens_fashion;shoes_bag_leathergoods,"Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,gigasports,GigaSports,GigaSports,"L1, 146",1F,23370005,10:30 am - 9:00 pm,,,sports;ladies_fashion;mens_fashion;childrenswear_toys,Sports;Ladies' Fashion;Men's Fashion;Children's Wear & Toys,,2022-01-16
+PacificPlace,Shopping,Glasstique,Glasstique,GLASSTIQUE,"L1, 130",1F,29181011,11:00 am - 8:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,glue,glue,glue,"Shop 1A, 1 Electric Street, Starstreet Precinct",STARSTREET,34965150,9:30 am - 10:30 pm,,,services,,,2022-01-16
+PacificPlace,Shopping,goyard,Goyard,Goyard,"L3, 362",3F,28265268,10:00 am - 7:30 pm,,,shoes_bag_leathergoods,"Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,gucci,Gucci,Gucci,"L3, 368",3F,25240412,10:00 am - 8:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,harvey-nichols,Harvey Nichols,Harvey Nichols 夏菲尼高,L2,2F,39682668,11:00 am - 8:00 pm,,,arts_gifts_home;books_music_electronics;childrenswear_toys;jewellery_watches_accessories;ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Arts, Gifts & Home;Books, Music & Electronics;Children's Wear & Toys;Jewellery, Watches & Accessories;Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,hermes,Hermès,Hermès,"L3, 354",3F,25226229,11:00 am - 7:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,hogan,Hogan,Hogan,"L2, 251",2F,29180181,10:30 am - 8:00 pm,,,shoes_bag_leathergoods,"Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,hsbc-premier-centre,HSBC Premier Centre / HSBC Day & Night Plus / HSBC Express Banking,HSBC Premier Centre 匯豐卓越理財中心,"L4, 403",4F,22333000,Closed,,,banks_services,Banks & Services,,2022-01-16
+PacificPlace,Shopping,hsbc-premier-centre-2,HSBC Premier Centre / HSBC Express Banking,HSBC Premier Centre 匯豐卓越理財中心,"L2, 203",2F,22333000,Closed,,,banks_services,Banks & Services,,2022-01-16
+PacificPlace,Shopping,i-t,I.T,I.T,"L1, 100",1F,25270052,10:30 am - 9:00 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,iblues,iBLUES,iBLUES,"L2, 242",2F,27229640,11:00 am - 8:00 pm,,,ladies_fashion,Ladies' Fashion,,2022-01-16
+PacificPlace,Shopping,iD,iD,iD,"L2, 218",2F,27096688,11:00 am - 8:00 pm,,,books_music_electronics,"Books, Music & Electronics",,2022-01-16
+PacificPlace,Shopping,il-colpo,IL COLPO Hair. Nails,IL COLPO Hair. Nails,"L2, 220",2F,28020151,9:00 am - 9:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,Isabel-Marant,Isabel Marant,ISABEL MARANT,"L2, 230B",2F,25059238,11:00 am - 9:00 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,iwc-schaffhausen,IWC Schaffhausen,沙夫豪森 IWC 萬國錶,"L2, 243",2F,29181851,11:00 am - 7:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,j-select,J SELECT,J SELECT,"L2, 214",2F,31803118,10:30 am - 8:30 pm,,,books_music_electronics;entertainment,"Books, Music & Electronics;Entertainment",,2022-01-16
+PacificPlace,Shopping,j-lindeberg,J.LINDEBERG ,J.LINDEBERG ,"L2, 209A",2F,26189373,10:00 am - 9:00 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,jaeger-lecoultre,Jaeger-LeCoultre,Jaeger-LeCoultre,"L3, 321",3F,29184388,10:00 am - 7:30 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,jimmy-choo,Jimmy Choo,Jimmy Choo,"L2, 224",2F,29836133,10:30 am - 8:00 pm,,,shoes_bag_leathergoods,"Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,jo-malone,Jo Malone London,Jo Malone London,"L1, 137",1F,29184865,11:00 am - 9:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,joyce,JOYCE,JOYCE,"L2, 232",2F,25235944,10:30 am - 7:30 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,joyce-beauty,Joyce Beauty,Joyce Beauty,"L1, 152",1F,37980172,11:00 am - 8:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,kapok-sun-street,Kapok,Kapok,"8 Sun street, Starstreet Precinct",STARSTREET,25499254,12:00 pm - 7:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods;jewellery_watches_accessories;health_beauty;books_music_electronics;arts_gifts_home,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods;Jewellery, Watches & Accessories;Health & Beauty;Books, Music & Electronics;Arts, Gifts & Home",,2022-01-16
+PacificPlace,Shopping,kelly-walsh-ltd,Kelly & Walsh Ltd.,Kelly & Walsh Ltd.,"L2, 204",2F,25225743,11:00 am - 7:30 pm,,,books_music_electronics,"Books, Music & Electronics",,2022-01-16
+PacificPlace,Shopping,king-country,King & Country,King & Country,"L2, 245",2F,25258603,11:00 am - 7:00 pm,,,arts_gifts_home;childrenswear_toys,"Arts, Gifts & Home;Children's Wear & Toys",,2022-01-16
+PacificPlace,Shopping,kwanpen,KWANPEN,KWANPEN,"L3, 310",3F,29189199,10:00 am - 9:00 pm,,,shoes_bag_leathergoods,"Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,loccitane,L’OCCITANE,L’OCCITANE,"L1, 156",1F,61731712,11:00 am - 8:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,la-mer,La Mer,La Mer,"L1, 157",1F,21114088,11:00 am - 7:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,la-perla,La Perla,La Perla,"L3, 361",3F,21183977,11:00 am - 8:00 pm,,,ladies_fashion,Ladies' Fashion,,2022-01-16
+PacificPlace,Shopping,la-prairie,La Prairie,La Prairie,"L1, 154",1F,29180806,10:00 am - 8:30 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,lane-crawford-home,Lane Crawford,Lane Crawford,"L1, 126",1F,21183652,11:00 am - 8:00 pm,,,arts_gifts_home;books_music_electronics;entertainment,"Arts, Gifts & Home;Books, Music & Electronics;Entertainment",,2022-01-16
+PacificPlace,Shopping,lenscrafters,LensCrafters,Lenscrafters 亮視點,"L1, 109",1F,28459442,10:00 am - 8:30 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,lesportsac,LeSportsac,LeSportsac,"L1, 143",1F,29180051,11:00 am - 9:00 pm,,,shoes_bag_leathergoods,"Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,LOEWE,LOEWE,LOEWE,"L3, 339",3F,29181120,10:00 am - 8:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,loro-piana,Loro Piana,Loro Piana 諾悠翩雅,"L3, 341",3F,29181620,11:00 am - 7:30 pm,,,ladies_fashion;shoes_bag_leathergoods;mens_fashion,"Ladies' Fashion;Shoes, Bag & Leather Goods;Men's Fashion",,2022-01-16
+PacificPlace,Shopping,louis-vuitton,Louis Vuitton,Louis Vuitton,"L2, 236L3, 351",2F;3F,81001182,10:00 am - 8:30 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,Lululemon,lululemon,lululemon,"L1, 119",1F,28105168,10:30 am - 8:00 pm,,,ladies_fashion;mens_fashion;sports,Ladies' Fashion;Men's Fashion;Sports,,2022-01-16
+PacificPlace,Shopping,Maje,Maje,Maje,"L1, 148",1F,35792937,11:00 am - 8:00 pm,,,shoes_bag_leathergoods;ladies_fashion,"Shoes, Bag & Leather Goods;Ladies' Fashion",,2022-01-16
+PacificPlace,Shopping,marc-jacobs,Marc Jacobs ,Marc Jacobs,"L2, 254",2F,21168988,11:00 am - 8:00 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,marimekko,Marimekko,Marimekko,"L1, 149",1F,23381718,11:00 am - 8:00 pm,,,arts_gifts_home;ladies_fashion;shoes_bag_leathergoods,"Arts, Gifts & Home;Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,masterpiece-by-king-fook,Masterpiece by king fook,Masterpiece by king fook,"L2, 216",2F,28456766,10:30 am - 7:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,max-co,MAX&Co.,MAX&Co.,"L1, 104",1F,27229618,12:00 pm - 9:00 pm,,,ladies_fashion,Ladies' Fashion,,2022-01-16
+PacificPlace,Shopping,miu-miu,Miu Miu,Miu Miu,"L3, 350",3F,29184616,11:00 am - 8:00 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,moncler,Moncler,Moncler 盟可睞,"L3, 364",3F,25686918,11:00 am - 8:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,Monocle,Monocle,Monocle,"1-4 St Francis Yard, Starstreet Precinct ",STARSTREET,28042323,12:00 pm - 6:00 pm,,,books_music_electronics,"Books, Music & Electronics",,2022-01-16
+PacificPlace,Shopping,montblanc,Montblanc,Montblanc 萬寶龍,"L2, 239",2F,25236637,10:00 am - 8:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,Moynat,Moynat,Moynat,"L3, 360",3F,22610812,10:30 am - 7:00 pm,,,shoes_bag_leathergoods,"Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,muji,MUJI,MUJI 無印良品,"L1, 102",1F,39738370,11:00 am - 9:30 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods;arts_gifts_home,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods;Arts, Gifts & Home",,2022-01-16
+PacificPlace,Shopping,natura-bisse,Natura Bissé,Natura Bissé,"L1, 153",1F,29181583,10:30 am - 8:30 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,nike,Nike,Nike,"L1, 147",1F,21425168,10:00 am - 9:00 pm,,,sports;ladies_fashion;mens_fashion,Sports;Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,ONS,O.N.S,O.N.S,"3 Sun Street, Starstreet Precinct",STARSTREET,27079019,Closed,,,mens_fashion;shoes_bag_leathergoods,"Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,ons,O.N.S | kapok,O.N.S | kapok,"L2, 241",2F,21727123,11:00 am - 8:00 pm,,,arts_gifts_home;mens_fashion;shoes_bag_leathergoods,"Arts, Gifts & Home;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,oddOneOut,ODD ONE OUT,ODD ONE OUT,"G/F, 14 St. Francis Street, Starstreet Precinct ",STARSTREET,25293955,12:00 pm - 7:00 pm,,,arts_gifts_home,"Arts, Gifts & Home",,2022-01-16
+PacificPlace,Shopping,piaget,Piaget,Piaget 伯爵,"L3, 322",3F,29181823,11:00 am - 7:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,prada,Prada,Prada,"L2, 222",2F,29189233,11:00 am - 8:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,pure-yoga,PURE Yoga,PURE Yoga,"L1, 101",1F,81087668,Reopening on 21 Jan,,,health_beauty;sports,Health & Beauty;Sports,,2022-01-16
+PacificPlace,Shopping,Pure-Yoga-Starstreet-Precinct,PURE Yoga Starstreet Precinct,PURE Yoga Starstreet Precinct,"3 Wing Fung Street, Starstreet Precinct ",STARSTREET,82008208,Reopening on 21 Jan,,,health_beauty;sports,Health & Beauty;Sports,,2022-01-16
+PacificPlace,Shopping,puyi-optical,Puyi Optical,Puyi Optical 溥儀眼鏡,"L2, 247",2F,28612608,11:00 am - 8:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,pye,PYE,PYE 派,"L1, 111",1F,21529288,10:00 am - 8:30 pm,,,mens_fashion,Men's Fashion,,2022-01-16
+PacificPlace,Shopping,repetto,Repetto,Repetto,"L1, 133",1F,29181889,12:00 pm - 7:00 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,richard-mille,Richard Mille,Richard Mille,"L3, 328",3F,29189696,10:30 am - 7:30 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,rimowa,RIMOWA,RIMOWA,"L2, 255",2F,23115777,11:00 am - 8:00 pm,,,sports,Sports,,2022-01-16
+PacificPlace,Shopping,roger-dubuis,Roger Dubuis,Roger Dubuis 羅杰杜彼,"L3, 330",3F,29189368,11:00 am - 7:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,saint-laurent,Saint Laurent,Saint Laurent,"L2, 228",2F,25493018,11:00 am - 8:00 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,saloon,Saloon,Saloon,"L3, 309",3F,29979600,10:00 am - 7:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,salvatore-ferragamo,Salvatore Ferragamo,Salvatore Ferragamo,"L3, 303",3F,28452718,10:00 am - 8:00 pm,,,ladies_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,sandro,Sandro,Sandro,"L1, 150",1F,31089911,11:00 am - 8:00 pm,,,shoes_bag_leathergoods;ladies_fashion,"Shoes, Bag & Leather Goods;Ladies' Fashion",,2022-01-16
+PacificPlace,Shopping,shanghai-tang,Shanghai Tang,Shanghai Tang 上海灘,"L1, 105B",1F,29181505,11:00 am - 8:00 pm,,,ladies_fashion;mens_fashion;arts_gifts_home;childrenswear_toys;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Arts, Gifts & Home;Children's Wear & Toys;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,TakaIshiiGallery,SHOP Taka Ishii Gallery,SHOP Taka Ishii Gallery,"1 St. Francis Yard, Starstreet Precinct ",STARSTREET,,11:00 am - 7:00 pm,,,arts_gifts_home,"Arts, Gifts & Home",,2022-01-16
+PacificPlace,Shopping,SpaLOCCITANE,Spa L’OCCITANE,Spa L’OCCITANE,"Shop 3, 9 Star Street, Starstreet Precinct ",STARSTREET,21436288,Reopening on 21 Jan,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,sportmax,Sportmax,Sportmax,"L2, 256",2F,29184228,10:30 am - 8:30 pm,,,ladies_fashion,Ladies' Fashion,,2022-01-16
+PacificPlace,Shopping,sweaty-betty,Sweaty Betty,Sweaty Betty,"L1, 120B",1F,21520668,10:00 am - 9:00 pm,,,ladies_fashion;sports,Ladies' Fashion;Sports,,2022-01-16
+PacificPlace,Shopping,tasaki,TASAKI,TASAKI,"L3, 327",3F,26572622,10:30 am - 8:30 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,the-holiday-project,The Holiday Project,The Holiday Project,"L2, 248",2F,95759637,11:00 am - 7:00 pm,,,ladies_fashion;mens_fashion;sports,Ladies' Fashion;Men's Fashion;Sports,,2022-01-16
+PacificPlace,Shopping,the-north-face-urban-exploration,The North Face ,The North Face,"L1, 122",1F,24310833,11:00 am - 8:30 pm,,,sports,Sports,,2022-01-16
+PacificPlace,Shopping,theory,Theory,Theory,"L1, 103",1F,29184438,11:00 am - 8:00 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,tiffany-co,Tiffany & Co.,Tiffany & Co. 蒂芙尼,"L3, 323",3F,29189992,11:00 am - 8:00 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,tumi,Tumi,Tumi,"L1, 142",1F,29184688,11:00 am - 8:00 pm,,,shoes_bag_leathergoods,"Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,van-cleef-arpels,Van Cleef & Arpels,Van Cleef & Arpels 梵克雅寶,"L3, 315",3F,29181661,11:00 am - 7:30 pm,,,jewellery_watches_accessories,"Jewellery, Watches & Accessories",,2022-01-16
+PacificPlace,Shopping,vilebrequin,Vilebrequin,Vilebrequin,"L1, 140",1F,29180263,10:30 am - 8:30 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,Vogue Laundry,Vogue Laundry,Vogue Laundry 雅潔洗衣,"Shop 5, Level B3, Three Pacific Place",STARSTREET,24603506,8:30 am - 2:30 pm ; 3:30 pm - 6:30 pm,,,banks_services,Banks & Services,,2022-01-16
+PacificPlace,Shopping,watsons,Watson's,Watson's 屈臣氏,"L1, 145",1F,25232885,10:00 am - 9:00 pm,,,health_beauty,Health & Beauty,,2022-01-16
+PacificPlace,Shopping,whistles,Whistles,Whistles,"L1, 120A",1F,21514688,10:00 am - 9:00 pm,,,ladies_fashion,Ladies' Fashion,,2022-01-16
+PacificPlace,Shopping,wise-kids-educational-toys,Wise-Kids Educational Toys,Wise-Kids 教育玩具,"L2, 211",2F,28680133,10:30 am - 7:30 pm,,,childrenswear_toys,Children's Wear & Toys,,2022-01-16
+PacificPlace,Shopping,WOAW,WOAW,WOAW,"5 Sun Street, Starstreet Precinct",STARSTREET,,11:00 am - 6:00 pm,,,arts_gifts_home,"Arts, Gifts & Home",,2022-01-16
+PacificPlace,Shopping,Wolford,Wolford,Wolford 沃爾福特,"L1, 141",1F,26580102,10:00 am - 8:00 pm,,,ladies_fashion,Ladies' Fashion,,2022-01-16
+PacificPlace,Shopping,zadig-voltaire,Zadig & Voltaire,Zadig & Voltaire,"L2, 249",2F,29189522,11:00 am - 9:00 pm,,,ladies_fashion;mens_fashion,Ladies' Fashion;Men's Fashion,,2022-01-16
+PacificPlace,Shopping,zara,Zara,Zara,"L1, 121",1F,29181099,11:00 am - 9:30 pm,,,ladies_fashion;mens_fashion;shoes_bag_leathergoods,"Ladies' Fashion;Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Shopping,zegna,Zegna,Zegna,"L3, 312",3F,28935728,11:00 am - 8:00 pm,,,mens_fashion;shoes_bag_leathergoods,"Men's Fashion;Shoes, Bag & Leather Goods",,2022-01-16
+PacificPlace,Dining,apinara-thai-cuisine-and-bar,Apinara Thai Cuisine and Bar ,Apinara Thai Cuisine and Bar,"L2, 205",2F,31071888,11:30 am - 9:00 pm,,,1asian;4happy_hour;3bars,Asian;Happy Hour;Bars,,2022-01-16
+PacificPlace,Dining,Artemis-Apollo,Artemis & Apollo ,Artemis & Apollo,"G/F, 9 and 11 Moon Street, Starstreet Precinct ",STARSTREET,28188681,12:00 pm - 9:00 pm,,,3bars;4Wine;1western,Bars;Wine;Western,,2022-01-16
+PacificPlace,Dining,bar-q88,Bar Q88,Bar Q88,"The Lounge, Lobby Level, JW Marriott Hotel Hong Kong",HOTEL,28108366,12:00 pm - 12:00 am,,,fine-dining;1western;3bars;4happy_hour,Fine Dining;Western;Bars;Happy Hour,,2022-01-16
+PacificPlace,Dining,between-coffee-pop-up,Between Coffee,Between Coffee,"L2, 200D",2F,28778711,8:00 am - 6:00 pm,,,1western;1asian;2japanese;3cafe,Western;Asian;Japanese;Café,,2022-01-16
+PacificPlace,Dining,Black-Garlic,Black Garlic,Black Garlic 黑蒜,"Shop 6, Level B3, Three Pacific Place",STARSTREET,23689102,Closed,,,1asian,Asian,,2022-01-16
+PacificPlace,Dining,Blend-Grind,Blend & Grind,Blend & Grind,"1 Sun Street, Starstreet Precinct",STARSTREET,63612711,7:00 am - 9:00 pm,,,3bars;4Wine;1western;4happy_hour;outdoor_seating,Bars;Wine;Western;Happy Hour;Outdoor Seating,,2022-01-16
+PacificPlace,Dining,blue-bottle-coffee,Blue Bottle Coffee,Blue Bottle Coffee,15 St. Francis Street,STARSTREET,,9:00 am - 7:00 pm,,,3cafe,Café,,2022-01-16
+PacificPlace,Dining,brasserie-on-the-eighth,Brasserie on The Eighth ,Brasserie on the Eighth 懷歐敍,"Level 8, Conrad Hong Kong",HOTEL,28228803,11:00 am - 11:00 pm,,,1western;2french;fine-dining,Western;French;Fine Dining,,2022-01-16
+PacificPlace,Dining,cest-la-b,C’est La B,C’est La B,"L2, 202",2F,25360173,8:00 am - 7:00 pm,,,1western;3cafe;cakes,Western;Café;Cakes,,2022-01-16
+PacificPlace,Dining,cafe-too,cafe TOO,cafe TOO,"Level 7, Island Shangri-La, Hong Kong",HOTEL,28208571,6:30 am - 10:00 pm,,,3cafe;cakes;1asian;1western,Café;Cakes;Asian;Western,,2022-01-16
+PacificPlace,Dining,caviar-house-prunier,Caviar House & Prunier ,Caviar House & Prunier,"L3, 308",3F,25928827,11:00 am - 8:00 pm,,,1western,Western,,2022-01-16
+PacificPlace,Dining,cova,COVA,COVA,"L2, 230A",2F,29189660,11:30 am - 8:00 pm,,,1western;2italian;3cafe;cakes;confectionary,Western;Italian;Café;Cakes;Confectionary,,2022-01-16
+PacificPlace,Dining,DALLOYAU,DALLOYAU,DALLOYAU,"L3, 325B",3F,31858391,10:30 am - 10:00 pm,,,cakes;confectionary;3cafe,Cakes;Confectionary;Café,,2022-01-16
+PacificPlace,Dining,dim-sum-library,Dim Sum Library,Dim Sum Library 饌心堂,"L1, 124",1F,36430088,10:30 am - 6:00 pm,,,2chinese;4happy_hour;2hong_kong_style;3bars,Chinese;Happy Hour;Hong Kong Style;Bars,,2022-01-16
+PacificPlace,Dining,dolce-88,Dolce 88,Dolce 88,"The Lounge, Lobby Level, JW Marriott Hotel Hong Kong",HOTEL,28108366,7:00 am - 9:00 pm,,,fine-dining;1western;cakes;4happy_hour,Fine Dining;Western;Cakes;Happy Hour,,2022-01-16
+PacificPlace,Dining,Edgar,Edgar,Edgar,"G/F, 5 Moon Street, Starstreet Precinct ",STARSTREET,34842088,11:00 am - 7:30 pm,,,1western,Western,,2022-01-16
+PacificPlace,Dining,Elephant-Grounds,Elephant Grounds,Elephant Grounds,"Shop D-L, 8 Wing Fung Street, Starstreet Precinct ",STARSTREET,27782700,8:00 am - 7:30 pm,,,3cafe;1western;cakes,Café;Western;Cakes,,2022-01-16
+PacificPlace,Dining,Emmer,Emmer,Emmer,"L4, 407",4F,27801110,7:30 am - 10:00 pm,,,3cafe;4happy_hour;1western,Café;Happy Hour;Western,,2022-01-16
+PacificPlace,Dining,essentia-by-holger-deh,Essentia by Holger Deh,Essentia by Holger Deh,"L2, 200E",2F,64672835,10:30 am - 8:30 pm,,,1western;cakes,Western;Cakes,,2022-01-16
+PacificPlace,Dining,fish-bar,Fish Bar,Fish Bar 魚吧,"Level 7, JW Marriott Hotel Hong Kong",HOTEL,28108366,12:00 pm - 10:00 pm,,,fine-dining;1western;4happy_hour;outdoor_seating,Fine Dining;Western;Happy Hour;Outdoor Seating,,2022-01-16
+PacificPlace,Dining,FRANCIS,FRANCIS,FRANCIS,"G/F, 4 & 6, St. Francis Street, Starstreet Precinct ",STARSTREET,31019521,11:30 am - 7:00 pm,,,outdoor_seating;1western,Outdoor Seating;Western,,2022-01-16
+PacificPlace,Dining,fuel-espresso,Fuel Espresso,Fuel Espresso,"L2, 206",2F,23624811,10:00 am - 6:00 pm,,,3cafe,Café,,2022-01-16
+PacificPlace,Dining,garden-cafe,Garden Café,Garden Café 咖啡園,"Lower Lobby, Conrad Hong Kong",HOTEL,25213838,8:00 am - 11:00 pm,,,1asian;1western;4happy_hour;outdoor_seating;3bars;4Wine,Asian;Western;Happy Hour;Outdoor Seating;Bars;Wine,,2022-01-16
+PacificPlace,Dining,giando,Giando Italian Restaurant & Bar,Giando Italian Restaurant & Bar,"Shop 1, G/F, Tower 1 Starcrest, 9 Star Street, Starstreet Precinct ",STARSTREET,25118912,11:30 am - 6:00 pm,,,1western;3bars;2italian,Western;Bars;Italian,,2022-01-16
+PacificPlace,Dining,golden-leaf,Golden Leaf,Golden Leaf 金葉庭,"Lower Lobby, Conrad Hong Kong",HOTEL,28228870,9:00 am - 11:00 pm,,,2chinese;2hong_kong_style;fine-dining,Chinese;Hong Kong Style;Fine Dining,,2022-01-16
+PacificPlace,Dining,grappas-qre,Grappa's QRE,Grappa's QRE,"G/F, 18 Queen's Road East, Wan Chai, Hong Kong",STARSTREET,28680086,11:30 am - 11:30 pm,,,1western;4Wine;2italian,Western;Wine;Italian,,2022-01-16
+PacificPlace,Dining,Great Food Hall,Great Food Hall,Great Food Hall,LG1,LG1F,29189986,10:00 am - 10:00 pm,,,cakes,Cakes,,2022-01-16
+PacificPlace,Dining,green-ginkgo-tea,Green Ginkgo Tea,Green Ginkgo Tea 上林茶舍,"L1, 110",1F,62368728,11:00 am - 7:00 pm,,,1asian;confectionary,Asian;Confectionary,,2022-01-16
+PacificPlace,Dining,island-gourmet,Island Gourmet,Island Gourmet 高美食店,"Level 5, Island Shangri-La, Hong Kong",HOTEL,28208550,9:00 am - 7:30 pm,,,fine-dining;1western;cakes,Fine Dining;Western;Cakes,,2022-01-16
+PacificPlace,Dining,jw-cafe,JW Café,JW 咖啡室,"Level 5, JW Marriott Hotel Hong Kong",HOTEL,28108366,6:30 am - 12:00 am,,,fine-dining;3cafe;cakes,Fine Dining;Café;Cakes,,2022-01-16
+PacificPlace,Dining,la-maison-du-chocolat,La Maison Du Chocolat,La Maison Du Chocolat,"L2, 246",2F,25222010,11:00 am - 8:00 pm,,,confectionary,Confectionary,,2022-01-16
+PacificPlace,Dining,la-vache,La Vache!,La Vache!,"LG1, 007",LG1F,28016122,11:00 am - 6:00 pm,,,1western;2french,Western;French,,2022-01-16
+PacificPlace,Dining,le-dessert,Le Dessert,Le Dessert,"L1,150A",1F,51827069,10:30 am - 8:30 pm,,,2french;cakes;confectionary,French;Cakes;Confectionary,,2022-01-16
+PacificPlace,Dining,le garcon saigon,Le Garçon Saigon,Le Garçon Saigon,"G/F, 12 -18 Wing Fung Street, Starstreet Precinct ",STARSTREET,24552499,12:00 pm - 10:00 pm,,,1asian;outdoor_seating;4Wine;4happy_hour;3bars,Asian;Outdoor Seating;Wine;Happy Hour;Bars,,2022-01-16
+PacificPlace,Dining,le-pain-quotidien,Le Pain Quotidien,Le Pain Quotidien,"LG1, 008",LG1F,28081837,8:00 am - 6:00 pm,,,1western;3cafe,Western;Café,,2022-01-16
+PacificPlace,Dining,Le-Petit-Saigon,Le Petit Saigon,Le Petit Saigon,"16 Wing Fung Street, Starstreet Precinct ",STARSTREET,24552499,12:00 pm - 9:00 pm,,,1asian,Asian,,2022-01-16
+PacificPlace,Dining,Liquid-Gold,Liquid Gold,Liquid Gold 至醇酒庫,"L2, 244",2F,27555582,11:00 am - 8:30 pm,,,4Wine,Wine,,2022-01-16
+PacificPlace,Dining,lobby-lounge-conrad,Lobby Lounge - Conrad,港麗酒店 - Lobby Lounge 樂聚廊,"Lobby, Conrad Hong Kong",HOTEL,25213838,11:00 am - 11:00 pm,,,1asian;1western;4happy_hour;3bars;4Wine,Asian;Western;Happy Hour;Bars;Wine,,2022-01-16
+PacificPlace,Dining,lobby-lounge-shangrila,Lobby Lounge - Island Shangri-La,港島香格里拉大酒店 - Lobby Lounge 大堂酒廊,"Level 6, Island Shangri-La",HOTEL,28773838,8:00 am - 12:00 am,,,fine-dining;1western;4happy_hour,Fine Dining;Western;Happy Hour,,2022-01-16
+PacificPlace,Dining,Lumi,LUMI ,LUMI,"L3, 301",3F,29181313,11:00 am - 6:00 pm,,,1western;2hong_kong_style;confectionary;cakes,Western;Hong Kong Style;Confectionary;Cakes,,2022-01-16
+PacificPlace,Dining,Maison-ES,Maison ES,Maison ES,"No.1A Star Street, Starstreet Precinct ",STARSTREET,25218011,12:00 pm - 2:30 pm ; 3:00 pm - 5:00 pm,,,4Wine;2french;1western;confectionary;cakes,Wine;French;Western;Confectionary;Cakes,,2022-01-16
+PacificPlace,Dining,man-ho-chinese-restaurant,Man Ho Chinese Restaurant,Man Ho Chinese Restaurant 萬豪金殿,"Level 3, JW Marriott Hotel Hong Kong",HOTEL,28108366,11:30 am - 3:00 pm ; 6:00 pm - 10:30 pm,,,fine-dining;2chinese;2hong_kong_style,Fine Dining;Chinese;Hong Kong Style,,2022-01-16
+PacificPlace,Dining,Mortys,Morty's,Morty's,"8-10 Wing Fung Street, Starstreet Precinct ",STARSTREET,36650890,11:30 am - 9:30 pm,,,1western;4happy_hour,Western;Happy Hour,,2022-01-16
+PacificPlace,Dining,nadaman,Nadaman,Nadaman 灘萬日本料理,"Level 7, Island Shangri-La, Hong Kong",HOTEL,28208570,11:30 am - 10:30 pm,,,fine-dining;2japanese,Fine Dining;Japanese,,2022-01-16
+PacificPlace,Dining,nicholinis,Nicholini’s,Nicholini’s 意寧谷,"Level 8, Conrad Hong Kong",HOTEL,28228801,11:00 am - 11:00 pm,,,1western;2italian;fine-dining,Western;Italian;Fine Dining,,2022-01-16
+PacificPlace,Dining,Oolaa Petite,Oolaa Petite,Oolaa Petite,"Shop 2 Tower 2 Starcrest, 9 Star Street, Starstreet Precinct",STARSTREET,25293823,7:00 am - 9:30 pm,,,3bars;4happy_hour;1western,Bars;Happy Hour;Western,,2022-01-16
+PacificPlace,Dining,pacific-bar,Pacific Bar,Pacific Bar 寶絲吧,"Level 8, Conrad Hong Kong",HOTEL,25213838,5:00 pm - 11:00 pm,,,3bars;4happy_hour;4Wine,Bars;Happy Hour;Wine,,2022-01-16
+PacificPlace,Dining,peking-garden,Peking Garden,Peking Garden 北京樓,"LG1, 005",LG1F,28458452,11:30 am - 9:30 pm,,,1asian;2chinese,Asian;Chinese,,2022-01-16
+PacificPlace,Dining,Pici,Pici,Pici,"16 St. Francis Yard, Starstreet Precinct ",STARSTREET,27555523,11:00 am - 10:30 pm,,,1western;4Wine;2italian,Western;Wine;Italian,,2022-01-16
+PacificPlace,Dining,Pret-A-Manger,Pret A Manger,Pret A Manger,"Shop 1 & 2, Level B3, Three Pacific Place",STARSTREET,25169594,9:00 am - 5:00 pm,,,3cafe;1western,Café;Western,,2022-01-16
+PacificPlace,Dining,restaurant-petrus,Restaurant Petrus,Restaurant Petrus 珀翠餐廳,"Level 56, Island Shangri-La",HOTEL,28208590,12:00 pm - 11:00 pm,,,fine-dining;1western,Fine Dining;Western,,2022-01-16
+PacificPlace,Dining,Saladstop,Saladstop!,Saladstop!,"Shop 3, Level B3, Three Pacific Place",STARSTREET,28127160,Closed,,,1asian,Asian,,2022-01-16
+PacificPlace,Dining,salisterra,Salisterra,Salisterra,"Level 49, The Upper House",HOTEL,39681106,6:30 am - 10:30 pm,,,fine-dining;2french;2italian,Fine Dining;French;Italian,,2022-01-16
+PacificPlace,Dining,ShakeShack,Shake Shack ,Shake Shack ,"L1, 105A",1F,28108928,11:00 am - 10:00 pm,,,1western,Western,,2022-01-16
+PacificPlace,Dining,Shiro,Shiro,Shiro,"L1, 132",1F,21179481,11:30 am - 6:00 pm,,,2japanese,Japanese,,2022-01-16
+PacificPlace,Dining,Slims,Slim's,Slim's,"No.1 Wing Fung Street, Starstreet Precinct ",STARSTREET,25281661,Reopening on 21 Jan,,,1western;4Wine;3bars;4happy_hour,Western;Wine;Bars;Happy Hour,,2022-01-16
+PacificPlace,Dining,starbucks-coffee,Starbucks Coffee,Starbucks Coffee,"L1, 128-129",1F,29184762,8:00 am - 9:30 pm,,,3cafe;cakes,Café;Cakes,,2022-01-16
+PacificPlace,Dining,starbucks-coffee-131,Starbucks Coffee,Starbucks Coffee,"L1, 131",1F,29184762,8:00 am - 7:00 pm,,,3cafe;cakes,Café;Cakes,,2022-01-16
+PacificPlace,Dining,starbucks-reserve,Starbucks Reserve,Starbucks Reserve,"L1, 106",1F,25682109,8:00 am - 7:00 pm,,,3cafe;outdoor_seating,Café;Outdoor Seating,,2022-01-16
+PacificPlace,Dining,summer-palace,Summer Palace,Summer Palace 夏宮,"Level 5, Island Shangri-La, Hong Kong",HOTEL,28208552,11:00 am - 10:30 pm,,,fine-dining;2chinese,Fine Dining;Chinese,,2022-01-16
+PacificPlace,Dining,Sweet World,Sweet World,Sweet World,"L1, 113",1F,23293100,11:00 am - 8:00 pm,,,confectionary,Confectionary,,2022-01-16
+PacificPlace,Dining,thai-basil,Thai Basil,Thai Basil,"L1, 112",1F,25374682,11:30 am - 9:30 pm,,,1asian,Asian,,2022-01-16
+PacificPlace,Dining,the-continental,The Continental,The Continental,"L4, 406",4F,27045211,12:00 pm - 6:00 pm,,,1western;3bars;4happy_hour;outdoor_seating,Western;Bars;Happy Hour;Outdoor Seating,,2022-01-16
+PacificPlace,Dining,the-lounge,The Lounge - JW Marriott,香港JW萬豪酒店 - The Lounge,"The Lounge, Lobby Level, JW Marriott Hotel Hong Kong",HOTEL,28108366,8:00 am - 12:00 am,,,fine-dining;1western;4happy_hour,Fine Dining;Western;Happy Hour,,2022-01-16
+PacificPlace,Dining,The-Pizza-Project,The Pizza Project,The Pizza Project,"G/F, 5 Star Street, Starstreet Precinct",STARSTREET,25777227,11:00 am - 10:30 pm,,,1western;2italian,Western;Italian,,2022-01-16
+PacificPlace,Dining,tien-yi-chinese-restaurant,Tien Yi Chinese Restaurant,Tien Yi Chinese Restaurant 天一酒家,"LG1, 003",LG1F,29189889,11:00 am - 4:30 pm,,,1asian;2chinese;2hong_kong_style,Asian;Chinese;Hong Kong Style,,2022-01-16
+PacificPlace,Dining,tmk-rap-and-rolls,TMK Rap & Rolls,TMK Rap & Rolls,"17A, Moon Street, Starstreet Precinct ",STARSTREET,27799002,11:00 am - 6:00 pm,,,2japanese,Japanese,,2022-01-16
+PacificPlace,Dining,uoharu,Uoharu,Uoharu魚治,"LG1, 001",LG1F,28037808,11:30 am - 8:30 pm,,,2japanese,Japanese,,2022-01-16
+PacificPlace,Dining,watsons-wine,Watson’s Wine,Watson’s Wine 屈臣氏酒窖,"LG1, Great Food Hall",LG1F,25262832,10:00 am - 10:00 pm,,,4Wine,Wine,,2022-01-16
+PacificPlace,Dining,wellwellwell,wellwellwell,wellwellwell,"LG1, 002",LG1F,28037881,11:00 am - 4:30 pm ; 5:30 pm - 10:00 pm,,,1asian;2chinese;2hong_kong_style;4happy_hour,Asian;Chinese;Hong Kong Style;Happy Hour,,2022-01-16
+PacificPlace,Dining,Ye Shanghai,yè shanghai ,yè shanghai 夜上海,"L3, 332",3F,29189833,11:30 pm - 4:00 pm ; 6:00 pm - 10:00 pm,,,1asian;2chinese,Asian;Chinese,,2022-01-16
