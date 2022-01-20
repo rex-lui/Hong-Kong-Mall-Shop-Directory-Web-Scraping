@@ -151,11 +151,12 @@ def getShopMaster():
 
             shoplisttc = shoplisttc.append(
                                     {
+                                        'type':type,
                                         'shop_id':shop_id,
                                         'shop_name_tc':shop_name_zh
                                         }, ignore_index=True
                                         )
-    shopmaster = pd.merge(shoplist, shoplisttc, on = 'shop_id')
+    shopmaster = pd.merge(shoplist, shoplisttc, on = ['type','shop_id'])
     shopmaster['update_date'] = dt.date.today()
     shopmaster['mall'] = mall
     shopmaster['tag'] = np.nan
