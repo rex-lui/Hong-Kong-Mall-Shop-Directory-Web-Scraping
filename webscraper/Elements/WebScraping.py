@@ -121,8 +121,6 @@ def getShopMaster():
                                     'shop_name_tc':shop_name_zh,
                                     'shop_category_id':shop_category_id,
                                     'shop_category_name':shop_category_name,
-                                    'shop_category_id':shop_category_id,
-                                    'shop_category_name':shop_category_name,
                                     'voucher_acceptance':voucher_acceptance,
                                     'shop_detail_link':shop_detail_link
                                     }, ignore_index=True
