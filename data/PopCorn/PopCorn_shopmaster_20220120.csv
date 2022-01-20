@@ -1,0 +1,140 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+PopCorn,Shopping,55,adidas,adidas,F50, PopCorn 1 L1,26963362,11:00 - 21:00,MTR Points Promotion,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,104,agnes b.,agnes b.,G12-13, PopCorn 1 G,28118721,11:00 - 20:30,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,182,AIGLE,AIGLE,F42, PopCorn 1 L1,23192908,11:30 - 21:30,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,90,ASA Physiotherapy Clinic/ UMP Dental Centre,ASA物理治療診所/ 聯合醫務牙科中心,F92, PopCorn 2 L1,"ASA物理治療診所(PhysiotherapyClinic)27521129,聯合醫務牙科中心(UMPDentalCentre)27521176",10:00 - 14:00,MTR Points Promotion,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,250,ASICS,ASICS,F41, PopCorn 1 L1,23376022,11:00 - 21:00,,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,173,Best Mart 360,優品360,F75-76, PopCorn 2 L1,39023055,09:00 - 22:30,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,119,Bobbi Brown,Bobbi Brown,G30, PopCorn 1 G,25040699,10:00 - 22:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,87,Book Buddy,Book Buddy,F88-89, PopCorn 2 L1,27521122,11:00 - 20:00,MTR Points Promotion,1,bltd6f918e01c94cbf7,"Gifts, Books & Stationery",,2022-01-20
+PopCorn,Shopping,49,bread n butter,bread n butter,F44, PopCorn 1 L1,27783918,11:30 - 20:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,12,C.P.U.,C.P.U.,F08, PopCorn 1 L1,26561323,11:00 - 21:30,MTR Points Promotion,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,54,Catalog,Catalog,F49, PopCorn 1 L1,27598090,11:30 - 21:00,MTR Points Promotion,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,246,CAUDALIE,CAUDALIE,G31, PopCorn 1 G,24616282,11:00 - 22:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,179,CD Warehouse,CD Warehouse,G48, PopCorn 1 G,37912110,11:30 - 21:30,MTR Points Promotion,1,bltd6f918e01c94cbf7,"Gifts, Books & Stationery",,2022-01-20
+PopCorn,Shopping,xxx,Centaline Property,中原地產,G53, PopCorn 2 G,,,,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,xxx,Centaline Property,渝味曉宇重慶老火鍋,G53, PopCorn 2 G,,,,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Dining,xxx,Xiao Yu Hotpot Restaurant,中原地產,G49, PopCorn 2 G,28132826,11:30 - 00:00,,,blteb19169546332f9e,Chinese Cuisine,,2022-01-20
+PopCorn,Dining,xxx,Xiao Yu Hotpot Restaurant,渝味曉宇重慶老火鍋,G49, PopCorn 2 G,28132826,11:30 - 00:00,,,blteb19169546332f9e,Chinese Cuisine,,2022-01-20
+PopCorn,Shopping,139,Centaline Property,中原地產,G54, PopCorn 2 G,27011717,09:15 - 21:00,,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,219,cha FOR TEA,天仁喫茶趣,F01, PopCorn 1 L1,26388530,10:00 - 22:00,MTR Points Promotion,,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,126,Chow Sang Sang,周生生,G39, PopCorn 1 G,27585263,10:30 - 20:30,MTR Points Promotion,1,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,124,Chow Tai Fook,周大福,G36-37, PopCorn 1 G,26963918,11:00 - 21:00,MTR Points Promotion,1,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,64,CITY CHAIN,時間廊,F61-62, PopCorn 1 L1,27956198,11:00 - 21:00,MTR Points Promotion,1,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,151,CLINIQUE,CLINIQUE,G18, PopCorn 1 G,26986770,10:30 - 22:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,174,Colourmix,卡萊美,F103-105, PopCorn 2 L1,31265990,11:00 - 22:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,93,Comvita,康維他,F98, PopCorn 2 L1,29593111,10:00 - 21:00,MTR Points Promotion,1,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Shopping,287,Cookat Market,Cookat Market,G40, PopCorn 1 G,,11:30 - 20:30,,,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,178,csl. / HKT / 1010,香港電訊,F73, PopCorn 2 L1,25123123/28881010,11:00 - 21:30,MTR Points Promotion,,bltee680cec9e337eb7,Electronics & Telecommunications,,2022-01-20
+PopCorn,Shopping,189,Diamanti Per Tutti,Diamanti Per Tutti,G11, PopCorn 1 G,36909595,11:00 - 20:00,MTR Points Promotion,1,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,123,Dior Beauty,Dior Beauty,G35, PopCorn 1 G,27119345,11:00 - 22:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,85,DONQ / Mini One,DONQ / Mini One,F86, PopCorn 2 L1,27521045,08:00 - 21:30,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,252,Doughnut,Doughnut,Area B, PopCorn 2 L1,,,MTR Points Promotion,,bltb634628178cc276c,Shoes & Bags,,2022-01-20
+PopCorn,Shopping,88,Dr. Chow Pok Yu,周博裕醫生,F90, PopCorn 2 L1,31722609,08:30 - 13:30,,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,199,Elevatione,Elevatione,F19, PopCorn 1 L1,21210691,10:15 - 21:30,,,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,107,Estee Lauder,Estee Lauder,G17A, PopCorn 1 G,26986131,10:00 - 21:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,111,Extravaganza,Extravaganza,G21-22, PopCorn 1 G,35149141,11:00 - 21:00,MTR Points Promotion,1,bltb634628178cc276c,Shoes & Bags,,2022-01-20
+PopCorn,Shopping,170,FILA,FILA,F21-22, PopCorn 1 L1,26173633,10:30 - 21:00,MTR Points Promotion,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,181,Fortress,豐澤,F70, PopCorn 2 L1,25555788,11:30 - 22:00,MTR Points Promotion,1,bltee680cec9e337eb7,Electronics & Telecommunications,,2022-01-20
+PopCorn,Shopping,235,Francfranc,Francfranc,G10, PopCorn 1 G,26620656,11:00 - 21:00,MTR Points Promotion,1,blte1279928352458b5,Household,,2022-01-20
+PopCorn,Shopping,249,Gift & Take,Gift & Take,F43, PopCorn 1 L1,94686679,11:00 - 20:30,MTR Points Promotion,1,bltd6f918e01c94cbf7,"Gifts, Books & Stationery",,2022-01-20
+PopCorn,Shopping,175,Glycel,Glycel,F106-107, PopCorn 2 L1,26435088,11:00 - 21:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,24,Godiva Chocolatier,GODIVA Belgium 1926,F15, PopCorn 1 L1,27158036,11:00 - 21:00,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,221,Hair One,Hair One,F91, PopCorn 2 L1,26337180,10:00 - 20:30,MTR Points Promotion,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,132,Hallmark,Hallmark,G46, PopCorn 1 G,23503312,11:00 - 21:00,MTR Points Promotion,1,bltd6f918e01c94cbf7,"Gifts, Books & Stationery",,2022-01-20
+PopCorn,Shopping,243,Hanjin,韓剪,G55, PopCorn 2 G,,10:00 - 20:30,,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,194,HANNAH,HANNAH,F38-39, PopCorn 1 L1,23116333,11:00 - 21:00,MTR Points Promotion,1,bltb634628178cc276c,Shoes & Bags,,2022-01-20
+PopCorn,Shopping,218,Happy Fingers,Happy Fingers,G47, PopCorn 1 G,26146117/26146144,11:00 - 21:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,165,Idle Awhile,我想和你無所事事,F96, PopCorn 2 L1,27777052,11:00 - 21:30,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,7,Image Optical,潮流天地,F03, PopCorn 1 L1,26969948,11:00 - 21:30,MTR Points Promotion,1,blt23b22137f837059b,Optical,,2022-01-20
+PopCorn,Shopping,108,INGRID MILLET PARIS,INGRID MILLET PARIS,G17B, PopCorn 1 G,23190063,12:00 - 21:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,207,initial,initial,F14, PopCorn 1 L1,28853971,11:30 - 22:30,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,216,innisfree,innisfree,F77-78, PopCorn 2 L1,36210348,11:00 - 22:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,180,J SELECT,J SELECT,F56-58, PopCorn 1 L1,31803450,11:00 - 21:00,MTR Points Promotion,1,bltee680cec9e337eb7,Electronics & Telecommunications,,2022-01-20
+PopCorn,Shopping,66,Jack & Jones,Jack & Jones,F63-65, PopCorn 1 L1,21093877,11:00 - 22:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,242,JP Living Style,日系生活,F04, PopCorn 1 L1,25683203,10:00 - 21:30,MTR Points Promotion,,blte1279928352458b5,Household,,2022-01-20
+PopCorn,Shopping,6,Kee Wah Bakery,奇華餅家,F02, PopCorn 1 L1,27966808,08:00 - 21:30,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,121,KIEHL'S SINCE 1851,KIEHL'S SINCE 1851,G33, PopCorn 1 G,26820868,11:00 - 22:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,149,King's Wine Cellar,帝醇酒莊,G68, PopCorn 2 G,27285755,12:00 - 21:00,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,142,Kwong Fook Medicine,廣福藥業,G57, PopCorn 2 G,26236206,10:30 - 21:00,MTR Points Promotion,,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Shopping,118,L'OCCITANE EN PROVENCE,L'OCCITANE EN PROVENCE,G29, PopCorn 1 G,27600133,11:00 - 21:30,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,211,Lao Feng Xiang Jewellery,老鳳祥銀樓,G41, PopCorn 1 G,23688806,11:00 - 21:00,MTR Points Promotion,1,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,209,LEE,LEE,F51, PopCorn 1 L1,27762015,11:30 - 20:30,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,40,LENSCRAFTERS,亮視點,F34, PopCorn 1 L1,34683042,11:00 - 21:00,MTR Points Promotion,1,blt23b22137f837059b,Optical,,2022-01-20
+PopCorn,Shopping,239,Little Thing,Little Thing,F47, PopCorn 1 L1,91747371,11:30 - 21:30,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,113,LOG-ON,LOG-ON,G24, PopCorn 1 G,27363866,11:00 - 22:00,MTR Points Promotion,1,bltd6f918e01c94cbf7,"Gifts, Books & Stationery",,2022-01-20
+PopCorn,Shopping,76,LUKFOOK JEWELLERY,六福珠寶,F74, PopCorn 2 L1,27521020,10:00 - 20:30,MTR Points Promotion,1,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,230,Luna Cake,Luna Cake,G50E, PopCorn 2 G,59317381,12:00 - 21:30,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,106,M-CONCEPT,M-CONCEPT,G16, PopCorn 1 G,24916282,11:00 - 21:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,69,Mannings,萬寧,F66-67, PopCorn 1 L1,27157018,11:00 - 22:00,MTR Points Promotion,1,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Shopping,70,Mannings Baby,Mannings Baby,F68, PopCorn 2 L1,27521167,10:30 - 21:00,MTR Points Promotion,1,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Shopping,136,Market Place by Jasons,Market Place by Jasons,G51, PopCorn 2 G,27521029,08:00 - 23:00,MTR Points Promotion,1,bltf3b9116129962812,Supermarket,,2022-01-20
+PopCorn,Shopping,PoC005,MaskOn,MaskOn,F05, PopCorn 1 L1,,11:00 - 21:00,,,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Shopping,148,Max Choice,大棧,G67, PopCorn 2 G,39763885,10:00 - 20:00,MTR Points Promotion,,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Shopping,83,Meka,美康,F84, PopCorn 2 L1,24976081,10:00 - 21:30,MTR Points Promotion,1,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Shopping,168,melani di moda,melani di moda,F83, PopCorn 2 L1,31943548,11:00 - 21:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,226,Melvita,Melvita,G20, PopCorn 1 G,28996258,11:00 - 21:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,84,mfs,名果店,F85, PopCorn 2 L1,28702852,07:30 - 22:30,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,100,mi-tu,mi-tu,G08, PopCorn 1 G,25276913,11:00 - 20:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,137,Midland Realty,美聯物業,G52, PopCorn 2 G,29272345,09:30 - 23:00,,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,23,MIRABELL,MIRABELL,F07, PopCorn 1 L1,24071433,11:30 - 19:30,MTR Points Promotion,1,bltb634628178cc276c,Shoes & Bags,,2022-01-20
+PopCorn,Shopping,186,NAMCO,NAMCO,F111-112, PopCorn 2 L1,31089986,11:00 - 22:00,,1,blta0176c743684b13e,Entertainment,,2022-01-20
+PopCorn,Shopping,185,Nike,Nike,F52-54, PopCorn 1 L1,26989982,11:30 - 20:30,MTR Points Promotion,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,81,Okashi Land,零食物語,F82, PopCorn 2 L1,28827103,12:15 - 21:00,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,220,Olens,Olens,F33, PopCorn 1 L1,24518138,12:00 - 21:00,MTR Points Promotion,1,blt23b22137f837059b,Optical,,2022-01-20
+PopCorn,Shopping,59,Optical 88,眼鏡88,F55, PopCorn 1 L1,26790202,11:00 - 21:30,MTR Points Promotion,1,blt23b22137f837059b,Optical,,2022-01-20
+PopCorn,Shopping,73,OSIM,OSIM,F71, PopCorn 2 L1,27521256,11:00 - 22:00,MTR Points Promotion,1,bltee680cec9e337eb7,Electronics & Telecommunications,,2022-01-20
+PopCorn,Shopping,248,Pandora,Pandora,G32, PopCorn 1 G,,11:00 - 21:00,MTR Points Promotion,1,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,41,PIT,PIT,F35, PopCorn 1 L1,27988218,11:00 - 21:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,172,Playlord,Playlord,F31-32, PopCorn 1 L1,35430030,11:15 - 21:15,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,112,Porter International,Porter International,G23, PopCorn 1 G,35149141,11:00 - 21:00,MTR Points Promotion,1,bltb634628178cc276c,Shoes & Bags,,2022-01-20
+PopCorn,Shopping,228,Ricacorp Properties,利嘉閣,G63, PopCorn 2 G,23612033,09:00 - 21:30,,,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,166,ROCOCO,ROCOCO,F20, PopCorn 1 L1,22178128,11:00 - 22:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,251,Rolex & Tudor,Rolex & Tudor,G34, PopCorn 1 G,21923123,11:00 - 21:00,MTR Points Promotion,1,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,19,Sa Sa Cosmetic,莎莎,F108-110, PopCorn 2 L1,27521431,11:00 - 21:30,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,36,Salad,Salad,F29-30, PopCorn 1 L1,26189913,11:30 - 20:30,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,177,SECO,SECO,F59, PopCorn 1 L1,27550191,11:00 - 22:00,MTR Points Promotion,1,bltd6f918e01c94cbf7,"Gifts, Books & Stationery",,2022-01-20
+PopCorn,Shopping,10,Skechers,Skechers,F06, PopCorn 1 L1,27024768,10:00 - 22:00,MTR Points Promotion,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,26,SPORT b.,SPORT b.,F17, PopCorn 1 L1,25908222,11:00 - 20:30,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,99,STACCATO,STACCATO,G07, PopCorn 1 G,24071790,11:30 - 20:30,MTR Points Promotion,1,bltb634628178cc276c,Shoes & Bags,,2022-01-20
+PopCorn,Shopping,34,STAR CINEMA,STAR CINEMA,F24-26, PopCorn 1 L1,27069800,10:45 - 22:00,MTR Points Promotion,1,blta0176c743684b13e,Entertainment,,2022-01-20
+PopCorn,Shopping,247,Sugi Bee Garden,杉養蜂園,F87, PopCorn 2 L1,27721127,10:00 - 22:00,,,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,101,SUNCOO,SUNCOO,G09, PopCorn 1 G,25620138,11:00 - 21:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,117,THE BODY SHOP,THE BODY SHOP,G28, PopCorn 1 G,26682162,11:30 - 22:00,MTR Points Promotion,1,blt29a3855a202027f5,Beauty,,2022-01-20
+PopCorn,Shopping,63,The North Face,The North Face,F60, PopCorn 1 L1,27797900,11:00 - 22:00,MTR Points Promotion,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,53,Timberland,Timberland,F48, PopCorn 1 L1,28731718,10:00 - 22:00,MTR Points Promotion,1,blt9d3afe39a66a1b01,Sports,,2022-01-20
+PopCorn,Shopping,46,Topfeeling,Topfeeling,F40, PopCorn 1 L1,23070378,11:30 - 21:30,MTR Points Promotion,,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,92,Travel Expert,專業旅運,F97, PopCorn 2 L1,37002220,10:30 - 17:00,MTR Points Promotion,1,blt91711d1c309a8367,Services,,2022-01-20
+PopCorn,Shopping,80,TSL Jewellery,謝瑞麟,F79-81, PopCorn 2 L1,26183530,10:30 - 20:00,MTR Points Promotion,,bltb322754ce8057253,Watch & Jewellery,,2022-01-20
+PopCorn,Shopping,233,Twinkle Baker Decor,Twinkle Baker Decor,G42, PopCorn 1 G,22658131,11:00 - 20:30,MTR Points Promotion,1,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,94,UNIQLO,UNIQLO,F99-102, PopCorn 2 L1,27521457,11:00 - 22:00,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,156,VANS,VANS,F13, PopCorn 1 L1,23865852,11:00 - 22:00,MTR Points Promotion,1,bltb634628178cc276c,Shoes & Bags,,2022-01-20
+PopCorn,Shopping,232,Veeko,Veeko,F103-105, PopCorn 2 L1,23021887,11:00 - 21:30,MTR Points Promotion,1,bltd3938d2a906fee6b,Fashion,,2022-01-20
+PopCorn,Shopping,215,Venchi,Venchi,F36, PopCorn 1 L1,31010455,11:00 - 21:00,MTR Points Promotion,,blt8b8a59c8dc45dce2,Confectionary,,2022-01-20
+PopCorn,Shopping,159,WA ORiental TRaffic,WA ORiental TRaffic,F37, PopCorn 1 L1,29972788,11:00 - 22:00,MTR Points Promotion,1,bltb634628178cc276c,Shoes & Bags,,2022-01-20
+PopCorn,Shopping,141,Wan Hang,運亨參茸藥業,G56, PopCorn 2 G,31152138,10:00 - 21:30,,,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Shopping,74,Wilson Communications,衛訊電訊,F72, PopCorn 2 L1,27521188,11:00 - 22:00,MTR Points Promotion,1,bltee680cec9e337eb7,Electronics & Telecommunications,,2022-01-20
+PopCorn,Shopping,147,Wing Wah Dispensary,榮華蔘茸中西藥房,G64-66, PopCorn 2 G,27521226,10:00 - 22:00,MTR Points Promotion,,bltafe1d7a9fee3d300,Health Products & Personal Care,,2022-01-20
+PopCorn,Dining,105,agnes b. CAFE,agnes b. CAFE,G14, PopCorn 1 G,24851168,11:00 - 21:00,MTR Points Promotion,1,blt9b3a132d606d14f2,Cafes & Fast Food,,2022-01-20
+PopCorn,Dining,245,ASAM Chicken Rice,亞參雞飯,G05-06, PopCorn 1 G,23990102,11:00 - 21:30,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
+PopCorn,Dining,164,Beans The Backyard,荳子,F95, PopCorn 2 L1,27777009,08:00 - 22:00,MTR Points Promotion,1,blt9b3a132d606d14f2,Cafes & Fast Food,,2022-01-20
+PopCorn,Dining,155,BURGER REPUBLIC @ STAR CINEMA,BURGER REPUBLIC @ STAR CINEMA,F24-26, PopCorn 1 L1,25681199,11:30 - 22:00,MTR Points Promotion,1,blt450ca033ef0a0c3f,Western Delicacy,,2022-01-20
+PopCorn,Dining,227,Butao Ramen,豚王,G25, PopCorn 1 G,31891200,11:30 - 22:00,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
+PopCorn,Dining,222,Cafe de Coral,大家樂,G50A, PopCorn 2 G,27800188,07:00 - 21:30,MTR Points Promotion,,blt9b3a132d606d14f2,Cafes & Fast Food,,2022-01-20
+PopCorn,Dining,13,Crystal Jade La Mian Xiao Long Bao / Chiu Chow Kitchen,翡翠拉麵小籠包 / 翡翠潮州小廚,F09, PopCorn 1 L1,26733108,11:00 - 21:00,MTR Points Promotion,1,blteb19169546332f9e,Chinese Cuisine,,2022-01-20
+PopCorn,Dining,169,Hong Kong Day,香港地,F69, PopCorn 2 L1,22764541,07:00 - 21:30,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
+PopCorn,Dining,145,KFC,肯德基,G61-62, PopCorn 2 G,27521200,07:00 - 23:00,MTR Points Promotion,1,blt9b3a132d606d14f2,Cafes & Fast Food,,2022-01-20
+PopCorn,Dining,223,Mixian Sense,米線陣,G50B, PopCorn 2 G,27088897,07:30 - 21:00,MTR Points Promotion,1,blteb19169546332f9e,Chinese Cuisine,,2022-01-20
+PopCorn,Dining,190,Nha Trang,芽莊,F18, PopCorn 1 L1,23361333,11:30 - 22:30,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
+PopCorn,Dining,229,Odelice!,Odelice!,F23, PopCorn 1 L1,25202268,11:00 - 22:00,MTR Points Promotion,1,blt450ca033ef0a0c3f,Western Delicacy,,2022-01-20
+PopCorn,Dining,35,Paper Stone Bakery,Paper Stone Bakery,F27-28, PopCorn 1 L1,21470378,07:30 - 21:30,MTR Points Promotion,1,blt9b3a132d606d14f2,Cafes & Fast Food,,2022-01-20
+PopCorn,Dining,95,Praise House Congee and Noodle Cuisine,譽居,G01-04, PopCorn 1 G,27998821,07:00 - 23:30,MTR Points Promotion,1,blteb19169546332f9e,Chinese Cuisine,,2022-01-20
+PopCorn,Dining,163,Putien,莆田,F94, PopCorn 2 L1,21118778,10:00 - 22:00,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
+PopCorn,Dining,225,Shanghai Lao Lao,上海姥姥,G50D, PopCorn 2 G,27929828,11:30 - 22:00,MTR Points Promotion,1,blteb19169546332f9e,Chinese Cuisine,,2022-01-20
+PopCorn,Dining,171,simplylife,simplylife,G43-45, PopCorn 1 G,27795311,11:00 - 23:00,MTR Points Promotion,1,blt450ca033ef0a0c3f,Western Delicacy,,2022-01-20
+PopCorn,Dining,50,STARBUCKS COFFEE,星巴克,F45-46, PopCorn 1 L1,25672851,07:00 - 22:00,MTR Points Promotion,1,blt9b3a132d606d14f2,Cafes & Fast Food,,2022-01-20
+PopCorn,Dining,213,Sushi Senju,鮨千寿,F16, PopCorn 1 L1,27691777,11:30 - 22:30,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
+PopCorn,Dining,14,Taisyou,大將,F10, PopCorn 1 L1,26683370,11:30 - 23:00,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
+PopCorn,Dining,116,TeaWood Taiwanese Cafe & Restaurant,茶木‧台式休閒餐廳,G26-27, PopCorn 1 G,26019811,11:30 - 22:30,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
+PopCorn,Dining,G50C,The Spaghetti House,意粉屋,G50C, PopCorn 2 G,29869938,12:00 - 22:30,MTR Points Promotion,1,blt450ca033ef0a0c3f,Western Delicacy,,2022-01-20
+PopCorn,Dining,109,Toast Box,土司工坊,G19, PopCorn 1 G,21041311,08:00 - 22:00,MTR Points Promotion,1,blt195962e76c4d81f4,Asian Flavours,,2022-01-20
