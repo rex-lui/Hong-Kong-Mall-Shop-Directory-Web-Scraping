@@ -1,0 +1,191 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+Elements,Shopping,prada,PRADA,PRADA,2062A-63A,Metal  2F,21968981,"Mon - Sun, PH 11:00 - 20:00",,1.0,Fashion,Fashion,,2022-01-20
+Elements,Shopping,miu-miu,Miu Miu,Miu Miu,2034-35,Metal  2F,21968621,"Mon - Sun, PH 11:00 - 20:00",,1.0,Fashion,Fashion,,2022-01-20
+Elements,Shopping,loro-piana,LORO PIANA,LORO PIANA,2010,Earth  2F,39040860,Mon - Sun 10:00 - 20:00,,1.0,Fashion,Fashion,,2022-01-20
+Elements,Shopping,hogan,HOGAN,HOGAN,1071,Earth  1F,21968908,Mon - Sun 10:30 - 20:00,,1.0,Fashion,Fashion,,2022-01-20
+Elements,Shopping,roger-vivier,Roger Vivier,Roger Vivier,1065,Metal  1F,28983960,"Mon - Sun, PH 10:30 - 20:00",,1.0,Fashion,Fashion,,2022-01-20
+Elements,Shopping,burberry,Burberry,Burberry,1034-37,Metal  1F,27350039,Mon - Sun 11:00 - 20:00,,1.0,Fashion,Fashion,,2022-01-20
+Elements,Shopping,gucci-timepiecesandjewelry,GUCCI Timepieces & Jewelry,GUCCI Timepieces & Jewelry,1009A,Earth  1F,39745583,"Mon - Sun, PH 11:00 - 20:00",,1.0,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,fendi,FENDI,FENDI,2016-17,Metal  2F,21968259,"Mon - Sun, PH 11:00 - 20:00",,1.0,Fashion,Fashion,,2022-01-20
+Elements,Shopping,dior,DIOR,DIOR,2092-97,Earth  2F,28135955,Mon - Sun 11:00 - 20:00,,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,gucci,GUCCI,GUCCI,2064,Metal  2F,21968088,"Mon - Sun, PH 11:00 - 20:00",,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,chaumet,CHAUMET,CHAUMET,2022-23,Metal  2F,21968668,Mon - Sun 11:00 - 20:00,,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,fendi-men,FENDI MEN,FENDI MEN,2015,Earth  2F,21463422,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,ports-1961,PORTS 1961,PORTS 1961,1063,Metal  1F,24681961,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,tiffany-and-co,Tiffany & Co.,Tiffany & Co.,1038-39,Metal  1F,21968500,"Mon - Sun, PH 11:00 - 20:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,alexander-mcqueen,Alexander McQueen,Alexander McQueen,1021-21A,Metal  1F,26493098,Mon - Sun 10:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,louisvuitton,LOUIS VUITTON,LOUIS VUITTON,1020A,Metal  1F,81001182,"Mon - Sun, PH 11:00 - 20:00",,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,louis-vuitton,LOUIS VUITTON,LOUIS VUITTON,2048-55,Metal  2F,81001182,"Mon - Sun, PH 11:00 - 20:00",,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,ba-and-sh,ba&sh,ba&sh,1011-12,Earth  1F,37934052,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,qeelin,Qeelin,Qeelin,1009C,Earth  1F,23602863,"Mon - Sun, PH 10:30 - 20:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,pomellato,POMELLATO,POMELLATO,1009B,Earth  1F,27501096,"Mon - Sun, PH 10:30 - 19:30",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,balenciaga,BALENCIAGA,BALENCIAGA,1025-26,Metal  1F,26287676,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,osim,OSIM,OSIM,2129,Fire  2F,28175488,"Mon - Sun, PH 11:30 - 20:30",,1,Audio-Visual / Electronics Appliance,Audio-Visual / Electronics Appliance,,2022-01-20
+Elements,Shopping,dior-beauty,DIOR BEAUTY,DIOR BEAUTY,2113,Wood  2F,27355268,"Mon - Sun, PH 10:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,rimowa,RIMOWA,RIMOWA,1069-70,Earth  1F,27899300,"Mon - Sun, PH 11:00 - 20:00",,1,Travel Accessories,Travel Accessories,,2022-01-20
+Elements,Shopping,mac,M.A.C,M.A.C,2110-11,Wood  2F,21968050,Mon - Sun 11:00 - 20:00,,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,chanel-beaute,CHANEL BEAUTÉ,CHANEL BEAUTÉ,2101,Wood  2F,21968289,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,7-for-all-mankind,7 For All Mankind,7 For All Mankind,1007A,Fire  1F,27229397,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,cartier,Cartier,Cartier,2057-59,Metal  2F,81055008,"Mon - Sun, PH 11:30 - 19:30",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,saint-laurent,Saint Laurent,Saint Laurent,2098,Earth  2F,24621313,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,jo-malone-london,Jo Malone London,Jo Malone London,2116,Wood  2F,28610390,Mon - Sun 11:00 - 20:00,,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,la-prairie,La Prairie,La Prairie,2115,Wood  2F,22657371,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,estee-lauder,Estée Lauder,Estée Lauder,2110-11,Wood  2F,21968493,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,bobbi-brown,Bobbi Brown,Bobbi Brown,2110-11,Wood  2F,21968408,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,chanel,CHANEL,CHANEL,2089-91,Metal  2F,27558180,"Mon - Sun, PH 12:00 - 20:00",,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,damiani,DAMIANI,DAMIANI,2009,Fire  2F,21968798,Mon - Sun 11:00 - 19:30,,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,iwc,IWC,IWC,2008B,Fire  2F,21968639,Mon - Sun 11:00 - 19:00,,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,brioni,Brioni,Brioni,2007 & 2008A,Fire  2F,27791508,Mon - Sun 11:00 - 19:30,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,sk-ii,SK-II,SK-II,1079,Wood  1F,29071512,Mon - Sun 11:00 - 20:00,,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,origins,Origins,Origins,1078,Wood  1F,21968423,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,clinique,CLINIQUE,CLINIQUE,1078,Wood  1F,21968480,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,sauvereign,SAUVEREIGN,SAUVEREIGN,1064,Metal  1F,24062338,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,zara-men,Zara Men,Zara Men,1056-57,Wood  1F,21968970,"Mon - Sun, PH 10:00 - 20:00",,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,zara-women,Zara Women,Zara Women,1051-54,Water  1F,21968970,"Mon - Sun, PH 10:00 - 20:00",,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,vivienne-tam,VIVIENNE TAM,VIVIENNE TAM,1049A,Water  1F,23859318,"Mon - Thu 11:00 - 20:30Fri - Sun, PH 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,swarovski,Swarovski,Swarovski,1007,Fire  1F,23213831,Mon - Sun 11:00 - 20:00,,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,sportmax,SPORTMAX,SPORTMAX,2100A,Wood  2F,27223136,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,tory-burch,TORY BURCH,TORY BURCH,1066-67,Earth  1F,26612988,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,max-and-co,MAX&Co.,MAX&Co.,2080,Wood  2F,27229620,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,kiehls,Kiehl's,Kiehl's,1087,Wood  1F,21968348,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,fancl,FANCL,FANCL,1091B,Wood  1F,31858317,"Mon - Sun, PH 11:00 - 21:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,dolce-and-gabbana,DOLCE & GABBANA,DOLCE & GABBANA,2028-29,Metal  2F,27519188,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,bvlgari,BVLGARI,BVLGARI,2040,Metal  2F,21968228,"Mon - Sun, PH 11:00 - 19:30",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,armani,Armani,Armani,2102,Wood  2F,21968261,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,ysl-beaute,YSL Beauté,YSL Beauté,2117,Wood  2F,31924338,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,wolford,Wolford,Wolford,2109,Wood  2F,31686864,"Mon - Sun, PH 10:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,salvatore-ferragamo,Salvatore Ferragamo,Salvatore Ferragamo,2086-88,Metal  2F,21968031,"Mon - Sun, PH 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,brunello-cucinelli,Brunello Cucinelli,Brunello Cucinelli,2011-12,Earth  2F,24281976,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,blaack,BLAACK,BLAACK,1007B,Fire  1F,23409428,"Mon - Thu, Sun 11:00 - 20:00Fri, Sat 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,boss,BOSS,BOSS,1041,Metal  1F,27302566,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,anagram,anagram,anagram,1048,Water  1F,24682401,"Mon - Fri 11:00 - 20:00Sat, Sun, PH 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,lancome,Lancôme,Lancôme,2112,Wood  2F,21968321,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,chopard,Chopard,Chopard,2056,Metal  2F,25662133,"Mon - Sun, PH 11:00 - 18:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,de-beers,De Beers,De Beers,2040A,Metal  2F,23288895,Mon - Sun 11:00 - 19:00,,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,loccitane,L'Occitane,L'Occitane,1094,Wood  1F,28921683,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,brooks-brothers,Brooks Brothers,Brooks Brothers,1068,Earth  1F,26738703,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,evisu,EVISU,EVISU,1049B,Water  1F,27851011,Mon - Thu 11:30 - 21:00Fri - Sun 12:00 - 21:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,il-colpo-nail,IL COLPO nail,IL COLPO nail,1000,Fire  1F,21968363,Temporary closure until further notice,,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,moiselle,MOISELLE,MOISELLE,2077,Wood  2F,25246131,Mon - Thu 11:00 - 20:30Fri - Sun 11:00 - 21:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,chloe,Chloé,Chloé,2099,Earth  2F,24542838,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,baccarat,Baccarat,Baccarat,1040,Metal  1F,27392378,Mon - Sun 11:00 - 20:00,,1,"Arts, Home and Gifts","Arts, Home and Gifts",,2022-01-20
+Elements,Shopping,prince-jewellery-and-watch,Prince Jewellery & Watch,Prince Jewellery & Watch,1098-99 & 2122,Fire  1F,23011112,"Mon - Sun, PH 10:30 - 20:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,ascot-chang,Ascot Chang,Ascot Chang,2005A,Fire  2F,21968438,Mon - Sun 10:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,daks,DAKS,DAKS,2106-07,Wood  2F,21968151,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,cocktail,Cocktail,Cocktail,1083,Wood  1F,21968628,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,anteprima,ANTEPRIMA,ANTEPRIMA,2067,Water  2F,21968608,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,parfumerie-tresor-sensory-vault,Parfumerie Trésor - Sensory Vault,Parfumerie Trésor - 香氣寶庫,2078,Wood  2F,65100922,Mon - Sun 11:00 - 20:00,,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,maryling,MARYLING,MARYLING,1060,Metal  1F,28366866,"Mon - Sun, PH 10:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,puma-select,PUMA SELECT,PUMA SELECT,1075,Earth  1F,23222738,"Mon - Sun, PH 11:00 - 20:00",,1,All Great Sports,All Great Sports,,2022-01-20
+Elements,Shopping,glasstique,Glasstique,Glasstique,1023-24,Metal  1F,27304388,Mon - Sun 11:00 - 20:00,,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,hermes,HERMÈS,HERMÈS,1032,Metal  1F,21968028,"Mon - Sun, PH 10:30 - 21:00 (Opening time on 31 Dec 10:30 - 18:30)",,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,tumi,TUMI,TUMI,2127,Fire  2F,21684100,"Mon - Sun, PH 11:00 - 20:00",,1,Travel Accessories,Travel Accessories,,2022-01-20
+Elements,Shopping,sisley-paris,Sisley Paris,Sisley Paris,2101A,Wood  2F,29979368,Mon - Sun 11:00 - 21:00,,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,le-fiori,Le Fiori,Le Fiori,1077-77A,Wood  1F,96293728,Mon - Sun 11:00 - 21:00,,1,"Arts, Home and Gifts","Arts, Home and Gifts",,2022-01-20
+Elements,Shopping,gigasports,GigaSports,GigaSports,2074-76,Water  2F,27209368,Mon - Sun 11:30 - 20:30,,1,All Great Sports,All Great Sports,,2022-01-20
+Elements,Shopping,j-lindeberg,J.LINDEBERG,J.LINDEBERG,2004,Fire  2F,28810127,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,hobbs,Hobbs,Hobbs,1088,Wood  1F,39745630,Mon - Sun 11:00 - 21:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,emporio-armani,EMPORIO ARMANI,EMPORIO ARMANI,2083-85,Metal  2F,21968384,"Mon - Sun, PH 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,ecco,ECCO,ECCO,1046,Water  1F,23616538,"Mon - Sun, PH 11:30 - 20:30",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,diesel,DIESEL,DIESEL,1076,Earth  1F,21968445,"Mon - Sun, PH 11:30 - 20:30",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,prince-jewellery,Prince Jewellery,Prince Jewellery,1101,Fire  1F,36117767,"Mon - Sun, PH 10:30 - 20:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,puyi-optical,Puyi Optical,Puyi Optical,2119-20,Wood  2F,21776728,"Mon - Sun, PH 11:00 - 20:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,churchs,Church's,Church's,2006,Fire  2F,21968452,Mon - Sun 10:00 - 21:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,sandro,Sandro,Sandro,1062,Metal  1F,23203378,"Mon - Sun, PH 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,shanghai-tang,Shanghai Tang,Shanghai Tang,1022,Metal  1F,21968200,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,shiatzy-chen,SHIATZY CHEN,SHIATZY CHEN,2065,Water  2F,27716238,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,the-marc-jacobs,The Marc Jacobs,The Marc Jacobs,1042-43,Metal  1F,31010801,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,bora-aksu,BORA AKSU,BORA AKSU,2066,Water  2F,39070707,Mon - Sun 10:00 - 21:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,berluti,Berluti,Berluti,2123-26,Fire  2F,26188007,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,fresh,Fresh,Fresh,1089A,Wood  1F,23279211,"Mon - Sun, PH 11:00 - 20:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,tse,TSE,TSE,2108,Wood  2F,27246303,"Mon - Sun, PH 11:00 - 20:30",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,y-3,Y-3,Y-3,1055,Wood  1F,26176168,"Mon - Sun, PH 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,piaget,Piaget,Piaget,2020,Metal  2F,21968402,"Mon - Sun, PH 11:00 - 19:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,peonia,Peonia,Peonia,2045,Metal  2F,23276601,"Mon - Sun, PH 11:00 - 19:30",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,paul-and-shark,Paul&Shark,Paul&Shark,2121,Wood  2F,21968241,"Mon - Thu, Sun 11:00 - 20:30Fri, Sat 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,moschino,MOSCHINO,MOSCHINO,1058,Metal  1F,27950178,"Mon - Sun, PH 10:30 - 20:30",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,montblanc,Montblanc,Montblanc,1074,Earth  1F,21968788,"Mon - Sun, PH 11:00 - 20:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,beyorg-beyond-organic,BEYORG® | Beyond Organic,BEYORG® | Beyond Organic,2118,Wood  2F,21274800,"Mon - Sun, PH 10:00 - 20:30",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,max-mara,Max Mara,Max Mara,2081-82,Wood  2F,27229684,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,maje,Maje,Maje,1061,Metal  1F,26567311,"Mon - Sun, PH 11:00 - 21:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,loewe,Loewe,Loewe,1031,Metal  1F,21968611,"Mon - Sun, PH 11:00 - 19:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,aigle,AIGLE,AIGLE,1103,Fire  1F,21968698,Mon - Sun 11:00 - 20:30,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,lululemon,lululemon,lululemon,1084-85,Wood  1F,27025338,Mon - Sun 11:00 - 21:00,,1,All Great Sports,All Great Sports,,2022-01-20
+Elements,Shopping,franck-muller,FRANCK MULLER,FRANCK MULLER,2037A,Metal  2F,61123197,"Mon - Sun, PH 11:00 - 19:30",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,valentino,VALENTINO,VALENTINO,2025-27,Metal  2F,21968662,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,tasaki,TASAKI,TASAKI,2038-38A,Metal  2F,28990821,Mon - Sun 10:30 - 19:30,,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,sergio-rossi,Sergio Rossi,Sergio Rossi,1015-16,Earth  1F,26706028,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,samsonite,Samsonite,Samsonite,1102B,Fire  1F,21968126,"Mon - Sun, PH 11:00 - 20:00",,1,Travel Accessories,Travel Accessories,,2022-01-20
+Elements,Shopping,moncler,MONCLER,MONCLER,2039,Metal  2F,27109886,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,mikimoto,Mikimoto,Mikimoto,2041,Metal  2F,21968570,"Mon - Sun, PH 11:00 - 20:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,lenscrafters,LensCrafters,LensCrafters,1102A,Fire  1F,21968233,"Mon - Sun, PH 11:00 - 20:30",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,kenzo,KENZO,KENZO,1059,Metal  1F,37912033,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,fred,FRED,FRED,2021,Metal  2F,29156618,Mon - Sun 11:00 - 20:00,,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,fortress,Fortress,Fortress,1050B,Water  1F,21968252,"Mon - Sun, PH 11:00 - 21:00",,1,Audio-Visual / Electronics Appliance,Audio-Visual / Electronics Appliance,,2022-01-20
+Elements,Shopping,ermenegildo-zegna,Ermenegildo Zegna,Ermenegildo Zegna,2024,Metal  2F,28054213,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,dyson,Dyson,Dyson,1093,Wood  1F,31803004,"Mon - Sun, PH 11:00 - 21:00",,1,Audio-Visual / Electronics Appliance,Audio-Visual / Electronics Appliance,,2022-01-20
+Elements,Shopping,dunhill,dunhill,dunhill,1072,Earth  1F,26573088,"Mon - Sun, PH 11:00 - 20:00",,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,corum,Corum,Corum,2037,Metal  2F,27708803,"Mon - Sun, PH 11:00 - 19:30",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,calvin-klein-jeans-and-calvin-klein-underwear,Calvin Klein Jeans and Calvin Klein Underwear,Calvin Klein Jeans and Calvin Klein Underwear,2071,Water  2F,21968696,Mon - Thu 11:00 - 20:30Fri - Sun 11:00 - 21:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,bottega-veneta,BOTTEGA VENETA,BOTTEGA VENETA,2060A-61A,Metal  2F,21968787,Mon - Sun 11:00 - 20:00,,1,Fashion,Fashion,,2022-01-20
+Elements,Shopping,apm-monaco,APM Monaco,APM Monaco,1096,Wood  1F,23968611,"Mon - Sun, PH 11:00 - 20:00",,1,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,iot-by-hkt,io.t by HKT,io.t by HKT,2001A,Fire  2F,28888233,"Mon - Thu 11:00 - 21:30Fri - Sun, PH 10:30 - 22:00",,,Audio-Visual / Electronics Appliance,Audio-Visual / Electronics Appliance,,2022-01-20
+Elements,Shopping,henry-jacques,HENRY JACQUES,HENRY JACQUES,2036A & 2042,Metal  2F,24661688,Mon - Sun 10:30 - 19:30,,,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,richard-mille,RICHARD MILLE,RICHARD MILLE,2036 & 2036B,Metal  2F,24661268,"Mon - Sun, PH 10:30 - 19:30",,,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,tudor,TUDOR,TUDOR,1100,Fire  1F,27960778,"Mon - Sun, PH 11:00 - 18:00",,,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,rolex,ROLEX,ROLEX,1018,Metal  1F,27306388,"Mon - Sun, PH 11:00 - 18:00",,,Jewelry and Accessories,Jewelry and Accessories,,2022-01-20
+Elements,Shopping,mannings,Mannings,Mannings,1092,Wood  1F,21968125,"Mon - Sun, PH 10:00 - 22:00",,1,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,beijing-hair-culture,Beijing Hair Culture,Beijing Hair Culture,2114,Wood  2F,23666208,"Mon - Sun, PH 11:00 - 20:00",,,Personal Care and Beauty,Personal Care and Beauty,,2022-01-20
+Elements,Shopping,moynat,MOYNAT,MOYNAT,1017,Metal  1F,27108818,"Mon - Sun, PH 10:00 - 21:00",,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,celine,CELINE,CELINE,2013-13A,Earth  2F,25014668,Mon - Sun 11:00 - 20:00,,,Fashion,Fashion,,2022-01-20
+Elements,Shopping,standard-chartered-bank,Standard Chartered Bank,Standard Chartered Bank,2030-31,Metal  2F,23758293,Mon - Fri 10:00 - 17:00Sat 10:00 - 13:00,,,At Your Service,At Your Service,,2022-01-20
+Elements,Shopping,hsbc-premier-centre,HSBC Premier Centre,HSBC Premier Centre,1104-05,Fire  1F,22333000,Mon - Fri 09:00 - 16:00Sat 09:00 - 12:00,,,At Your Service,At Your Service,,2022-01-20
+Elements,Shopping,the-rink-ice-rink,The Rink Ice Rink,The Rink 溜冰場,G001,Fire  GF,21968016,Temporary closure until further notice,,,Entertainment,Entertainment,,2022-01-20
+Elements,Shopping,premiere-cinemas,PREMIERE CINEMAS,PREMIERE 戲院,2130,Fire  2F,23880002,Temporary closure until further notice,,,Entertainment,Entertainment,,2022-01-20
+Elements,Shopping,polyhealth-medical-centre,POLYHEALTH Medical Centre,POLYHEALTH Medical Centre,1107,Fire  1F,27767029,"6, 20, 28 Nov 10:00 - 13:00;  10 Nov 17:00 - 20:00",,,At Your Service,At Your Service,,2022-01-20
+Elements,Shopping,bank-of-china-hong-kong,Bank of China (Hong Kong),Bank of China (Hong Kong),1003-04,Fire  1F,27767029,"6, 20, 28 Nov 10:00 - 13:00;  10 Nov 17:00 - 20:00",,,At Your Service,At Your Service,,2022-01-20
+Elements,Shopping,the-bank-of-east-asia,The Bank of East Asia,The Bank of East Asia,1002,Fire  1F,36092422,Mon - Fri 09:00 - 16:00Sat 09:00 - 12:00,,,At Your Service,At Your Service,,2022-01-20
+Elements,Shopping,mainland-coaches,Mainland Coaches,跨境巴士站,1F,Fire  1F,27353525,Temporary closure until further notice,,,At Your Service,At Your Service,,2022-01-20
+Elements,Dining,dim-sum-library,Dim Sum Library,Dim Sum Library,1028B,Water  1F,28100898,Mon - Sun 10:30 - 18:00,,1,Chinese Cuisine,Chinese Cuisine,,2022-01-20
+Elements,Dining,obihiro-hageten,OBIHIRO HAGETEN,OBIHIRO HAGETEN,2103-05,Wood  2F,21968310,"Mon - Sun, PH 11:30 - 21:00 (Takeaway only from 18:00)",,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,iza-izakaya,IZA Izakaya,IZA Izakaya,R011,Metal  RF,25221800,"Mon - Sun, PH 12:00 - 21:00 (Takeaway only from 18:00)",,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,glassbelly-tea-lab,GLASSBELLY TEA LAB,GLASSBELLY TEA LAB,2003,Fire  2F,54361583,Mon - Sun 11:00 - 18:00,,1,Supermarkets & Gourmet,Supermarkets & Gourmet,,2022-01-20
+Elements,Dining,prince-restaurant,Prince Restaurant,王子飯店,1028C,Water  1F,25774888,"Mon - Sat 11:00 - 19:00 Sun, PH 10:00 - 19:00 (Takeaway only from 18:00)",,1,Chinese Cuisine,Chinese Cuisine,,2022-01-20
+Elements,Dining,ramen-jo,Ramen-Jo,Ramen-Jo,1030,Water  1F,21968208,Shop will be closed for renovation from now until further notice,,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,stormies,Stormies,Stormies,R005-07,Metal  RF,21968098,Mon - Sun 12:00 - 20:00 (Takeaway only from 18:00),,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,pivo-czech-bar,Pivo Czech Bar,Pivo Czech Bar,R004,Metal  RF,21968733,Mon - Sun 12:00 - 17:00,,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,cafe-deco-pizzeria,Cafe Deco Pizzeria,Cafe Deco Pizzeria,2133,Fire  2F,21968099,Mon - Sun 11:30 - 21:00 (Takeaway only from 18:00),,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,pho-dle-bar,pho.dle.bar,pho.dle.bar,2132,Fire  2F,21968175,Mon - Sun 11:30 - 17:00,,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,tea-wg,Tea WG,Tea WG,1095,Wood  1F,23639683,"Mon - Sun, PH 10:00 - 21:00",,1,Supermarkets & Gourmet,Supermarkets & Gourmet,,2022-01-20
+Elements,Dining,reign,REIGN,尚鮑 REIGN,1097A,Wood  1F,28331997,Mon - Sun 11:00 - 20:30,,1,Supermarkets & Gourmet,Supermarkets & Gourmet,,2022-01-20
+Elements,Dining,haagen-dazs,Häagen-Dazs™,Häagen-Dazs™,1106,Fire  1F,21968328,"Mon - Sun, PH 12:00 - 20:00 (Takeaway only from 18:00)",,1,Sweet & Confectionary,Sweet & Confectionary,,2022-01-20
+Elements,Dining,nespresso,Nespresso,Nespresso,1089B,Wood  1F,81011007,"Mon - Sun, PH 11:00 - 20:00",,1,Supermarkets & Gourmet,Supermarkets & Gourmet,,2022-01-20
+Elements,Dining,sen-ryo,sen-ryo,千両,2002,Fire  2F,21968209,"Mon - Fri 11:30 - 21:30 Sat - Sun, PH 11:00 - 21:30 (Takeaway only from 18:00)",,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,mango-tree,Mango Tree,Mango Tree,2032-33,Metal  2F,26684884,"Mon - Sun, PH 11:00 - 21:00 (Takeaway only from 18:00)",,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,monsoon-oriental-cuisine,MONSOON Oriental Cuisine,MONSOON Oriental Cuisine,1044-45,Water  1F,25110100,"Mon - Sun, PH 11:00 - 18:00",,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,dab-pa-peking-and-szechuan-cuisine,Dab-pa Peking & Szechuan Cuisine,稻成亞丁京川料理,1047,Water  1F,21968699,"Mon - Sun, PH 11:30 - 21:00 (Takeaway only from 18:00)",,1,Chinese Cuisine,Chinese Cuisine,,2022-01-20
+Elements,Dining,fairwood,Fairwood,Fairwood,G002-03,Fire  GF,28564460,"Mon - Sun, PH 07:00 - 20:00 (Takeaway only from 18:00)",,,Café & Deli,Café & Deli,,2022-01-20
+Elements,Dining,le-salon-de-the-de-joel-robuchon,LE SALON DE THÉ de Joël Robuchon,LE SALON DE THÉ de Joël Robuchon,1020B,Metal  1F,23516678,Mon - Fri 08:00 - 19:30 Sat - Sun 09:00 - 19:30 (Takeaway only from 18:00),,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,the-pond,THE POND,魚塘鴨子,R002-03,Metal  RF,22582278,"Mon - Sun, PH 11:30 - 22:00 (Takeaway only from 18:00)",,1,Chinese Cuisine,Chinese Cuisine,,2022-01-20
+Elements,Dining,district-8,District 8,District 8,R009,Metal  RF,25377555,"Sat-Thur, PH 08:15 - 20:00 Fri 08:15 - 22:00 (Takeaway only from 18:00)",,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,joia,Joia,Joia,R010,Metal  RF,23822323,"Mon - Sun, PH 12:00 - 21:30 (Takeaway only from 18:00)",,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,tango-argentinian-steak-house,TANGO Argentinian Steak House,TANGO Argentinian Steak House,R008,Metal  RF,27801181,"Mon - Sun, PH 12:00 - 18:00",,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,starbucks-coffee,Starbucks Coffee,Starbucks Coffee,2100B,Wood  2F,26970533,"Mon - Fri 07:00 - 22:00 Sat, Sun, PH 08:00 - 22:00 (Takeaway only from 18:00)",,1,Café & Deli,Café & Deli,,2022-01-20
+Elements,Dining,lei-garden,Lei Garden,利苑,2068-70,Water  2F,21968133,Mon - Sun 11:30 - 15:30,,1,Chinese Cuisine,Chinese Cuisine,,2022-01-20
+Elements,Dining,yakiniku-kagura,Yakiniku KAGURA,Yakiniku KAGURA,1086,Wood  1F,26823913,"Mon - Sun, PH 11:30 - 22:00 (Takeaway only from 18:00)",,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,tasty-congee-and-noodle-wantun-shop,Tasty Congee & Noodle Wantun Shop,正斗粥麵專家,1080-82,Wood  1F,23272628,"Mon - Sun, PH 11:00 - 22:00 (Takeaway only from 18:00)",,1,Chinese Cuisine,Chinese Cuisine,,2022-01-20
+Elements,Dining,tian-tian-hainanese-chicken-rice,Tian Tian Hainanese Chicken Rice,天天海南雞飯,1050A,Water  1F,31082182,"Mon - Sun, PH 11:30 - 21:00 (Takeaway only from 18:00)",,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,pak-loh-chiu-chow-restaurant,PAK LOH CHIU CHOW RESTAURANT,百樂潮州酒家,1028D,Water  1F,36919168,"Mon - Fri 11:00 - 21:00 Sat - Sun, PH 10:00 - 21:00 (Takeaway only from 18:00)",,1,Chinese Cuisine,Chinese Cuisine,,2022-01-20
+Elements,Dining,the-night-market,The Night Market,The Night Market,1028A,Water  1F,28072292,"Mon - Sun, PH 11:30 - 21:30 (Takeaway only from 18:00)",,1,Asian Cuisine,Asian Cuisine,,2022-01-20
+Elements,Dining,moments-together,Moments Together,十里湘薈,1008,Fire  1F,23372883,Mon - Sun 11:30 - 21:30 (Takeaway only from 18:00),,1,Chinese Cuisine,Chinese Cuisine,,2022-01-20
+Elements,Dining,shake-shack,Shake Shack,Shake Shack,1005-06,Fire  1F,27198282,Mon - Thu 11:30 - 21:30 Fri - Sun 11:00 - 22:00 (Takeaway only from 18:00),,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,habitu-table,HABITŪ table,HABITŪ table,1001,Fire  1F,21968466,Mon - Sun 10:30 - 21:30 (Takeaway only from 18:00),,1,Café & Deli,Café & Deli,,2022-01-20
+Elements,Dining,king-fong,King Fong,瓊芳冰廳,G004,Fire  GF,28666760,"Mon - Sun, PH 07:30 - 22:00 (Takeaway only from 18:00)",,1,Café & Deli,Café & Deli,,2022-01-20
+Elements,Dining,mcsorleys-brewhouse-and-grill,McSorley's Brewhouse & Grill,McSorley's Brewhouse & Grill,R001,Metal  RF,27364888,"Mon - Fri 12:00 - 18:00Sat, Sun 11:00 - 18:00",,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,le-pain-quotidien,Le Pain Quotidien,Le Pain Quotidien,1089C,Wood  1F,25211377,"Mon - Sun, PH 08:00 - 18:00",,1,International Cuisine,International Cuisine,,2022-01-20
+Elements,Dining,godiva-chocolatier,GODIVA Chocolatier,GODIVA Chocolatier,1097,Wood  1F,23774836,"Mon - Sun, PH 10:00 - 21:00",,1,Sweet & Confectionary,Sweet & Confectionary,,2022-01-20
+Elements,Dining,liquid-gold,LIQUID GOLD,至醇酒庫,2128,Fire  2F,27555288,"Mon - Sun, PH 10:30 - 21:00",,1,Supermarkets & Gourmet,Supermarkets & Gourmet,,2022-01-20
+Elements,Dining,enoteca,ENOTECA,ENOTECA,1091A,Wood  1F,27702988,"Mon - Thu, Sun 11:00 - 20:00Fri, Sat 11:00 - 21:00",,1,Supermarkets & Gourmet,Supermarkets & Gourmet,,2022-01-20
+Elements,Dining,la-maison-du-chocolat,La Maison du Chocolat,La Maison du Chocolat,1010,Earth  1F,21968333,"Mon - Sun, PH 11:00 - 20:00",,1,Sweet & Confectionary,Sweet & Confectionary,,2022-01-20
+Elements,Dining,atelier-gute,ATELIER Gute,ATELIER Gute,1027,Water  1F,27801611,"Mon - Fri 07:30 - 21:30Sat, Sun, PH 08:30 - 21:30",,,Bakeries,Bakeries,,2022-01-20
+Elements,Dining,3hreesixty,3hreesixty,3hreesixty,1090,Wood  1F,21968066,"Mon - Sun, PH 08:00 - 23:00",,1,Supermarkets & Gourmet,Supermarkets & Gourmet,,2022-01-20
