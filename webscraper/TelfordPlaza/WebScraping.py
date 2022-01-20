@@ -15,7 +15,6 @@ config.read(os.path.join(os.path.dirname(__file__), 'config.ini'))
 mall = config['general']['mall']
 shoplistapi = config['api']['shoplistapi']
 fnblistapi = config['api']['fnblistapi']
-shopdetailurl = config['url']['shopdetailurl']
 
 def getShopCategory():
     #Create empty DataFrame for shop category
