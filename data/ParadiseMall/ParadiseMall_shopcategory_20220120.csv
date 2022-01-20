@@ -1,0 +1,15 @@
+mall,type,shop_category_id,shop_category_name,update_date
+ParadiseMall,Shopping,bltfc7ab56d28c117c8,Confectionary,2022-01-20
+ParadiseMall,Shopping,blt1e37f142913f1638,Education,2022-01-20
+ParadiseMall,Shopping,blt43ba07808298a51d,Electronics & Telecommunications,2022-01-20
+ParadiseMall,Shopping,bltf6fd6d89cf831a11,Entertainment,2022-01-20
+ParadiseMall,Shopping,blt1ef0a0ce074abc3c,Fashion,2022-01-20
+ParadiseMall,Shopping,blt8dff60d7dd3532fb,"Gifts, Books & Stationery",2022-01-20
+ParadiseMall,Shopping,bltb8da72a277edda65,Health & Personal Care,2022-01-20
+ParadiseMall,Shopping,blt1be2f1b5a42e454e,Household & Grocery,2022-01-20
+ParadiseMall,Shopping,bltb6ebc97cb22bb668,Optical,2022-01-20
+ParadiseMall,Shopping,bltd0994bbe27bb721b,Services,2022-01-20
+ParadiseMall,Shopping,bltc4dec09736043d20,Shoes & Bags,2022-01-20
+ParadiseMall,Shopping,blt29e8c2c00a3b6763,Sports,2022-01-20
+ParadiseMall,Shopping,blt8b9c8d1a98554815,Supermarket & Convenience Store,2022-01-20
+ParadiseMall,Dining,blt1911f8dd11142f43,Food & Beverage,2022-01-20
