@@ -77,7 +77,7 @@ def getShopMaster():
                 shop_location = shop['location']['text']
                 shop_location_split = shop_location.split(',')
                 shop_number = shop_location_split[0]
-                shop_floor = shop_location_split[-1] + ';'.join(shop_location_split[1:-1]).replace('/','')
+                shop_floor = (shop_location_split[-1] + ';'.join(shop_location_split[1:-1])).replace('/','').strip()
             except:
                 shop_location = np.nan
                 shop_number = np.nan
