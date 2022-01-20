@@ -1,4 +1,3 @@
-#%%
 #Import necessary package
 import requests
 import re
@@ -19,7 +18,6 @@ fnblistapi = config['api']['fnblistapi']
 entertainmentlistapi = config['api']['entertainmentlistapi']
 shopdetailurl = config['url']['shopdetailurl']
 
-#%%
 def getShopCategory():
     #Create empty DataFrame for shop category
     shopcategory = pd.DataFrame()
@@ -55,7 +53,6 @@ def getShopCategory():
         shopcategory = shopcategory.loc[:, ['mall','type','shop_category_id','shop_category_name','update_date']]
     return shopcategory
 
-#%%
 #Get shop master data and export into csv
 def getShopMaster():
     shopcategory = getShopCategory()
