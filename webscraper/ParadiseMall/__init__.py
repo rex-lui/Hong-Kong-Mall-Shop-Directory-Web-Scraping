@@ -1,1 +1,1 @@
-import webscraper.ParadiseMall.WebScraping
+import webscraper.LukYeungGalleria.WebScraping
