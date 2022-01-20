@@ -47,7 +47,6 @@ def getShopCategory():
 
     shopcategory['update_date'] = dt.date.today()
     shopcategory['mall'] = mall
-    shopcategory.drop(shopcategory[shopcategory.shop_category_id == 'All'].index, inplace = True)
     shopcategory = shopcategory.loc[:, ['mall','type','shop_category_id','shop_category_name','update_date']]
     return shopcategory
 
@@ -77,7 +76,7 @@ def getShopMaster():
                 shop_location = shop['location']['text']
                 shop_location_split = shop_location.split(',')
                 shop_number = shop_location_split[0]
-                shop_floor = (shop_location_split[-1] + ';'.join(shop_location_split[1:-1])).replace('/','').strip()
+                shop_floor = (shop_location_split[-1] + ';'.join(shop_location_split[1:-1])).replace('L1','1F').replace('G','GF')
             except:
                 shop_location = np.nan
                 shop_number = np.nan

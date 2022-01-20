@@ -47,7 +47,6 @@ def getShopCategory():
 
     shopcategory['update_date'] = dt.date.today()
     shopcategory['mall'] = mall
-    shopcategory.drop(shopcategory[shopcategory.shop_category_id == 'All'].index, inplace = True)
     shopcategory = shopcategory.loc[:, ['mall','type','shop_category_id','shop_category_name','update_date']]
     return shopcategory
 

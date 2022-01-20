@@ -47,7 +47,6 @@ def getShopCategory():
 
     shopcategory['update_date'] = dt.date.today()
     shopcategory['mall'] = mall
-    shopcategory.drop(shopcategory[shopcategory.shop_category_id == 'All'].index, inplace = True)
     shopcategory = shopcategory.loc[:, ['mall','type','shop_category_id','shop_category_name','update_date']]
     return shopcategory
 
@@ -76,8 +75,8 @@ def getShopMaster():
             try:
                 shop_location = shop['location']['text']
                 shop_location_split = shop_location.split(',')
-                shop_number = shop_location_split[0]
-                shop_floor = (shop_location_split[-1] + ';'.join(shop_location_split[1:-1])).replace('/','').strip()
+                shop_number = ';'.join(shop_location_split[0:-1])
+                shop_floor = shop_location_split[-1].strip().replace('G/F','GF')
             except:
                 shop_location = np.nan
                 shop_number = np.nan
@@ -148,15 +147,26 @@ def getShopMaster():
                 shop_name_zh = shop['text']
             except:
                 shop_name_zh = np.nan
+            
+            try:
+                shop_location = shop['location']['text']
+                shop_location_split = shop_location.split(',')
+                shop_number = ';'.join(shop_location_split[0:-1])
+                shop_floor = shop_location_split[-1].strip().replace('G','GF').replace('L1','1F').replace('L2','2F').replace('L3','3F').replace('L4','4F').replace('L5','5F').replace('L6','6F').replace('L7','7F').replace('L8','8F')
+            except:
+                shop_location = np.nan
+                shop_number = np.nan
+                shop_floor = np.nan
 
             shoplisttc = shoplisttc.append(
                                     {
                                         'type':type,
                                         'shop_id':shop_id,
+                                        'shop_number':shop_number,
                                         'shop_name_tc':shop_name_zh
                                         }, ignore_index=True
                                         )
-    shopmaster = pd.merge(shoplist, shoplisttc, on = ['type','shop_id'])
+    shopmaster = pd.merge(shoplist, shoplisttc, on = ['type','shop_id','shop_number'])
     shopmaster['update_date'] = dt.date.today()
     shopmaster['mall'] = mall
     shopmaster['tag'] = np.nan
