@@ -1,0 +1,21 @@
+mall,type,shop_category_id,shop_category_name,update_date
+IFC,Shopping,sweets-confectioneries-2,Sweets & Confectioneries,2022-01-21
+IFC,Shopping,banking,Banking,2022-01-21
+IFC,Shopping,books-arts-and-gifts,"Books, Arts and Gifts",2022-01-21
+IFC,Shopping,cinema,Cinema,2022-01-21
+IFC,Shopping,electronics-and-home-appliances,Electronics and Home Appliances,2022-01-21
+IFC,Shopping,fashion,Fashion,2022-01-21
+IFC,Shopping,florist,Florist,2022-01-21
+IFC,Shopping,health-and-fitness,Health and Fitness,2022-01-21
+IFC,Shopping,jewellery-and-accessories,Jewellery and Accessories,2022-01-21
+IFC,Shopping,personal-care-and-beauty,Personal Care and Beauty,2022-01-21
+IFC,Shopping,services,Services,2022-01-21
+IFC,Shopping,specialty-stores,Specialty Stores,2022-01-21
+IFC,Shopping,supermarket,Supermarket,2022-01-21
+IFC,Shopping,travel-accessories,Travel Accessories,2022-01-21
+IFC,Dining,asian,Asian,2022-01-21
+IFC,Dining,fusion,Fusion,2022-01-21
+IFC,Dining,cafe,Café & Others,2022-01-21
+IFC,Dining,chinese,Chinese,2022-01-21
+IFC,Dining,sweets-confectioneries,Sweets & Confectioneries,2022-01-21
+IFC,Dining,western,Western,2022-01-21
