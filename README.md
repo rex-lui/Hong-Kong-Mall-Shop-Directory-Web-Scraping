@@ -1,5 +1,6 @@
 # Hong Kong Mall Shop Directory Web Scraping
 This repository is to extract the shop directory of all major Hong Kong malls by web scraping.
+The data will be used for afterward data analysis.
 
 ## Table of contents
 * [Objective](#objective)
@@ -38,4 +39,4 @@ For the website is java based, the web site API will be called to have web scrap
 ...
 
 ## Usage
-This repository is only for self study usage.
+Please refer to license page.
