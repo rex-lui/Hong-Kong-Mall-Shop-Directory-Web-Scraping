@@ -40,4 +40,4 @@ For the website is java based, the web site API will be called to have web scrap
 ...
 
 ## Usage
-Please refer to license page.
+Please refer to [license](https://github.com/rex-lui/Hong-Kong-Mall-Shop-Directory-Web-Scraping/blob/a9673679e1279a7a394bb75c5bfa6ce08508295b/LICENSE) page.
