@@ -1,16 +1,19 @@
 # Hong Kong Mall Shop Directory Web Scraping
-ASDASDAD
+This repository is to extract the shop directory of all major Hong Kong malls by web scraping.
 
 ## Table of contents
 * [Objective](#objective)
-* [How to use?](#how-to-use)
+* [Setup](#setup)
 * [Repository directory](#repository-directory)
-
+* [Method](#method)
+* [Export data](#export-data)
+* [Roadmap](#roadmap)
+* [Usage](#usage)
 
 ## Objective
 As a data analytics staff in mall leasing department of a sizable property company in Hong Kong, it is a good idea to always montior the merchants leasing situation of competitor malls in Hong Kong. To monitor in a timely manner, this repository aims to develop a pipeline of web scraping procedure and everyone can easily replicate and output the shop directory data.
 
-## How to use?
+## Setup
 ...
 
 ## Repository directory
@@ -34,5 +37,5 @@ For the website is java based, the web site API will be called to have web scrap
 ## Roadmap
 ...
 
-## Roadmap
-...
+## Usage
+This repository is only for self study usage.
