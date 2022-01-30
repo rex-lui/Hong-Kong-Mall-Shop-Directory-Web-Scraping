@@ -20,6 +20,7 @@ As a data analytics staff in mall leasing department of a sizable property compa
 ## Repository directory
     .
     ├── README.md
+    ├── LICENSE.txt
     ├── data                    # Exported web scraping data
     │   └── (Malls folder)
     ├── webscraper              # Web scraper script
