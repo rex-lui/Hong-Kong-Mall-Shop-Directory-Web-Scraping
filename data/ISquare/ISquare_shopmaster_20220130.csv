@@ -1,0 +1,99 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+ISquare,Dinning,151,nanhai no. 1,南海一號,3001,30F,24873688,11:30 - 15:00 ;18:00 - 23:30 ;,No iClub Privilege,1,FD;CC,Fine Dining;Chinese Cuisines,,2022-01-30
+ISquare,Dinning,154,PANASH Café,PANASH Café,305,3F,23277071,11:30 – 22:30,Has iClub Privilege,1,RE;WD,Restaurant;Western Delicacies,,2022-01-30
+ISquare,Dinning,159,Zhongxiao East Road,忠孝東路,306,3F,28733288,11:30 - 22:30,No iClub Privilege,1,RE;AD,Restaurant;Asian Delights,,2022-01-30
+ISquare,Dinning,161,Nadai Unatoto Charcoal Grilled Eel Specialty,名代宇奈備長炭燒鰻魚飯專門店,304,3F,35801550,"12:00 - 23:00 (Mon-Fri) ;11:30 - 23:00 (Sat-Sun, PH and Eve of PH)",No iClub Privilege,1,RE;JG,Restaurant;Japanese Gourmets,,2022-01-30
+ISquare,Dinning,170,Joyous Gate,彩薈軒,2502,25F,27661010,11:00 - 15:00;18:00 - 22:00,No iClub Privilege,1,FD;CC,Fine Dining;Chinese Cuisines,,2022-01-30
+ISquare,Dinning,171,Choi Fook Royal Banquet,彩福皇宴,2601,26F,27663060,11:00 - 15:00 ;18:00 - 22:00,No iClub Privilege,1,FD;CC,Fine Dining;Chinese Cuisines,,2022-01-30
+ISquare,Dinning,179,Something Wild - The Farm,野玩田店,307,3F,37554899,12:00 – 22:00,Has iClub Privilege,1,RE;WD,Restaurant;Western Delicacies,,2022-01-30
+ISquare,Dinning,182,Jiang Shun Jade Palace,江順名滙,302,3F,26191118,11:00-23:00,No iClub Privilege,1,RE;CC,Restaurant;Chinese Cuisines,,2022-01-30
+ISquare,Dinning,183,Sing La,星怡,303,3F,21171300,11:30 – 22:00,No iClub Privilege,1,AD;RE,Asian Delights;Restaurant,,2022-01-30
+ISquare,Dinning,33,Sportful Garden Restaurant,陶源酒家 (鮑魚專門店),2401,24F,29979303,11:00 - 23:00,No iClub Privilege,1,FD;CC,Fine Dining;Chinese Cuisines,,2022-01-30
+ISquare,Dinning,38,Myung Ga Korean Restaurant,名家韓國餐廳,2702,27F,23691177,12:00 - 15:00 ;18:00 - 23:00;,Has iClub Privilege,1,FD;AD,Fine Dining;Asian Delights,,2022-01-30
+ISquare,Dinning,39,ro ann,櫓杏,2801,28F,28180031;57034565(日本語専用JapaneseHotline),12:00 - 14:30;18:00 - 23:00,Has iClub Privilege,1,FD;JG,Fine Dining;Japanese Gourmets,,2022-01-30
+ISquare,Dinning,41,Champ Kitchen,炊公館,2901,29F,62270220,"11:30 - 15:00, 18:00 - 23:00 (Mon-Fri) ;11:00 - 15:00, 18:00 - 23:00;(Sat-Sun, PH)",Has iClub Privilege,1,FD;WD,Fine Dining;Western Delicacies,,2022-01-30
+ISquare,Dinning,42,AH YAT HARBOUR VIEW RESTAURANT,阿一海景飯店,2902,29F,62270330,"11:30 - 15:00, 18:00 - 23:00 (Mon-Fri) ;11:00 - 15:00, 18:00 - 23:00  (Sat-Sun, PH)",Has iClub Privilege,1,FD;CC,Fine Dining;Chinese Cuisines,,2022-01-30
+ISquare,Dinning,54,eyebar,eyebar,3001(bar),30F,24873988,11:30 - 01:00 (Sun-Thu) ;11:30 - 02:00 (Fri-Sat);,No iClub Privilege,1,FD;WD,Fine Dining;Western Delicacies,,2022-01-30
+ISquare,Dinning,55,nanhai no.1,南海一號,3101,31F,24873788,11:30 - 15:00 ;18:00 - 23:00,No iClub Privilege,1,FD;CC,Fine Dining;Chinese Cuisines,,2022-01-30
+ISquare,Dinning,78,JAPANESE TONKOTSU RAMEN HAKATANMARU,博多丸,601,6F,35719625,11:30 - 23:00,Has iClub Privilege,1,RE;JG,Restaurant;Japanese Gourmets,,2022-01-30
+ISquare,Dinning,80,Teawood Taiwanese Cafe & Restaurant,茶木 · 台式休閒餐廳,603,6F,26685011,11:30- 23:00,No iClub Privilege,1,RE;AD,Restaurant;Asian Delights,,2022-01-30
+ISquare,Dinning,81,Shanghai Po Po 336,上海婆婆336,605,6F,28061833,11:00 - 16:00;17:45 - 23:00,No iClub Privilege,1,RE;CC,Restaurant;Chinese Cuisines,,2022-01-30
+ISquare,Dinning,83,HOKKAIDO RAMEN SANTOUKA,北海道山頭火拉麵,608,6F,27211298,11:30 - 22:00,No iClub Privilege,1,RE;JG,Restaurant;Japanese Gourmets,,2022-01-30
+ISquare,Dinning,84,Marugame Udon,丸亀製麵,609,6F,35830880,11:30 - 23:00,No iClub Privilege,1,RE;JG,Restaurant;Japanese Gourmets,,2022-01-30
+ISquare,Dinning,85,YAKINIKU GYUKURA,牛蔵,701,7F,26280993,12:00 - 16:30;17:30 - 22:00,No iClub Privilege,1,RE;JG,Restaurant;Japanese Gourmets,,2022-01-30
+ISquare,Dinning,86,NISHIKI DON,錦丼,702,7F,26280802,11:30 - 23:00,No iClub Privilege,1,RE;JG,Restaurant;Japanese Gourmets,,2022-01-30
+ISquare,Dinning,89,GYU JIN SHABUSHABU & SUKIYAKI,牛陣,706,7F,23111092,12:00 - 23:30,No iClub Privilege,1,RE;JG,Restaurant;Japanese Gourmets,,2022-01-30
+ISquare,Shopping,101,Ray-Ban,Ray-Ban,LB04,LBF,26254017,11:00 - 21:00,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,105,MANGO,MANGO,LB07,LBF,24663379,"10:30 - 21:30 (Mon-Thu, Sun) ;10:30 - 22:00 (Fri-Sat);",No iClub Privilege,0,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,107,PN,PN,LB09A,LBF,23279628,11:00 - 21:00,Has iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,108,mademoiselle,mademoiselle,LB10A,LBF,28824700,11:30 - 21:30 (Mon-Thu);11:00 - 21:30 (Fri-Sun & PH) ;,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,109,MaBelle,MaBelle,LB10B,LBF,23695099,11:30 - 21:30,No iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,111,Starbucks Coffee,星巴克,LBK02,LBF,29479553,08:00 - 22:30,No iClub Privilege,1,DR,Deli & Refreshments,,2022-01-30
+ISquare,Shopping,112,ITALIAN TOMATO,ITALIAN TOMATO,LG01,LGF,27394183,11:00 - 22:00,Has iClub Privilege,1,DR,Deli & Refreshments,,2022-01-30
+ISquare,Shopping,113,WINE SHOP ENOTECA,葡萄酒專門店,LG02,LGF,25770889,11:00 - 22:00,Has iClub Privilege,1,EL,Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,114,Maxim’s Cakes,美心西餅,LG03,LGF,27869600,08:00 - 20:30 (Mon-Sat) ;09:00 - 20:30 (Sun & PH);,No iClub Privilege,0,DR,Deli & Refreshments,,2022-01-30
+ISquare,Shopping,115,The Best New Zealand Shop,紐西蘭專賣店,LG04A,LGF,27398638,11:00 - 21:00,No iClub Privilege,1,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,116,LUCULLUS,龍島,LG04B,LGF,27583878,11:00 - 22:00,No iClub Privilege,1,DR,Deli & Refreshments,,2022-01-30
+ISquare,Shopping,117,Hana-Musubi,華御結,LG05A,LGF,23381908,08:00 - 21:30 (Mon-Fri);;11:00 - 21:30 (Sat-Sun & PH);,No iClub Privilege,1,DR,Deli & Refreshments,,2022-01-30
+ISquare,Shopping,118,Häagen-Dazs,Häagen-Dazs,LG05B,LGF,26559070,10:30 - 22:30 (Sun-Thu);10:30 - 23:00 (Fri-Sat),No iClub Privilege,1,DR,Deli & Refreshments,,2022-01-30
+ISquare,Shopping,119,Kiss Beauty Boutique,Kiss Beauty Boutique,LG05C,LGF,35834306,10:30 - 22:30,No iClub Privilege,1,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,120,Imperial Bird's Nest,官燕棧,LG06,LGF,23906669,10:30 - 21:00,No iClub Privilege,1,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,121,CRCARE,華潤堂,LG07,LGF,31495331,10:00 - 22:00,No iClub Privilege,1,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,122,Market Place by Jasons,Market Place by Jasons,LG08,LGF,26414410,09:00 - 23:00,No iClub Privilege,1,SU,Supermarket,,2022-01-30
+ISquare,Shopping,127,Pelle Borsa,Pelle Borsa,MTR04,MTRF,27761822,11:00 - 21:00,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,128,CITY CHAIN,時間廊,MTR05A,MTRF,27225701,10:30 - 22:00,Has iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,130,Darry Ring,Darry Ring,MTR06B,MTRF,23677389,10:30 - 21:00,No iClub Privilege,0,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,132,Byford,Byford,MTR08,MTRF,23277060,11:00 - 21:00,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,133,zn studio,zn studio,MTR09A,MTRF,21521882,11:00 - 22:00,No iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,135,ISABELLA,ISABELLA,MTR10,MTRF,25632222,11:00 - 22:00,No iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,143,CHOW TAI FOOK,周大福,MTR24,MTRF,23120813,12:00 - 21:00,Has iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,144,Beycos,Beycos,MTR25,MTRF,22433377,11:00 - 21:00,Has iClub Privilege,1,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,146,THE BANK OF EAST ASIA LTD.,東亞銀行,UG01,UGF,22111333,09:00 - 17:00 (Mon-Fri);09:00 - 13:00 (Sat);Close (Sun),No iClub Privilege,0,SE,Services,,2022-01-30
+ISquare,Shopping,147,CHOW TAI FOOK,周大福,UG02,UGF,23120118,10:30 - 22:30,Has iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,148,Marks & Spencer,英國馬莎,UG03,UGF,29266080,10:30 - 22:30,No iClub Privilege,1,DS,Department Store,,2022-01-30
+ISquare,Shopping,155,athas home,athas home,108B,1F,34684166,11:00 - 22:00 (Sun-Thu) ;11:00 - 22:30 (Fri-Sat) ;,No iClub Privilege,1,EL,Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,157,ATORREGE AD+ by Ands Beauty,ATORREGE AD+ by Ands Beauty,210,2F,21919850,11:30 – 21:00,No iClub Privilege,0,BH;BH,Beauty & Health;Beauty & Health,,2022-01-30
+ISquare,Shopping,16,Francfranc,Francfranc,101,1F,31020730,11:00 - 22:00 (Sun-Thu)  ;11:00 - 22:30 (Fri-Sat)   ;,Has iClub Privilege,1,EL,Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,160,The Hong Kong Optic,香港視光,MTR03A,MTRF,23122903,11:00 - 21:00,No iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,162,Mannings,萬寧,MTR17,MTRF,27049583,11:00 – 22:00,No iClub Privilege,0,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,163,Mannings,萬寧,MTR20-23,MTRF,27049583,11:00 – 22:00,No iClub Privilege,0,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,165,twist,twist,UG06,UGF,23772880,12:00 - 22:00,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,167,G-SHOCK CASIO,G-SHOCK CASIO,MTR26,MTRF,21571588,11:00 - 21:00,No iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,168,OYONÉ,OYONÉ,112,1F,34623562,11:00 - 21:00,No iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,169,THERMOS ,THERMOS ,MTR01,MTRF,26685065,11:00 - 20:00,Has iClub Privilege,1,EL,Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,17,VIOLA,VIOLA,103,1F,24031200,11:00 - 21:00,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,172,ellesse,ellesse,LB06,LBF,23271768,11:00 - 22:00,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,173,Emperor Cinemas,英皇戲院,7F,7F,25222996,11:00 - 23:00 (vary according to movie show time),No iClub Privilege,1,EL,Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,174,LACOSTE,LACOSTE,UG05,UGF,26150001,10:30 - 22:30,No iClub Privilege,1,FA;FA,Fashion & Accessories;Fashion & Accessories,,2022-01-30
+ISquare,Shopping,175,Living Station by Panasonic ,Living Station by Panasonic ,504,5F,24490008,11:00 - 20:00,No iClub Privilege,1,EL;EL,Entertainment & Lifestyle;Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,176,Timeless+ Jewelry Creation,偉恆珠寶,MTR07,MTRF,27989600,11:00 - 21:00,No iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,177,eGG Optical Boutique,eGG Optical Boutique,MTR05B,MTRF,27221681,"11:00 - 21:00 (Mon-Fri);11:00 - 21:30 (Sat-Sun, Holiday Eve)",Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,178,China Life Insurance (Overseas) Company Limited,中國人壽保險 (海外),MTR09B,MTRF,,10:00 – 20:00,No iClub Privilege,0,SE,Services,,2022-01-30
+ISquare,Shopping,180,Châteraisé ,Châteraisé ,MTR06A,MTRF,23830232,09:00 - 21:30,No iClub Privilege,1,DR;DR,Deli & Refreshments;Deli & Refreshments,,2022-01-30
+ISquare,Shopping,181,7-Eleven,7-Eleven,MTR13,MTRF,27705613,07:00 - 23:00,No iClub Privilege,0,SU,Supermarket,,2022-01-30
+ISquare,Shopping,184,MLB,MLB,G01A,GF,23611345,11:00 - 21:00 (Mon-Thu) ; 11:00 - 22:00 (Fri-Sun & PH),No iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,19,Private Shop,Private Shop,105,1F,26826500,11:00 - 21:00,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,21,Embry Form,Embry Form,107,1F,26482123,11:00 - 21:30,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,22,CHICCO,CHICCO,108A,1F,31532490,11:00 - 21:00,Has iClub Privilege,1,KW,Kids' Wear,,2022-01-30
+ISquare,Shopping,29,perFACE ,perFACE ,2101,21F,21559551,12:00 - 21:00 (Mon-Fri);10:00 - 19:00 (Sat);10:00 - 18:00 (PH),Has iClub Privilege,1,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,30,China CITIC Bank International - Business Banking Centre,中信銀行 (國際) 商務理財中心,2102,21F,36037328,"09:00 - 17:00  (Mon-Fri);Closed (Sat, Sun & PH)",No iClub Privilege,0,SE,Services,,2022-01-30
+ISquare,Shopping,31,reenex,reenex,2201,22F,27220866,12:00 - 21:00 (Mon-Fri) ;10:00 - 19:00 (Sat) ;Closed (Sun & PH);,No iClub Privilege,0,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,47,HIMALAYA CASHMERE,HIMALAYA CASHMERE,206,2F,27211018,11:00 - 21:00,No iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,52,Precious Thots,Precious Thots,211,2F,28868280,11:30 - 21:30 (Sun-Thu) ;11:30 - 22:00 (Fri-Sat);,No iClub Privilege,1,EL,Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,53,L•S,L•S,212,2F,23696928,11:30 - 21:00,No iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,65,SUGARMAN,SUGARMAN,403B,4F,24207772,11:00 - 21:00,Has iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,67,TCI,勝景遊,405,4F,22520288,10:00 - 18:30,No iClub Privilege,0,EL,Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,68,Parsons Music,柏斯音樂,406,4F,27768022,12:00 - 22:00,No iClub Privilege,1,EL,Entertainment & Lifestyle,,2022-01-30
+ISquare,Shopping,70,SWISS O BEAUTY EXPERT,SWISS O BEAUTY EXPERT,408,4F,23692199,11:00 - 21:00,Has iClub Privilege,1,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,71,SNO Swiss Organic ,SNO Swiss Organic ,409,4F,23692199,12:00 - 21:00,Has iClub Privilege,1,BH,Beauty & Health,,2022-01-30
+ISquare,Shopping,73,Ninki Beauty,Ninki Beauty,503,5F,27339308,11:00 - 21:00,Has iClub Privilege,1,EA,Electronics & Audio Visual,,2022-01-30
+ISquare,Shopping,75,Radar Audio Company,威達公司,505,5F,23177188;23278861,11:00 - 21:00 (Mon-Sat);11:00 - 20:00 (Sun & PH) ;,No iClub Privilege,1,EA,Electronics & Audio Visual,,2022-01-30
+ISquare,Shopping,76,Ninki Denki,人気电器店,506,5F,23323723,11:00 - 21:00,Has iClub Privilege,1,EA,Electronics & Audio Visual,,2022-01-30
+ISquare,Shopping,77,Tin Cheung Camera Company,天祥攝影器材公司,508,5F,27221265,11:00 - 21:00,No iClub Privilege,1,EA,Electronics & Audio Visual,,2022-01-30
+ISquare,Shopping,92,FILA,FILA,G01B,GF,23692262,10:00 - 22:30,No iClub Privilege,1,FA,Fashion & Accessories,,2022-01-30
+ISquare,Shopping,93,CHOW TAI FOOK,周大福,G02,GF,23120118,10:30 - 22:30,Has iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,94,Marks & Spencer,英國馬莎,G03,GF,29266080,10:30 - 22:30,No iClub Privilege,1,DS,Department Store,,2022-01-30
+ISquare,Shopping,95,Chow Sang Sang,周生生,G04,GF,26684300,10:30 - 22:30,Has iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,96,PATEK PHILIPPE,PATEK PHILIPPE,G05,GF,29192999,10:00 - 21:30 (Mon-Sun),No iClub Privilege,0,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,97,Emperor Watch and Jewellery / Rolex,英皇鐘錶珠寶/ 勞力士,G06,GF,27213118,10:00 - 22:00,No iClub Privilege,1,WJ,Watches & Jewelry,,2022-01-30
+ISquare,Shopping,99,Starbucks Coffee,星巴克,LB02,LBF,29479553,08:00 - 22:30,No iClub Privilege,1,DR,Deli & Refreshments,,2022-01-30
