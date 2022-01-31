@@ -15,7 +15,6 @@ mall = config['general']['mall']
 shoplisturl = config['url']['shoplisturl']
 fnblisturl = config['url']['fnblisturl']
 shopdetailbasicurl = config['url']['shopdetailbasicurl']
-shopfloormapping = eval(config['mapping']['shopfloormapping'])
 
 def getShopCategory():
     #Create empty DataFrame for shop category
