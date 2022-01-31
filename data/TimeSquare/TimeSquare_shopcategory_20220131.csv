@@ -1,0 +1,19 @@
+mall,type,shop_category_id,shop_category_name,update_date
+TimeSquare,Shopping,1,Audio-Visual / Computers / Electronics / Home Appliance,2022-01-31
+TimeSquare,Shopping,2,Banks / Services,2022-01-31
+TimeSquare,Shopping,3,Beauty / Personal Care/ Health Products,2022-01-31
+TimeSquare,Shopping,6,Cinema / Entertainment / Music,2022-01-31
+TimeSquare,Shopping,8,Department Store / Supermarket / Convenience Store,2022-01-31
+TimeSquare,Shopping,10,Gifts / Books / Stationery,2022-01-31
+TimeSquare,Shopping,11,Jewelry / Watches / Optical,2022-01-31
+TimeSquare,Shopping,12,Ladies' & Men's Fashion,2022-01-31
+TimeSquare,Shopping,13,Ladies' Fashion,2022-01-31
+TimeSquare,Shopping,14,Leather Goods / Shoes / Bags,2022-01-31
+TimeSquare,Shopping,15,Men's Fashion,2022-01-31
+TimeSquare,Shopping,17,Sports / Action Wear / Equipment,2022-01-31
+TimeSquare,Shopping,18,Home Accessories,2022-01-31
+TimeSquare,Shopping,19,Children's Wear / Toys,2022-01-31
+TimeSquare,Dining,22,Asian,2022-01-31
+TimeSquare,Dining,23,Café/Sweet/Light Meal,2022-01-31
+TimeSquare,Dining,24,Chinese,2022-01-31
+TimeSquare,Dining,25,Western,2022-01-31

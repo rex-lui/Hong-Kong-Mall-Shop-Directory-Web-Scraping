@@ -1,0 +1,59 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+TheLane,Shopping,76,ABOUTHAI,阿布泰國生活百貨,137,1F,25222910,10:00 - 22:00,MTR Points Promotion,,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Shopping,36,Angels,天使時裝,138A,1F,21410261,10:00 - 21:00,,1,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,43,Arome Bakery,東海堂,143,1F,22429138,09:00 - 22:00,,1,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,27,Baleno,Baleno,130,1F,25680596,10:30 - 22:00,,1,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,82,Bellatrix,Bellatrix,110A,1F,26777188,11:30 - 22:00,MTR Points Promotion,,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,75,Best Mart 360,優品360,127,1F,26151866,09:30 - 22:30,MTR Points Promotion,1,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,13,BreadTalk,面包新語,114,1F,21648318,10:00 - 22:00,,1,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,87,Centaline Property,中原地產,S122-123,1F,27016033,09:30 - 21:00,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,55,Centaline Property Agency Ltd,中原地產,153,1F,27060233,09:15 - 21:00,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,24,Chicks,雞仔嘜,128,1F,23091910,11:00 - 20:30,,1,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,12,Eat East,波仔,113,1F,23280035,09:00 - 23:00,,,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,64,Enjoy Appolo,阿波羅,131,1F,23217206,12:00 - 21:00,,,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,39,EyeCare Optics,日昌專業眼鏡,139B,1F,21410066,11:00 - 21:30,,,bltbc0a06c44b81ef60,Optical,,2022-01-31
+TheLane,Shopping,84,Faith,Faith,129B,1F,27150728,11:30 - 21:30,,1,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,89,Gimans Care,Gimans Care,140,1F,,,,,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Shopping,52,Hair Oasis,Hair Oasis,151,1F,24668813,11:00 - 20:30,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,57,Hong Kong Property,香港置業,155,1F,29266288,09:30 - 21:30,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,79,i-Market,i-Market,108,1F,-,12:00 - 22:00,,,blt52f316e949addfc9,"Gifts, Books & Stationery",,2022-01-31
+TheLane,Shopping,1,ILSA Laundry,伊莎洗衣,101,1F,21410131,08:30 - 20:30,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,20,Image Optical,潮流天地,124,1F,26960096,11:00 - 21:30,,1,bltbc0a06c44b81ef60,Optical,,2022-01-31
+TheLane,Shopping,73,Intique,Intique,125,1F,27215600,11:00 - 22:00,,,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,83,J's Garden,菁雲,142,1F,39750503,10:30 - 21:00,,1,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,58,J&G Fried Chicken,繼光香香雞,110B,1F,23386665,11:00 - 22:00,,,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,65,JUEWEI,絕味,135A,1F,26151998,10:00 - 22:00,,1,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,47,Ka Wah Dispensary,嘉華藥房,146,1F,34095163,10:00 - 22:00,,1,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Shopping,48,Kai Tai,啟泰,147,1F,23218983,11:00 - 20:30,,1,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Shopping,88,Ko Shing Hong,高陞行,S141,1F,52072793,10:30 - 20:30,,,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,69,LY,LY,138B,1F,28068088,10:30 - 21:00,,,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,18,Mannings,萬寧,119-121,1F,21410027,10:00 - 22:30,,1,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Shopping,5,Meka,美康,106,1F,21410411,10:00 - 22:00,,1,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Shopping,4,Meyer Company,美亞公司,105,1F,21410111,11:00 - 21:30,,1,blt52f316e949addfc9,"Gifts, Books & Stationery",,2022-01-31
+TheLane,Shopping,72,mfs,名果店,135B,1F,23925366,08:00 - 22:30,,,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,54,Midland Realty,美聯物業,152,1F,2927221,09:30 - 21:30,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,30,Midland Realty,美聯物業,133,1F,25232218,09:00 - 21:00,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,77,MINISO,MINISO,136,1F,27511008,10:00 - 21:00,,1,blt52f316e949addfc9,"Gifts, Books & Stationery",,2022-01-31
+TheLane,Shopping,16,momo,momo,117,1F,27117938,11:30 - 22:00,,1,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,46,MY Digital Telecom,MY Digital Telecom,145B,1F,21410568,10:30 - 22:30,,1,blte11c0050498748fa,Electronics & Telecommunications,,2022-01-31
+TheLane,Shopping,66,NU-KI,NU-KI,118,1F,27227168,11:00 - 22:00,,1,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,44,Okashi Land,零食物語,144,1F,27979967,12:00 - 14:30,,1,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,29,Ricacorp Properties,利嘉閣地產有限公司,132,1F,26237393,09:30 - 22:00,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,56,Ricacorp Properties,利嘉閣地產有限公司,154,1F,21410001,09:30 - 22:00,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,71,S.S Money Exchange,新城找換店,149B,1F,26132988,10:00 - 19:30,,,bltb880f76bbda1bcd6,Services,,2022-01-31
+TheLane,Shopping,85,Salala Beauty,Salala Beauty,116,1F,28700299,11:45 - 20:45,,,blt3f19984031110bd7,Beauty,,2022-01-31
+TheLane,Shopping,14,Shanghai Yiu Fung,上海么鳳,115,1F,24805881,11:00 - 21:00,,,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,45,Shiu Heung Yuen Bakery,紹香園餅家,145A,1F,27173421,10:00 - 21:30,,1,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,81,Sida Fashion,Sida Fashion,109,1F,26599433,11:30 - 21:30,,1,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,63,Sukhama,Sukhama,139A,1F,-,12:00 - 22:00,,,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,2,Sushi Take-out,爭鮮外帶壽司,102,1F,27039028,10:30 - 22:30,,,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,31,Tong Kee Bao Dim,唐記包點,134,1F,24089666,07:00 - 23:00,,,blt5d7292069cc48e1c,Confectionary,,2022-01-31
+TheLane,Shopping,49,VITA GREEN,維特健靈,148,1F,27745188,10:00 - 21:00,,1,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Shopping,25,Vonn,Vonn,129A,1F,26236288,11:30 - 21:30,,,bltae9d460020582d6e,Fashion,,2022-01-31
+TheLane,Shopping,6,Yan Hong Dispensary,仁康中西藥房,107,1F,21410168,10:00 - 22:00,,1,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Shopping,78,Yan Shun Chinese Medicine,仁信參茸中醫中藥,150,1F,21410138,10:00 - 22:00,,,blt5465e893842dc25b,Health Products & Personal Care,,2022-01-31
+TheLane,Dining,11,Bafang Yunji,八方雲集,112,1F,24309018,10:00 - 22:00,,,blt4ac2be8521604ca2,Chinese Cuisine,,2022-01-31
+TheLane,Dining,3,Crostini,Crostini,103-104,1F,26681826,08:00 - 20:00,,1,bltb02a549ed641f17a,Cafes & Fast Food,,2022-01-31
+TheLane,Dining,10,Fairwood,大快活,111,1F,28564473,07:00 - 22:30,,1,bltb02a549ed641f17a,Cafes & Fast Food,,2022-01-31
+TheLane,Dining,68,Super Super,一粥麵,126,1F,,07:00 - 22:00,,1,blt4ac2be8521604ca2,Chinese Cuisine,,2022-01-31
+TheLane,Dining,86,Yan Wo Tong,仁和堂,S149A,1F,21806201,09:00 - 23:00,MTR Points Promotion,1,blt4ac2be8521604ca2,Chinese Cuisine,,2022-01-31

@@ -1,0 +1,17 @@
+mall,type,shop_category_id,shop_category_name,update_date
+ISquare,Shopping,BH,Beauty & Health,2022-01-31
+ISquare,Shopping,DR,Deli & Refreshments,2022-01-31
+ISquare,Shopping,DS,Department Store,2022-01-31
+ISquare,Shopping,EA,Electronics & Audio Visual,2022-01-31
+ISquare,Shopping,EL,Entertainment & Lifestyle,2022-01-31
+ISquare,Shopping,FA,Fashion & Accessories,2022-01-31
+ISquare,Shopping,KW,Kids' Wear,2022-01-31
+ISquare,Shopping,SE,Services,2022-01-31
+ISquare,Shopping,SU,Supermarket,2022-01-31
+ISquare,Shopping,WJ,Watches & Jewelry,2022-01-31
+ISquare,Dinning,RE,Restaurant,2022-01-31
+ISquare,Dinning,FD,Fine Dining,2022-01-31
+ISquare,Dinning,AD,Asian Delights,2022-01-31
+ISquare,Dinning,CC,Chinese Cuisines,2022-01-31
+ISquare,Dinning,JG,Japanese Gourmets,2022-01-31
+ISquare,Dinning,WD,Western Delicacies,2022-01-31
