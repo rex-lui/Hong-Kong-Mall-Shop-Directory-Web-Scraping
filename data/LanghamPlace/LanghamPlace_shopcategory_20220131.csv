@@ -1,0 +1,20 @@
+mall,type,shop_category_id,shop_category_name,update_date
+LanghamPlace,Shopping,19,Accessories,2022-01-31
+LanghamPlace,Shopping,18,Bank,2022-01-31
+LanghamPlace,Shopping,17,Beauty,2022-01-31
+LanghamPlace,Shopping,16,Cinema,2022-01-31
+LanghamPlace,Shopping,15,Entertainment,2022-01-31
+LanghamPlace,Shopping,14,Fashion,2022-01-31
+LanghamPlace,Shopping,13,Gift / Toys,2022-01-31
+LanghamPlace,Shopping,12,Jewellery / Watches,2022-01-31
+LanghamPlace,Shopping,11,Lifestyle,2022-01-31
+LanghamPlace,Shopping,10,Optical,2022-01-31
+LanghamPlace,Shopping,9,Personal Care,2022-01-31
+LanghamPlace,Shopping,8,Shoes / Bags,2022-01-31
+LanghamPlace,Shopping,7,Sportswear,2022-01-31
+LanghamPlace,Shopping,6,Supermarket / Convenience Store,2022-01-31
+LanghamPlace,Dining,5,Asian,2022-01-31
+LanghamPlace,Dining,4,Café & Deli,2022-01-31
+LanghamPlace,Dining,3,Chinese,2022-01-31
+LanghamPlace,Dining,2,Confectionery,2022-01-31
+LanghamPlace,Dining,1,Western,2022-01-31

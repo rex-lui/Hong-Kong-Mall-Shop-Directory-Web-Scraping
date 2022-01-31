@@ -1,0 +1,291 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+TelfordPlaza,Shopping,258,3 Shop,3 Shop,P44,Plaza 1 Podium,27597974,11:00 - 21:00,MTR Points Promotion,,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,81,3D-JP,3D-JP,3D-JP,Plaza 2 4F,25568298,12:00 - 21:30,MTR Points Promotion,1,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,157,6IXTY8IGHT,6IXTY8IGHT,G19/58,Plaza 1 GF,23050062,10:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,35,A Nice Gift,賞茶,418,Plaza 2 4F,31044783,11:30 - 21:00,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,229,A-1 Bakery,A-1 Bakery,G98,Plaza 1 GF,27952057,07:30 - 21:30,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,213,AIGLE,AIGLE,G80,Plaza 1 GF,23203893,11:00 - 20:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,293,AIRLAND,雅蘭床褥,604-605,Plaza 2 6F,28363312,12:00 - 21:00,MTR Points Promotion,1,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,6,Arome Bakery,東海堂,308,Plaza 2 3F,27576602,07:00 - 21:00,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,379,ARTE Madrid,ARTE Madrid,G9A,Plaza 1 GF,37517184,11:00 - 21:00,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,48,ASA PHYSIOTHERAPY CLINIC,ASA 物理治療診所,514,Plaza 2 5F,23800208,08:00 - 20:00,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,68,AVEDA,AVEDA,323-324,Plaza 2 3F,29972294,10:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,150,Balabala,巴拉巴拉,G10-11,Plaza 1 GF,23668912,10:30 - 22:30,MTR Points Promotion,1,blte003d7e310125ade,Kids Wear,,2022-01-31
+TelfordPlaza,Shopping,241,BANK OF CHINA HONG KONG,中國銀行香港,P2-7,Plaza 1 Podium,27961551,09:00 - 17:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,232,Bank of East Asia,東亞銀行,F12B,Plaza 1 1F,36092219,09:00 - 17:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,233,bauhaus,bauhaus,F30,Plaza 1 1F,22859173,,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,289,BEA ATM,東亞銀行 ATM,ATM No. 3,Plaza 1 1F,22111818,,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,110,Beard Papa's,Beard Papa's,F12C,Plaza 1 1F,27876044,11:30 - 22:00,,,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,223,Bellain Accessories Shop,Bellain Accessories Shop,G9,Plaza 1 GF,24482818,10:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,43,BELLATRIX,BELLATRIX,428,Plaza 2 4F,,11:00 - 21:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,75,BELLE MARIEE,BELLE MARIEE,345-346,Plaza 2 3F,3106-0150,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,173,benefit,benefit,G35,Plaza 1 GF,35720282,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,211,Bershka,Bershka,G78-79,Plaza 1 GF,23050755,10:00 - 22:00,MTR Points Promotion,,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,220,BESS,BESS,G87,Plaza 1 GF,27593073,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,287,Best Mart 360,優品360,403-405,Plaza 2 4F,26151880,10:00 - 22:00,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,66,BIODERMA,BIODERMA,316-317,Plaza 2 3F,27696099,11:00 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,155,Bose,Bose,G16,Plaza 1 GF,21531841,11:00 - 21:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,315,Bossini,Bossini,F14-15,Plaza 1 1F,21489179,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,199,bread n butter,bread n butter,G67,Plaza 1 GF,21102056,12:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,160,BROADWAY,百老滙,G20-22 & G42/44,Plaza 1 GF,27537309,11:00 - 22:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,385,BRUNO,BRUNO,G17-18,Plaza 1 GF,59439325,11:00 - 21:00,MTR Points Promotion,1,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,86,ByItself,ByItself,426B,Plaza 2 4F,36190100,12:00 - 21:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,28,C.P.U,C.P.U,353,Plaza 2 3F,22719860,11:00 - 22:00,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,19,CANVAS,CANVAS,331,Plaza 2 3F,23370399,10:30 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,18,CATALO,家得路,328,Plaza 2 3F,31884457,11:00 - 20:00,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,145,CENTALINE PROPERTY AGENCY,中原地產,F8A,Plaza 1 1F,27566283,09:30 - 21:30,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,275,cha for TEA,天仁茗茶,350B,Plaza 2 3F,,10:00 - 21:30,MTR Points Promotion,,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,107,CHA LONG,茶狼,F11,Plaza 1 1F,36192470,11:00 - 22:00,,,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,205,CHANEL BEAUTE,CHANEL BEAUTE,G72A,Plaza 1 GF,27963813,12:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,381,Chateraise,Chateraise,G62,Plaza 1 GF,,,MTR Points Promotion,,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,116,Cheung Fung Dispensary,長豐中西藥房,F14A & F15A,Plaza 1 1F,27546000,,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,87,Chicks,雞仔嘜,424,Plaza 2 4F,21140191,11:00 - 20:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,304,China Life Insurance (Overseas),中國人壽 (海外),607-608,Plaza 2 6F,,10:00 - 20:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,180,CHINA MOBILE,中國移動通信,G41,Plaza 1 GF,29458557,11:00 - 22:00,MTR Points Promotion,,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,257,CHINA MOBILE,中國移動通信,P43,Plaza 1 Podium,27593520,10:00 - 21:00,MTR Points Promotion,,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,100,China Travel Service,香港中國旅行社,602A,Plaza 2 6F,27596128,,MTR Points Promotion,1,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,263,Chow Sang Sang,周生生,P51-52,Plaza 1 Podium,21544247,11:00 - 21:30,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,250,Chow Tai Fook,周大福,P37-38,Plaza 1 Podium,21301618,10:00 - 21:00,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,162,Chung Yuen Electrical,中原電器,G23-24,Plaza 1 GF,27572088,11:00 - 21:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,254,Circle K,OK便利店,P40,Plaza 1 Podium,27506859,00:00 - 00:00,MTR Points Promotion,1,bltbcead7cf00c544e2,Others,,2022-01-31
+TelfordPlaza,Shopping,201,CITY CHAIN,時間廊,G7,Plaza 1 GF,27598290,12:00 - 21:00,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,144,Clarks,Clarks,F8,Plaza 1 1F,27079206,10:30 - 21:30,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,73,CLINIQUE,CLINIQUE,337-338,Plaza 2 3F,29973328,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,165,Colourmix,卡萊美,G27,Plaza 1 GF,22034233,10:30 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,147,Columbia,Columbia,F9B,Plaza 1 1F,22433225,11:00 - 22:00,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,256,COM PO MONEY EXCHANGE,金寶找換店,P42,Plaza 1 Podium,23319996,09:30 - 20:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,7,COMO,COMO,309,Plaza 2 3F,,11:30 - 21:20,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,14,COMVITA,康維他,318,Plaza 2 3F,,,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,24,Cookie Galerie,曲奇薈,344,Plaza 2 3F,34813865,11:00 - 21:00,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,17,COVERMARK,COVERMARK,325,Plaza 2 3F,29973608,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,3,CR Care,華潤堂,530A-530B,Plaza 2 5F,23210223,10:00 - 21:00,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,375,CSL,CSL,P45-47,Plaza 1 Podium,20272405,10:30 - 21:30,MTR Points Promotion,,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,142,Dah Sing Bank,大新銀行,F5A/6A,Plaza 1 1F,29274130,,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,78,DECATHLON,DECATHLON,351-352,Plaza 2 3F,91659281,10:00 - 22:00,MTR Points Promotion,,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,182,Dior Beauty,Dior Beauty,G4A,Plaza 1 GF,27596381,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,33,Donguri Republic,橡子共和國,408,Plaza 2 4F,28162398,11:00 - 22:00,MTR Points Promotion,1,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,30,Dr. Kong,Dr. Kong 健康鞋專門店,429-430,Plaza 2 4F,27577572,11:30 - 21:30,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,239,Dr. Steven Chung & Associates Dental Surgeon,鍾慶銓牙科醫生醫務所,P1B,Plaza 1 Podium,27573818,09:00 - 20:00,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,25,eGG Optical Boutique,eGG Optical Boutique,348,Plaza 2 3F,29973000,10:30 - 21:00,MTR Points Promotion,1,blte8caadd82751d042,Optical,,2022-01-31
+TelfordPlaza,Shopping,77,elba,elba,347B,Plaza 2 3F,24503668,10:30 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,308,EMMAS DENTONS,澳美斯床褥,621,Plaza 2 6F,23108362,11:00 - 21:00,MTR Points Promotion,1,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,11,Erica Store,Erica Store,313,Plaza 2 3F,69272795,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,209,Estee Lauder,Estee Lauder,G76,Plaza 1 GF,35794467,11:00 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,193,Etude House,Etude House,G6,Plaza 1 GF,29972225,11:30 - 20:30,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,46,EU YAN SANG,余仁生,508,Plaza 2 5F,29972268,10:00 - 21:00,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,10,Faith,Faith,312,Plaza 2 3F,31758286,11:00 - 21:30,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,138,FANCL,FANCL,F32,Plaza 1 1F,36220886,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,120,FILA Fusion,FILA Fusion,F18,Plaza 1 1F,23502238,11:00 - 22:00,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,282,First Edible Nest,盞記燕窩蟲草專門店,526,Plaza 2 5F,26692311,10:30 - 20:00,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,166,Flavor Viola,Flavor Viola,G28,Plaza 1 GF,23912202,11:00 - 21:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,141,Foot Locker,Foot Locker,F5-7,Plaza 1 1F,28893605,11:00 - 22:00,MTR Points Promotion,,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,181,FORTRESS WORLD,豐澤電器世界,G45-51,Plaza 1 GF,29973223,11:00 - 21:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,62,FOTOMAX,快圖美,617,Plaza 2 6F,27951004,10:00 - 20:00,MTR Points Promotion,1,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,203,Fresh,Fresh,G71,Plaza 1 GF,27772837,11:00 - 20:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,129,FX CREATIONS,FX CREATIONS,F23A,Plaza 1 1F,27079513,,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,152,G2000,G2000,G13/G62-63,Plaza 1 GF,27589623,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,36,Get Fresh,Get Fresh,421,Plaza 2 4F,66519151,11:00 - 21:00,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,224,Giordano,佐丹奴,G91-92,Plaza 1 GF,29274026,10:30 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,200,Giordano Ladies',Giordano Ladies',G68-69,Plaza 1 GF,29271067,11:00 - 20:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,171,GODIVA Belgium 1926,GODIVA Belgium 1926,G33,Plaza 1 GF,27074517,11:00 - 20:30,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,121,Green Hill Laundry Pro Shop,綠之丘洗衣專門店,F18A,Plaza 1 1F,34842266,09:00 - 19:00,MTR Points Promotion,1,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,334,Hana-musubi,華御結,Pop Up Store No. 2,Plaza 2 2F,,07:30 - 15:00,,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,346,Hang Heung Cake Shop,恆香老餅家,322,Plaza 2 3F,23423600,11:00 - 20:00,,,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,154,Her own words,Her own words,G15,Plaza 1 GF,23050938,11:00 - 21:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,336,HKTVmall,HKTVmall,P24-25,Plaza 1 Podium,,09:00 - 21:00,MTR Points Promotion,,blt110f28c80a7fc3e9,Supermarket,,2022-01-31
+TelfordPlaza,Shopping,108,Hong Kong Property,Hong Kong Property,F12A,Plaza 1 1F,29272020,09:30 - 21:30,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,61,Hong Thai Travel,康泰旅行社,616,Plaza 2 6F,29274777,11:00 - 19:00,MTR Points Promotion,1,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,235,HSBC,滙豐銀行,P15-16A,Plaza 1 Podium,22333000,09:00 - 17:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,252,Human Health,盈健醫療,P39B,Plaza 1 Podium,29972768,09:00 - 14:00,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,364,Hung Rui Chen,洪瑞珍,G96-97,Plaza 1 GF,24135088,11:00 - 21:15,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,363,I-PRIMO,I-PRIMO,G84,Plaza 1 GF,23318858,11:00 - 21:00,MTR Points Promotion,,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,314,ICBC Asia,中國工商銀行,P19-20,Plaza 1 Podium,27978200,09:00 - 17:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,79,Image Sport,Image Sport,354-355,Plaza 2 3F,26963368,10:30 - 21:30,MTR Points Promotion,1,blte8caadd82751d042,Optical,,2022-01-31
+TelfordPlaza,Shopping,5,Imperial Bird's Nest,官燕棧,524,Plaza 2 5F,31019884,10:30 - 20:30,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,69,Imperial Diamond Jewellery,皇鑽世家,326-327,Plaza 2 3F,26985088,10:00 - 20:30,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,325,Ingrid Millet Paris,Ingrid Millet Paris,615,Plaza 2 6F,21110059,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,311,innisfree,innisfree,G31,Plaza 1 GF,35868283,11:00 - 20:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,8,INTIQUE,INTIQUE,310-311,Plaza 2 3F,24780639,11:00 - 22:30,MTR Points Promotion,,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,20,iroiro,iroiro,334,Plaza 2 3F,2570-8455,10:30 - 19:30,MTR Points Promotion,1,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,214,Jack & Jones,Jack & Jones,G81,Plaza 1 GF,26960038,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,122,Japan Home Centre,日本城,F19,Plaza 1 1F,23269036,,MTR Points Promotion,1,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,38,JOJA,JOJA,427,Plaza 2 4F,29973389,12:00 - 21:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,167,Joy & Peace,Joy & Peace,G29,Plaza 1 GF,27069883,11:30 - 22:00,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,127,Just 925,Just 925,F22A,Plaza 1 1F,27499960,11:30 - 22:00,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,12,Kate,Kate,314,Plaza 2 3F,29554398,11:30 - 21:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,192,Kee Wah bakery,奇華餅家,G59,Plaza 1 GF,27561281,07:30 - 21:30,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,207,Kiehl's,Kiehl's,G74,Plaza 1 GF,23050860,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,42,Kiss,Kiss,426A,Plaza 2 4F,27231020,12:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,210,L'OCCITANE,L'OCCITANE,G77,Plaza 1 GF,27574300,12:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,178,Lancome,Lancome,G4,Plaza 1 GF,27577112,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,151,LANEIGE,LANEIGE,G12,Plaza 1 GF,23181673,11:30 - 20:30,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,196,LENSCRAFTERS,亮視點,G64,Plaza 1 GF,26248426,11:00 - 20:30,MTR Points Promotion,1,blte8caadd82751d042,Optical,,2022-01-31
+TelfordPlaza,Shopping,176,LEONA,莉安娜,G38,Plaza 1 GF,27538193,11:30 - 20:30,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,194,LUCULLUS,龍島,G60,Plaza 1 GF,27070829,10:30 - 21:30,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,316,LUKFOOK JEWELLERY,六福珠寶,F3-4,Plaza 1 1F,27074480,10:00 - 21:30,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,29,Luna Cake,Luna Cake,356,Plaza 2 3F,21579025,11:00 - 22:00,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,183,LUSH,LUSH 嵐舒,G5,Plaza 1 GF,39150630,,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,383,MaBelle Pop Up,MaBelle Pop Up,德福廣場- MaBelle Pop Up,Plaza 1 GF,29973382,-,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,347,Macrame Bohemia,流蘇民族百貨,315,Plaza 2 3F,21522287,11:00 - 21:00,,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,197,MAKE UP FOR EVER,MAKE UP FOR EVER,G65,Plaza 1 GF,29159732,11:00 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,119,mannings,萬寧,F16A-17A,Plaza 1 1F,27986458,,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,126,MARATHON Sports,馬拉松,F22,Plaza 1 1F,27989712,,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,246,MARKET PLACE by JASONS,MARKET PLACE by JASONS,P27,Plaza 1 Podium,21174146,09:00 - 21:00,MTR Points Promotion,1,blt110f28c80a7fc3e9,Supermarket,,2022-01-31
+TelfordPlaza,Shopping,168,Marks & Spencer,馬莎百貨,G3,Plaza 1 GF,21486000,08:00 - 21:30,MTR Points Promotion,1,blt13e8b29c8b4e301e,Department Store,,2022-01-31
+TelfordPlaza,Shopping,368,mART 6,mART 6,G32,Plaza 1 GF,37053409,10:00 - 21:00,MTR Points Promotion,,blt13e8b29c8b4e301e,Department Store,,2022-01-31
+TelfordPlaza,Shopping,212,MAUD FRIZON PARIS,MAUD FRIZON PARIS,G8,Plaza 1 GF,27590688,11:00 - 22:00,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,243,MCL Telford Cinema,MCL 德福戲院,P23,Plaza 1 Podium,27592248,11:00 - 00:00,MTR Points Promotion,1,blta4084d73fa267d3b,Entertainment,,2022-01-31
+TelfordPlaza,Shopping,300,Meka,美康,620,Plaza 2 6F,27924377,10:30 - 21:30,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,221,Melani di moda,Melani di moda,G88,Plaza 1 GF,29940810,11:00 - 22:00,MTR Points Promotion,,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,215,mi-tu,mi-tu,G82,Plaza 1 GF,56067606,11:00 - 20:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,143,MIDLAND REALTY,美聯物業,F7A,Plaza 1 1F,27995333,09:30 - 21:30,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,132,millie's,millie's,F26,Plaza 1 1F,26732780,,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,179,Miniso,名創優品,G40,Plaza 1 GF,21775877,09:00 - 22:00,MTR Points Promotion,1,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,309,Mirabell,Mirabell,F25,Plaza 1 1F,27070898,,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,305,MJ Style,MJ Style,301A,Plaza 2 3F,27300288,11:00 - 22:00,MTR Points Promotion,,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,280,Mobile House,電訊廊,F18B,Plaza 1 1F,21392780,10:30 - 22:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,337,MUJI,無印良品,401-402 &431,Plaza 2 4F,39738380,11:00 - 22:00,MTR Points Promotion,1,blt13e8b29c8b4e301e,Department Store,,2022-01-31
+TelfordPlaza,Shopping,341,NAMCO,NAMCO,501A,Plaza 2 5F,31089119,,MTR Points Promotion,1,blta4084d73fa267d3b,Entertainment,,2022-01-31
+TelfordPlaza,Shopping,52,Natural Home,Natural Home,609,Plaza 2 6F,23181723,11:30 - 20:30,MTR Points Promotion,1,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,15,Neal's Yard Remedies,Neal's Yard Remedies,319,Plaza 2 3F,36918792,11:00 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,113,New Telford Book,新德福書局,F13A,Plaza 1 1F,27550184,10:30 - 21:30,MTR Points Promotion,1,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,225,new:vision2,new:vision2,G93-94,Plaza 1 GF,21173932,11:00 - 22:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,272,NH Natural Hair,NH Natural Hair,519,Plaza 2 5F,27070618,09:30 - 22:00,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,288,Octopus Service Points,八達通服務站,ATM No. 2,Plaza 1 1F,22662222,,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,291,Ogawa,Ogawa,G53C,Plaza 1 GF,23389360,11:00 - 21:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,332,Okashi Galleria by 零食物語,Okashi Galleria by 零食物語,330,Plaza 2 3F,27979967,11:00 - 21:15,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,21,OLENS,OLENS,339,Plaza 2 3F,21109832,12:00 - 21:00,MTR Points Promotion,,blte8caadd82751d042,Optical,,2022-01-31
+TelfordPlaza,Shopping,227,OPTICAL 88,眼鏡88,G95,Plaza 1 GF,27989146,10:30 - 21:30,MTR Points Promotion,1,blte8caadd82751d042,Optical,,2022-01-31
+TelfordPlaza,Shopping,186,OSIM,OSIM,G53B,Plaza 1 GF,27583983,11:00 - 22:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,177,OTO,OTO,G39,Plaza 1 GF,29202148,11:00 - 22:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,139,Panash,Panash,F33-34,Plaza 1 1F,27502689,07:00 - 21:00,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,273,Pandora,Pandora,G85,Plaza 1 GF,31881609,11:00 - 21:00,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,292,Pet Line,Pet Line,619,Plaza 2 6F,26951811,11:00 - 21:30,MTR Points Promotion,1,bltbcead7cf00c544e2,Others,,2022-01-31
+TelfordPlaza,Shopping,294,Physical,舒適堡,701-712,Plaza 2 7F,39619090,,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,g86,PicoLabb,PicoLabb,G86,Plaza 1 GF,,11:30 - 20:30,MTR Points Promotion,,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,264,PN,PN,P53,Plaza 1 Podium,35792008,11:30 - 21:15,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,333,POP POP RANGERS,POP POP RANGERS,329,Plaza 2 3F,23932268,,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,301,PURE COLOR,PURE COLOR,612,Plaza 2 6F,23419800,10:30 - 20:30,MTR Points Promotion,1,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,281,Pure Massage,足君好,517-518,Plaza 2 5F,23366890,,MTR Points Promotion,1,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,303,QB House,QB House,602B,Plaza 2 6F,23593300,10:00 - 20:30,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,238,Quality Healthcare,卓健醫療,P1A,Plaza 1 Podium,27500782,08:00 - 21:00,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,206,RABEANCO,RABEANCO,G73,Plaza 1 GF,35869281,11:30 - 22:00,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,111,Ricacorp Properties,利嘉閣,F12D,Plaza 1 1F,22432281,09:30 - 22:30,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,302,River Cam Chinese Medicine & Accupuncture Clinic,康河中醫診所,525,Plaza 2 5F,28183118,10:00 - 20:00,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,76,Rococo,Rococo,347A,Plaza 2 3F,23709008,10:30 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,374,SABON,SABON,G83,Plaza 1 GF,27229916,11:00 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,137,Salad,Salad,F31,Plaza 1 1F,26232265,,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,114,Salon SORA,Salon SORA,F13B,Plaza 1 Podium,27578109,09:30 - 21:00,MTR Points Promotion,1,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,342,SALON TIC,SALON TIC,502C,Plaza 2 5F,21552820,10:00 - 22:00,MTR Points Promotion,1,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,112,Samsonite,Samsonite,F13,Plaza 1 1F,23181221,11:00 - 21:00,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,191,Samsung,Samsung,G56-57,Plaza 1 GF,35720466,11:00 - 22:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,340,Sanrio Gift Gate,Sanrio Gift Gate,502A,Plaza 2 5F,23988608,11:00 - 20:00,MTR Points Promotion,1,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,174,Sasa,Sasa,G36,Plaza 1 GF,27500002,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,208,SHISEIDO,資生堂,G75,Plaza 1 GF,27503202,11:00 - 22:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,51,SINOMAX,SINOMAX,610,Plaza 2 6F,27910728,12:00 - 21:00,MTR Points Promotion,1,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,204,SK-II,SK-II,G72,Plaza 1 GF,27539033,10:00 - 20:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,2,Skechers,Skechers,302-304,Plaza 2 3F,28137895,11:00 - 22:00,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,262,SmarTone,SmarTone,P49-50,Plaza 1 Podium,21355561,10:30 - 21:30,MTR Points Promotion,,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,67,Sofina,Sofina,320-321,Plaza 2 3F,29973522,11:00 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,284,Sportshouse,運動家,305-307,Plaza 2 3F,23217211,11:00 - 22:00,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,164,STACCATO,STACCATO,G26,Plaza 1 GF,27070417,11:30 - 21:00,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,267,Standard Chartered Bank Hong Kong,渣打銀行香港,P9-12,Plaza 1 Podium,27505015,09:00 - 17:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,202,Suncoo,Suncoo,G70,Plaza 1 GF,29972033,11:00 - 21:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,101,Suzuran Bed,睡康寧,622,Plaza 2 6F,23346968,12:00 - 21:00,MTR Points Promotion,1,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,163,SWAROVSKI,施華洛世奇,G25,Plaza 1 GF,27999818,11:00 - 21:00,MTR Points Promotion,1,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,261,Telecom Digital,電訊數碼,P48,Plaza 1 Podium,23236709,10:30 - 21:30,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,247,Telford Kindergarten,德福幼稚園,P28,Plaza 1 Podium,27575749,08:00 - 19:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,234,TELFORD RECREATION CLUB,德藝會,P13-14,Plaza 1 Podium,29936688,07:00 - 23:00,MTR Points Promotion,1,bltbcead7cf00c544e2,Others,,2022-01-31
+TelfordPlaza,Shopping,172,THE BODY SHOP,THE BODY SHOP,G34,Plaza 1 GF,27591803,11:00 - 20:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,63,THE COMMERCIAL PRESS,商務印書館,503-505 & 506-507,Plaza 2 5F,23050877,11:00 - 21:00,MTR Points Promotion,1,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,130,THE NORTH FACE,THE NORTH FACE,F24,Plaza 1 1F,24962511,11:00 - 20:30,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,376,The Overlander,The Overlander,F9A,Plaza 1 1F,31883642,11:00 - 21:00,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,335,Timberland,Timberland,F16,Plaza 1 1F,29428646,11:00 - 21:00,MTR Points Promotion,1,blt62a3c7f1dbaa987b,Sports,,2022-01-31
+TelfordPlaza,Shopping,268,Tiny,微影,332-333,Plaza 2 3F,34279675,11:00 - 21:00,,,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,382,Tokyo Lifestyle,Tokyo Lifestyle,G66,Plaza 1 GF,,11:00 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,34,Tokyodo Books Fuji,東京堂,409,Plaza 2 4F,29480908,12:00 - 21:00,,,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,269,TONYMOLY,TONYMOLY,335-336,Plaza 2 3F,29972582,10:00 - 21:00,MTR Points Promotion,1,blte6e1309035d930bc,Beauty,,2022-01-31
+TelfordPlaza,Shopping,50,TOWNGAS,煤氣客戶中心,516,Plaza 2 5F,27565484,10:00 - 20:00,MTR Points Promotion,,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,153,Triumph,黛安芬,G14,Plaza 1 GF,25031966,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,386,TUDOR,帝舵,p54,Plaza 1 Podium,23330930,11:00 - 20:00,,,bltc4697b61e20ff86a,Watch & Jewellery,,2022-01-31
+TelfordPlaza,Shopping,274,twelve cupcakes,twelve cupcakes,350A,Plaza 2 3F,61121705,11:30 - 20:30,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,270,Twinkle Baker Décor,扮清糕,343,Plaza 2 3F,52360329,11:30 - 20:00,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,299,Ulferts,歐化傢俬,602,Plaza 2 6F,23336281,11:00 - 21:00,MTR Points Promotion,1,blt76e5af278b203663,Household,,2022-01-31
+TelfordPlaza,Shopping,64,UNIQLO,UNIQLO,301B,Plaza 2 3F,27569010,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,248,UOW College Hong Kong,香港伍倫貢學院,P30,Plaza 1 Podium,27079440,08:00 - 22:00,,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,106,VANS,VANS,F10,Plaza 1 1F,27592466,11:00 - 21:00,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,365,Veeko,Veeko,G90,Plaza 1 GF,,11:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,367,Vita Green,維特健靈,340,Plaza 2 3F,23031186,10:00 - 22:00,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,26,WA ORiental TRaffic,WA ORiental TRaffic,349,Plaza 2 3F,29972887,11:00 - 22:00,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,175,Wacoal,Wacoal,G37,Plaza 1 GF,23709678,11:00 - 21:30,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,4,Wai Yuen Tong,位元堂,527,Plaza 2 5F,23180880,10:00 - 20:30,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,222,Wanko,Wanko,G89,Plaza 1 GF,27841079,10:00 - 22:00,MTR Points Promotion,1,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,91,Watsons,屈臣氏,G52,Plaza 1 GF,24265933,11:00 - 22:30,MTR Points Promotion,1,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,47,Wellsoon Chinese Medicine Clinic,和順堂中醫診所- 名醫．名藥-,509,Plaza 2 5F,39529813,10:00 - 22:00,MTR Points Promotion,,blte8be4a2de8aac74b,Health Products & Personal Care,,2022-01-31
+TelfordPlaza,Shopping,190,Wilson Communications,衛訊電訊,G55,Plaza 1 GF,23720868,11:00 - 22:00,MTR Points Promotion,1,bltc8faaa5f641f429b,Electronics & Telecommunications,,2022-01-31
+TelfordPlaza,Shopping,58,WING ON TRAVEL,永安旅遊,611,Plaza 2 6F,29272228,11:00 - 20:00,MTR Points Promotion,,blt02b9510a024dc049,Services,,2022-01-31
+TelfordPlaza,Shopping,343,Yankee Candle,Yankee Candle,502B,Plaza 2 5F,52472661,11:30 - 21:30,MTR Points Promotion,1,bltc504006156927c63,"Gifts, Books & Stationery",,2022-01-31
+TelfordPlaza,Shopping,307,Ying Kee Tea House,英記茶莊,606,Plaza 2 6F,23045188,11:00 - 20:30,MTR Points Promotion,1,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,39,Yiu Fung Store,么鳳士多,423,Plaza 2 4F,35792098,11:00 - 21:00,,,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Shopping,159,ZARA,ZARA,G01-02,Plaza 1 GF,27698770,10:30 - 22:00,MTR Points Promotion,,blt2549ceb50d74bdbe,Fashion,,2022-01-31
+TelfordPlaza,Shopping,290,ZAXY,ZAXY,341-342,Plaza 2 3F,31019961,11:00 - 22:00,MTR Points Promotion,1,blt3bf32ec220716d46,Shoes & Bags,,2022-01-31
+TelfordPlaza,Shopping,312,Zoff,Zoff,G30,Plaza 1 GF,35904373,11:00 - 21:00,MTR Points Promotion,1,blte8caadd82751d042,Optical,,2022-01-31
+TelfordPlaza,Shopping,37,韓印紅,韓印紅,422,Plaza 2 4F,21100825,10:30 - 20:30,,,blt669a60dccd57402a,Confectionary,,2022-01-31
+TelfordPlaza,Dining,149,ASAM Chicken Rice,亞參雞飯,G102,Plaza 1 GF,26366022,11:00 - 21:30,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,251,Beans,Beans,P39A,Plaza 1 Podium,25580230,08:00 - 22:30,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,351,BLA BLA BLACK SHEEP,BLA BLA BLACK SHEEP,Kiosk No 1,Plaza 2 2F,91608438,08:00 - 18:00,MTR Points Promotion,,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,371,BUTAHAGE,豚丼のぶたはげ,G54A2,Plaza 1 GF,27170988,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,296,Cafe de Coral,大家樂,614,Plaza 2 6F,21094299,07:00 - 21:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,338,Cafe&Meal MUJI,Cafe&Meal MUJI,401-402 &431,Plaza 2 4F,39738380,11:00 - 22:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,359,CHIMAC,CHIMAC,501B7,Plaza 2 5F,31140604,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,185,Crystal Jade La Mian Xiao Long Bao,翡翠拉麵小籠包,G53A,Plaza 1 GF,23059990,11:00 - 23:00,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,271,Daimon Shokudo,大門食堂,410-412,Plaza 2 4F,29972818,11:00 - 22:30,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,306,E.C. Eatery,小城知味,P8A,Plaza 1 Podium,25650111,07:30 - 22:00,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,370,GENKI SUSHI,元気寿司,G54A1,Plaza 1 GF,27507950,11:30 - 22:15,MTR Points Promotion,,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,44,Gyu-kaku Japanese Yakiniku Restaurant,牛角日本燒肉專門店,425,Plaza 2 4F,31010128,11:30 - 23:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,230,Gyujin,牛陣,G99-100,Plaza 1 GF,23467708,12:00 - 23:30,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,195,Haagen Dazs,Haagen Dazs,G61,Plaza 1 GF,23879968,12:00 - 23:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,161,Italian Tomato,Italian Tomato,G20A,Plaza 1 GF,29973283,11:30 - 21:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,124,Jade Garden,翠園,F20,Plaza 1 1F,27582883,07:30 - 16:30,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,255,Jar Gor 1996,渣哥一九九六,P41,Plaza 1 Podium,26061866,08:00 - 22:00,,,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,361,jeju bulgogi,濟洲燒肉食堂,501B,Plaza 2 5F,31701438,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,85,Katong Corner,Katong Corner,419-420,Plaza 2 4F,29972798,11:30 - 22:30,MTR Points Promotion,,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,134,KFC,肯德基,618,Plaza 2 6F,27560756,07:00 - 22:30,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,318,Khap and Ka,泰廚房子,P8A,Plaza 1 Podium,25650555,07:00 - 00:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,352,Ki'son Roasted Goose,棋子燒鵝,501B3,Plaza 2 5F,31140604,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,356,Kong Chai Kee,江仔記,501B8,Plaza 2 5F,31140604,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,328,L.D.K. by Ufufu Cafe,L.D.K. by Ufufu Cafe,F23,Plaza 1 1F,31889974,,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,123,LEI GARDEN,利苑,F2,Plaza 1 1F,23313306,11:30 - 22:30,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,236,Maxim's Food,美心Food,P17,Plaza 1 Podium,27503853,07:00 - 22:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,187,Maxim's Palace,美心皇宮,G54,Plaza 1 GF,27508028,07:30 - 23:30,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,125,McDonald's & McCafe,麥當勞,F21,Plaza 1 1F,27568166,06:00 - 00:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,298,Men Wah Bing Teng,敏華冰廳,F28,Plaza 1 1F,23662829,07:00 - 22:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,373,Metro Tonkotsu Base,Metro Tonkotsu Base,G101A,Plaza 1 GF,27696318,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,56,Modern China Restaurant,金滿庭,603,Plaza 2 6F,27989066,11:45 - 04:15,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,360,MOS BURGER express,MOS BURGER express,501B2,Plaza 2 5F,31140604,11:30 - 22:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,283,MR. STEAK,MR. STEAK,415-417,Plaza 2 4F,29110773,12:00 - 22:00,MTR Points Promotion,1,bltd91fd881346e861f,Western Delicacy,,2022-01-31
+TelfordPlaza,Dining,285,Oliver's Super Sandwiches,Oliver's Super Sandwiches,528-529,Plaza 2 5F,22474198,08:00 - 21:30,MTR Points Promotion,1,bltd91fd881346e861f,Western Delicacy,,2022-01-31
+TelfordPlaza,Dining,326,Outback Steakhouse,Outback Steakhouse,601,Plaza 2 6F,36283999,11:30 - 22:00,MTR Points Promotion,1,bltd91fd881346e861f,Western Delicacy,,2022-01-31
+TelfordPlaza,Dining,54,PACIFIC COFFEE,太平洋咖啡,531,Plaza 2 5F,,07:30 - 22:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,358,Pepper Lunch Express,Pepper Lunch Express,501B10,Plaza 2 5F,31140604,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,135,PHO Le,錦麗越南牛肉粉專門店,F29,Plaza 1 1F,28119078,11:30 - 23:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,92,Pizza Hut,必勝客,510-513,Plaza 2 5F,29722215,11:00 - 22:00,MTR Points Promotion,1,bltd91fd881346e861f,Western Delicacy,,2022-01-31
+TelfordPlaza,Dining,362,Pret A Manger,Pret A Manger,P18,Plaza 1 Podium,31889114,07:30 - 20:00,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,353,SCHOOL FOOD,SCHOOL FOOD,501B4,Plaza 2 5F,31140604,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,133,Sen-ryo,千両,F27,Plaza 1 1F,27952808,11:30 - 22:30,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,357,Shan Cheng Noodle,山城小麵,501B9,Plaza 2 5F,31140604,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,286,SHANGHAI LAO LAO,上海姥姥,528-529,Plaza 2 5F,24877726,11:30 - 22:00,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,266,Side Walk Cafe,茜廊餐廳,P8,Plaza 1 Podium,27562218,07:30 - 10:30,MTR Points Promotion,1,bltd91fd881346e861f,Western Delicacy,,2022-01-31
+TelfordPlaza,Dining,245,simplylife,simplylife,P26,Plaza 1 Podium,26826665,08:00 - 23:00,MTR Points Promotion,1,bltd91fd881346e861f,Western Delicacy,,2022-01-31
+TelfordPlaza,Dining,158,STARBUCKS COFFEE,星巴克,G1A,Plaza 1 GF,27541323,07:00 - 22:30,MTR Points Promotion,1,blt833eb9c2d3db26fa,Cafés & Fast Food,,2022-01-31
+TelfordPlaza,Dining,242,Sun’s Bazaar / Kiki Tea,茶.米 / Kiki 茶,P23,Plaza 1 Podium,61175699,11:00 - 21:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,84,Tai Hing,太興,520-523,Plaza 2 5F,28657766,07:00 - 23:00,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,105,Taiwan Bussan,犇殿,F1,Plaza 1 1F,23112929,12:00 - 21:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,297,Tam Jai Sam Gor,譚仔三哥,613,Plaza 2 6F,27852888,11:00 - 22:00,MTR Points Promotion,,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,344,Tamago-EN,Tamago-EN,413-414,Plaza 2 4F,23800681,12:00 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,295,Tao Heung,稻香,801,Plaza 2 8F,83008175,07:00 - 23:30,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,354,Tastes Bistro,千味家,501B5,Plaza 2 5F,31140604,11:30 - 22:00,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,278,Tea Wood,茶木台式休閒餐廳,G53D,Plaza 1 GF,21749488,11:30 - 22:30,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,94,Trusty Congee King,靠得住,520-523,Plaza 2 5F,28166308,11:00 - 22:30,MTR Points Promotion,1,blt5ce24914903e7fb4,Chinese Cuisine,,2022-01-31
+TelfordPlaza,Dining,82,Xiao Wang Beef Noodle,小王牛肉麵,410-412,Plaza 2 4F,29972281,11:30 - 23:30,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31
+TelfordPlaza,Dining,372,Yakiniku like,Yakiniku like,G101B,Plaza 1 GF,27096166,11:30 - 20:30,MTR Points Promotion,1,blt723ce97a743f5613,Asian Flavours,,2022-01-31

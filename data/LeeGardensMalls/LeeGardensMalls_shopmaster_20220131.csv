@@ -1,0 +1,418 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+HysanPlace,Dining,BAI FUNG BENTO,BAI FUNG BENTO,百芳池上便當,11/F,HysanPlace,21091338,"11:00 - 23:00* (Mon to Thur & Sun);11:00 - 12:00* (Fri, Sat & eve of PH)",,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,Cadillac Bar & Grill,Cadillac Bar & Grill,Cadillac Bar & Grill,718-719,HysanPlace,25212322,11:30 - 24:00* (Sun to Thu);11:30 - 02:00* (Fri & Sat),,,Western,Western,,2022-01-31
+HysanPlace,Dining,Chatuchak,Chatuchak,Chatuchak,11/F,HysanPlace,,"11:00 - 23:00* (Sun - Thur);11:00 - 00:00* (Fri, Sat and eve of PH)",,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,Chi Cha San Chen,Chi Cha San Chen,吃茶三千,511A,HysanPlace,,"10:00-22:00 (Sunday to Thu);10:00-23:00 (Fri, Sat & eve of PH)",,,Asian,Asian,,2022-01-31
+HysanPlace,Dining,Chun Shui Tang,Chun Shui Tang,春水堂,317-319,HysanPlace,36145725,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Asian,Asian,,2022-01-31
+HysanPlace,Dining,Coucou Hotpot・Brew Tea,Coucou Hotpot・Brew Tea,湊湊火鍋・茶憩,1401-1402,HysanPlace,28180698,11:00 - 22:00*,,,Asian,Asian,,2022-01-31
+HysanPlace,Dining,CUPFY,CUPFY,CUPFY,9/F(eslite),HysanPlace,34196729,10:00 – 22:00*,,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Curry House Coco Ichibanya,Curry House Coco Ichibanya,Curry House Coco Ichibanya,11/F,HysanPlace,35710157,11:30 - 21:30* (Sun to Thu);11:30 - 22:00* (Fri & Sat),,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,FLIPPER’S @ i.t blue block,FLIPPER’S @ i.t blue block,FLIPPER’S @ i.t blue block,"601-625, 628-632",HysanPlace,23672133,12:30 - 21:00*,,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Green Waffle Diner,Green Waffle Diner,Green Waffle Diner,1303,HysanPlace,28805123,"11:00 - 23:00* (Sun to Thu);11:00 - 00:00* (Fri, Sat & eve of PH)",,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,HABITŪ table,HABITŪ table,HABITŪ table,8/F(eslite),HysanPlace,35431313,10:00 - 22:00*,,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Ho Hung Kee (1946) Congee & Noodle Shop,Ho Hung Kee (1946) Congee & Noodle Shop,何洪記（1946）粥麵專家,1204-1205,HysanPlace,25776028,"11:30 - 23:00* (Mon to Fri);11:00 - 23:00* (Sat, Sun & PH)",,,Chinese,Chinese,,2022-01-31
+HysanPlace,Dining,Home Baking Day,Home Baking Day,Home.焙小日子,705-708A,HysanPlace,31658677,10:00 – 22:00*,,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Homing People,Homing People,Homing People,10/F(eslite),HysanPlace,,10:00 - 22:00*,,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,HOW to live well,HOW to live well,HOW to live well,414 - 417,HysanPlace,67900774,"12:00 – 22:00* (Sun to Thu);12:00 – 23:00* (Fri , Sat)",,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,IPPUDO,IPPUDO,一風堂,1403,HysanPlace,28922387,11:30 - 22:00*,,,Japanese & Korean,Japanese & Korean,,2022-01-31
+HysanPlace,Dining,kikusan,kikusan,kikusan,1301,HysanPlace,22527808,11:30am - 11:00pm*,,,Chinese,Chinese,,2022-01-31
+HysanPlace,Dining,kikusan,kikusan,kikusan,1301,HysanPlace,22527808,11:30am - 11:00pm*,,,Japanese & Korean,Japanese & Korean,,2022-01-31
+HysanPlace,Dining,Kyo Hayashiya,Kyo Hayashiya,京林屋,1203,HysanPlace,35801838,"11:00 - 23:00* (Sun - Thur);11:00 - 00:00* (Fri, Sat and eve of Public Holidays)",,,Japanese & Korean,Japanese & Korean,,2022-01-31
+HysanPlace,Dining,Lane No.9 Tea,Lane No.9 Tea,阿玖里台湾料理,B2/F,HysanPlace,,11:00 - 20:00*,,,Asian,Asian,,2022-01-31
+HysanPlace,Dining,Le Cha,Le Cha,Le Cha,10/F(eslite),HysanPlace,34196793,10:00 - 22:00*,,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Lee Fa Yuen Express,Lee Fa Yuen Express,梨花園快餐,11/F,HysanPlace,25063793,"11:00 - 23:00* (Sun - Thur);11:00 - 00:00* (Fri, Sat and eve of Public Holidays)",,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,LIFETASTIC,LIFETASTIC,LIFETASTIC,"326, 330-331",HysanPlace,25386990,11:00 - 21:00*,,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Marugame,Marugame,丸龜製麵,11/F,HysanPlace,35800597,"11:00 - 23:00* (Sun to Thur);11:00 - 24:00* (Fri, Sat and eve of PH)",,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,Ming Bistro,Ming Bistro,名館,1201,HysanPlace,21806578,12:00 – 22:00*,,,Chinese,Chinese,,2022-01-31
+HysanPlace,Dining,Mos Burger and Mos Cucina,Mos Burger and Mos Cucina,Mos Burger and Mos Cucina,11/F,HysanPlace,,"11:00 – 23:00* (Sun to Thu);11:00 - 24:00* (Fri, Sat & eve of PH)",,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,n.O.T. x ehonia,n.O.T. x ehonia,n.O.T. x ehonia,"Shop 1, Lobby on 9/F",HysanPlace,forCoffee:21513822;forPasta:21529826,For Coffee:;08:00 - 20:00* (Mon - Sat);10:30 - 18:00* (Sun & PH);For Pasta:;11:00 - 20:00* (Mon - Fri);11:00 - 18:00* (Sat) Close (Sun & PH),,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Nabe Urawa,Nabe Urawa,牛気,1404-1405,HysanPlace,26520008,11:30 –  22:00* (Mon – Sun),,,Japanese & Korean,Japanese & Korean,,2022-01-31
+HysanPlace,Dining,Nadai Unatoto Charcoal Grilled Eel Specialty,Nadai Unatoto Charcoal Grilled Eel Specialty,名代宇奈備長炭燒鰻魚飯專門店,1202,HysanPlace,,"*12:00 - 23:00 (Mon to Fri);*11:30 - 23:00 (Sat, Sun, Public Holiday & Eve)",,,Japanese & Korean,Japanese & Korean,,2022-01-31
+HysanPlace,Dining,Okonomiyaki Dohtonbori Restaurant,Okonomiyaki Dohtonbori Restaurant,道頓堀御好燒專門店,1202,HysanPlace,,"12:00 - 22:30* (Mon to Fri);11:30 - 22:30* (Sat, Sun, Eves of PH & PH)",,,Japanese & Korean,Japanese & Korean,,2022-01-31
+HysanPlace,Dining,Pacific Coffee,Pacific Coffee,Pacific Coffee,516-517,HysanPlace,28668692,10:30 - 21:00* (Mon to Sun and eve of PH),,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,PEPPER LUNCH,PEPPER LUNCH,PEPPER LUNCH,11/F,HysanPlace,22595159,11:00 – 21:00*,,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,Pho Bar,Pho Bar,Pho Bar,11/F,HysanPlace,,"11:00 - 23:00* (Mon - Thur & Sun);11:00 - 00:00* (Fri, Sat & eve of PH)",,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,Pizza Maru,Pizza Maru,Pizza Maru,1302,HysanPlace,23181012,"11:00 - 23:00* (Sun to Thur);11:00 - 00:00* (Fri, Sat and eve of PH)",,,Japanese & Korean,Japanese & Korean,,2022-01-31
+HysanPlace,Dining,Robin Coffee,Robin Coffee,Robin Coffee,10/F,HysanPlace,,"10:00 – 22:00* (Sun to Thu);10:00 – 23:00* (Fri, Sat & eve of PH)",,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,sen-ryo,sen-ryo,千両,1304-1305,HysanPlace,35431128,"11:30 - 22:00* (Mon to Fri);11:00 - 22:00* (Sat, Sun and PH)",,,Japanese & Korean,Japanese & Korean,,2022-01-31
+HysanPlace,Dining,Smile Yogurt Cake Dessert,Smile Yogurt Cake Dessert,Smile Yogurt Cake Dessert,511B,HysanPlace,28118321,13:00 - 22:00*,,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Starbucks,Starbucks,星巴克,B2/F(MPJ),HysanPlace,26177121,08:30 - 23:00* (Mon to Sat);09:00 - 22:30* (Sun),,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,SWEET MONSTER @ i.t blue block,SWEET MONSTER @ i.t blue block,SWEET MONSTER @ i.t blue block,"601-625, 628-632",HysanPlace,23672733,"10:00 - 22:00* (Sun - Thur);10:00 - 23:00* (Fri, Sat and eve of Public Holidays)",,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,TamJai SamGor Mixian,TamJai SamGor Mixian,譚仔三哥米線,11/F,HysanPlace,,11:00 – 22:00*,,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,The Peninsula Pop-Up Boutique,The Peninsula Pop-Up Boutique,半島精品店期間限定店,1/F,HysanPlace,26966969,10:00 - 21:00* (Mon to Sun),,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,Toast Luck & Soul Food Truck,Toast Luck & Soul Food Truck,Toast Luck & Soul Food Truck,11/F,HysanPlace,31885982,11:00-20:30* (Mon – Sun),,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Dining,YIFANG TAIWAN FRUIT TEA,YIFANG TAIWAN FRUIT TEA,一芳台灣水果茶,10/F(eslite),HysanPlace,34196780,10:00 - 22:00* (Mon to Sun),,,Café & Others,Café & Others,,2022-01-31
+HysanPlace,Dining,YUM YUM GOOSE & CO.,YUM YUM GOOSE & CO.,日日香鵝肉飯店,11/F,HysanPlace,,"11:00-23:00* (Sun-Thu);11:00-24:00* (Fri, Sat & the day before PH)",,,Food Court ,Food Court ,,2022-01-31
+HysanPlace,Shopping,:CHOCOOLATE,:CHOCOOLATE,:CHOCOOLATE,501,HysanPlace,21047211,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,10/10 HOPE,10/10 HOPE,10/10 HOPE,L802,HysanPlace,34196772,10:00 - 22:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,ACCA KAPPA,ACCA KAPPA,ACCA KAPPA,313-314,HysanPlace,35801070,11:00 – 21:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,adc,adc,adc,515A,HysanPlace,,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,adidas Performance,adidas Performance,adidas Performance,503-504,HysanPlace,25769210,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,Aesop,Aesop,Aesop,108,HysanPlace,25679388,11:00 - 21:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Amor,Amor,Amor,309,HysanPlace,59305202,12:00 – 21:30 *,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,"Apple, Causeway Bay","Apple, Causeway Bay","Apple, Causeway Bay","G01-03, 101-103, 201-203",HysanPlace,39793100,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,Aroma Truffle,Aroma Truffle,Aroma Truffle,B105,HysanPlace,,11:00 – 21:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Ausganica,Ausganica,Ausganica,10/F(eslite),HysanPlace,23951884,10:00 – 22:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Autoshop,Autoshop,Autoshop,514,HysanPlace,,"10:00 – 22:00* (Sun to Thu);10:00 – 23:00* (Fri, Sat & Day Before PH)",,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,b+ab,b+ab,b+ab,306-307,HysanPlace,23858355,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Barbour,Barbour,Barbour,411,HysanPlace,,10:00 - 22:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,BEAMS,BEAMS,BEAMS,6/F,HysanPlace,27593282,"10:00 - 22:30* (Sun to Thur);10:00 - 23:00* (Fri, Sat, & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,BEYORG,BEYORG,BEYORG有機無限,215-216,HysanPlace,28700783,10:00 - 21:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,BIGPACK,BIGPACK,BIGPACK,402-403,HysanPlace,28909278,11:00 - 21:00*,,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,BODYCARE,BODYCARE,BODYCARE,L1001A,HysanPlace,34196775,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,BY GINNY,BY GINNY,BY GINNY,8/F(eslite),HysanPlace,,10:00 - 22:00* (Mon to Sun),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,C.P.U.,C.P.U.,C.P.U.,712-714,HysanPlace,22422116,12:00 – 21:00*,,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,Champion,Champion,Champion,509,HysanPlace,34283948,10:00 – 22:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,CHANEL BEAUTÉ,CHANEL BEAUTÉ,CHANEL BEAUTÉ,106-107,HysanPlace,25032206,10:00 - 22:00* (Sun - Thur);10:00 - 23:00* (Fri and Sat),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Cheung Leung Kee,Cheung Leung Kee,張梁記,422B,HysanPlace,,12:00 to 21:00* (Mon to Sun),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Circle by Prenetics,Circle by Prenetics,Circle by Prenetics,206,HysanPlace,,10:00 – 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,City Chain,City Chain,City Chain,"303A, 303B",HysanPlace,27509262,11:00 – 21:00* (Mon to Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,Converse,Converse,Converse,513,HysanPlace,27029600,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,Crudo,Crudo,Crudo,3/F Open Space No.1,HysanPlace,,"10:00 - 21:00* (Sun to Thu);11:00 - 21:00* (Fri, Sat and eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Crystal One Jewelry,Crystal One Jewelry,Crystal One Jewelry,L1012,HysanPlace,,10:00 – 22:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,DEMK,DEMK,DEMK,515B,HysanPlace,25486885,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Diamanti Per Tutti,Diamanti Per Tutti,Diamanti Per Tutti,329,HysanPlace,23478068,11:00 - 22:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,DIDIER DUBOT,DIDIER DUBOT,DIDIER DUBOT,301A,HysanPlace,26526922,*11:00 – 22:00 (Mon to Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,Dixix,Dixix,Dixix,10/F,HysanPlace,,10:00 – 22:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,double-park,double-park,double-park,521,HysanPlace,27604760,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Dr. Martens,Dr. Martens,Dr. Martens,507,HysanPlace,28921832,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Earth Mover,Earth Mover,Earth Mover,10/F(eslite),HysanPlace,34196779,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,ERNO LASZLO,ERNO LASZLO,ERNO LASZLO,320,HysanPlace,25650388,10:00 - 21:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,eslite,eslite,誠品,8/F-10/F,HysanPlace,34196789,10:00 – 22:00* (Mon to Sun),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+HysanPlace,Shopping,eslite,eslite,誠品,8/F-10/F,HysanPlace,34196789,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,EVOLCARE,EVOLCARE,EVOLCARE,205,HysanPlace,68212223,10:00 - 22:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Flawless Beaux,Flawless Beaux,Flawless Beaux,423A,HysanPlace,31882693,11:30 - 21:30,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Gilly Hicks,Gilly Hicks,Gilly Hicks,301B,HysanPlace,25240913,11:00 - 22:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,GODIVA,GODIVA,GODIVA,10/F(eslite),HysanPlace,34196770,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Green Sun Garden,Green Sun Garden,綠日堂,10/F(eslite),HysanPlace,34196789,10:00 - 22:00* (Mon to Sun),,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,G-Shock Casio,G-Shock Casio,G-Shock Casio,512,HysanPlace,21164995,11:00-22:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,Hair King,Hair King,Hair King 髮記,704,HysanPlace,,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Hei Beaute,Hei Beaute,Hei Beaute,1003,HysanPlace,53888053,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,Hellolulu,Hellolulu,Hellolulu,9/F(eslite),HysanPlace,34196776,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,Her own words,Her own words,Her own words,701-702,HysanPlace,28683307,11:00 - 22:00* (Mon to Sun & eve of PH),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Herschel,Herschel,Herschel,506B,HysanPlace,28893131,12:00 - 21:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,HKID Gallery,HKID Gallery,HKID Gallery,520,HysanPlace,34211825,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Hoax,Hoax,Hoax,709,HysanPlace,23378327,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Hollister,Hollister,Hollister,"218-220, 327-328",HysanPlace,25240913,11:00 - 22:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,HOMELESS,HOMELESS,HOMELESS,"207, 208-209",HysanPlace,36203675,11:00 - 20:30*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,Hong Kong Whistle,Hong Kong Whistle,吹啤啤,10/F(eslite),HysanPlace,34196780,10:00 - 22:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Hoshino Jewelry Kan,Hoshino Jewelry Kan,星野珠寶館水晶手作工房,L903B,HysanPlace,34196779,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,HSBC Hysan Place Express Banking,HSBC Hysan Place Express Banking,HSBC Hysan Place Express Banking,217B,HysanPlace,,24 hours*,,,Others,Others,,2022-01-31
+HysanPlace,Shopping,Hysan Place HSBC Wealth Centre,Hysan Place HSBC Wealth Centre,希慎廣場滙豐財富管理中心,33/F,HysanPlace,22333033,09:00 – 17:00 (Mon to Fri);09:00 – 13:00 (Sat);Closed (Sun and PH),,,Others,Others,,2022-01-31
+HysanPlace,Shopping,i.t blue block,i.t blue block,i.t blue block,6/F,HysanPlace,23672311,"10:00 - 22:30* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Jade in Style,Jade in Style,千千玉飾 Jade In Style,10/F(eslite),HysanPlace,34196759,"10:00 - 22:00* (Sun to Thur);10:00 - 23:00* (Fri, Sat & eve of PH)",,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,JOYCE Beauty,JOYCE Beauty,JOYCE Beauty,214,HysanPlace,27620130,"10:00 - 22:00* (Sun to Thu);10:00 - 22:30* (Fri, Sat & eve of PH)",,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Khemist,Khemist,Khemist,L805B,HysanPlace,,10:00 - 22:00* (Mon to Sun),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,KSK Workshop,KSK Workshop,KSK Workshop,10/F(eslite),HysanPlace,,10:00 - 22:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,KURA CHIKA by PORTER,KURA CHIKA by PORTER,KURA CHIKA by PORTER,412-413,HysanPlace,24683755,11:00 - 21:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,LensCrafters,LensCrafters,亮視點,321,HysanPlace,28990620 ,"11:00 - 20:30* (Mon to Thu);11:00 - 21:00* (Fri, Sun & eve of PH)",,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,Les Néréides,Les Néréides,Les Néréides,322,HysanPlace,35431218,11:00 - 21:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,LINE FRIEDNS POP-UP STORE,LINE FRIEDNS POP-UP STORE,LINE FRIEDNS POP-UP STORE,305,HysanPlace,23020337,11:00 - 21:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,lululemon,lululemon,lululemon,104-105,HysanPlace,26236151,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,Mannings,Mannings,萬寧,B2/F,HysanPlace,24087292,10:00 - 23:00* (Mon to Sun and PH),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Market Place,Market Place,Market Place,B2/F,HysanPlace,27761090,"08:30-23:00* (Mon to Fri);09:30-23:00* (Sat, Sun & PH)",,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Medcross,Medcross,Medcross,10/F(eslite),HysanPlace,34196777,10:00 – 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,Moshi Ron,Moshi Ron,Moshi Ron,717-717A,HysanPlace,,11:00 - 22:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,MOUSSY,MOUSSY,MOUSSY,308,HysanPlace,28860590,"*11:30 - 21:30 (Sun to Thur);*11:30 - 22:00 (Fri, Sat & PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,myEureka,myEureka,myEureka,5/F Open Space No.1,HysanPlace,,"10:00 – 22:00* (Sun to Thu);10:00 – 23:00* (Fri, Sat & eve of PH)",,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Nail it Tokyo,Nail it Tokyo,Nail it Tokyo,703,HysanPlace,23822360,"10:00 – 22:00* (Sun to Thur);10:00 – 23:00* (Fri, Sat & eve of PH)",,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Nakajima Sushi,Nakajima Sushi,中与志,B2/F(MPJ),HysanPlace,26820710,10:00 - 23:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Neal,Neal's Yard Remedies,Neal's Yard Remedies,8/F(eslite),HysanPlace,34196773,10:00 - 22:00* (Mon to Sun),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,New Era,New Era,New Era,508,HysanPlace,23218929,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,NIKE KICKS LOUNGE,NIKE KICKS LOUNGE,NIKE KICKS LOUNGE,405-407,HysanPlace,27841033,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,OLENS,OLENS,OLENS,323,HysanPlace,37912812,10:00 - 22:00 (Mon - Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,Orenda Atelier,Orenda Atelier,Orenda Atelier,10/F,HysanPlace,54084867,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,OWNDAYS,OWNDAYS,OWNDAYS,401,HysanPlace,26538618,11:00 - 22:00* (Mon - Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,PALLADIUM,PALLADIUM,PALLADIUM,424-425,HysanPlace,28170155,11:30 - 21:30*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,PANDORA,PANDORA,PANDORA,204,HysanPlace,31040706,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,Parisine,Parisine,Parisine,324-325,HysanPlace,31685190,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,Pinkicon,Pinkicon,Pinkicon,518,HysanPlace,25500001,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,POP MART,POP MART,POP MART,210,HysanPlace,23020113,11:00 - 21:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,Popcorn General Store,Popcorn General Store,Popcorn General Store,409,HysanPlace,35470598,12:00 to 21:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Protrek,Protrek,Protrek,710-711,HysanPlace,57167549,11:30 - 20:30*,,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,Puma,Puma,Puma,506A,HysanPlace,27861022,11:00 - 22:00*,,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,RABEANCO,RABEANCO,RABEANCO,316,HysanPlace,29101877,"10:00-22:00* ( Mon-Thu);10:00-23:00* (Fri, Sat & the day before PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Reddot Optic,Reddot Optic,Reddot Optic,418-419,HysanPlace,39041045,10:00 - 22:00* (星期日至四);10:00 - 23:00* (星期五、六及公眾假期前夕),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,RIPNDIP,RIPNDIP,RIPNDIP,410,HysanPlace,35470598,12:00 to 21:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,ROLEX,ROLEX,ROLEX,G34-35,HysanPlace,25553188,10:30 - 21:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,SHOUT ART HUB AND GALLERY,SHOUT ART HUB AND GALLERY,SHOUT ART HUB AND GALLERY,109-112,HysanPlace,25031878,11:00 – 21:00*,,,Others,Others,,2022-01-31
+HysanPlace,Shopping,Shuki,Shuki,Shuki,423B,HysanPlace,54064556,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,sift desserts,sift desserts,sift desserts,217,HysanPlace,26531330,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Signature Hysan Place,Signature Hysan Place,Signature Hysan Place,"31/F, 32/F",HysanPlace,36657300,0830 - 1800* (Mon - Fri),,,Business Centre & Co-working Space,Business Centre & Co-working Space,,2022-01-31
+HysanPlace,Shopping,SNIDEL,SNIDEL,SNIDEL,311-312,HysanPlace,36950310,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Stayreal,Stayreal,Stayreal,519,HysanPlace,,"10:00 - 22:00* (Mon to Thur & Sun);10:00 - 23:00* (Fri, Sat & the day before PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Studdedheartz,Studdedheartz,Studdedheartz,10/F(eslite),HysanPlace,34196779,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,SUPERGA,SUPERGA,SUPERGA,422A,HysanPlace,,11:30 - 21:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,T Galleria Beauty By DFS,T Galleria Beauty By DFS,DFS旗下T廣場美妝世界,B1/F,HysanPlace,22396688,10:00 - 22:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+HysanPlace,Shopping,T Galleria Beauty By DFS,T Galleria Beauty By DFS,DFS旗下T廣場美妝世界,G04-33,HysanPlace,22396688,10:00 - 22:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,The Healer Co.,The Healer Co.,The Healer Co.,10/F(eslite),HysanPlace,34196795,10:00 - 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,The North Face Urban Exploration,The North Face Urban Exploration,The North Face Urban Exploration,408,HysanPlace,28921113,11:00 - 22:00* (Mon to Sun & eve of PH),,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,The Overlander,The Overlander,The Overlander,715-716,HysanPlace,39070690,"10:00 - 22:00* (Mon to Sun);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,The Pallet Store,The Pallet Store,The Pallet Store,10/F(eslite),HysanPlace,,10:00 – 22:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,TORIO Store,TORIO Store,TORIO Store,302,HysanPlace,,10:00 - 22:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,Urban Bakery,Urban Bakery,Urban Bakery,B2/F(MPJ),HysanPlace,27953168,08:30 - 20:30*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,USAGI ONLINE STORE,USAGI ONLINE STORE,USAGI ONLINE STORE,310,HysanPlace,96829605,"11:30 – 20:30* (Sun to Thu);11:30 - 21:00* (Fri, Sat & PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,VANS,VANS,VANS,510,HysanPlace,28719399,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Sports,Sports,,2022-01-31
+HysanPlace,Shopping,Wang De Chuan Tea House,Wang De Chuan Tea House,王德傳茶莊,10/F(eslite),HysanPlace,34196778,10:00 - 22:00* (Mon to Sun),,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Wine Discovery,Wine Discovery,Wine Discovery,L1010,HysanPlace,98628453,10:00 - 22:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,WM Project,WM Project,WM Project,4/F Open Space NO.1,HysanPlace,,11:30 – 21:00^,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,Workware,Workware,Workware,420-421,HysanPlace,54388357,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+HysanPlace,Shopping,XOVE,XOVE,XOVE,2/F OPEN SPACE NO.1,HysanPlace,39291814,10:00 – 22:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+HysanPlace,Shopping,XTC Gelato,XTC Gelato,XTC Gelato,B2/F(MPJ),HysanPlace,28703029,10:00 - 22:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+HysanPlace,Shopping,Yankee Candle,Yankee Candle,Yankee Candle,B103,HysanPlace,,"10:00 - 22:00* (Sun to Thu);10:00 - 23:00* (Fri, Sat & eve of PH)",,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+HysanPlace,Shopping,Yuan,Yuan,阿原,8/F(eslite),HysanPlace,34196771,10:00 - 22:00* (Mon to Sun),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenFive,Shopping,Cartier,Cartier,Cartier 卡地亞,"G02-G04, 1/F",LeeGardenFive,25222296,10:30 - 20:00* (Mon - Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenFive,Shopping,La broderie,La broderie,繡飾・度人,G01,LeeGardenFive,23302015,11:00 - 20:00* (Mon to Sun & PH),,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeeGardenFive,Shopping,Montresor Infini,Montresor Infini,Montresor Infini,1401B,LeeGardenFive,27763300,11:00 - 20:00* (Mon - Fri);11:00 - 17:00* (Sat),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenFive,Shopping,mtm labo,mtm labo,mtm labo,2/F,LeeGardenFive,29237923,10:30 - 21:30* (Mon-Fri);09:00 - 18:30* (Sat);10:00 - 19:00(Sun & Public Holiday),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenFive,Shopping,NTK Academic Group,NTK Academic Group,NTK Academic Group,5/F,LeeGardenFive,25777844,09:30 - 21:00* (Mon to Fri);09:00 - 18:30* (Sat),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeeGardenNeighbourhood,Shopping,Gentle Monster Hong Kong Flagship Store,Gentle Monster Hong Kong Flagship Store,Gentle Monster Hong Kong Flagship Store,,LeeGardenNeighbourhood,26121968,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenNeighbourhood,Shopping,Leica Store,Leica Store,Leica Store,,LeeGardenNeighbourhood,23850118,10:00 - 20:00* (Mon to Sun),,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeeGardenOne,Dining,An Nam,An Nam,安南,4/F,LeeGardenOne,27873922,11:30 – 23:00*,,,Asian,Asian,,2022-01-31
+LeeGardenOne,Dining,COVA Pasticceria-Confetteria (Cake Shop),COVA Pasticceria-Confetteria (Cake Shop),COVA Pasticceria-Confetteria (餅店),108A,LeeGardenOne,29073060,09:00 - 20:30* (Mon to Fri);11:00 - 20:30* (Sat to Sun & PH),,,Café & Others,Café & Others,,2022-01-31
+LeeGardenOne,Dining,COVA Ristorante & Caffe,COVA Ristorante & Caffe,COVA Ristorante & Caffe,101-103,LeeGardenOne,29073399,08:00 - 18:00* (Mon to Sun & PH);08:00 - 20:00* (Take away),,,Western,Western,,2022-01-31
+LeeGardenOne,Dining,Cupping Room Coffee Roasters,Cupping Room Coffee Roasters,Cupping Room Coffee Roasters,305-306,LeeGardenOne,52066188,08:00 - 21:00* (Mon to Fri);09:00 - 21:00* (Sat & eve of PH),,,Café & Others,Café & Others,,2022-01-31
+LeeGardenOne,Dining,Gonpachi,Gonpachi,權八,4/F,LeeGardenOne,27873688,"11:30 - 15:30* (Mon to Sun);18:00 - 23:30* (Sun to Thu & PH);18:00 - 00:00* (Fri to Sat, Eve of PH)",,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeGardenOne,Dining,Kanizen,Kanizen,蟹膳,105,LeeGardenOne,28661618,12:00 - 15:00*;18:00 - 23:00*,,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeGardenOne,Dining,La Maison du Chocolat,La Maison du Chocolat,La Maison du Chocolat,B03A,LeeGardenOne,29072002,11:00 - 19:00*,,,Café & Others,Café & Others,,2022-01-31
+LeeGardenOne,Dining,N.O.T. Specialty Coffee,N.O.T. Specialty Coffee,N.O.T. Specialty Coffee,212,LeeGardenOne,21510774,"08:00 – 18:00* (Mon to Fri);09:30 – 18:00* (Sat, Sun & PH)",,,Café & Others,Café & Others,,2022-01-31
+LeeGardenOne,Dining,West Villa Restaurant,West Villa Restaurant,西苑酒家,5/F,LeeGardenOne,28822110,11:00 - 22:00* (Mon to Sat);10:00 - 22:00* (Sun & PH),,,Chinese,Chinese,,2022-01-31
+LeeGardenOne,Dining,Westside Taqueria,Westside Taqueria,Westside Taqueria,204,LeeGardenOne,,11:00 - 22:00*,,,Western,Western,,2022-01-31
+LeeGardenOne,Shopping,45R,45R,45R,201,LeeGardenOne,25042445,11:00 - 20:00* (Sun to Thu);11:00 - 20:30* (Fri & Sat),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,AMOREPACIFIC,AMOREPACIFIC,AMOREPACIFIC,B01A,LeeGardenOne,31089147,11:00 - 20:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenOne,Shopping,Anteprima,Anteprima,Anteprima,214-215,LeeGardenOne,29073388,11:00 - 20:00* (Sun - Thur);11:00 - 20:30* (Fri & Sat),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Anterra Florist,Anterra Florist,Anterra Florist,315,LeeGardenOne,29074633,11:00 - 18:00* (Mon to Fri);13:30 - 18:00* (Sat);Closed (Sun & PH),,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeeGardenOne,Shopping,Anya Hindmarch,Anya Hindmarch,Anya Hindmarch,216,LeeGardenOne,28080128,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,ATSURO TAYAMA,ATSURO TAYAMA,ATSURO TAYAMA,202,LeeGardenOne,31071258,11:00 – 20:00* (Sun to Thur);11:00 – 20:30* (Fri & Sat),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Bodywize Immersions,Bodywize Immersions,Bodywize Immersions,401A,LeeGardenOne,21111877,10:45 - 20:30* (Mon to Fri);09:45 - 20:00* (Sat);09:45 - 19:00* (Sun & PH),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenOne,Shopping,Brunello Cucinelli,Brunello Cucinelli,Brunello Cucinelli,112-115,LeeGardenOne,21529151,11:00 – 20:00* (Mon to Sun & PH),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,CHANEL,CHANEL,CHANEL,"B09, G05, 111",LeeGardenOne,25760696,12:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,CHAUMET,CHAUMET,CHAUMET,G09,LeeGardenOne,24682818,11:00 - 20:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenOne,Shopping,Christian Dior,Christian Dior,Christian Dior,"B05-B06, G06-G08",LeeGardenOne,29074055,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Cocktail,Cocktail,Cocktail,203,LeeGardenOne,29074388,11:00 - 20:00* (Sun to Thur);11:00 - 20:30* (Fri & Sat),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Compass Offices,Compass Offices,Compass Offices,"901, 1102",LeeGardenOne,37967188,08:30 - 18:30* (Mon to Fri),,,Business Centre & Co-working Space,Business Centre & Co-working Space,,2022-01-31
+LeeGardenOne,Shopping,ENOTECA,ENOTECA,ENOTECA,307-308,LeeGardenOne,28878270,11:30 - 20:30* (Mon to Sat);12:00 - 20:00* (Sun),,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeeGardenOne,Shopping,GINSANITY,GINSANITY,GINSANITY,310A,LeeGardenOne,61104974,11:00 – 20:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeeGardenOne,Shopping,Giuseppe Zanotti,Giuseppe Zanotti,Giuseppe Zanotti,116,LeeGardenOne,25500638,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Gong Fu Teahouse,Gong Fu Teahouse,工夫茶舍,309-310,LeeGardenOne,61800090,11:00 – 20:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeeGardenOne,Shopping,Hermès,Hermès,Hermès 愛馬仕,"B07-B08, G02-G04, 109-110",LeeGardenOne,29072974,10:30 - 19:30* (Mon to Sat);11:00 - 19:00* (Sun & PH),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Jeeves of Belgravia,Jeeves of Belgravia,Jeeves of Belgravia,304A,LeeGardenOne,29730077,10:00 - 19:00* (Mon-Sat);10:00 - 17:00* (PH);Closed (Sun & SH),,,Others,Others,,2022-01-31
+LeeGardenOne,Shopping,Louis Vuitton,Louis Vuitton,Louis Vuitton 路易威登,G01,LeeGardenOne,29072781,11:00 - 21:30*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,LU LU CHEUNG,LU LU CHEUNG,LU LU CHEUNG,211,LeeGardenOne,23594133,11:00 - 20:00* (Mon to Sun & eve of PH),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Marni,Marni,Marni,208,LeeGardenOne,29180853,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,MOISELLE,MOISELLE,MOISELLE,206-207,LeeGardenOne,31294212,11:00 – 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,MOSCHINO,MOSCHINO,MOSCHINO,108,LeeGardenOne,29072033,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,PINKO,PINKO,PINKO,205A,LeeGardenOne,25636668,10:30 - 20:30*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Puyi Optical,Puyi Optical,溥儀眼鏡,311-312,LeeGardenOne,28907070,11:00 – 20:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenOne,Shopping,ROYAN JADE,ROYAN JADE,ROYAN JADE,303,LeeGardenOne,26382358,11:00 – 19:30*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenOne,Shopping,Shiatzy Chen,Shiatzy Chen,Shiatzy Chen 夏姿‧陳,209,LeeGardenOne,29072288,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,ST. JOHN,ST. JOHN,ST. JOHN,106-107,LeeGardenOne,28081286,10:30 – 19:30*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,The Little Shop,The Little Shop,The Little Shop,205B,LeeGardenOne,28084438,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,The Spa by Valmont,The Spa by Valmont,The Spa by Valmont,B01,LeeGardenOne,29727868,10:00 – 21:00* (Mon to Sat);10:00 – 20:00* (Sun & PH),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenOne,Shopping,The University of Manchester Worldwide Limited,The University of Manchester Worldwide Limited,The University of Manchester Worldwide Limited,3303,LeeGardenOne,25885013,09:30 – 18:30* (Mon to Fri),,,Education,Education,,2022-01-31
+LeeGardenOne,Shopping,TSE,TSE,TSE,208A,LeeGardenOne,31070676,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,VALENTINO,VALENTINO,VALENTINO,"G11, 117-118",LeeGardenOne,29072332,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Vein,Vein,Vein,213,LeeGardenOne,25284988,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenOne,Shopping,Wallen Jewellery,Wallen Jewellery,Wallen Jewellery,304,LeeGardenOne,28902286/25777235,11:00 - 20:00* (Mon to Sat);12:00 - 20:00* (Sun & PH),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenOne,Shopping,WeWork,WeWork,WeWork,46/F,LeeGardenOne,22703700,09:00 - 18:00*,,,Business Centre & Co-working Space,Business Centre & Co-working Space,,2022-01-31
+LeeGardenOne,Shopping,Zeiss Vision Center by Puyi Optical,Zeiss Vision Center by Puyi Optical,Zeiss Vision Center by Puyi Optical,301-302,LeeGardenOne,25061688,11:00 – 20:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenOne,Shopping,Zeta Tokyo Japan & Zeta Homme,Zeta Tokyo Japan & Zeta Homme,Zeta Tokyo Japan & Zeta Homme,210,LeeGardenOne,28905676,11:00 - 19:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenSix,Dining,BRICK LANE,BRICK LANE,BRICK LANE,G01,LeeGardenSix,27368893,08:30 - 22:30* (Mon - Thu);08:30 - 23:30* (Fri);09:00 - 23:30* (Sat);09:00 - 22:30* (Sun & Public Holidays),,,Western,Western,,2022-01-31
+LeeGardenSix,Shopping,Berlitz Language Centre,Berlitz Language Centre,貝立茲語言中心,2/F,LeeGardenSix,21572222,08:00 - 21:00* (Mon to Fri);09:00 - 18:00* (Sat to Sun);Closed* (Public Holidays),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeeGardenSix,Shopping,Berlitz Language Centre,Berlitz Language Centre,貝立茲語言中心,2/F,LeeGardenSix,21572222,08:00 - 21:00* (Mon to Fri);09:00 - 18:00* (Sat to Sun);Closed* (Public Holidays),,,Education,Education,,2022-01-31
+LeeGardenSix,Shopping,Bridge Elite Education,Bridge Elite Education,Bridge Elite Education,702,LeeGardenSix,23233600,09:30 - 18:30* (Mon - Sat),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeeGardenSix,Shopping,Dragon Prep,Dragon Prep,Dragon Prep,301,LeeGardenSix,98358011(WhatsApponly),11:00 – 20:00* (Mon – Fri);10:00 – 19:00* (Sat),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeeGardenSix,Shopping,Global First Education Centre,Global First Education Centre,一環教育,701,LeeGardenSix,,09:00 - 21:00*,,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeeGardenSix,Shopping,Global First Education Centre,Global First Education Centre,一環教育,701,LeeGardenSix,,09:00 - 21:00*,,,Education,Education,,2022-01-31
+LeeGardenSix,Shopping,Miele,Miele,Miele,"G02-G04, 1/F",LeeGardenSix,28901018,10:30 - 19:00* (Mon to Sat);12:00 - 19:00* (Sun & PH),,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenSix,Shopping,PHD Scientists,PHD Scientists,博士科學工作室,5/F,LeeGardenSix,60898988,10:30-19:30* (Mon to Sun);09:00-18:00* (Sat);Sunday only by appointment,,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeeGardenSix,Shopping,Sense Beauty & Spa,Sense Beauty & Spa,Sense Beauty & Spa,4/F,LeeGardenSix,21115656,"12:00-21:00* (Mon to Fri );10:00-19:00* (Sat, Sun & Public Holiday)",,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenSix,Shopping,Zeva Hair Spa,Zeva Hair Spa,Zeva Hair Spa,302,LeeGardenSix,21463118,10:00 - 19:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenThree,Dining,A Happy Pancake,A Happy Pancake,A Happy Pancake,203-205,LeeGardenThree,23384315/23384724,10:00 – 22:00*,,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeGardenThree,Dining,Belgos,Belgos,Belgos,G11-G15,LeeGardenThree,21111197,11:30 - 00:00* (Sun to Thur);11:30 - 02:00* (Fri & Sat),,,Western,Western,,2022-01-31
+LeeGardenThree,Dining,Duckee,Duckee,Duckee 淂記,B01-10,LeeGardenThree,31051252,11:30 - 23:00*,,,Chinese,Chinese,,2022-01-31
+LeeGardenThree,Dining,Next Door Café & Bar,Next Door Café & Bar,Next Door Café & Bar,206-210,LeeGardenThree,26066665,11:30 - 21:00* (Sun to Wed & PH);11:30 - 23:00* (Thu to Sat),,,Western,Western,,2022-01-31
+LeeGardenThree,Dining,NOC Coffee Co.,NOC Coffee Co.,NOC Coffee Co.,G23,LeeGardenThree,35654654,"08:00 - 17:00* (Mon to Fri);09:00 – 18:00* (Sat, Sun & PH)",,,Café & Others,Café & Others,,2022-01-31
+LeeGardenThree,Dining,Reserva Ibérica Tapas Bar & Café,Reserva Ibérica Tapas Bar & Café,Reserva Ibérica Tapas Bar & Café,316-318,LeeGardenThree,31886608,09:00 - 21:30* (Mon to Fri);10:30 - 21:30* (Sat to Sun),,,Western,Western,,2022-01-31
+LeeGardenThree,Dining,Starbucks Flagship Store,Starbucks Flagship Store,星巴克旗艦店,101-110,LeeGardenThree,23773375,"07:30 - 22:00* (Mon to Fri);08:00 - 22:00* (Sat, Sun & PH)",,,Café & Others,Café & Others,,2022-01-31
+LeeGardenThree,Dining,Zentro East,Zentro East,Zentro East,229-230,LeeGardenThree,28028000,*12:00 - 01:30,,,Western,Western,,2022-01-31
+LeeGardenThree,Shopping,BoConcept,BoConcept,BoConcept,206-210,LeeGardenThree,21109705,10:00 - 20:00*,,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,Boffi,Boffi,Boffi,301-310,LeeGardenThree,28681134,10:00 - 20:00*,,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,Busy bee,Busy bee,Busy bee,319-320,LeeGardenThree,36195305,11:00 - 20:30*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenThree,Shopping,Fendi Cucine,Fendi Cucine,Fendi Cucine,G21-G22,LeeGardenThree,25281800,10:00 - 19:00* (Mon to Sat);12:00 - 19:00* (Sun & PH),,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,HAHAHAFLORIST,HAHAHAFLORIST,HAHAHAFLORIST,G16,LeeGardenThree,22953223,11:00 – 20:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeeGardenThree,Shopping,HOMELESS,HOMELESS,HOMELESS,111,LeeGardenThree,36203675,11:00 - 20:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeeGardenThree,Shopping,Hunter Douglas Window Fashions Gallery,Hunter Douglas Window Fashions Gallery,Hunter Douglas,218-220,LeeGardenThree,21140630,11:00 – 20:00*,,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,Kidzroom,Kidzroom,Kidzroom,116-118,LeeGardenThree,25533881,10:30 – 19:30*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenThree,Shopping,KitchenAid,KitchenAid,KitchenAid,211-215,LeeGardenThree,37598228,11:00 - 20:00*,,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,M Plus Salon,M Plus Salon,M Plus Salon,311-315,LeeGardenThree,28902666,10:30 -20:00* (Mon - Sat);10:30 - 19:00* (Sun & Public Holidays),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenThree,Shopping,mastermind A BATHING APE®,mastermind A BATHING APE®,mastermind A BATHING APE®,G08-G10,LeeGardenThree,26413618,11:00 - 21:00* (Mon to Sun),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenThree,Shopping,Monoyono,Monoyono,Monoyono,221-222,LeeGardenThree,31658011,11:30 - 19:30*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeeGardenThree,Shopping,MyAttic,MyAttic,MyAttic,201-202,LeeGardenThree,65386380,11:30 – 19:00*,,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,Paidi,Paidi,Paidi,121-122,LeeGardenThree,23296836,10:30 - 19:30*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenThree,Shopping,Smeg,Smeg,Smeg,226-228,LeeGardenThree,27610182,11:00 – 22:00* (Mon to Sun),,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,Spaces,Spaces,Spaces,"4/F, 5/F, 6/F, 20/F, 21/F",LeeGardenThree,37696000,0830 - 1800* (Mon - Fri),,,Business Centre & Co-working Space,Business Centre & Co-working Space,,2022-01-31
+LeeGardenThree,Shopping,SPOTTED by HOMELESS,SPOTTED by HOMELESS,SPOTTED by HOMELESS,126-128,LeeGardenThree,21171036,11:00 – 20:30*,,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,Stressless,Stressless,Stressless,216-217,LeeGardenThree,23413155,11:00 - 20:00 (Mon - Sun),,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,Sub-Zero & Wolf,Sub-Zero & Wolf,Sub-Zero & Wolf,G17-G20,LeeGardenThree,22395018,11:00 - 22:00* (Mon to Sun),,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,Tavolo Kids Living,Tavolo Kids Living,Tavolo Kids Living,123-125,LeeGardenThree,28682340,10:30 – 20:30*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenThree,Shopping,umbra,umbra,umbra,119-120,LeeGardenThree,21113126,11:00 - 20:30* (Mon - Sun),,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,UNDEFEATED,UNDEFEATED,UNDEFEATED,G05-G07,LeeGardenThree,26413628,11:00-21:00* (Mon to Sun),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenThree,Shopping,Visionaire,Visionaire,Visionaire,223-225,LeeGardenThree,27456868,11:00 - 20:00*,,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeGardenThree,Shopping,WTAPS,WTAPS,WTAPS,G01-G04,LeeGardenThree,26412818,11:00-21:00* (Mon to Sun),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Dining,10 Shanghai,10 Shanghai,十里洋場,101,LeeGardenTwo,23385500,11:30 - 16:00;18:00 - 23:30,,,Chinese,Chinese,,2022-01-31
+LeeGardenTwo,Dining,Feather & Bone,Feather & Bone,Feather & Bone,LG11 - LG22,LeeGardenTwo,35291228,"0700 - 2200* (Mon - Sun, including PH)",,,Western,Western,,2022-01-31
+LeeGardenTwo,Dining,Grappa’s Cellar,Grappa’s Cellar,Grappa’s Cellar,LG02 - LG08,LeeGardenTwo,35291871,"11:30 - 23:30* (Sun to Thur);11:30 - 01:00* (Fri, Sat & eve of PH)",,,Western,Western,,2022-01-31
+LeeGardenTwo,Dining,Jouer,Jouer,Jouer,LG 23,LeeGardenTwo,34893903,12:00 - 20:00*,,,Café & Others,Café & Others,,2022-01-31
+LeeGardenTwo,Dining,Leah Café,Leah Café,Leah Café,307,LeeGardenTwo,65377651,09:00 - 18:00*,,,Café & Others,Café & Others,,2022-01-31
+LeeGardenTwo,Dining,NINETYs,NINETYs,NINETYs 玖零,116,LeeGardenTwo,21678684,08:00 - 21:00* (Mon - Sun),,,Café & Others,Café & Others,,2022-01-31
+LeeGardenTwo,Dining,Oookie Cookie,Oookie Cookie,Oookie Cookie,302,LeeGardenTwo,31885448,11:00 - 19:00*,,,Café & Others,Café & Others,,2022-01-31
+LeeGardenTwo,Dining,PIN,PIN,PIN,310,LeeGardenTwo,31885448,11:00 - 19:30* (Mon to Sun),,,Café & Others,Café & Others,,2022-01-31
+LeeGardenTwo,Dining,Pret A Manger,Pret A Manger,Pret A Manger,G12,LeeGardenTwo,28948887,07:00 - 20:30* (Mon - Fri);07:30 - 20:00* (Sat);08:30 - 19:30* (Sun & PH);till 5 July 2020,,,Café & Others,Café & Others,,2022-01-31
+LeeGardenTwo,Dining,Ta-ke,Ta-ke,竹日本料理,G01,LeeGardenTwo,25770611,"11:30 - 15:30 (Mon – Fri) 11:30 - 16:30 (Sat, Sun & PH);18:00 - 23:30 (Mon – Sun)",,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeGardenTwo,Dining,The Cakery,The Cakery,The Cakery,124,LeeGardenTwo,28161838,10:00 – 19:30*,,,Café & Others,Café & Others,,2022-01-31
+LeeGardenTwo,Dining,The Leah,The Leah,The Leah,308 & 311,LeeGardenTwo,65377651,11:00 - 23:00*,,,Western,Western,,2022-01-31
+LeeGardenTwo,Dining,Venchi,Venchi,Venchi,G11B,LeeGardenTwo,37912862,11:00 - 21:00* (Mon to Sun & PH),,,Café & Others,Café & Others,,2022-01-31
+LeeGardenTwo,Dining,Yakiniku Futago,Yakiniku Futago,大阪燒肉,LG01,LeeGardenTwo,28987707,12:00 - 15:00 & 17:30 - 22:30 (Mon to Sun & PH),,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeGardenTwo,Shopping,Abebi,Abebi,Abebi,204-205,LeeGardenTwo,28821809,11:00 - 20:30*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,ARTE Madrid,ARTE Madrid,ARTE Madrid,103,LeeGardenTwo,25768782,11:00 - 21:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenTwo,Shopping,Baby Dior,Baby Dior,Baby Dior,222,LeeGardenTwo,28854566,11:00 - 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,BAPE KIDS by *a bathing ape®,BAPE KIDS by *a bathing ape®,BAPE KIDS by *a bathing ape®,208,LeeGardenTwo,29073011,11:00 - 21:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Bonpoint,Bonpoint,Bonpoint,213,LeeGardenTwo,29720011,10:30 – 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Book Castle,Book Castle,Book Castle,217-218,LeeGardenTwo,29156228,10:00 - 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Bora Aksu Kids,Bora Aksu Kids,Bora Aksu Kids,216,LeeGardenTwo,36202211,10:00 - 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,BURBERRY CHILDREN,BURBERRY CHILDREN,BURBERRY CHILDREN,221,LeeGardenTwo,28084611,11:00 - 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,BVLGARI,BVLGARI,BVLGARI,G06,LeeGardenTwo,29074322,11:00 - 20:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenTwo,Shopping,Chicco,Chicco,Chicco,203,LeeGardenTwo,25061030,11:00 - 20:00* (Mon to Thu);11:00 - 20:30* (Fri to Sun),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Compass Offices,Compass Offices,Compass Offices,"15/F, 16/F",LeeGardenTwo,37967188,08:30 - 18:30* (Mon to Fri),,,Business Centre & Co-working Space,Business Centre & Co-working Space,,2022-01-31
+LeeGardenTwo,Shopping,Dejade,Dejade,Dejade,102,LeeGardenTwo,28113815,11:00 - 19:45* (Mon to Sun & PH),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenTwo,Shopping,dunhill,dunhill,dunhill,G01A,LeeGardenTwo,28244388,11:00 - 20:00* (Mon to Sun & PH),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Europe Watch Company,Europe Watch Company,歐洲坊,G09,LeeGardenTwo,,11:00 - 22:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenTwo,Shopping,Ferrari Store Junior,Ferrari Store Junior,Ferrari Store Junior,206,LeeGardenTwo,31019695,11:00 - 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Happyland,Happyland,Happyland,229,LeeGardenTwo,28120816,11:00 – 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,iiJin,iiJin,iiJin,105,LeeGardenTwo,23882962,11:00 - 20:00* (Mon to Sun & eve of PH),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,INNIU,INNIU,INNIU,107,LeeGardenTwo,34211433,11:00 - 20:00* (Monday to Sunday & PH),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Inspire for Men,Inspire for Men,Inspire for Men,5/F,LeeGardenTwo,90818183,10:00 - 22:00* (Mon to Sat);11:00 - 21:00* (Sun & PH),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenTwo,Shopping,Jacadi,Jacadi,Jacadi,227,LeeGardenTwo,23917533,11:00 - 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,jovens,jovens,jovens,121,LeeGardenTwo,63773882,11:00 – 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,La Perla,La Perla,La Perla,G11A,LeeGardenTwo,23688848,11:00 – 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Maggie & Rose,Maggie & Rose,Maggie & Rose,303-309 & 311,LeeGardenTwo,23377571,09:00-19:00 (Mon to Sun & PH),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeeGardenTwo,Shopping,Maje,Maje,Maje,111-112,LeeGardenTwo,28712335,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Marina Rinaldi,Marina Rinaldi,Marina Rinaldi,110,LeeGardenTwo,27229631,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,MIKIMOTO,MIKIMOTO,MIKIMOTO,G05,LeeGardenTwo,25061183,11:00 - 20:30* (Mon - Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenTwo,Shopping,MM AVEDA,MM AVEDA,MM AVEDA,125-126,LeeGardenTwo,27608998,10:30 - 20:00* (Mon - Sat);10:30 - 19:00* (Sun & PH),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenTwo,Shopping,mothercare,mothercare,mothercare,201-202,LeeGardenTwo,25041088,11:00 - 20:30* (Mon - Sun),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Mr. Poco,Mr. Poco,Mr. Poco,224,LeeGardenTwo,56042173,11:00 - 20:00* (Mon - Sun & eve of PH),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,my shop,my shop,my shop,226,LeeGardenTwo,28949011,11:00 - 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,NANOS,NANOS,NANOS,215,LeeGardenTwo,28061808,11:00 - 20:30* (Mon to Sun & PH),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,nicholas & bears,nicholas & bears,nicholas & bears,223,LeeGardenTwo,28909618,11:00 - 20:00* (Mon to Thu);11:00 - 20:30* (Fri to Sun),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,PETIT BATEAU,PETIT BATEAU,PETIT BATEAU,209,LeeGardenTwo,31881592,11:00 - 20:30* (Mon to Sun & PH),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Petit Bazaar,Petit Bazaar,Petit Bazaar,214,LeeGardenTwo,25283212,10:00-20:00* (Mon - Sun & PH),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Phillip Wain International,Phillip Wain International,菲力偉健美集團,4/F,LeeGardenTwo,28827880,07:00 - 22:00* (Mon - Fri);07:00 - 21:00* (Sat);09:00 - 20:00* (Sun & PH),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeGardenTwo,Shopping,PORTSPURE,PORTSPURE,PORTSPURE,106A,LeeGardenTwo,21158189,11:00 - 20:00* (Mon to Sun & PH),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Private i Garden Kids Salon,Private i Garden Kids Salon,PRIVATE I GARDENS Kids Salon,230,LeeGardenTwo,26182330,"11:00 - 20:00* (Mon - Fri);10:00 - 20:00* (Sat, Sun & PH)",,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Private Shop,Private Shop,Private Shop,122,LeeGardenTwo,25061011,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Ralph Lauren Childrenswear,Ralph Lauren Childrenswear,Ralph Lauren Childrenswear,210-212,LeeGardenTwo,25779011,11:00 - 20:30* (Mon to Sun),,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Rimowa,Rimowa,Rimowa,G04A,LeeGardenTwo,28029883,11:00-20:00* (Mon to Sun & PH),,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeeGardenTwo,Shopping,Roger Vivier,Roger Vivier,Roger Vivier,G07,LeeGardenTwo,26733236,11:00–20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Rolex,Rolex,勞力士,G10,LeeGardenTwo,28363238,11:00 – 20:00*,,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenTwo,Shopping,rue Madame,rue Madame,rue Madame,104,LeeGardenTwo,29722021,"11:00 - 20:00* (Sun to Thu);11:00 - 21:00* (Fri, Sat & PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Sake Moment,Sake Moment,敬酒,LG24 - LG25,LeeGardenTwo,39054377/94459943(WhatsApponly),12:00 – 21:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeeGardenTwo,Shopping,SANDRO,SANDRO,SANDRO,115,LeeGardenTwo,29722115,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Seed,Seed,Seed Heritage,219-220,LeeGardenTwo,25770721,"11:00 - 21:00* (Mon to Fri);10:30 - 21:00* (Sat, Sun & PH)",,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,Seoul Recipe,Seoul Recipe,Seoul Recipe,LG09 - LG10,LeeGardenTwo,25355336,11:00 - 20:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeeGardenTwo,Shopping,Simply Toys,Simply Toys,Simply Toys,207,LeeGardenTwo,28111887,11:00 – 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeGardenTwo,Shopping,TASAKI,TASAKI,TASAKI,123,LeeGardenTwo,22523066,11:00 - 19:45* (Mon - Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenTwo,Shopping,Theory,Theory,Theory,"119, 120",LeeGardenTwo,35210182,11:00 - 20:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Van Cleef & Arpels,Van Cleef & Arpels,Van Cleef & Arpels,G08 & 108-9,LeeGardenTwo,29722003,10:30 - 20:00* (Mon - Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeeGardenTwo,Shopping,Watson,Watson's Wine,Watson's Wine 屈臣氏酒窖,G03,LeeGardenTwo,31517628,11:00 - 20:00* (Mon - Sun),,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeeGardenTwo,Shopping,Whistles,Whistles,Whistles,117-118,LeeGardenTwo,21229605,"11:00 – 20:00* (Sun to Thu);11:00 - 21:00* (Fri, Sat & PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeGardenTwo,Shopping,Yan Chim Kee,Yan Chim Kee,甄沾記,LG/F Open Space No.1,LeeGardenTwo,96545013,11:00 – 18:00* (Sun to Thu);11:00 – 18:30* (Fri to Sat),,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeeGardenTwo,Shopping,YOKU MOKU,YOKU MOKU,YOKU MOKU,228,LeeGardenTwo,26823411,"11:00 - 20:00* (Sun to Thu and PH);11:00 - 20:30* (Fri, Sat and eves of PH)",,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeeTheatrePlaza,Dining,Asam Chicken Rice,Asam Chicken Rice,亞參雞飯,102,LeeTheatrePlaza,23636266,11:00 - 21:30*,,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,Café&Meal MUJI,Café&Meal MUJI,Café&Meal MUJI,3/F,LeeTheatrePlaza,39713120,11:00 – 21:00*,,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeTheatrePlaza,Dining,DODAM CHICKEN,DODAM CHICKEN,DODAM CHICKEN,18A,LeeTheatrePlaza,23338365,11:00 - 23:30*,,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeTheatrePlaza,Dining,Haidilao,Haidilao,海底撈,19/F,LeeTheatrePlaza,23222865,11:00 – 03:00*,,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,MyBase Brew Lab,MyBase Brew Lab,MyBase Brew Lab,10B,LeeTheatrePlaza,55437582,10:00 – 18:00*,,,Café & Others,Café & Others,,2022-01-31
+LeeTheatrePlaza,Dining,Nabe One,Nabe One,牛一日式鍋料理專門店,17A,LeeTheatrePlaza,36222299,11:30 - 23:30*,,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeTheatrePlaza,Dining,Paradise Dynasty,Paradise Dynasty,樂天皇朝,6/F,LeeTheatrePlaza,21770903,11:30 - 22:30*,,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,PUTIEN,PUTIEN,莆田,7A,LeeTheatrePlaza,21118080,11:30 - 22:30*,,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,Rock Salt Japanese Restaurant,Rock Salt Japanese Restaurant,岩鹽日本料理,16A,LeeTheatrePlaza,36223998,12:00-15:00 & 18:00-23:00*,,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeTheatrePlaza,Dining,San Xi Lou,San Xi Lou,三希樓,17B,LeeTheatrePlaza,37958522,11:00 – 23:00*,,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,Sorabol Korean Restaurant,Sorabol Korean Restaurant,新羅寶韓國料理,18B,LeeTheatrePlaza,28816823,11:30 - 23:30* (15:00 - 17:30 Rest),,,Japanese & Korean,Japanese & Korean,,2022-01-31
+LeeTheatrePlaza,Dining,Space Between Daily Tea Time by Don’t Yell at Me,Space Between Daily Tea Time by Don’t Yell at Me,不要對我尖叫，日常茶間,106,LeeTheatrePlaza,,11:00 - 21:00* (Mon to Thur);11:00 - 22:00* (Fri-Sun & Public Holidays),,,Café & Others,Café & Others,,2022-01-31
+LeeTheatrePlaza,Dining,Star of Canton Restaurant,Star of Canton Restaurant,利寶閣酒家,21/F,LeeTheatrePlaza,28811682,11:00 - 23:00* (16:00 - 18:00 Rest),,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,Sunning Restaurant,Sunning Restaurant,新寧餐廳,16B,LeeTheatrePlaza,25763301,11:30 - 23:30*,,,Western,Western,,2022-01-31
+LeeTheatrePlaza,Dining,Sweet Basil Thai Cuisine,Sweet Basil Thai Cuisine,金不換泰國餐廳,7B,LeeTheatrePlaza,28901993,11:30 - 23:00*,,,Asian,Asian,,2022-01-31
+LeeTheatrePlaza,Dining,The Graces Restaurant,The Graces Restaurant,玉桃軒,20/F,LeeTheatrePlaza,28821889,11:00 - 23:30*,,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,Tsui Hang Village,Tsui Hang Village,翠亨邨,22/F,LeeTheatrePlaza,24094822,"11:00-15:00; 18:00-23:00* (Mon-Fri);11:00-16:30; 18:00-23:00* (Sat, Sun & PH)",,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,U-Banquet．The Starview,U-Banquet．The Starview,譽宴．星海薈,5/F,LeeTheatrePlaza,28119181,10:00 - 23:00* (Mon - Sun),,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Dining,Zither Garden,Zither Garden,古琴雅苑,8B,LeeTheatrePlaza,69948175,"11:30 – 15:00* , 17:45 – 22:00*",,,Chinese,Chinese,,2022-01-31
+LeeTheatrePlaza,Shopping,@cosme STORE,@cosme STORE,@cosme STORE,104-105,LeeTheatrePlaza,31877070,10:00 - 22:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeTheatrePlaza,Shopping,Cotton On,Cotton On,Cotton On,2/F,LeeTheatrePlaza,25571110,"11:00 - 22:00* (Sun to Thur and PH);11:00 - 23:00* (Fri, Sat and the eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeTheatrePlaza,Shopping,Cotton On,Cotton On,Cotton On,2/F,LeeTheatrePlaza,25571110,"11:00 - 22:00* (Sun to Thur and PH);11:00 - 23:00* (Fri, Sat and the eve of PH)",,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeTheatrePlaza,Shopping,HAiR,HAiR,HAiR,10/F,LeeTheatrePlaza,28826022,10:00 - 21:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeTheatrePlaza,Shopping,Honma Golf,Honma Golf,Honma Golf,11/F,LeeTheatrePlaza,29150622,10:30 – 19:30* (Mon to Sun & Public Holiday),,,Sports,Sports,,2022-01-31
+LeeTheatrePlaza,Shopping,MUJI,MUJI,無印良品,"3/F, 4/F",LeeTheatrePlaza,39713120,10:00 – 21:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeTheatrePlaza,Shopping,MUJI,MUJI,無印良品,"3/F, 4/F",LeeTheatrePlaza,39713120,10:00 – 21:00*,,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeeTheatrePlaza,Shopping,MUJI,MUJI,無印良品,"3/F, 4/F",LeeTheatrePlaza,39713120,10:00 – 21:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeTheatrePlaza,Shopping,MUJI,MUJI,無印良品,"3/F, 4/F",LeeTheatrePlaza,39713120,10:00 – 21:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeeTheatrePlaza,Shopping,MyBASE,MyBASE,MyBASE,10B,LeeTheatrePlaza,55437582,10:00 – 22:00*,,,Business Centre & Co-working Space,Business Centre & Co-working Space,,2022-01-31
+LeeTheatrePlaza,Shopping,MyBASE,MyBASE,MyBASE,10B,LeeTheatrePlaza,55437582,10:00 – 22:00*,,,Education,Education,,2022-01-31
+LeeTheatrePlaza,Shopping,Pure Fitness,Pure Fitness,Pure Fitness,"12/F, 14/F, 15/F",LeeTheatrePlaza,81960000,06:00 - 00:00*;(Mon - Sat);08:00 - 22:00*;(Sun & Public Holidays),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeeTheatrePlaza,Shopping,The Korner,The Korner,The Korner,103,LeeTheatrePlaza,62216342,11:30 - 22:00*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeTheatrePlaza,Shopping,Towngas Cooking Centre,Towngas Cooking Centre,煤氣烹飪中心,9A,LeeTheatrePlaza,25761535,09:00 - 21:00* (Mon - Fri);09:00 - 18:00* (Sat - Sun);Closed on Public Holidays,,,Others,Others,,2022-01-31
+LeeTheatrePlaza,Shopping,Towngas Cooking Centre,Towngas Cooking Centre,煤氣烹飪中心,9A,LeeTheatrePlaza,25761535,09:00 - 21:00* (Mon to Fri);09:00 - 18:00* (Sat & Sun);Closed*  (Public Holidays),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeeTheatrePlaza,Shopping,UNIQLO,UNIQLO,UNIQLO,"B2/F, B1/F, G/F",LeeTheatrePlaza,25775811,"10:00 – 22:00* (Sun - Thur & PH);10:00 – 23:00* (Fri, Sat & eve of PH)",,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeeTheatrePlaza,Shopping,UNIQLO,UNIQLO,UNIQLO,"B2/F, B1/F, G/F",LeeTheatrePlaza,25775811,"10:00 – 22:00* (Sun - Thur & PH);10:00 – 23:00* (Fri, Sat & eve of PH)",,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeeTheatrePlaza,Shopping,Zoff,Zoff,Zoff,101,LeeTheatrePlaza,37933112,11:00 - 21:30* (Mon to Sun),,,"Jewellery, Watches & Optical","Jewellery, Watches & Optical",,2022-01-31
+LeightonCentre,Dining,McDonald,McDonald's®,麥當勞,B02,LeightonCentre,31264113,00:00 - 24:00*,,,Café & Others,Café & Others,,2022-01-31
+LeightonCentre,Dining,sensory ZERO,sensory ZERO,sensory ZERO,2/F,LeightonCentre,23866061,11:00 – 22:00* (Mon to Sun),,,Café & Others,Café & Others,,2022-01-31
+LeightonCentre,Dining,Starbucks,Starbucks,星巴克,L05,LeightonCentre,28084620,07:30 - 23:00* (Mon-Sat);08:00 - 23:00* (Sun & Public Holiday),,,Café & Others,Café & Others,,2022-01-31
+LeightonCentre,Shopping,Amazed Experiential Learning,Amazed Experiential Learning,Amazed Experiential Learning,"L02, G02-G03,G15",LeightonCentre,92282617,9:30 - 18:30*,,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeightonCentre,Shopping,ASICS,ASICS,ASICS,G06,LeightonCentre,27452188,12:00 - 21:30*,,,Sports,Sports,,2022-01-31
+LeightonCentre,Shopping,AVEDA,AVEDA,AVEDA,2/F,LeightonCentre,26963633,10:30 – 21:30*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeightonCentre,Shopping,C.P.U. Canvas,C.P.U. Canvas,C.P.U. Canvas,"G04, G05",LeightonCentre,26172838,11:30 - 20:30* (Mon to Sun),,,Sports,Sports,,2022-01-31
+LeightonCentre,Shopping,Carol Bateman School of Dancing,Carol Bateman School of Dancing,嘉露貝文芭蕾舞學校,1509-1513,LeightonCentre,25253721,10:00 - 18:00*,,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeightonCentre,Shopping,Derma Decus,Derma Decus,Derma Decus,811,LeightonCentre,23328199,09:30 - 18:00* (Mon – Fri),,,Medical & Healthcare,Medical & Healthcare,,2022-01-31
+LeightonCentre,Shopping,"Dr. Ho Chung Hang, Barry Dental Surgeon","Dr. Ho Chung Hang, Barry Dental Surgeon",何仲恒牙科醫生,818,LeightonCentre,28112812,"10:00-13:30, 14:30-18:30* (Mon – Fri);10:00-14:00* (Sat);Sunday & Public Holiday closed",,,Medical & Healthcare,Medical & Healthcare,,2022-01-31
+LeightonCentre,Shopping,Dr. Leo Wong Dental Clinic,Dr. Leo Wong Dental Clinic,黃賢浩牙醫診所,2313,LeightonCentre,28901701/52862833,By Appointment,,,Medical & Healthcare,Medical & Healthcare,,2022-01-31
+LeightonCentre,Shopping,Dr. Mak Sze Yuen Anthony,Dr. Mak Sze Yuen Anthony,麥思源醫生,802B,LeightonCentre,25770055,10:00 – 18:00* (Mon - Fri);10:00 – 14:00* (Sat),,,Medical & Healthcare,Medical & Healthcare,,2022-01-31
+LeightonCentre,Shopping,Eyesight Hong Kong Optometry Centre,Eyesight Hong Kong Optometry Centre,香港視覺護眼中心,1518,LeightonCentre,21530008,10:30 - 19:30* (Mon - Sat);Public Holiday closed,,,Medical & Healthcare,Medical & Healthcare,,2022-01-31
+LeightonCentre,Shopping,Fusion,Fusion,Fusion,"B01, L04",LeightonCentre,26876236,08:00 - 22:00*,,,"Supermarket, Gourmet & Wine ","Supermarket, Gourmet & Wine ",,2022-01-31
+LeightonCentre,Shopping,Haglöfs,Haglöfs,Haglöfs,G12,LeightonCentre,23375911,11:30 - 21:30*,,,Sports,Sports,,2022-01-31
+LeightonCentre,Shopping,Hong Kong International Xiaoyan School of Art,Hong Kong International Xiaoyan School of Art,香港國際小燕畫院,"1405, 1407",LeightonCentre,21562833,10:00 - 19:00* (Mon – Fri);09:00 - 18:00* (Sat);09:30 - 18:30* (Sun),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeightonCentre,Shopping,Leighton Aveda,Leighton Aveda,Leighton Aveda,2F,LeightonCentre,26963633,10:30 – 21:00*,,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeightonCentre,Shopping,Ligne Roset,Ligne Roset,Ligne Roset,"L01, G01",LeightonCentre,27788748,11:00 - 21:00* (Sun to Thu);11:00 - 22:00* (Fri & Sat),,,Home Furnishing & Appliances,Home Furnishing & Appliances,,2022-01-31
+LeightonCentre,Shopping,London Iryo Centre Hong Kong,London Iryo Centre Hong Kong,倫敦醫療中心香港診療所,822,LeightonCentre,23980808,"10:00-13:00, 15:00-19:00* (Mon - Wed, Fri);10:00-13:00* (Sat)",,,Medical & Healthcare,Medical & Healthcare,,2022-01-31
+LeightonCentre,Shopping,Maskology Living,Maskology Living,Maskology Living,G07,LeightonCentre,62194670,11:30 – 21:00*,,,"Lifestyle, Electronics & Music","Lifestyle, Electronics & Music",,2022-01-31
+LeightonCentre,Shopping,MY KIDDY GYM LIMITED,MY KIDDY GYM LIMITED,MY KIDDY GYM LIMITED,1515 & 1517,LeightonCentre,27598811,,,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeightonCentre,Shopping,My Little J Ltd,My Little J Ltd,My Little J Ltd,G11,LeightonCentre,93649761,11:00 - 20:00*,,,Kids’ Fashion & Lifestyle,Kids’ Fashion & Lifestyle,,2022-01-31
+LeightonCentre,Shopping,My Little J Ltd,My Little J Ltd,My Little J Ltd,G11,LeightonCentre,93649761,11:00 - 20:00*,,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeightonCentre,Shopping,NIKE,NIKE,NIKE,G13-G14 & L03,LeightonCentre,24159800,11:00 – 22:30,,,Sports,Sports,,2022-01-31
+LeightonCentre,Shopping,SaSa Supreme,SaSa Supreme,SaSa Supreme,"GF,2F",LeightonCentre,25550806,"10:30 - 22:30* (Mon to Fri);10:00 - 22:30* (Sat, Sun & eve of PH)",,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+LeightonCentre,Shopping,SIMPLY BLISS,SIMPLY BLISS,SIMPLY BLISS,G09,LeightonCentre,22050322,11:30 – 20:30*,,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+LeightonCentre,Shopping,SL International Artist Training Academy,SL International Artist Training Academy,SL國際藝人練習生統訓學院,2301-2305,LeightonCentre,39979088/68796008(WhatsApponly),10:00-19:00*,,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+LeightonCentre,Shopping,theDesk,theDesk,theDesk,20/F,LeightonCentre,37033360,0900 - 1800* (Mon - Fri),,,Business Centre & Co-working Space,Business Centre & Co-working Space,,2022-01-31
+LeightonCentre,Shopping,WAH-LAAH!,WAH-LAAH!,WAH-LAAH!,G08,LeightonCentre,28189337,11:00-21:30* (Mon to Sun),,,Sports,Sports,,2022-01-31
+OneHysanAvenue,Shopping,Absolute Music Limited,Absolute Music Limited,啟斯音樂有限公司,902,OneHysanAvenue,23639500,10:00 - 20:00 (Mon - Fri);09:00 - 20:00 PM (Sat);09:00 - 19:00 PM (Sun),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,Aderans • Total Hair Solutions,Aderans • Total Hair Solutions,Aderans 日本 • 頭皮護理 • 造型 • 增髮,1504,OneHysanAvenue,23969601,10:30 - 19:30* (except Tue and selected Public Holidays),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+OneHysanAvenue,Shopping,Althy Clinic,Althy Clinic,Althy Clinic,904,OneHysanAvenue,,11:00 - 19:00* (Mon to Fri);11:00 - 15:00* (Sat),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+OneHysanAvenue,Shopping,Art Ateliers de la little Masterhand,Art Ateliers de la little Masterhand,手。作家,1503,OneHysanAvenue,34890077,14:00 - 19:00* (Tue);10:00 - 19:00* (Wed to Fri);09:30 - 19:00* (Sat);09:30 - 13:00* (Sun),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,BAPE STORE® HONG KONG,BAPE STORE® HONG KONG,BAPE STORE® HONG KONG,G/F,OneHysanAvenue,28907012,11:00 - 22:00* (Sun to Thu);11:00 - 22:30* (Fri & Sat),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+OneHysanAvenue,Shopping,Capstone Educational Group Limited/ Capstone Pre Education Center,Capstone Educational Group Limited/ Capstone Pre Education Center,Capstone Educational Group Limited/ Capstone Pre Education Center,2/F,OneHysanAvenue,28936060,10:00 - 20:30* (Tue - Fri);09:30 - 19:30* (Sat);10:00 - 17:00* (Sun),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,Capstone Educational Group Limited/ Capstone Pre Education Center,Capstone Educational Group Limited/ Capstone Pre Education Center,Capstone Educational Group Limited/ Capstone Pre Education Center,2/F,OneHysanAvenue,28936060,10:00 - 20:30* (Tue - Fri);09:30 - 19:30* (Sat);10:00 - 17:00* (Sun),,,Education,Education,,2022-01-31
+OneHysanAvenue,Shopping,EXI.T,EXI.T,EXI.T,B01,OneHysanAvenue,28952303,11:00 - 22:00* (Sun to Thu);11:00 - 22:30* (Fri & Sat),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+OneHysanAvenue,Shopping,GRTalent Education Limited,GRTalent Education Limited,弘遠教育有限公司,701B,OneHysanAvenue,39070380,10:00 - 22:00* (Mon to Fri);10:00 - 21:00* (Sat),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,I.T HYSAN ONE,I.T HYSAN ONE,I.T HYSAN ONE,B/F-1/F,OneHysanAvenue,28907012,11:00 - 22:00* (Sun to Thu);11:00 - 22:30* (Fri & Sat),,,Fashion & Accessories,Fashion & Accessories,,2022-01-31
+OneHysanAvenue,Shopping,Level 7,Level 7,Level 7,601B,OneHysanAvenue,25613600,09:00 - 21:00* (Mon - Fri);09:00 - 18:00* (Sat),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,Megeve Beauty & Medical Centre Limited,Megeve Beauty & Medical Centre Limited,Megeve Beauty & Medical Centre Limited,20/F,OneHysanAvenue,25916128,"10:30 - 21:30* (Mon to Fri);10:30 - 19:30* (Sat,Sun & Public Holiday)",,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+OneHysanAvenue,Shopping,miniMinds English Learning Centre,miniMinds English Learning Centre,miniMinds English Learning Centre,4/F,OneHysanAvenue,28081282,09:30 - 19:30* (Mon to Fri);09:00 - 17:30* (Sat);Closed* (Sun & Public Holidays),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,Osmosis Hair & Scalp Ltd.,Osmosis Hair & Scalp Ltd.,Osmosis Hair & Scalp Ltd.,302,OneHysanAvenue,31881842,10:00 – 19:00* (Mon to Sat),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+OneHysanAvenue,Shopping,Quantumbilities Education Centre,Quantumbilities Education Centre,Quantumbilities Education Centre,601A,OneHysanAvenue,67018241,09:30 - 18:30* (Mon - Sat),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,Shichida Educational Institute (HK) Limited,Shichida Educational Institute (HK) Limited,七田式教育有限公司,703,OneHysanAvenue,28081013,09:00 - 18:00* (Mon-Sat),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,Somewhere,Somewhere,森程,301,OneHysanAvenue,23896969/62633920(WhatsApponly),10:00 – 21:00*,,,Education,Education,,2022-01-31
+OneHysanAvenue,Shopping,Steps Education Plus (CWB),Steps Education Plus (CWB),Steps Education Plus (CWB),1102,OneHysanAvenue,25533558,09:15 - 19:00* (Mon to Sat),,,Kids' Play & Learn ,Kids' Play & Learn ,,2022-01-31
+OneHysanAvenue,Shopping,theDesk,theDesk,theDesk,14/F,OneHysanAvenue,37033360,0900 - 1800* (Mon - Fri),,,Business Centre & Co-working Space,Business Centre & Co-working Space,,2022-01-31
+OneHysanAvenue,Shopping,VIER Professional Beauty,VIER Professional Beauty,VIER Professional Beauty,1603,OneHysanAvenue,,11:00 - 21:00* (Mon to Fri);10:00 - 19:00* (Sat to Sun),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
+OneHysanAvenue,Shopping,Zcalp,Zcalp,Zcalp,603,OneHysanAvenue,37088199,11:00 - 20:00* (close on Thur),,,Personal Care & Beauty,Personal Care & Beauty,,2022-01-31
