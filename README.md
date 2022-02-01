@@ -1,6 +1,6 @@
 # Hong Kong Mall Shop Directory Web Scraping
 This repository is to extract the shop directory of all major Hong Kong malls by web scraping.
-The data will be used for afterward data analysis.
+The data will be used for data analysis afterwards.
 
 ## Table of contents
 * [Objective](#objective)
@@ -12,10 +12,10 @@ The data will be used for afterward data analysis.
 * [Usage](#usage)
 
 ## Objective
-As a data analytics staff in mall leasing department of a sizable property company in Hong Kong, it is a good idea to always montior the merchants leasing situation of competitor malls in Hong Kong. To monitor in a timely manner, this repository aims to develop a pipeline of web scraping procedure and everyone can easily replicate and output the shop directory data.
+As working in mall leasing department of a sizable property company in Hong Kong, it is a good idea to montior the merchants leasing situation of competitor malls in ongoing basis. To monitor in a timely manner, this repository aims to develop a pipeline of web scraping procedure so it is easier to replicate and output the shop directory data.
 
 ## Setup
-Run "export_data.ipynb" to export the malls' shop directory into "data" folder. By default, all malls will be extracted in one go. If you need to just extract specifically one mall, you may amend "mall" variable to only include the desired mall(s).
+Run "export_data.ipynb" to export the malls' shop directory into "data" folder. By default, all malls will be extracted in one go. If you need to extract particular mall(s), you may amend "mall" variable to only include the desired mall(s).
 
 ## Repository directory
     .
@@ -28,15 +28,15 @@ Run "export_data.ipynb" to export the malls' shop directory into "data" folder. 
     └── export_data.ipynb
 
 ## Method
-Depends on the website design, different web scraping methods will be applied.
-If the website is not java based, Beautiful Soup is mainly be used in the web scraper.
-Since shop list page usually do not contain every detail of the shop, data in shop list page and data in shop detail page are scrapped separately and are joined together into a shop master data.
-For the website is java based, the web site API will be called to have web scraping instead.
+Depending on the website design, different web scraping methods will be applied.
+If the website is not java based, BeautifulSoup is mainly used in the web scraper.
+Since shop list page usually does not contain the shop details, data in shop list page and shop detail page are scrapped separately then combined into a shop master data.
+For the website which is java based, the designated website API will be called to have web scraping instead.
 
 ## Export data
-In this project, there are two main functions (getShopCategory, getShopMaster) to extract the shop category and shop master data of each mall. The data fields have been standardized among all malls. If there is no corresponding data can be extracted in the web site, NULL will be put in the fields.
+In this project, there are two main functions (getShopCategory, getShopMaster) to extract the shop categories and shop master data from each mall. The data fields have been standardized among all malls. If no corresponding data could be extracted on the website, NULL will be placed in the fields.
 
-Below is the exported data set definition:
+Below is the definition of exported data set:
 
 _Shop Category_
 
@@ -70,7 +70,7 @@ _Shop Master_
 
 ## Roadmap
 
-2 - 3 malls web scrapers are expected to be added to this project every week
+2 - 3 malls web scrapers are expected to add to this project on weekly basis
 
 _Malls to be web scraped:_
 - [x] CityGate
