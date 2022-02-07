@@ -72,7 +72,7 @@ _Shop Master_
 
 2 - 3 malls web scrapers are expected to add to this project on weekly basis
 
-_Malls to be web scraped:_
+_Malls has been web scraped:_
 - [x] CityGate
 - [x] Citylink
 - [x] CityPlaza
@@ -104,6 +104,8 @@ _Malls to be web scraped:_
 - [x] TimeSquare
 - [x] Tmtplaza
 - [x] Windsor
+
+_Malls to be web scraped:_
 - [ ] Megabox
 - [ ] TheForest
 - [ ] DPark
