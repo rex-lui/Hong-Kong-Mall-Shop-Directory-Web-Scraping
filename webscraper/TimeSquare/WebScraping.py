@@ -1,4 +1,5 @@
 #Import necessary package
+from click import option
 import requests
 import re
 from bs4 import BeautifulSoup
@@ -26,27 +27,28 @@ def getShopCategory():
         #Get shop category
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
-        for i in soup.find_all(class_ = 'filter_option_btn category'):
-            try:
-                shop_category_id = i.get('value')
-            except:
-                shop_category_id = np.nan
+        for cat_filter in soup.find_all(class_ = 'filter_shop_by_category'):
+            for cat in cat_filter.find_all('option'):
+                try:
+                    shop_category_id = cat.get('value')
+                except:
+                    shop_category_id = np.nan
 
-            try:
-                shop_category_name = i.text
-            except:
-                shop_category_name = np.nan
+                try:
+                    shop_category_name = cat.text
+                except:
+                    shop_category_name = np.nan
 
-            shopcategory = shopcategory.append(
-                {
-                    'type':type,
-                    'shop_category_id':shop_category_id,
-                    'shop_category_name':shop_category_name
-                    }, ignore_index=True
-                    )
+                shopcategory = shopcategory.append(
+                    {
+                        'type':type,
+                        'shop_category_id':shop_category_id,
+                        'shop_category_name':shop_category_name
+                        }, ignore_index=True
+                        )
     shopcategory['update_date'] = dt.date.today()
     shopcategory['mall'] = mall
-    shopcategory.drop(shopcategory[shopcategory.shop_category_id == '0'].index, inplace = True)
+    shopcategory.drop(shopcategory[shopcategory.shop_category_name == 'All Categories'].index, inplace = True)
     shopcategory = shopcategory.loc[:, ['mall','type','shop_category_id','shop_category_name','update_date']]
     return shopcategory
 
@@ -55,30 +57,35 @@ def getShopMaster():
     shopcategory = getShopCategory()
     #Create empty DataFrame for shop master
     shoplist = pd.DataFrame()
+    shoplisttc = pd.DataFrame()
     shopdetail = pd.DataFrame()
 
     for type, url in zip(['Shopping','Dining'],[shoplisturl,fnblisturl]):
         #Get shop list
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
-        for shop in soup.find_all(class_ = 'grid_item_shop'):
+        for shop in soup.find_all('article', class_ = 'shop-item'):
             try:
-                shop_id = shop.get('shop_id')
+                shop_detail_link = shop.find('a').get('href')
+            except:
+                shop_detail_link = np.nan
+            try:
+                shop_id = shop_detail_link[shop_detail_link.find('shop=') + 5:shop_detail_link.find('shop=') + 41].replace(' ','')
             except:
                 shop_id = np.nan
 
             try:
-                shop_number = shop.get('shop_number')
+                shop_number = shop.find('p', class_ = 'floor').text.split(' ')[0].replace('\t','').replace('\n','')
             except:
                 shop_number = np.nan
 
             try:
-                shop_floor = shop.get('shop_floor_id')
+                shop_floor = shop.get('class')[4]
             except:
                 shop_floor = np.nan
 
             try:
-                shop_category_id = shop.get('shop_category_id')
+                shop_category_id = shop.get('class')[3]
             except:
                 shop_category_id = np.nan
 
@@ -88,29 +95,21 @@ def getShopMaster():
                 shop_category_name = np.nan
 
             try:
-                shop_name = shop.get('shop_name')
-                if shop_name.find(' img ') == -1:
-                    shop_name = shop_name
-                else:
-                    shop_name = shop_name[:shop_name.find(' img ')]
-
+                shop_name = shop.find('div', class_ = 'shop-name').text.replace('\t','').replace('\n','').replace(' ','')
             except:
                 shop_name = np.nan
 
             try:
-                shop_name_zh = shop.get('shop_name_zh')
-            except:
-                shop_name_zh = np.nan
-            
-            try:
-                if 'zoneA' in shop.find(class_ = 'grid_item_shop_text').find('img').get('src'):
-                    fnb_zone = 'ZoneA'
-                elif 'zoneB' in shop.find(class_ = 'grid_item_shop_text').find('img').get('src'):
+                # if '.jpeg' in shop.find('img', style_ = 'background: transparent').get('src'):
+                #     fnb_zone = 'ZoneA'
+                if '8AF8294E-5295-EC11-B400-00224817122A_202202241716110763.jpeg' in str(shop.find('div', class_ = 'shop-name').find('img')):
                     fnb_zone = 'ZoneB'
-                elif 'zoneC' in shop.find(class_ = 'grid_item_shop_text').find('img').get('src'):
+                elif 'DE69FB22-F695-EC11-B400-00224817122A_202202251248420186.jpg' in str(shop.find('div', class_ = 'shop-name').find('img')):
                     fnb_zone = 'ZoneC'
-                elif 'zoneD' in shop.find(class_ = 'grid_item_shop_text').find('img').get('src'):
+                elif 'DE69FB22-F695-EC11-B400-00224817122A_202202251249230660.jpg' in str(shop.find('div', class_ = 'shop-name').find('img')):
                     fnb_zone = 'ZoneD'
+                else:
+                    fnb_zone = np.nan
             except:
                 fnb_zone = np.nan
 
@@ -119,56 +118,52 @@ def getShopMaster():
                     'type':type,
                     'shop_id':shop_id,
                     'shop_name_en': shop_name,
-                    'shop_name_tc': shop_name_zh,
                     'tag': fnb_zone,
                     'shop_number':shop_number,
                     'shop_floor':shop_floor,
                     'shop_category_id':shop_category_id,
-                    'shop_category_name':shop_category_name
+                    'shop_category_name':shop_category_name,
+                    'shop_detail_link': shop_detail_link
                     }, ignore_index=True
                     )
-
-    #Get shop detail
-    for shop_id in shoplist['shop_id']:
-        shopdetailurl = shopdetailbasicurl + shop_id
-        page = requests.get(shopdetailurl)
+            
+        #Get shop list
+        url_tc = url.replace('/shop-dine/shopping/','/zh-hant/shop-dine/shopping/').replace('/shop-dine/dine/','/zh-hant/shop-dine/dine/')
+        page = requests.get(url_tc)
         soup = BeautifulSoup(page.content, 'html.parser')
+        for shop in soup.find_all('article', class_ = 'shop-item'):
+            try:
+                shop_detail_link = shop.find('a').get('href').replace('/zh-hant/','/')
+            except:
+                shop_detail_link = np.nan
+            
+            try:
+                shop_id = shop_detail_link[shop_detail_link.find('shop=') + 5:shop_detail_link.find('shop=') + 41].replace(' ','')
+            except:
+                shop_id = np.nan
 
-        try:
-            item = soup.find(class_ = 'underline', text = 'Phone')
-            value = ';'.join([tag.text for tag in item.find_next_siblings('p')])
-            phone = value.replace(' ','')
-        except:
-            phone = np.nan
-
-        try:
-            item = soup.find(class_ = 'underline', text = 'Opening Hours')
-            value = ';'.join([tag.text for tag in item.find_next_siblings('p')])
-            opening_hours = value.strip().replace('        -        ',' - ')
-        except:
-            opening_hours = np.nan
-
-        try:
-            item = soup.find(class_ = 'underline', text = 'VIC Offer')
-            value = ';'.join([tag.text for tag in item.find_next_siblings('p')])
-            vic_offer = value
-        except:
-            vic_offer = np.nan
-    
-        shopdetail = shopdetail.append(
+            try:
+                shop_name_zh = shop.find('div', class_ = 'shop-name').text.replace('\t','').replace('\n','').replace(' ','')
+            except:
+                shop_name_zh = np.nan
+            
+            shoplisttc = shoplisttc.append(
                 {
-                    'shop_id':shop_id,
-                    'phone': phone,
-                    'opening_hours': opening_hours,
-                    'loyalty_offer':vic_offer
+                    'shop_id': shop_id,
+                    'shop_name_tc': shop_name_zh
                     }, ignore_index=True
-                    )
+            )
     
     #Merge shop list and shop detail into shop master
-    shopmaster = pd.merge(shoplist, shopdetail, on = 'shop_id')
+    shopmaster = shoplist.merge(shoplisttc, on = 'shop_id', how = 'left')
     shopmaster['update_date'] = dt.date.today()
     shopmaster['mall'] = mall
     shopmaster['voucher_acceptance'] = np.nan
-    shopmaster['shop_floor'] = shopmaster['shop_floor'].map(shopflooridmapping)
+    shopmaster['loyalty_offer'] = np.nan
+    shopmaster['phone'] = np.nan
+    shopmaster['opening_hours'] = np.nan
+    # shopmaster['shop_floor'] = shopmaster['shop_floor'].map(shopflooridmapping)
     shopmaster = shopmaster.loc[:, ['mall','type','shop_id','shop_name_en','shop_name_tc','shop_number','shop_floor','phone','opening_hours','loyalty_offer','voucher_acceptance','shop_category_id','shop_category_name','tag','update_date']]
     return shopmaster
+
+# TODO:  Need to fix to extract the phone and open hour of shop
