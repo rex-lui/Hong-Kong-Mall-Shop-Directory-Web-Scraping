@@ -1,0 +1,303 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+Tmtplaza,Shopping,14,7-Eleven (Phase 1),7-11便利店 (一期),G055,Phase1 GF,24517973,24 hours,,,8,"Department Stores, Supermarkets and Convenience Stores",Convenience Stores;Daily Necessities;Drink;Food,2022-05-02
+Tmtplaza,Shopping,61,7-Eleven (Phase 2),7-11便利店 (二期),7,Phase2 GF,24045816,24 hours,,,8,"Department Stores, Supermarkets and Convenience Stores",Convenience Stores;Daily Necessities;Drink;Food,2022-05-02
+Tmtplaza,Shopping,289,:CHOCOOLATE,:CHOCOOLATE,2219,Phase1 2F,24419772,Mon - Sun: 12:00pm - 09:00pm,,,9,Fashion,Casual Wear;Clothing;Fashion;Jeans,2022-05-02
+Tmtplaza,Shopping,88,Aape & double-park,Aape & double-park,3210,Phase1 3F,24415435,"Mon - Sun, PH: 12:00pm - 09:00pm",,,9,Fashion,Casual Wear;Fashion;Jeans;Ladies’ Fashion;Men’s Fashion,2022-05-02
+Tmtplaza,Shopping,85,adidas,adidas,3208,Phase1 3F,27869633,"Mon - Fri: 12:00pm - 09:30pmSat, Sun, PH: 11:30am - 09:30pm",,,14,Sportswear & Equipment,Fashion;Shoes;Sneakers;Sporting Goods;Sportswear,2022-05-02
+Tmtplaza,Shopping,198,"AEON (1/F, Phase 1)","AEON (1/F, 一期)",Portion of 1/F,Phase1 1F,24527333,Mon - Sun: 10:00am - 09:00pm,,,8,"Department Stores, Supermarkets and Convenience Stores",Baby Products;Department Store;Fashion;Sporting Goods;Toy,2022-05-02
+Tmtplaza,Shopping,54,"AEON (G/F, Phase 1)","AEON (G/F, 一期)",G081-112,Phase1 GF,24527333,Mon - Sun: 10:00am - 10:30pm,,,8,"Department Stores, Supermarkets and Convenience Stores",Department Store;Electronics;Furniture;Home Appliances;Houseware,2022-05-02
+Tmtplaza,Shopping,77,AEON Supermarket,AEON超級市場,UG081,Phase1 UGF,24527333,"Mon - Sun, PH: 08:30am - 10:30pm",,,8,"Department Stores, Supermarkets and Convenience Stores",Daily Necessities;Department Store;Drink;Food;Supermarket,2022-05-02
+Tmtplaza,Shopping,527,Aerie by American Eagle,Aerie by American Eagle,1055,Phase1 1F,,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,9,Fashion,Casual Wear;Fashion;Ladies’ Fashion;Underwear,2022-05-02
+Tmtplaza,Shopping,157,amika:,amika:,1069B,Phase1 1F,22970085,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,3,Beauty & Cosmetics,Beauty;Hair Care,2022-05-02
+Tmtplaza,Shopping,120,Apivita,Apivita,1033,Phase1 1F,96819028,Mon - Wed: 11:00am - 08:00pmThu - Sun: 11:00am - 09:00pm,,,3,Beauty & Cosmetics,Beauty;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,372,ARMANI,阿瑪尼,1086,Phase1 1F,26439981,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Fragrance;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,384,ARTCELIO,克斯洛珠寶,Kiosk 3,Phase1 3F,53868878,"Mon - Sun, PH: 12:00pm - 08:00pm",,,11,"Jewellery, Watches, Optical & Accessories",Accessories;Earrings;Gift;Jewellery;Necklace,2022-05-02
+Tmtplaza,Shopping,436,Asics,Asics,1186,Phase1 1F,35982022,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,14,Sportswear & Equipment,Shoes;Sportswear,2022-05-02
+Tmtplaza,Shopping,248,Ausupreme,澳至尊,2106,Phase1 2F,24748027,"Mon - Sun, PH: 10:00am - 10:00pm",,,4,Health Products & Personal Care,Beauty;Health Care;Healthy Living;Supplements,2022-05-02
+Tmtplaza,Shopping,3,AV Life,生活影音,G008,Phase1 GF,27903398,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,1,Audio-Visual & Electrical Appliances,Audiovisual;Earphone;Electrical Appliances;Entertainment;TV,2022-05-02
+Tmtplaza,Shopping,118,Aveda,Aveda,1031,Phase1 1F,31062866,Mon - Wed: 11:00am - 08:00pmThu - Sun: 11:00am - 09:00pm,,,3,Beauty & Cosmetics,Beauty;Hair Care;Personal Care,2022-05-02
+Tmtplaza,Shopping,55,Bank of China (Hong Kong),中國銀行(香港),2,Phase2 GF,24508877,Mon - Fri: 09:00am - 04:00pmSat: 09:00am - 12:00pm,,,2,Banking Services,ATM;Bank;Wealth Management,2022-05-02
+Tmtplaza,Shopping,290,Bauhaus,Bauhaus,2222,Phase1 2F,24520822,Mon - Sun: 11:30am - 09:00pm,,,9,Fashion,Clothing;Fashion;Ladies’ Fashion;Leather Goods;Men’s Fashion,2022-05-02
+Tmtplaza,Shopping,24,Beijing Tong Ren Tang,北京同仁堂,G067,Phase1 GF,37554485,Mon - Sun: 10:00am - 08:00pm,,,4,Health Products & Personal Care,Chinese Medicine;Drug;Health Care;Healthy Living;Supplements,2022-05-02
+Tmtplaza,Shopping,481,Best Ware Supply,Best Ware Supply,Kiosk 5,Phase1 3F,26036603,Mon - Sun: 12:00pm - 08:00pm,,,4,Health Products & Personal Care,Health Care;Healthy Living,2022-05-02
+Tmtplaza,Shopping,182,Bioderma,Bioderma,1132,Phase1 1F,24042899,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,158,Bobbi Brown Cosmetics,Bobbi Brown Cosmetics,1068,Phase1 1F,34228310,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics,2022-05-02
+Tmtplaza,Shopping,5,Broadway,百老滙,G011,Phase1 GF,21468757,Mon - Sun: 11:00am - 10:00pm,,,1,Audio-Visual & Electrical Appliances,Electrical Appliances;Home Appliances;TV,2022-05-02
+Tmtplaza,Shopping,513,BRUNO,BRUNO,2195A,Phase1 2F,57142356,"Mon - Sun, PH: 11:30am - 08:30pm",,,10,Furniture & Lifestyle,Family;Home Decoration;Houseware;Kitchenware;Tableware,2022-05-02
+Tmtplaza,Shopping,394,Calvin Klein Jeans & Underwear,Calvin Klein Jeans & Underwear,1219A,Phase1 1F,24595900,"Mon - Sun, PH: 11:00am - 09:00pm",,,9,Fashion,Fashion;Underwear,2022-05-02
+Tmtplaza,Shopping,110,CANVAS,CANVAS,1022,Phase1 1F,28619007,Mon - Sun: 10:30am - 09:30pm,,,3,Beauty & Cosmetics,Beauty;Skin Care,2022-05-02
+Tmtplaza,Shopping,94,Catalog,Catalog,3216,Phase1 3F,24049639,"Mon - Sun, PH: 12:00pm - 09:00pm",,,14,Sportswear & Equipment,Casual Wear;Fashion;Shoes;Sneakers,2022-05-02
+Tmtplaza,Shopping,514,Cath Kidston,Cath Kidston,Kiosk 3,Phase1 2F,24849345,"Mon - Sun, PH, Day before PH: 11:30am - 08:30pm",,,13,Shoes & Bags,Bag;Ladies’ Fashion,2022-05-02
+Tmtplaza,Shopping,558,Champion,Champion,1220,Phase1 1F,,"Mon - Sun, PH: 12:00pm - 07:00pm",,,9,Fashion,Casual Wear;Fashion,2022-05-02
+Tmtplaza,Shopping,204,Chevignon,Chevignon,1188,Phase1 1F,62972191,"Mon - Sun, PH: 12:00pm - 07:00pm",,,9,Fashion,Casual Wear;Jeans;Ladies’ Fashion;Men’s Fashion,2022-05-02
+Tmtplaza,Shopping,250,Chicks,雞仔嘜,2111,Phase1 2F,31885018,"Mon - Sun, PH: 11:00am - 07:30pm",,,9,Fashion,Casual Wear;Ladies’ Fashion;Men’s Fashion;Sleepwear;Underwear,2022-05-02
+Tmtplaza,Shopping,66,China Construction Bank (Asia),中國建設銀行(亞洲),9,Phase2 GF,37183118,Mon - Fri: 09:00am - 04:00pmSat: 09:00am - 12:00pm,,,2,Banking Services,ATM;Bank;Wealth Management,2022-05-02
+Tmtplaza,Shopping,452,China Life (Temporary Clousre Until Further Notice),中國人壽海外 (暫停營業至另行通知),2103,Phase1 2F,24989618,,,,2,Banking Services,Insurance,2022-05-02
+Tmtplaza,Shopping,390,China Mobile,自在點,36,Phase2 1F,,Mon - Sun: 11:00am - 08:30pm,,,15,Telecom,,2022-05-02
+Tmtplaza,Shopping,8,China Mobile (Phase 1),中國移動(一期),G042,Phase1 GF,24300920,"Mon - Sun, PH, Day before PH: 10:00am - 09:00pm",,,15,Telecom,Local Data;Mobile Service;Roaming;Smartphone;Telecom,2022-05-02
+Tmtplaza,Shopping,255,China Travel Service,香港中國旅行社,2128,Phase1 2F,24591988,"Mon - Sun, PH: 10:30am - 07:30pm",,,16,Travels & Travel Products,Airline Ticket;Cruise;Hotel Reservation;Travel Package;Travel Tour,2022-05-02
+Tmtplaza,Shopping,30,China Unicom,中國聯通,38B,Phase2 1F,24493828,Mon - Sun: 11:00am - 09:00pm,,,15,Telecom,Local Data;Mobile Service;Roaming;Smartphone;Telecom,2022-05-02
+Tmtplaza,Shopping,203,Chow Sang Sang,周生生,1175,Phase1 1F,21544264,"Mon - Sun, PH: 10:30am - 09:00pm",,,11,"Jewellery, Watches, Optical & Accessories",Diamond;Gold;Jewellery;Luxury,2022-05-02
+Tmtplaza,Shopping,35,CHOW TAI FOOK,周大福,49,Phase2 1F,26182300,Mon - Sun: 11:00am - 07:30pm,,,11,"Jewellery, Watches, Optical & Accessories",Gold;Jewellery;Ring,2022-05-02
+Tmtplaza,Shopping,192,CHOW TAI FOOK T MARK,周大福 T MARK,1158,Phase1 1F,23683298,"Mon - Sun, PH, Day before PH: 11:00am - 07:00pm",,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,517,Cilocala,Cilocala,2215,Phase1 2F,61966064,"Mon - Sun, PH, Day before PH: 11:00am - 08:30pm",,,13,Shoes & Bags,Backpack;Bag,2022-05-02
+Tmtplaza,Shopping,18,City Chain,時間廊,27,Phase2 1F,24526073,Mon - Thu: 11:00am - 08:30pmFri - Sun: 11:00am - 09:00pm,,,11,"Jewellery, Watches, Optical & Accessories",Watch,2022-05-02
+Tmtplaza,Shopping,151,Clarins,Clarins,1073,Phase1 1F,24865412,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Body Care;Personal Care;Skin Care;Slimming,2022-05-02
+Tmtplaza,Shopping,442,CLEAN CUT,清剪,1126,Phase1 1F,,"Mon - Sun, PH, Day before PH: 10:00am - 08:30pm",,,4,Health Products & Personal Care,Hair Salon,2022-05-02
+Tmtplaza,Shopping,535,Clear Vision,清晰視力,3A&5A,Phase2 1F,23751866,Mon - Sun: 10:30am - 08:30pm,,,11,"Jewellery, Watches, Optical & Accessories",Contact Lens;Optical;Sunglasses,2022-05-02
+Tmtplaza,Shopping,149,CLINIQUE,倩碧,1095,Phase1 1F,37554515,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Skin Care,2022-05-02
+Tmtplaza,Shopping,16,CMK Electrical Store,張毛記電業有限公司,G060,Phase1 GF,31018208,"Mon - Sun, PH, Day before PH: 10:30am - 08:30pm",,,1,Audio-Visual & Electrical Appliances,Audiovisual;Electrical Appliances;Entertainment;Smartphone;Tablet,2022-05-02
+Tmtplaza,Shopping,230,Colourmix,卡萊美,2061,Phase1 2F,28818089,"Mon - Fri: 10:30am - 09:30pmSat, Sun, PH, Day before PH: 10:30am - 09:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Fragrance;Skin Care,2022-05-02
+Tmtplaza,Shopping,208,Columbia,Columbia,1215,Phase1 1F,63910963,"Mon - Fri: 12:00pm - 07:00pmSat, Sun, PH: 11:30am - 07:30pm",,,14,Sportswear & Equipment,Outdoor;Shoes;Sporting Goods;Sports Accessories;Sportswear,2022-05-02
+Tmtplaza,Shopping,520,Converse,Converse,3281,Phase1 3F,23567278,"Mon - Fri: 12:00pm - 09:30pmSat, Sun, PH: 11:30am - 09:30pm",,,14,Sportswear & Equipment,Fashion;Shoes;Sneakers;Sporting Goods;Sportswear,2022-05-02
+Tmtplaza,Shopping,9,CR Care,華潤堂,3B,Phase2 1F,24301328,Mon - Sun: 10:00am - 08:00pm,,,4,Health Products & Personal Care,Chinese Medicine;Drug;Health Care;Healthy Living;Supplements,2022-05-02
+Tmtplaza,Shopping,533,crocs,卡駱馳,2191,Phase1 2F,,"Mon - Sun, PH: 11:30am - 09:00pm",,,13,Shoes & Bags,,2022-05-02
+Tmtplaza,Shopping,127,Crystalink,名石店,1040,Phase1 1F,24492331,"Mon - Fri: 11:00am - 08:30pmSat, Sun, PH, Day before PH: 10:30am - 08:30pm",,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,50,csl.,csl.,G128,Phase1 GF,24403375,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,15,Telecom,Local Data;Mobile Service;Roaming;Smartphone;Telecom,2022-05-02
+Tmtplaza,Shopping,15,CSS,粵港澳湛周生生,17B,Phase2 1F,24409449,"Mon - Sun, PH, Day before PH: 10:30am - 08:30pm",,,11,"Jewellery, Watches, Optical & Accessories",Gold;Jewellery;Ring;Wedding,2022-05-02
+Tmtplaza,Shopping,76,"DBS Bank (G/F, Phase 2)","星展銀行 (G/F, 二期)",23,Phase2 GF,36682950,Mon - Fri: 09:00am - 04:00pmSat: 09:00am - 12:00pm,,,2,Banking Services,ATM;Bank;Wealth Management,2022-05-02
+Tmtplaza,Shopping,41,"DBS Bank (UG/F, Phase 2)","星展銀行 (UG/F, 二期)",12,Phase2 UGF,36682950,Mon - Fri: 09:00am - 04:00pmSat: 09:00am - 12:00pm,,,2,Banking Services,ATM;Bank;Wealth Management,2022-05-02
+Tmtplaza,Shopping,374,Dickies,Dickies,3276,Phase1 3F,24800255,"Mon - Sun, PH: 12:00pm - 09:00pm",,,9,Fashion,Casual Wear;Clothing;Fashion;Ladies’ Fashion;Men’s Fashion,2022-05-02
+Tmtplaza,Shopping,159,Dior,Dior,1082,Phase1 1F,28070108,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Fragrance,2022-05-02
+Tmtplaza,Shopping,489,Don Don Donki,Don Don Donki,UG001,Phase1 UGF,,"Mon - Sun, PH, Day before PH: 08:00am - 01:00am",,,8,"Department Stores, Supermarkets and Convenience Stores",Department Store;Supermarket,2022-05-02
+Tmtplaza,Shopping,220,Doughnut,Doughnut,2015,Phase1 2F,35967947,"Mon - Fri: 12:00pm - 09:30pmSat, Sun, PH: 11:00am - 10:00pm",,,13,Shoes & Bags,Backpack;Bag;Fashion,2022-05-02
+Tmtplaza,Shopping,278,Dr. Kong,Dr. Kong,2197J,Phase1 2F,25299252,"Mon - Sun, PH: 11:00am - 09:30pm",,,13,Shoes & Bags,Causal Shoes,2022-05-02
+Tmtplaza,Shopping,534,Dr. Martens,Dr. Martens,2248,Phase1 2F,26989825,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,13,Shoes & Bags,Backpack;Leather Shoes;Sandals;Shoes,2022-05-02
+Tmtplaza,Shopping,423,ecHome,億世家,2127,Phase1 2F,22350333,"Mon - Sun, PH: 10:30am - 08:00pm",,,10,Furniture & Lifestyle,Family;Houseware;Lifestyle,2022-05-02
+Tmtplaza,Shopping,194,Emperor Jewellery,英皇珠寶,1150,Phase1 1F,28566118,Mon - Thu: 10:30am - 08:00pmFri - Sun: 10:30am - 08:30pm,,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,161,Estée Lauder,Estée Lauder,1063,Phase1 1F,35857239,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics,2022-05-02
+Tmtplaza,Shopping,128,Eu Yan Sang,余仁生,1042,Phase1 1F,24418880,"Mon - Sun, PH, Day before PH: 10:00am - 08:30pm",,,4,Health Products & Personal Care,Chinese Medicine;Drug;Health Care;Healthy Living;Supplements,2022-05-02
+Tmtplaza,Shopping,160,FANCL,FANCL,1066,Phase1 1F,36220980,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,3,Beauty & Cosmetics,Beauty;Body Care;Cosmetics;Healthy Living;Skin Care,2022-05-02
+Tmtplaza,Shopping,455,Foot Locker,Foot Locker,1225,Phase1 1F,,"Mon - Fri: 11:00am - 09:00pmSat, Sun, PH: 11:00am - 09:30pm",,,14,Sportswear & Equipment,Sporting Goods;Sportswear,2022-05-02
+Tmtplaza,Shopping,298,FORTRESS,豐澤,G002,Phase1 GF,24678066,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,1,Audio-Visual & Electrical Appliances,Electrical Appliances;Home Appliances;TV,2022-05-02
+Tmtplaza,Shopping,12,Fred Chan Hair Care Pro.,髮棧,G053,Phase1 GF,,"Mon - Sun, PH, Day before PH: 10:30am - 09:30pm",,,4,Health Products & Personal Care,Beauty;Hair Care;Personal Care,2022-05-02
+Tmtplaza,Shopping,280,G2000,G2000,2200,Phase1 2F,24048355,"Mon - Thu: 11:00am - 10:00pmFri, Sat: 11:00am - 10:30pmSun: 10:30am - 10:00pm",,,9,Fashion,Fashion;Ladies’ Fashion;Men’s Fashion;Suits;Workwear,2022-05-02
+Tmtplaza,Shopping,456,Garmin,Garmin,2211-2212,Phase1 2F,69952034,Mon - Sun: 11:00am - 09:00pm,,,11,"Jewellery, Watches, Optical & Accessories",Watch,2022-05-02
+Tmtplaza,Shopping,213,GigaSports,GigaSports,1201,Phase1 1F,24730228,"Mon - Fri: 11:00am - 08:00pmSat, Sun, PH: 11:00am - 08:30pm",,,14,Sportswear & Equipment,Shoes;Sneakers;Sporting Goods;Sports Accessories;Sportswear,2022-05-02
+Tmtplaza,Shopping,31,GIORDANO,GIORDANO,39,Phase2 1F,26733062,Mon - Sun: 10:00am - 09:00pm,,,9,Fashion,Clothing;Fashion;Jeans;T-shirt,2022-05-02
+Tmtplaza,Shopping,561,Glampalm,Glampalm,1021,Phase1 1F,,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Gift;Hair Care;Personal Care,2022-05-02
+Tmtplaza,Shopping,507,Good Mask,Good Mask,G062,Phase1 GF,63771471,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,17,Others,,2022-05-02
+Tmtplaza,Shopping,538,GU,GU,UG048,Phase1 UGF,27220008,"Mon - Thu, Sun, PH: 10:00am - 10:00pmFri, Sat, Day before PH: 10:00am - 11:00pm",,,9,Fashion,,2022-05-02
+Tmtplaza,Shopping,47,Hang Seng Bank,恒生銀行,23,Phase2 UGF,21985923,Mon - Fri: 09:00am - 03:30pm,,,2,Banking Services,ATM;Bank;Wealth Management,2022-05-02
+Tmtplaza,Shopping,426,HealthyPro,健髮,1212,Phase1 1F,26980033,"Mon - Sun, PH: 10:00am - 07:00pm",,,4,Health Products & Personal Care,Hair Care;Hair Salon;Personal Care,2022-05-02
+Tmtplaza,Shopping,114,Her Own Words,Her Own Words,3231B,Phase1 3F,27622438,"Mon - Sun, PH: 11:30am - 08:30pm",,,9,Fashion,Sleepwear;Underwear,2022-05-02
+Tmtplaza,Shopping,48,HKT / 1O1O,HKT 香港電訊 / 1O1O,G127,Phase1 GF,28880286/21091010,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,15,Telecom,Broadband Network;Mobile Service;Smartphone;Telecom,2022-05-02
+Tmtplaza,Shopping,522,HKWS,香港潔淨水,18,Phase2 UGF,53684281,"Mon - Sun, PH: 10:00am - 07:00pm",,,4,Health Products & Personal Care,Health Care,2022-05-02
+Tmtplaza,Shopping,567,Homestuff Houseware,Homestuff Houseware,Kiosk 7,Phase1 3F,35251151,Mon - Sun: 11:00am - 08:00pm,,,10,Furniture & Lifestyle,Houseware;Lifestyle,2022-05-02
+Tmtplaza,Shopping,29,Hong Kong Broadband Network,香港寬頻,38A,Phase2 1F,39933991,Mon - Sun: 11:00am - 07:00pm,,,15,Telecom,Broadband Network;Local Data;Mobile Service;Smartphone;Telecom,2022-05-02
+Tmtplaza,Shopping,53,"HSBC (G/F, Phase 2)","匯豐銀行 (G/F, 二期)",1,Phase2 GF,22333000,Mon - Fri: 09:00am - 04:30pmSat: 09:00am - 01:00pm,,,2,Banking Services,ATM;Bank;Wealth Management,2022-05-02
+Tmtplaza,Shopping,37,"HSBC (UG/F, Phase 2)","匯豐銀行 (UG/F, 二期)",1,Phase2 UGF,22333000,Mon - Fri: 09:00am - 04:30pmSat: 09:00am - 01:00pm,,,2,Banking Services,ATM;Bank;Wealth Management,2022-05-02
+Tmtplaza,Shopping,545,IDEAS,IDEAS,3282,Phase1 3F,,"Mon - Sun, PH: 11:00am - 09:00am",,,12,Kid's Wear & Toys,Clothing;Gift;Kids' Fashion;Stationery;Toy,2022-05-02
+Tmtplaza,Shopping,173,innisfree,innisfree,1113,Phase1 1F,35862988,"Mon - Thu, Sun: 10:00am - 09:00pmFri, Sat: 10:00am - 09:30pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Skin Care,2022-05-02
+Tmtplaza,Shopping,95,INTIQUE,INTIQUE,1007,Phase1 1F,21770002,Mon - Sun: 11:00am - 10:00pm,,,9,Fashion,Casual Wear;Clothing;Fashion;Ladies’ Fashion,2022-05-02
+Tmtplaza,Shopping,104,IPSA,IPSA,1016,Phase1 1F,21074633,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Skin Care,2022-05-02
+Tmtplaza,Shopping,524,iroiro,iroiro,UG035,Phase1 UGF,68914352,"Mon - Sun, PH, Day before PH: 11:00am - 10:00pm",,,10,Furniture & Lifestyle,,2022-05-02
+Tmtplaza,Shopping,434,ITSU,ITSU,2048,Phase1 2F,36112288,"Mon - Fri: 11:00am - 10:00pmSat, Sun, PH, Day before PH: 10:00am - 10:00pm",,,4,Health Products & Personal Care,Health Care;Healthy Living;Massage;Massager Chair;Personal Care,2022-05-02
+Tmtplaza,Shopping,411,Jade Home,翡翠家居,3217,Phase1 3F,24700755,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,10,Furniture & Lifestyle,Furniture;Lifestyle,2022-05-02
+Tmtplaza,Shopping,285,Joy & Peace,Joy & Peace,2213,Phase1 2F,24419103,"Mon - Thu, Sun: 11:00am - 09:00pmFri, Sat: 11:00am - 09:30pm",,,13,Shoes & Bags,,2022-05-02
+Tmtplaza,Shopping,371,Jurlique,Jurlique,1011,Phase1 1F,24089797,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Facial;Healthy Living;Skin Care,2022-05-02
+Tmtplaza,Shopping,89,Just 925 Accessories,Just 925 Accessories,1003,Phase1 1F,27499929,Mon - Sun: 10:00am - 10:00pm,,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,417,K-Swiss,K-Swiss,3283A&B,Phase1 3F,,"Mon - Sun, PH: 11:00am - 09:00pm",,,14,Sportswear & Equipment,Bag;Casual Wear;Fashion;Shoes;Sportswear,2022-05-02
+Tmtplaza,Shopping,234,Kai Tai,啟泰藥業,2069,Phase1 2F,22622516,"Mon - Sun, PH: 10:00am - 07:30pm",,,4,Health Products & Personal Care,Chinese Medicine;Drug;Health Care;Healthy Living;Supplements,2022-05-02
+Tmtplaza,Shopping,263,Kids Wonderland,Kids Wonderland,2190C,Phase1 2F,26972810,"Mon - Sun, PH, Day before PH: 11:30am - 08:30pm",,,12,Kid's Wear & Toys,Kids' Accessories;Kids' Fashion,2022-05-02
+Tmtplaza,Shopping,185,Kiehl's,Kiehl's,1137B,Phase1 1F,24302820,"Mon - Thu, Sat, Sun, PH, Day before PH: 11:00am - 08:00pmFri: 11:00am - 08:30pm",,,3,Beauty & Cosmetics,Beauty;Body Care;Hair Care;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,403,KUKA Home,KUKA Home,3220,Phase1 3F,37554705,"Mon - Sun, PH: 11:00am - 08:00pm",,,10,Furniture & Lifestyle,Family;Furniture;Home Decoration;Houseware;Sofa,2022-05-02
+Tmtplaza,Shopping,147,L'OCCITANE,L'OCCITANE,1098,Phase1 1F,21468189,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,3,Beauty & Cosmetics,,2022-05-02
+Tmtplaza,Shopping,180,Lancôme,Lancôme,1121,Phase1 1F,37554467,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Cosmetics,2022-05-02
+Tmtplaza,Shopping,188,LANEIGE,LANEIGE,1142,Phase1 1F,35800956,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty,2022-05-02
+Tmtplaza,Shopping,190,Lao Feng Xiang,老鳳祥,1148,Phase1 1F,31883261,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,122,LE CREUSET,LE CREUSET,3263,Phase1 3F,27997608,"Mon - Sun, PH: 11:30am - 08:30pm",,,10,Furniture & Lifestyle,Cookware;Kitchenware,2022-05-02
+Tmtplaza,Shopping,526,LEGIT by osewaya,LEGIT by osewaya,UG036,Phase1 UGF,,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,11,"Jewellery, Watches, Optical & Accessories",Accessories;Bracelet;Earrings;Necklace;Ring,2022-05-02
+Tmtplaza,Shopping,397,LEGO® Certified Store,樂高®認證專門店,2217,Phase1 2F,,Mon - Thu: 11:00am - 09:00pmFri - Sun: 11:00am - 10:00pm,,,12,Kid's Wear & Toys,Gift;Toy,2022-05-02
+Tmtplaza,Shopping,236,LensCrafters,亮視點,2071,Phase1 2F,24523088/24522299,"Mon - Sun, PH: 10:30am - 08:00pm",,,11,"Jewellery, Watches, Optical & Accessories",Contact Lens;Optical;Sunglasses,2022-05-02
+Tmtplaza,Shopping,210,Levi's,Levi's,1218,Phase1 1F,24301793,"Mon - Fri: 11:30am - 08:00pmSat, Sun, PH: 11:30am - 08:30pm",,,9,Fashion,Casual Wear;Fashion;Jeans;Ladies’ Fashion;Men’s Fashion,2022-05-02
+Tmtplaza,Shopping,521,LINE FRIENDS POP-UP STORE @ TMTPLAZA,LINE FRIENDS POP-UP STORE @ TMTPLAZA,2197A,Phase1 2F,,"Mon - Sun, PH: 11:00am - 09:00pm",,,10,Furniture & Lifestyle,Gift;Houseware;Lifestyle;Stationery,2022-05-02
+Tmtplaza,Shopping,301,Lisa & Sara,Lisa & Sara,1147,Phase1 1F,28869579,"Mon - Sun, PH, Day before PH: 12:00pm - 09:00pm",,,10,Furniture & Lifestyle,Aromatherapy;Fragrance;Lifestyle,2022-05-02
+Tmtplaza,Shopping,294,LOG-ON,LOG-ON,2251,Phase1 2F,27363866,"Mon - Sun, PH, Day before PH: 11:00am - 10:00pm",,,10,Furniture & Lifestyle,Beauty;Gift;Houseware;Lifestyle;Stationery,2022-05-02
+Tmtplaza,Shopping,560,logitech,logitech,2067,Phase1 2F,26821126,"Mon - Sun, PH: 11:00am - 09:00pm",,,1,Audio-Visual & Electrical Appliances,Audiovisual;Electronics;Lifestyle,2022-05-02
+Tmtplaza,Shopping,22,Luen Fung Dispensary,聯豐大藥房,G063,Phase1 GF,24511001,Mon - Sun: 10:00am - 09:00pm,,,4,Health Products & Personal Care,Daily Necessities;Drug;Health Care;Personal Care,2022-05-02
+Tmtplaza,Shopping,189,"Lukfook Jewellery (1141, Phase 1)","六福珠寶 (1141, 一期)",1141,Phase1 1F,26183835,"Mon - Sun, PH, Day before PH: 09:30am - 07:00pm",,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,205,"Lukfook Jewellery (1179, Phase 1)","六福珠寶 (1179, 一期)",1179,Phase1 1F,26573666,"Mon - Sun, PH: 11:00am - 07:30pm",,,11,"Jewellery, Watches, Optical & Accessories",Diamond;Gift;Gold;Luxury;Wedding,2022-05-02
+Tmtplaza,Shopping,313,LUSH,LUSH嵐舒,1145,Phase1 1F,21520200,"Mon - Sun, PH, Day before PH: 11:00am - 08:30pm",,,3,Beauty & Cosmetics,Beauty;Body Care;Facial;Hair Care;Sun Care,2022-05-02
+Tmtplaza,Shopping,562,L’Oréal Paris,巴黎歐萊雅,1029,Phase1 1F,23882300,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Skin Care,2022-05-02
+Tmtplaza,Shopping,155,M.A.C,M.A.C,1088,Phase1 1F,35800379,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics,2022-05-02
+Tmtplaza,Shopping,164,Mabelle,Mabelle,1047,Phase1 1F,24511145,Mon - Sun: 10:30am - 08:30pm,,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,281,Mannings,萬寧,2199B,Phase1 2F,24041372,"Mon - Sun, PH: 10:00am - 10:00pm",,,4,Health Products & Personal Care,Beauty;Daily Necessities;Health Care;Healthy Living;Personal Care,2022-05-02
+Tmtplaza,Shopping,239,Maxcare,Maxcare,2079,Phase1 2F,37047344,"Mon - Sun, PH: 11:30am - 08:30pm",,,4,Health Products & Personal Care,Massage;Massager Chair,2022-05-02
+Tmtplaza,Shopping,21,Meka,美康,29,Phase2 1F,27726992,Mon - Sun: 10:00am - 10:00pm,,,4,Health Products & Personal Care,Beauty;Health Care;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,515,MUJI,無印良品,1140,Phase1 1F,39713180,"Mon - Sun, PH: 11:00am - 10:00pm",,,10,Furniture & Lifestyle,Clothing;Houseware;Lifestyle;Snack;Stationery,2022-05-02
+Tmtplaza,Shopping,451,NA-NA Fashion,NA-NA Fashion,2210,Phase1 2F,37052072,"Mon - Sun, PH, Day before PH: 11:00am - 10:00am",,,9,Fashion,Accessories;Clothing;Fashion;Ladies’ Fashion;Shoes,2022-05-02
+Tmtplaza,Shopping,235,Nam Pei Hong,南北行,2070,Phase1 2F,21469128,"Mon - Sun, PH: 10:00am - 07:00pm",,,4,Health Products & Personal Care,Chinese Medicine;Drug;Health Care;Healthy Living;Supplements,2022-05-02
+Tmtplaza,Shopping,462,NAMCO,NAMCO,2190A,Phase1 2F,31089750,"Mon - Sun, PH: 11:00am - 10:00pm",,,6,Cinema & Entertainment,Entertainment;Games,2022-05-02
+Tmtplaza,Shopping,440,New Balance,New Balance,3285,Phase1 3F,23239366,"Mon - Sat: 12:00pm - 09:30pmSun, PH: 11:30am - 09:30pm",,,14,Sportswear & Equipment,Bag;Shoes;Sportswear,2022-05-02
+Tmtplaza,Shopping,121,Nike,Nike,3250,Phase1 3F,26026991,"Mon - Fri: 12:00pm - 09:00pmSat, Sun, PH: 11:30am - 09:00pm",,,14,Sportswear & Equipment,Shoes;Sneakers;Sporting Goods;Sports Accessories;Sportswear,2022-05-02
+Tmtplaza,Shopping,414,Nikko,Nikko,2095,Phase1 2F,28388330,"Mon - Sun, PH: 11:00am - 07:30pm",,,14,Sportswear & Equipment,Sportswear,2022-05-02
+Tmtplaza,Shopping,341,Noble Diamond,名鑽軒,26,Phase2 1F,26131778,Mon - Sun: 11:00am - 07:00pm,,,11,"Jewellery, Watches, Optical & Accessories",Bracelet;Diamond;Gold;Jewellery;Platinum,2022-05-02
+Tmtplaza,Shopping,240,OGAWA,OGAWA,2080,Phase1 2F,35858468,"Mon - Sun, PH: 11:00am - 08:00pm",,,4,Health Products & Personal Care,Massage;Massager Chair,2022-05-02
+Tmtplaza,Shopping,237,Optical 88 (Phase 1),眼鏡88 (一期),2072,Phase1 2F,28869496,"Mon - Sun, PH: 10:30am - 08:00pm",,,11,"Jewellery, Watches, Optical & Accessories",Contact Lens;Optical;Sunglasses,2022-05-02
+Tmtplaza,Shopping,232,ORiental TRaffic,ORiental TRaffic,2226,Phase1 2F,26031820,"Mon - Thu, Sun: 11:30am - 09:30pmFri, Sat: 11:00am - 10:00pm",,,13,Shoes & Bags,Causal Shoes;Fashion;High-heels;Shoes,2022-05-02
+Tmtplaza,Shopping,373,Origins,Origins,1090,Phase1 1F,28736511,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Facial;Gift;Skin Care,2022-05-02
+Tmtplaza,Shopping,241,OSIM,OSIM,2083,Phase1 2F,24415229,"Mon - Sun, PH: 11:30am - 10:30pm",,,4,Health Products & Personal Care,Massage;Massager Chair,2022-05-02
+Tmtplaza,Shopping,532,OTO Bodycare,OTO Bodycare,2068,Phase1 2F,21170975,"Mon - Sun, PH: 11:00am - 08:00pm",,,4,Health Products & Personal Care,Healthy Living;Massage;Massager Chair,2022-05-02
+Tmtplaza,Shopping,222,OWNDAYS,OWNDAYS,2025,Phase1 2F,31293001,Mon - Sun: 11:00am - 10:00pm,,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,420,Palladium,Palladium,2209,Phase1 2F,,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,14,Sportswear & Equipment,,2022-05-02
+Tmtplaza,Shopping,472,Parsons Music,柏斯音樂,2197C,Phase1 2F,,"Mon - Sun, PH: 12:00pm - 09:00pm",,,5,"Books, Stationery & Education",,2022-05-02
+Tmtplaza,Shopping,115,Pet Line,Pet Line,3232A,Phase1 3F,37554878,"Mon - Sun, PH: 10:30am - 09:00pm",,,10,Furniture & Lifestyle,Pet Supplies,2022-05-02
+Tmtplaza,Shopping,476,PicoLabb,PicoLabb,1037,Phase1 1F,21239342,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,4,Health Products & Personal Care,Health Care;Healthy Living;Personal Care;Skin Care;Supplements,2022-05-02
+Tmtplaza,Shopping,84,Pinkicon,Pinkicon,1001B,Phase1 1F,27588066,"Mon - Sun, PH, Day before PH: 12:00pm - 09:00pm",,,3,Beauty & Cosmetics,,2022-05-02
+Tmtplaza,Shopping,293,Porter International,Porter International,2247,Phase1 2F,24502883,"Mon - Thu, Sun: 11:00am - 09:00pmFri, Sat: 10:30am - 09:00pm",,,13,Shoes & Bags,Backpack;Bag;Fashion,2022-05-02
+Tmtplaza,Shopping,479,Ppo Ppo,Ppo Ppo,1009-1010,Phase1 1F,93152533,"Mon - Sun, PH, Day before PH: 10:30am - 09:30pm",,,9,Fashion,Casual Wear;Clothing;Fashion;Jeans;Ladies’ Fashion,2022-05-02
+Tmtplaza,Shopping,153,Premier By Dead Sea,Premier By Dead Sea,1071,Phase1 1F,22199387,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,3,Beauty & Cosmetics,Beauty;Facial;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,483,Prince Jewellery & Watch,太子珠寶鐘錶,1159,Phase1 1F,27096628,"Mon - Sun, PH, Day before PH: 10:30am - 08:00pm",,,11,"Jewellery, Watches, Optical & Accessories",Diamond;Gift;Jewellery;Timepieces;Watch,2022-05-02
+Tmtplaza,Shopping,148,PUMA,PUMA,3286,Phase1 3F,23633378,"Mon - Fri: 12:00pm - 09:30pmSat: 11:30am - 10:30pmSun, PH: 11:30am - 09:30pm",,,14,Sportswear & Equipment,Shoes;Sneakers;Sportswear,2022-05-02
+Tmtplaza,Shopping,65,PURPLE,紫盈,2197F,Phase1 2F,24300071,"Mon - Sun, PH: 11:00am - 09:00pm",,,10,Furniture & Lifestyle,Aromatherapy;Flower;Gift;Home Decoration;Lifestyle,2022-05-02
+Tmtplaza,Shopping,43,QB House (Phase 2),QB House (二期),33,Phase2 UGF,23593300,Mon - Sun: 10:00am - 08:30pm,,,4,Health Products & Personal Care,Hair Salon;Personal Care,2022-05-02
+Tmtplaza,Shopping,427,Red Carrot,紅蘿蔔,2123,Phase1 2F,23907338,"Mon - Fri: 11:00am - 08:50pmSat, Sun, PH: 10:30am - 09:20pm",,,10,Furniture & Lifestyle,Pet Supplies,2022-05-02
+Tmtplaza,Shopping,202,ROLEX,ROLEX,1172,Phase1 1F,21541611,"Mon - Sun, PH: 12:00pm - 07:00pm",,,11,"Jewellery, Watches, Optical & Accessories",Luxury;Watch,2022-05-02
+Tmtplaza,Shopping,87,Salad,Salad,3209,Phase1 3F,,"Mon - Fri: 11:30am - 09:00pmSat, Sun, PH: 11:30am - 09:30pm",,,13,Shoes & Bags,Bag;Fashion;Ladies’ Fashion;Leather Goods,2022-05-02
+Tmtplaza,Shopping,152,Samuel Ashley,Samuel Ashley,3289,Phase1 3F,21161034,Mon - Sun: 11:00am - 10:00pm,,,13,Shoes & Bags,Bag;Fashion;Leather Goods,2022-05-02
+Tmtplaza,Shopping,229,SaSa,莎莎,2057,Phase1 2F,22467118,Mon - Sun: 10:30am - 09:00pm,,,3,Beauty & Cosmetics,Beauty;Body Care;Cosmetics;Lipstick,2022-05-02
+Tmtplaza,Shopping,162,SHISEIDO,資生堂,1061,Phase1 1F,24506183,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Foundation;Skin Care;Sun Care,2022-05-02
+Tmtplaza,Shopping,177,SK-II,SK-II,1119,Phase1 1F,26186468,"Mon - Sun, PH, Day before PH: 10:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,272,SKECHERS,SKECHERS,2197B,Phase1 2F,26183181,"Mon - Sun, PH: 10:00am - 10:00pm",,,13,Shoes & Bags,Causal Shoes,2022-05-02
+Tmtplaza,Shopping,52,SmarTone,SmarTone,G129,Phase1 GF,28802688,"Mon - Sun, PH, Day before PH: 10:00am - 09:00pm",,,15,Telecom,Local Data;Mobile Service;Roaming;Smartphone;Telecom,2022-05-02
+Tmtplaza,Shopping,433,SNAPIO,SNAPIO,Kiosk 6,Phase1 3F,21231540,"Mon - Sun, PH, Day before PH: 10:00am - 10:00pm",,,17,Others,,2022-05-02
+Tmtplaza,Shopping,111,Sofina,Sofina,1025,Phase1 1F,26776981,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Foundation;Skin Care;Sun Care,2022-05-02
+Tmtplaza,Shopping,304,Solvil et Titus,鐵達時,2225,Phase1 2F,22670198,Mon - Thu: 11:00am - 09:00pmFri - Sun: 11:00am - 09:30pm,,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,311,Sportshouse,運動家,3207,Phase1 3F,26626716,"Mon - Fri: 12:00pm - 09:00pmSat, Sun, PH: 11:30am - 09:00pm",,,14,Sportswear & Equipment,Running;Sport;Sporting Goods;Sportswear;Training,2022-05-02
+Tmtplaza,Shopping,287,STACCATO,STACCATO,2216,Phase1 2F,24045208,Mon - Sun: 11:30am - 09:00pm,,,13,Shoes & Bags,Causal Shoes;Sandals;Shoes,2022-05-02
+Tmtplaza,Shopping,79,StagE,StagE,3201,Phase1 3F,38420888,Mon - Sun: 11:00am - 10:00pm,,,6,Cinema & Entertainment,3D Movie;Cinema;Entertainment;Movie;Popcorn,2022-05-02
+Tmtplaza,Shopping,10,Standard Chartered Bank,渣打銀行,G047,Phase1 GF,24521811,Mon - Fri: 09:00am - 05:00pmSat: 09:00am - 01:00pm,,,2,Banking Services,ATM;Bank,2022-05-02
+Tmtplaza,Shopping,274,STUDIO A (Apple Premium Reseller),STUDIO A (Apple Premium Reseller),2197D,Phase1 2F,24572779,"Mon - Thu: 11:00am - 08:00pmFri - Sun, PH: 12:00pm - 09:00pm",,,1,Audio-Visual & Electrical Appliances,Earphone;Lifestyle;Phone Accessories;Smartphone;Tablet,2022-05-02
+Tmtplaza,Shopping,91,Su Su Co,Su Su Co,1005,Phase1 1F,29406866,"Mon - Sun, PH, Day before PH: 10:00am - 09:30pm",,,9,Fashion,Bag;Clothing;Fashion;Ladies’ Fashion;Shoes,2022-05-02
+Tmtplaza,Shopping,379,Sulwhasoo,雪花秀,1143,Phase1 1F,35858475,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Facial;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,42,SUNING,蘇寧,G117,Phase1 GF,24596662,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,1,Audio-Visual & Electrical Appliances,Electrical Appliances;Home Appliances;TV,2022-05-02
+Tmtplaza,Shopping,490,Superga,Superga,Kiosk 1,Phase1 3F,,"Mon - Sun, PH, Day before PH: 11:30am - 09:00pm",,,13,Shoes & Bags,Shoes,2022-05-02
+Tmtplaza,Shopping,391,Swissline,Swissline,1131,Phase1 1F,27372732,,,,3,Beauty & Cosmetics,Beauty;Facial;Skin Care;Sun Care,2022-05-02
+Tmtplaza,Shopping,4,Tai Fook Jewellery,大福珠寶,1,Phase2 1F,26180727,Mon - Sun: 11:00am - 06:00pm,,,11,"Jewellery, Watches, Optical & Accessories",Accessories;Diamond;Gift;Gold;Jewellery,2022-05-02
+Tmtplaza,Shopping,2,TASTE,TASTE,Whole Floor,Phase2 2F,24492404,Mon - Sun: 08:00am - 10:30pm,,,8,"Department Stores, Supermarkets and Convenience Stores",Daily Necessities;Drink;Food;Personal Care;Supermarket,2022-05-02
+Tmtplaza,Shopping,219,The Ash,The Ash,2012,Phase1 2F,31884249,"Mon - Fri: 11:00am - 09:00pmSat, Sun: 11:00am - 09:30pm",,,9,Fashion,Accessories;Fashion;Ladies’ Fashion;Men’s Fashion,2022-05-02
+Tmtplaza,Shopping,39,The Bank of East Asia,東亞銀行,2-10,Phase2 UGF,36093710,Mon - Fri: 09:00am - 04:00pm,,,2,Banking Services,ATM;Bank;Wealth Management,2022-05-02
+Tmtplaza,Shopping,378,The Body Shop,The Body Shop,1129,Phase1 1F,26635010,"Mon - Thu, Sun: 11:00am - 08:00pmFri, Sat: 11:00am - 09:00pm",,,3,Beauty & Cosmetics,Beauty;Body Care;Fragrance;Gift;Hair Care,2022-05-02
+Tmtplaza,Shopping,387,The history of Whoo,The history of Whoo,1118,Phase1 1F,21106978,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Facial;Gift;Skin Care,2022-05-02
+Tmtplaza,Shopping,216,The North Face,The North Face,1222,Phase1 1F,24683320,"Mon - Sun, PH: 11:00am - 08:30pm",,,14,Sportswear & Equipment,Casual Wear;Outdoor;Sporting Goods;Sports Accessories;Sportswear,2022-05-02
+Tmtplaza,Shopping,429,TINY,微影,2190B,Phase1 2F,26722355,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,12,Kid's Wear & Toys,,2022-05-02
+Tmtplaza,Shopping,438,Toyeki,玩具站,2191C,Phase1 2F,23329822,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,12,Kid's Wear & Toys,Entertainment;Game;Gift;Toy,2022-05-02
+Tmtplaza,Shopping,270,Toys“R”Us,"玩具""反""斗城",2196,Phase1 2F,24300268,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,12,Kid's Wear & Toys,Baby Products;Entertainment;Game;Gift;Toy,2022-05-02
+Tmtplaza,Shopping,243,Travel Expert,專業旅運,2092,Phase1 2F,24300829,"Mon, Tue, Thu, Fri, Sun: 10:30am - 05:00pm",,,16,Travels & Travel Products,Airline Ticket;Cruise;Hotel Reservation;Travel Package;Travel Tour,2022-05-02
+Tmtplaza,Shopping,34,TSL,謝瑞麟,47,Phase2 1F,26962083,Mon - Sun: 10:30am - 07:00pm,,,11,"Jewellery, Watches, Optical & Accessories",Accessories;Gold;Jewellery;Ring,2022-05-02
+Tmtplaza,Shopping,193,Tudor,帝舵,1157,Phase1 1F,22953202,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,11,"Jewellery, Watches, Optical & Accessories",,2022-05-02
+Tmtplaza,Shopping,56,Tung Yuen Telecom Co.,東元之電,3,Phase2 GF,24512928,"Mon - Sun, PH: 10:45am - 10:00pm",,,15,Telecom,Phone Accessories;Smartphone,2022-05-02
+Tmtplaza,Shopping,218,UNIQLO,UNIQLO,2001,Phase1 2F,26184311,"Mon - Sun, PH, Day before PH: 10:00am - 10:00pm",,,9,Fashion,Casual Wear;Clothing;Fashion;Ladies’ Fashion;Men’s Fashion,2022-05-02
+Tmtplaza,Shopping,124,VANS,VANS,3266,Phase1 3F,26607276,"Mon - Sun, PH: 11:00am - 08:00pm",,,13,Shoes & Bags,Causal Shoes;Ladies’ Fashion;Men’s Fashion,2022-05-02
+Tmtplaza,Shopping,132,Vita Green,維特健靈,1043,Phase1 1F,28823948,"Mon - Sun, PH, Day before PH: 10:00am - 09:00pm",,,4,Health Products & Personal Care,Chinese Medicine;Drug;Health Care;Healthy Living;Supplements,2022-05-02
+Tmtplaza,Shopping,273,Wanko,Wanko,2029,Phase1 2F,26152088,"Mon - Sun, PH, Day before PH: 10:30am - 09:00pm",,,9,Fashion,Fashion;Ladies’ Fashion,2022-05-02
+Tmtplaza,Shopping,251,Watsons (Phase 1),屈臣氏 (一期),2115,Phase1 2F,24517628,"Mon - Sun, PH: 10:00am - 08:00pm",,,4,Health Products & Personal Care,Beauty;Daily Necessities;Health Care;Healthy Living;Personal Care,2022-05-02
+Tmtplaza,Shopping,33,Watsons (Phase 2),屈臣氏 (二期),43,Phase2 1F,24045692,Mon - Sun: 10:00am - 07:30pm,,,4,Health Products & Personal Care,Beauty;Daily Necessities;Health Care;Healthy Living;Personal Care,2022-05-02
+Tmtplaza,Shopping,71,Wellsoon (International) Medicine Co. Limited,和順堂中醫診所,16B,Phase2 GF,39529823,Mon - Sun: 10:00am - 09:00pm,,,4,Health Products & Personal Care,Chinese Medicine;Clinic;Drug;Health Care;Supplements,2022-05-02
+Tmtplaza,Shopping,45,Wilson,衛訊,G123,Phase1 GF,82028699,"Mon - Sun, PH, Day before PH: 11:00am - 08:30pm",,,1,Audio-Visual & Electrical Appliances,,2022-05-02
+Tmtplaza,Shopping,505,Xiaomi Authorized Store,小米授權店,2065,Phase1 2F,39969156,"Mon - Fri: 11:00am - 08:00pmSat, Sun, PH: 11:00am - 09:00pm",,,1,Audio-Visual & Electrical Appliances,Home Appliances;Lifestyle;Smartphone,2022-05-02
+Tmtplaza,Shopping,453,Yeppeoyo,Yeppeoyo,1006,Phase1 1F,24644767,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Cosmetics;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,86,Youth,Youth,1002,Phase1 1F,24159998,"Mon - Sun, PH, Day before PH: 10:30am - 09:30pm",,,9,Fashion,Bag;Clothing;Fashion;Ladies’ Fashion,2022-05-02
+Tmtplaza,Shopping,141,YVES ROCHER,YVES ROCHER,1080,Phase1 1F,26406226,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,3,Beauty & Cosmetics,Beauty;Healthy Living;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Shopping,184,Yves Saint Laurent Beauté,YSL Beauté,1137A,Phase1 1F,26599120,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,3,Beauty & Cosmetics,Beauty;Cosmetics;Fragrance,2022-05-02
+Tmtplaza,Shopping,454,Zenox,Zenox,2197H,Phase1 2F,64603171,"Mon - Sun, PH: 12:00pm - 09:00pm",,,17,Others,,2022-05-02
+Tmtplaza,Shopping,447,ÉLÉVATIONE Time Stops,ÉLÉVATIONE Time Stops,1076,Phase1 1F,34682598,"Mon - Sun, PH, Day before PH: 10:00am - 10:00pm",,,3,Beauty & Cosmetics,Beauty;Body Care;Facial;Personal Care;Skin Care,2022-05-02
+Tmtplaza,Dining,540,&tmR,&tmR,3212,Phase1 3F,26928938,Mon - Sun: 12:00pm - 09:00pm,,,21,Western Cuisine,Burger;Fries;Fruit Tea;Pasta;Salad,2022-05-02
+Tmtplaza,Dining,544,A-1 Bakery Premium,A-1 Bakery Premium,UG046,Phase1 UGF,24999068,"Mon - Sun, PH, Day before PH: 07:30am - 09:30pm",,,7,Confectionery & Deli,Bakery;Bread;Cake;Dessert;Ice-cream,2022-05-02
+Tmtplaza,Dining,226,AJI ICHIBAN,優之良品,2041,Phase1 2F,25927208,"Mon - Sun, PH, Day before PH: 10:30am - 07:30pm",,,7,Confectionery & Deli,Food;Snack,2022-05-02
+Tmtplaza,Dining,136,Arome Bakery,東海堂,1052,Phase1 1F,24526308,"Mon - Sun, PH, Day before PH: 09:00am - 08:00pm",,,7,Confectionery & Deli,Bakery;Bread;Cake;Ice-cream,2022-05-02
+Tmtplaza,Dining,467,ASAM CHICKEN RICE,亞參雞飯,1102,Phase1 1F,28181010,"Mon - Sun, PH, Day before PH: 11:30am - 09:00pm",,,18,Asian Cuisine,Curry;Drink;Hainanese Chicken Rice;Noodles,2022-05-02
+Tmtplaza,Dining,437,Bamboo Thai,Bamboo Thai,3226,Phase1 3F,21554291,"Mon - Sun, PH: 12:00pm - 10:00pm",,,18,Asian Cuisine,Thai Restaurant,2022-05-02
+Tmtplaza,Dining,117,Bari-Uma,霸嗎拉麺,3233,Phase1 3F,31886681,"Mon - Sun, PH: 10:30am - 08:30pm",,,18,Asian Cuisine,Dinner;Japanese Restaurant;Lunch;Ramen,2022-05-02
+Tmtplaza,Dining,536,BEANS,荳子,UG042,Phase1 UGF,24138338,"Mon - Sun, PH, Day before PH: 08:00am - 10:00pm",,,21,Western Cuisine,All Day Breakfast;Coffee;Dessert;Western Restaurant,2022-05-02
+Tmtplaza,Dining,107,Beerliner German Bar & Restaurant,Beerliner德國餐廳酒吧,3227,Phase1 3F,29046333,"Mon - Sun, PH: 12:00pm - 10:00pm",,,21,Western Cuisine,Bar;Beer;German Restaurant,2022-05-02
+Tmtplaza,Dining,557,Bluebird Travel,青鳥旅行,UGK15,Phase1 UGF,,"Mon - Sun, PH, Day before PH: 12:00pm - 08:30pm",,,7,Confectionery & Deli,Cake;Confectionery;Snack,2022-05-02
+Tmtplaza,Dining,550,BOVE,BOVE,2253A,Phase1 2F,,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,20,Café & Dessert,Dessert;Food Court;Ice-cream;Sweet Soup,2022-05-02
+Tmtplaza,Dining,556,BURGA,BURGA,2253A,Phase1 2F,39984188,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,18,Asian Cuisine,Dinner;Fast Food;Lunch,2022-05-02
+Tmtplaza,Dining,6,Café de Coral,大家樂,G036,Phase1 GF,24512431,"Mon - Sun, PH, Day before PH: 07:00am - 09:00pm",,,18,Asian Cuisine,Breakfast;Dinner;Fast Food;Lunch;Vegetarian,2022-05-02
+Tmtplaza,Dining,478,California Pizza Kitchen,California Pizza Kitchen,3218,Phase1 3F,31697298,"Mon - Fri: 12:00pm - 10:00pmSat, Sun: 11:30am - 10:00pm",,,21,Western Cuisine,American Restaurant;Kid-friendly;Pasta;Pizza;Western Restaurant,2022-05-02
+Tmtplaza,Dining,401,Chateraise,Chateraise,Kiosk 2,Phase1 1F,29077688,"Mon - Sun, PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Cake,2022-05-02
+Tmtplaza,Dining,428,Chi Tachinomi,Chi Tachinomi,G073,Phase1 GF,23313135,"Mon - Sun, PH, Day before PH: 12:00pm - 10:00pm",,,18,Asian Cuisine,Izakaya,2022-05-02
+Tmtplaza,Dining,541,COMEBUYTEA,COMEBUYTEA,3202-3203,Phase1 3F,24880282,"Mon - Sun, PH: 11:00am - 10:00pm",,,7,Confectionery & Deli,Bubble Tea;Fruit Tea,2022-05-02
+Tmtplaza,Dining,317,CONTE DE COOKIE,曲奇童話,3270,Phase1 3F,25220488,"Mon - Sun, PH: 11:00am - 08:30pm",,,7,Confectionery & Deli,Bakery;Dessert;Snack,2022-05-02
+Tmtplaza,Dining,256,Crystal Jade La Mian Xiao Long Bao,翡翠拉麵小籠包,2131,Phase1 2F,24301909,"Mon - Sun, PH: 11:00am - 10:00pm",,,19,Chinese Cuisine,Chinese Restaurant;Dinner;Lunch;Michelin Stared,2022-05-02
+Tmtplaza,Dining,258,DAB-PA PEKING & SZECHUAN BISTRO,稻成小館,2162,Phase1 2F,25282618,"Mon - Sun, PH: 11:30am - 10:00pm",,,19,Chinese Cuisine,Chinese Restaurant;Dumpling;Noodles;Wonton,2022-05-02
+Tmtplaza,Dining,466,DIMPOT,點煲,1101,Phase1 1F,23030809,"Mon - Sun, PH, Day before PH: 11:30am - 08:30pm",,,18,Asian Cuisine,Chinese Buns;Friends’ Gathering,2022-05-02
+Tmtplaza,Dining,444,E.Tea,茶星人,19-20,Phase2 UGF,62051262,Mon - Thu: 11:30am - 09:00pmFri - Sun: 11:30am - 09:30pm,,,7,Confectionery & Deli,Drink;Fruit Tea,2022-05-02
+Tmtplaza,Dining,443,Ebisoba Ichigen,一幻拉麵,2319,Phase1 2F,23122399,"Mon - Sun, PH, Day before PH: 11:00am - 10:00pm",,,18,Asian Cuisine,Japanese Restaurant;Ramen,2022-05-02
+Tmtplaza,Dining,44,euro go go,euro go go,21,Phase2 UGF,31944009,Mon - Sun: 08:00am - 11:00pm,,,20,Café & Dessert,Breakfast;Fast Food;Pasta;Pizza;Vegetarian,2022-05-02
+Tmtplaza,Dining,543,FOODMAZE,FOODMAZE,2253A,Phase1 2F,39984188,"Mon - Sun, PH, Day before PH: 11:30am - 10:00pm",,,18,Asian Cuisine,,2022-05-02
+Tmtplaza,Dining,82,Genki Sushi,元気壽司,3206,Phase1 3F,24597388,"Mon - Fri: 11:30am - 09:30pmSat, Sun: 11:00am - 09:30pm",,,18,Asian Cuisine,Japanese Restaurant;Lunch;Sashimi;Sushi,2022-05-02
+Tmtplaza,Dining,523,Golden Phoenix Restaurant,金鳳大餐廳,G076,Phase1 GF,23303330,"Mon - Sun, PH, Day before PH: 11:30am - 10:00pm",,,18,Asian Cuisine,Delivery;Dinner;Friends’ Gathering;Lunch;Teppanyaki,2022-05-02
+Tmtplaza,Dining,259,Gyu-Kaku,牛角日本燒肉專門店,2182,Phase1 2F,28457588,"Mon - Sun, PH: 12:00pm - 10:00pm",,,18,Asian Cuisine,Dinner;Japanese Restaurant;Lunch,2022-05-02
+Tmtplaza,Dining,386,hana-mususbi,華御結,37,Phase2 1F,26517077,"Mon - Fri: 08:00am - 08:00pmSat, Sun, PH: 09:00am - 06:00pm",,,7,Confectionery & Deli,Coffee;Drink;Food,2022-05-02
+Tmtplaza,Dining,482,Hanjuku Kobo,半熟工房,1049,Phase1 1F,27542754,"Mon - Sun, PH, Day before PH: 12:00pm - 07:30pm",,,7,Confectionery & Deli,Bread;Cake;Dessert,2022-05-02
+Tmtplaza,Dining,381,HAZUKIDO,八月堂,Kiosk 15,Phase1 1F,34605286,"Mon - Sun, PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Bread;Dessert;Food,2022-05-02
+Tmtplaza,Dining,19,Hoi Tin Tong,海天堂,G061,Phase1 GF,26187234,"Mon - Sun, PH, Day before PH: 10:00am - 08:30pm",,,20,Café & Dessert,Herbal Tea;Sweet Soup,2022-05-02
+Tmtplaza,Dining,332,HotStar,豪大大雞排,6,Phase2 GF,,Mon - Sun: 12:00pm - 11:00pm,,,7,Confectionery & Deli,Fried Chicken,2022-05-02
+Tmtplaza,Dining,63,Hung Fook Tong,鴻福堂,8A,Phase2 GF,29202206,Mon - Sun: 08:30am - 09:30pm,,,7,Confectionery & Deli,Drink;Food;Snack,2022-05-02
+Tmtplaza,Dining,422,Hung Rui Chen,洪瑞珍,Kiosk 8,Phase1 1F,22050003,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,7,Confectionery & Deli,Drink;Sandwich,2022-05-02
+Tmtplaza,Dining,518,IGATTI,IGATTI,Kiosk 6,Phase1 1F,36934321,"Mon - Sun, PH: 12:00pm - 08:00pm",,,7,Confectionery & Deli,Cake,2022-05-02
+Tmtplaza,Dining,419,Imperial Patisserie,皇玥,Kiosk 9,Phase1 1F,22173638,"Mon - Sun, PH, Day before PH: 11:00am - 07:00pm",,,7,Confectionery & Deli,Bakery,2022-05-02
+Tmtplaza,Dining,549,In The Mood For Calm,花甲年華,2253A,Phase1 2F,39984188,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,18,Asian Cuisine,Dinner;Lunch;Noodles,2022-05-02
+Tmtplaza,Dining,445,INSTYLE LIVING WINE & GROCERY,INSTYLE LIVING WINE & GROCERY,2256B,Phase1 2F,23639398,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Wine;Yogurt,2022-05-02
+Tmtplaza,Dining,167,Kee Wah Bakery,奇華餅家,1105,Phase1 1F,26130822,"Mon - Sun, PH, Day before PH: 08:30am - 08:30pm",,,7,Confectionery & Deli,Bakery;Bread;Cake;Daily Necessities,2022-05-02
+Tmtplaza,Dining,539,kikusan,kikusan,3215,Phase1 3F,26928868,Mon - Sun: 12:00pm - 09:00pm,,,18,Asian Cuisine,Chinese Buns;Drink;Japanese Restaurant;Meatless Menu;Noodles,2022-05-02
+Tmtplaza,Dining,506,KURU LAB,KURU LAB,1268,Phase1 1F,21318988,"Mon - Sun, PH, Day before PH: 12:00pm - 08:00pm",,,20,Café & Dessert,Breakfast;Café;Cake;Fast Food;Hotdog,2022-05-02
+Tmtplaza,Dining,361,LUCULLUS,龍島,Kiosk 18,Phase1 1F,26199160,"Mon - Sun, PH: 11:30am - 07:30pm",,,7,Confectionery & Deli,Cake;Chocolate;Dessert,2022-05-02
+Tmtplaza,Dining,542,Mamma Mia Gelato,Mamma Mia Gelato,Kiosk 6B,Phase1 3F,93177446,"Mon - Fri: 01:00pm - 09:00pmSat, Sun, PH: 12:00pm - 10:00pm",,,7,Confectionery & Deli,Ice-cream,2022-05-02
+Tmtplaza,Dining,389,Meet Fresh,鮮芋仙,Kiosk C,Phase1 1F,,"Mon - Sun, PH, Day before PH: 01:00pm - 10:00pm",,,20,Café & Dessert,Dessert,2022-05-02
+Tmtplaza,Dining,425,Men Wah Bing Teng,敏華冰廳,G070,Phase1 GF,28987717,"Mon - Sun, PH, Day before PH: 07:00am - 09:30pm",,,18,Asian Cuisine,Drink;Friends’ Gathering;Kid-friendly;Noodles,2022-05-02
+Tmtplaza,Dining,13,MeokBang Korean BBQ & BAR,炑八韓烤,12,Phase2 1F,24599629,"Mon - Sun, PH: 11:30am - 09:00pm",,,18,Asian Cuisine,Dinner;Korean BBQ;Korean Restaurant;Lunch;Yakiniku,2022-05-02
+Tmtplaza,Dining,569,MILK TOP PLUS,MILK TOP PLUS,UGK16,Phase1 UGF,,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,,2022-05-02
+Tmtplaza,Dining,112,Ming Garden Restaurant,名苑,3230,Phase1 3F,21530138,"Mon - Sun, PH: 08:00am - 04:00pm",,,19,Chinese Cuisine,Breakfast;Cantonese Restaurant;Chinese Restaurant;Dim Sum;Seafood,2022-05-02
+Tmtplaza,Dining,418,Mom's Dry Noodles,老媽拌麵關廟麵專門店,3223&3225,Phase1 3F,23962008,"Mon - Fri: 11:30am - 10:00pmSat, Sun, PH: 09:30am - 10:00pm",,,18,Asian Cuisine,Drink;Friends’ Gathering;Lunch;Noodles;Taiwanese Restaurant,2022-05-02
+Tmtplaza,Dining,197,Morozoff,Morozoff,Kiosk 11,Phase1 1F,26982708,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Bakery;Cake;Celebration,2022-05-02
+Tmtplaza,Dining,214,nabe one,牛一,1246,Phase1 1F,29150002,"Mon - Sun, PH: 11:30am - 10:00pm",,,18,Asian Cuisine,Dinner;Hotpot;Japanese Restaurant;Lunch;Shabu Shabu,2022-05-02
+Tmtplaza,Dining,402,Nabe Urawa,牛気,3235,Phase1 3F,23633181,"Mon - Sun, PH: 11:30am - 10:00pm",,,18,Asian Cuisine,Buffet;Japanese Restaurant;Sashimi;Seafood;Shabu Shabu,2022-05-02
+Tmtplaza,Dining,468,Neko Puff,Neko Puff,Kiosk 7,Phase1 1F,,"Mon - Sun, PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Food;Snack,2022-05-02
+Tmtplaza,Dining,40,Oliver's Super Sandwiches,Oliver's Super Sandwiches,G113,Phase1 GF,22050183,"Mon - Sun, PH, Day before PH: 08:00am - 09:00pm",,,21,Western Cuisine,Coffee;Pasta;Salad;Sandwich,2022-05-02
+Tmtplaza,Dining,221,Outback Steakhouse,Outback Steakhouse,2016,Phase1 2F,24263918,"Mon - Sun, PH, Day before PH: 11:30am - 10:00pm",,,21,Western Cuisine,Burger;Fries;Pasta;Steak;Western Restaurant,2022-05-02
+Tmtplaza,Dining,183,Pacific Coffee,Pacific Coffee,1133,Phase1 1F,22658661,"Mon - Sun, PH, Day before PH: 08:00am - 08:00pm",,,20,Café & Dessert,Breakfast;Café;Cake;Coffee;Sandwich,2022-05-02
+Tmtplaza,Dining,168,Panash,Panash,1103A,Phase1 1F,22595150,"Mon - Sun, PH, Day before PH: 09:00am - 08:00pm",,,7,Confectionery & Deli,Bakery;Bread;Cake;Daily Necessities;Food,2022-05-02
+Tmtplaza,Dining,458,Paper Stone Bakery,Paper Stone Bakery,Shop 10,Phase2 1F,29822680,"Mon - Sun, PH: 08:30am - 09:30pm",,,7,Confectionery & Deli,Bakery;Cake;Dessert;Sandwich,2022-05-02
+Tmtplaza,Dining,559,Pastoret,Pastoret,UGK13,Phase1 UGF,,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Food;Organic;Snack;Yogurt,2022-05-02
+Tmtplaza,Dining,530,Patisserie La Lune,望月,UGK17,Phase1 UGF,,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,7,Confectionery & Deli,Bakery;Confectionery;Dessert;Food;Snack,2022-05-02
+Tmtplaza,Dining,509,Patisserie Tony Wong,Patisserie Tony Wong,Kiosk 1,Phase1 GF,25120008,"Mon - Sun, PH, Day before PH: 10:30am - 07:30pm",,,20,Café & Dessert,Café;Cake;Coffee;Dessert,2022-05-02
+Tmtplaza,Dining,555,Pepper Lunch,Pepper Lunch,2253A,Phase1 2F,39984188,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,18,Asian Cuisine,Dinner;Japanese Restaurant;Lunch;Yakiniku,2022-05-02
+Tmtplaza,Dining,474,PHI COFFEE & PANCAKE,PHI COFFEE & PANCAKE,Kiosk 2,Phase1 3F,28139283,"Mon - Sun, PH: 11:30am - 10:00pm",,,20,Café & Dessert,Cake;Coffee;Dessert;Friends’ Gathering;Pancake,2022-05-02
+Tmtplaza,Dining,305,Pho Le (Temporary Closure Until Further Notice),錦麗 (暫停營業至另行通知),19,Phase2 1F,23871816,"Mon - Thu, Sun: 11:30am - 09:00pmFri, Sat: 11:30am - 09:30pm",,,18,Asian Cuisine,Dinner;Lunch;Vietnamese Restaurant,2022-05-02
+Tmtplaza,Dining,333,Pie & Tart Specialists,批&撻專門店,5,Phase2 GF,26388687,Mon - Sun: 07:30am - 09:00pm,,,7,Confectionery & Deli,Bakery;Bread;Dessert,2022-05-02
+Tmtplaza,Dining,508,Qjiki,玖子貴,UG001,Phase1 UGF,,,,,7,Confectionery & Deli,,2022-05-02
+Tmtplaza,Dining,469,Ryoyu Bakery Studio,糧友パン工房,8B,Phase2 GF,,Mon - Sun: 10:00am - 07:00pm,,,7,Confectionery & Deli,Bread;Cake;Dessert;Food,2022-05-02
+Tmtplaza,Dining,553,Sakuragi Shokudo,櫻木食堂,2253A,Phase1 2F,39984188,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,18,Asian Cuisine,Dinner;Lunch,2022-05-02
+Tmtplaza,Dining,565,San Kinn,山見台式火鍋,3229,Phase1 3F,23318002,"Mon - Sun, PH: 11:30am - 10:00pm",,,18,Asian Cuisine,Hotpot,2022-05-02
+Tmtplaza,Dining,552,SCHOOL FOOD,SCHOOL FOOD,2253A,Phase1 2F,39984188,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,18,Asian Cuisine,Dinner;Korean Restaurant;Lunch,2022-05-02
+Tmtplaza,Dining,312,Sedap,惹味馬拉,30,Phase2 1F,27898789,Mon - Sun: 11:00am - 10:00pm,,,18,Asian Cuisine,Dinner;Lunch;Malaysian Restaurant,2022-05-02
+Tmtplaza,Dining,81,Sharetea,歇腳亭,1001A,Phase1 1F,24682868,"Mon - Sun, PH, Day before PH: 11:00am - 10:00pm",,,7,Confectionery & Deli,Bubble Tea;Coffee;Drink;Milk Tea,2022-05-02
+Tmtplaza,Dining,73,Shiu Heung Yuen Bakery Walnut Shop,鯉魚門紹香園合桃果子專門店,16C,Phase2 GF,63093212,Mon - Sun: 10:30am - 08:30pm,,,7,Confectionery & Deli,Food;Snack,2022-05-02
+Tmtplaza,Dining,568,Sofe Coffee,素啡工場,UGK18,Phase1 UGF,61173704,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Coffee;Drink,2022-05-02
+Tmtplaza,Dining,531,Starbucks,星巴克,UG038,Phase1 UGF,29831183,"Mon - Sun, PH, Day before PH: 07:30am - 09:00pm",,,20,Café & Dessert,Café;Cake;Coffee;Juice;Yogurt,2022-05-02
+Tmtplaza,Dining,171,Sushi Senju,鮨千壽,1108,Phase1 1F,23289995,"Mon - Sun, PH, Day before PH: 11:30am - 10:00pm",,,18,Asian Cuisine,Dinner;Japanese Restaurant;Sashimi;Sushi,2022-05-02
+Tmtplaza,Dining,459,Sushiro,壽司郎,2192,Phase1 2F,26887338,"Mon - Sun, PH: 10:30am - 10:00pm",,,18,Asian Cuisine,Japanese Restaurant;Sushi,2022-05-02
+Tmtplaza,Dining,25,Tai Cheong Bakery,泰昌餅家,35,Phase2 1F,83008318,Mon - Sun: 10:00am - 08:30pm,,,7,Confectionery & Deli,Food;Snack,2022-05-02
+Tmtplaza,Dining,554,Taste Bistro,千味家健康食堂,2253A,Phase1 2F,39984188,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,18,Asian Cuisine,Dinner;Lunch,2022-05-02
+Tmtplaza,Dining,484,Tea Chateau,Tea Chateau,1117,Phase1 1F,27187200,"Mon - Sun, PH, Day before PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Drink,2022-05-02
+Tmtplaza,Dining,80,TeaWood,茶木,3205,Phase1 3F,26480288,Mon - Sun: 11:30am - 09:15pm,,,18,Asian Cuisine,,2022-05-02
+Tmtplaza,Dining,566,Terrace in seaside,Terrace in seaside,UGK9,Phase1 UGF,23663299,"Mon - Sun, PH, Day before PH: 11:30am - 10:00pm",,,20,Café & Dessert,Café;Cake;Dessert;Sandwich;Tea,2022-05-02
+Tmtplaza,Dining,548,Thai Chiu,泰潮,2253A,Phase1 2F,39984188,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,18,Asian Cuisine,Dinner;Lunch;Thai Restaurant,2022-05-02
+Tmtplaza,Dining,430,The Alchemist Cafe,牧羊少年咖啡館,2151,Phase1 2F,26239306,"Mon - Fri: 11:00am - 10:00pmSat, Sun, PH: 10:00am - 10:00pm",,,21,Western Cuisine,,2022-05-02
+Tmtplaza,Dining,570,Travelpop Store,遊牧雜貨,Kiosk 4,Phase1 2F,,"Mon - Sun, PH, Day before PH: 11:00am - 08:30pm",,,7,Confectionery & Deli,,2022-05-02
+Tmtplaza,Dining,75,Trusty Congee King,靠得住,19,Phase2 GF,24779022,Mon - Sun: 07:00am - 05:15pm,,,19,Chinese Cuisine,Breakfast;Cantonese Restaurant;Congee;Michelin Stared;Noodles,2022-05-02
+Tmtplaza,Dining,446,Twinkle Baker Decor,Twinkle Baker Decor,Kiosk 1,Phase1 1F,91371969,"Mon - Sun, PH: 11:00am - 08:00pm",,,7,Confectionery & Deli,Cake;Dessert,2022-05-02
+Tmtplaza,Dining,225,Urban Café Commune,Urban Café Commune,2030,Phase1 2F,35904324,"Mon - Sun, PH, Day before PH: 11:00am - 10:00pm",,,21,Western Cuisine,Burger;Coffee;Fries;Steak;Western Restaurant,2022-05-02
+Tmtplaza,Dining,457,Wai Shing Wine & Spirits,偉成洋酒,2126,Phase1 2F,24423632,"Mon - Sun, PH: 11:30am - 07:30pm",,,7,Confectionery & Deli,Wine,2022-05-02
+Tmtplaza,Dining,130,What the Pho,囍越,3271,Phase1 3F,27287278,"Mon - Sun, PH: 11:30am - 09:00pm",,,18,Asian Cuisine,Dinner;Lunch;Vietnamese Restaurant,2022-05-02
+Tmtplaza,Dining,504,Wheatfield X,Wheatfield X 羅宋湯專門店,2037,Phase1 2F,28922308,"Mon - Sun, PH, Day before PH: 11:00am - 09:00pm",,,21,Western Cuisine,Dinner;Drink;Fast Food;Lunch;Multinational Restaurant,2022-05-02
+Tmtplaza,Dining,227,Wing Wah Cake Shop,榮華餅家,2046,Phase1 2F,26187133,"Mon - Sun, PH, Day before PH: 10:00am - 05:00pm",,,7,Confectionery & Deli,Bakery;Bread;Cake;Daily Necessities;Food,2022-05-02
+Tmtplaza,Dining,564,Yakiniku GUU,佐賀燒肉谷,3229,Phase1 3F,23313022,"Mon - Sun, PH: 11:30am - 10:00pm",,,18,Asian Cuisine,,2022-05-02
+Tmtplaza,Dining,546,YAKINIKU HOMURA,焼肉 焔,2253A,Phase1 2F,23303881,"Mon - Sun, PH, Day before PH: 11:30am - 08:30pm",,,18,Asian Cuisine,Dinner;Lunch;Yakiniku,2022-05-02
+Tmtplaza,Dining,134,Yamazaki Bakery,山崎麵包,1046,Phase1 1F,26349577,"Mon - Sun, PH, Day before PH: 07:30am - 06:00pm",,,7,Confectionery & Deli,Bakery;Bread;Cake;Drink,2022-05-02
+Tmtplaza,Dining,330,YiFang Taiwan Fruit Tea,一芳台灣水果茶,3219,Phase1 3F,27930828,"Mon - Fri: 11:30am - 10:00pmSat, Sun, PH: 11:00am - 10:00pm",,,7,Confectionery & Deli,,2022-05-02
+Tmtplaza,Dining,547,반찬앤쿡 Banchan and COOK,반찬앤쿡 Banchan and COOK,2253A,Phase1 2F,23302889,"Mon - Sun, PH, Day before PH: 11:30am - 09:30pm",,,18,Asian Cuisine,Dessert;Dinner;Fried Chicken;Korean Restaurant;Lunch,2022-05-02

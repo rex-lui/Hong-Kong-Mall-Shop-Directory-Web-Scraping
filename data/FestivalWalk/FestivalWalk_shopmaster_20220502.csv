@@ -1,0 +1,244 @@
+mall,type,shop_id,shop_name_en,shop_name_tc,shop_number,shop_floor,phone,opening_hours,loyalty_offer,voucher_acceptance,shop_category_id,shop_category_name,tag,update_date
+FestivalWalk,Dinning,105,McDonald’s,麥當勞,ShopLG1-01A,LG1F,22658232,7:00 am - 9:00 pm,,,3;20,Wine & Dine;Fast 'N' Feast,,2022-05-02
+FestivalWalk,Dinning,128,Kee Wah Bakery,奇華餅家,ShopMTR-03,MTRF,27763183,10:00 am - 8:00 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,145,GODIVA,GODIVA,ShopLG1-62,LG1F,22657229,11:00 am - 8:00 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,149,Pacific Coffee,Pacific Coffee,ShopLG2-26,LG2F,26980320,7:00 am - 10:00 pm (Mon - Sat)8:00 am - 10:00 pm (Sun & Public Holidays),,,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,153,Starbucks Coffee,星巴克,ShopUG-20A,UGF,22658589,7:00 am - 9:00 pm (Mon - Fri)8:00 am - 9:00 pm (Sat - Sun & Public Holidays),,,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,175,EXP,EXP,ShopUG-23,UGF,22658298,8:00 am - 9:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,178,Häagen-Dazs,Häagen-Dazs,ShopL1-16,1F,22658100,12:00 nn - 8:00 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,183,Jasmine,八月花,ShopLG2-40,LG2F,23330222,11:00 am - 4:00 pm; 5:30 pm - 11:00 pm (Mon - Sat)10:00 am - 4:00 pm; 5:30 pm - 11:00 pm (Sunday & Public Holidays),,,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,198,Pepper Lunch,胡椒廚房,ShopL2-21,2F,31050183,11:00 am - 9:45 pm,,1,3;20,Wine & Dine;Fast 'N' Feast,,2022-05-02
+FestivalWalk,Dinning,201,See’s Candies,時思糖果,ShopG-06,GF,22658199,11:00 am - 7:00 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,202,simplylife,simplylife,ShopL2-30,2F,27775168,11:00 am - 9:30 pm (Mon - Fri)10:00 am - 9:30 pm (Sat - Sun & Public Holidays),,,3;16,Wine & Dine;Western Wonders,,2022-05-02
+FestivalWalk,Dinning,217,Yoshinoya,吉野家,ShopL2-26,2F,22658805,11:00 am - 9:00 pm,,,3;20,Wine & Dine;Fast 'N' Feast,,2022-05-02
+FestivalWalk,Dinning,228,Café de Coral,大家樂,ShopL2-23,2F,22658225,7:30 am - 8:00 pm,,,3;20,Wine & Dine;Fast 'N' Feast,,2022-05-02
+FestivalWalk,Dinning,24,Amaroni’s New York Italian,Amaroni’s New York Italian,ShopLG1-32,LG1F,22658818,11:00 am - 8:00 pm (Sun - Fri & Public Holidays)11:00 am - 8:30 pm (Sat),,1,3;16,Wine & Dine;Western Wonders,,2022-05-02
+FestivalWalk,Dinning,264,Greyhound Café,Greyhound Café,ShopL2-42,2F,23834838,11:00 am - 8:30 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,284,COVA Caffè,COVA Caffè,ShopLG1-10,LG1F,22658688,11:30 am - 6:00 pm,,1,3;16,Wine & Dine;Western Wonders,,2022-05-02
+FestivalWalk,Dinning,29,Dan Ryan’s Chicago Grill,Dan Ryan’s 芝加哥餐廳,ShopLG2-28,LG2F,22658811,11:00 am - 9:00 pm (Sun - Thu)11:00 am - 10:00 pm (Fri - Sat & Public Holidays),,1,3;16,Wine & Dine;Western Wonders,,2022-05-02
+FestivalWalk,Dinning,309,Garrett Popcorn Shops,皆樂爆谷,ShopUG-24,UGF,22347738,11:00 am - 8:00 pm,,,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,317,Nespresso,Nespresso,ShopLG2-70,LG2F,81011007,11:30 am - 8:30 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,333,An Nam,安南,ShopL1-20,1F,28662803,11:30 am - 10:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,334,TamJai SamGor,譚仔三哥,ShopL2-20,2F,23501323,11:00 am - 9:00 pm,,,3;20,Wine & Dine;Fast 'N' Feast,,2022-05-02
+FestivalWalk,Dinning,335,sen-ryo,千両,ShopL1-19A,1F,28132891,11:30 am - 9:00 pm (Mon - Thu)11:00 am - 9:15 pm (Fri - Sat)11:00 am - 9:00 pm (Sun),,,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,342,ANA Gura,穴蔵,ShopUG-35,UGF,28401401,11:30 am - 10:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,347,Venchi,Venchi,ShopLG2-66,LG2F,31041893,11:00 am - 7:30 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,351,Tai Hing,太興,ShopL2-25,2F,23361661,7:15 am - 8:30 pm,,1,3;20,Wine & Dine;Fast 'N' Feast,,2022-05-02
+FestivalWalk,Dinning,471,TeaWood Café,茶木‧台式休閒餐廳,ShopG-11,GF,23360277,11:00 am - 9:00 pm,,,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,472,A-1 BAKERY & Châteraisé,A-1 BAKERY & Châteraisé,ShopLG1-51,LG1F,29077618,7:30 am - 8:00 pm,,,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,479,Gyu-Kaku,牛角,ShopLG1-29,LG1F,31059708,11:30 am - 6:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,480,On-Yasai,温野菜,ShopLG1-29,LG1F,31064218,11:30 am - 6:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,490,THE COFFEE ACADEMÏCS,THE COFFEE ACADEMÏCS,ShopG-KIOSKS3,GF,31840185,"8:00 am - 6:00 pm (Mon - Thu & Sun )8:00 am - 7:00 pm (Fri, Sat & Public Holidays)",,,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,491,LADY M NEW YORK,LADY M NEW YORK,ShopUG-22,UGF,28691368,"11:00 am - 8:00 pm (Mon - Thu, Sun & Public Holidays)11:00 am - 9:00 pm (Fri & Sat)",,1,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,493,Tong Tong Town,仝堂茶聚,ShopL1-33,1F,26022068,11:00 am - 10:00 pm (Mon - Sat)10:30 am - 10:00 pm (Sun & Public Holidays),,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,504,TenRen's Tea,天仁茗茶,ShopUG-20,UGF,21119690,11:00 am - 9:00 pm,,,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,505,J.S. FOODIES,J.S. FOODIES,ShopLG2-30,LG2F,22658405,11:30 am - 7:30 pm,,1,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,507,Café&Meal MUJI,Café&Meal MUJI,ShopLG1-30,LG1F,39713218,12:00 nn - 7:00 pm (Mon - Thu)11:00 am - 7:00 pm  (Fri - Sun),,1,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,512,Sift,Sift,ShopL1-KIOSK1,1F,57444640,11:00 am - 9:00 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,515,M&S Food,M&S Food,ShopLG1-01,LG1F,29282211,8:00 am - 8:30 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,675,Tea WG Salon & Boutique,Tea WG Salon & Boutique,ShopLG2-11,LG2F,27256930,10:00 am - 10:00 pm,,1,3;16;19,Wine & Dine;Western Wonders;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,690,Pret A Manger,Pret A Manger,ShopG-KIOSKS1,GF,39745795,"7:30 am - 6:00 pm (Mon - Fri)9:00 am - 6:00 pm (Sat, Sun & Public Holidays)",,1,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,699,Bee Cheng Hiang,美珍香,ShopMTR-07,MTRF,23181200,11:00 am - 8:00 pm,,,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,706,Tonkichi,當吉日式吉列豬排專門店,ShopUG-19,UGF,28816468,11:30 am - 8:30 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,710,Moon Palace,望月樓,ShopG-25,GF,23378213,10:00 am - 10:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,711,Toriten,鳥十,ShopG-25,GF,23378223,10:00 am - 10:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,712,Va Bene Italiano,Va Bene Italiano,ShopL1-34,1F,21168055,11:00 am - 8:30 pm,,1,3;16,Wine & Dine;Western Wonders,,2022-05-02
+FestivalWalk,Dinning,713,LHK Doux Cadeau,LHK Doux Cadeau,ShopL2-18,2F,27963995,11:30 am - 8:30 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,714,KONJIKI HOTOTOGISU,金色不如帰,ShopLG2-25,LG2F,63338156,11:00 am - 4:30 pm (Mon - Thu)11:00 am - 5:30 pm (Fri - Sun & Public Holidays),,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,718,KFC,KFC,ShopL2-22,2F,25187819,11:00 am - 8:00 pm,,,3;20,Wine & Dine;Fast 'N' Feast,,2022-05-02
+FestivalWalk,Dinning,721,Twelve Cupcakes,Twelve Cupcakes,ShopL2-19,2F,28035601,11:30 am - 7:30 pm,,,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,727,hana-musubi,華御結,ShopMTR-08,MTRF,26673122,7:30 am - 10:30 pm,,,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,731,Men Wah Bing Teng,敏華冰廳,ShopL2-28,2F,22340818,8:00 am - 5:30 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,732,ASAM Chicken Rice,亞參雞飯,ShopL2-28,2F,22610989,11:30 am - 9:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,733,Pho Le,錦麗,ShopL2-28,2F,22150979,11:00 am - 9:30 pm,,,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,739,Bloom by Wang Jia Sha,王家沙‧花樣年華,ShopG-23,GF,22658488,11:00 am - 10:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,740,McCafé,McCafé,ShopLG1-K64A,LG1F,22658232,7:00 am - 9:00 pm,,,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,751,LIFETASTIC Patisserie,LIFETASTIC Patisserie,ShopLG2-KIOSKC,LG2F,21541278,11:00 am - 9:00 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,752,Tasty Congee & Noodle Wantun Shop,正斗粥麵專家,ShopL1-19,1F,23820611,11:00 am - 9:00 pm,,1,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,753,Liu's Chong Qing Hot Pot,劉一手重慶火鍋,ShopUG-37,UGF,26289891,11:00 am - 8:30 pm,,,3;17,Wine & Dine;Asian Delights,,2022-05-02
+FestivalWalk,Dinning,755,SALOON DE CAFE,SALOON DE CAFE,ShopLG2-23,LG2F,21511716,11:00 am - 6:00 pm,,,3;18,Wine & Dine;Café Chic,,2022-05-02
+FestivalWalk,Dinning,767,Tea Château,官茶坊,ShopG-03,GF,96125026,11:00 am - 9:00 pm,,,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,79,COVA Cake-Chocolate Shop,COVA Cake-Chocolate Shop,ShopLG1-10,LG1F,22658678,11:00 am - 7:30 pm,,1,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,82,Wine Shop Enoteca,Wine Shop Enoteca,ShopLG1-20,LG1F,22658115,"11:00 am - 8:00 pm (Mon - Thu, Sun & Public Holidays)11:00 am - 9:00 pm (Fri - Sat)",,,3;19,Wine & Dine;Sweets & Delicacies,,2022-05-02
+FestivalWalk,Dinning,94,Queen’s Café,皇后飯店,ShopL1-18,1F,22658288,11:00 am - 10:00 pm,,1,3;16,Wine & Dine;Western Wonders,,2022-05-02
+FestivalWalk,Shopping,101,Montblanc,萬寶龍,ShopLG2-52,LG2F,29180125,11:00 am - 8:00 pm,,,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,102,MOISELLE,慕詩,ShopLG1-57,LG1F,22658282,12:00 nn - 6:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,107,Glycel Skinspa,Glycel Skinspa,ShopL2-01,2F,22658018,10:00 am - 10:00 pm (Mon - Fri)10:00 am - 8:00 pm (Sat)10:00 am - 7:00 pm (Sun & Public Holidays),,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,109,H&M,H&M,"ShopUG-26,L1-25&L2-35",UGF,31066940,11:00 am - 7:00 pm,,1,1;4;5,Fashion & Beauty;Major Stores;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,112,I.T,I.T,ShopLG2-02,LG2F,22657110,11:00 am - 10:00 pm,,1,1;4;9;10,Fashion & Beauty;Major Stores;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,114,b+ab,b+ab,ShopL1-09,1F,22657405,12:00 noon - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,115,Camper,Camper,ShopUG-33,UGF,26058661,11:00 am - 9:00 pm (Sun - Thu)11:00 am - 10:00 pm (Fri & Sat),,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,116,:CHOCOOLATE,:CHOCOOLATE,ShopL1-30,1F,22657521,12:00 noon - 7:30 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,117,Marks & Spencer,英國馬莎,ShopLG1-01,LG1F,29282211,11:00 am - 8:00 pm,,1,4,Major Stores,,2022-05-02
+FestivalWalk,Shopping,123,i.t blue block,i.t blue block,ShopLG2-30,LG2F,22657050,11:30 am - 7:30 pm,,1,1;4;9;10,Fashion & Beauty;Major Stores;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,129,Kiehl’s,Kiehl’s,ShopUG-36,UGF,23192018,10:30 am - 9:30 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,130,KINJI,KINJI,ShopLG1-60,LG1F,22657687,11:15 am - 7:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,133,LOG-ON,LOG-ON,ShopUG-01,UGF,27363866,11:00 am - 8:00 pm,,1,4,Major Stores,,2022-05-02
+FestivalWalk,Shopping,135,MaBelle,MaBelle,ShopLG1-61,LG1F,22658479,11:00 am - 7:30 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,136,Kent & Curwen,Kent & Curwen,ShopLG2-08,LG2F,22657372,11:00 am - 7:30 pm,,1,1;10,Fashion & Beauty;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,137,Madia,Madia,ShopG-01,GF,22657916,11:00 am - 9:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,141,Inside Edge,又一城歡天雪地溜冰商店,ShopUG-21,UGF,28443525,12:30 pm to 8:00 pm (Mon - Sat)10:30 am to 8:00 pm (Sun),,1,1;2;11;14,Fashion & Beauty;Home & Leisure;Sports Apparel & Gear;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,142,Hair,Hair,ShopLG2-29,LG2F,22657772,10:00 am - 9:00 pm (Mon - Fri)10:00 am - 8:30 pm (Sat - Sun & Public Holidays),,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,147,OPTICAL 88,眼鏡88,ShopL1-22,1F,22657608,10:30 am - 9:30 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,148,Giordano Ladies,Giordano Ladies,ShopL1-11,1F,29282208,11:30 am - 7:30 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,152,TaSTe,TaSTe,ShopMTR-05,MTRF,22658698,8:00 am - 11:00 pm,,1,4,Major Stores,,2022-05-02
+FestivalWalk,Shopping,155,AMEDEO TESTONI,AMEDEO TESTONI,ShopLG2-18,LG2F,22658938,11:00 am - 7:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,157,agnès b.,agnès b.,ShopLG1-49,LG1F,22657018,11:00 am - 8:00 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,163,CHANEL BEAUTÉ,CHANEL BEAUTÉ,ShopG-41,GF,22658632,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,164,City Chain,時間廊,ShopL1-KIOSKP,1F,29078912,11:00 am - 8:30 pm (Mon - Fri)11:00 am - 9:00 pm (Sat - Sun & Public Holidays),,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,165,Clean Living,恒隆白洋舍,ShopMTR-06,MTRF,23384855,9:00 am - 7:00 pm (Mon - Sat)10:00 am - 7:00 pm (Sun),,1,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,170,Columbia Sportswear Company,Columbia Sportswear Company,ShopL2-40,2F,63909263,11:30 am - 7:00 pm,,1,1;11,Fashion & Beauty;Sports Apparel & Gear,,2022-05-02
+FestivalWalk,Shopping,172,DBS Treasures Centre,星展豐盛理財中心,ShopLG2-27,LG2F,36682730,9:00 am - 5:00 pm (Mon - Fri)9:00 am - 1:00 pm (Sat),,,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,173,Dior Beauty,Dior Beauty,ShopG-12,GF,22657728,10:30 am - 9:30 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,176,Fortress,豐澤,ShopMTR-01,MTRF,21218393,11:00 am - 9:00 pm,,1,2;4;13,Home & Leisure;Major Stores;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,179,Hollister,Hollister,ShopUG-02,UGF,25675023,11:00 am - 9:00 pm (Sun - Thu & Public Holidays)11:00 am - 10:00 pm (Fri & Sat),,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,181,HSBC AND PREMIER CENTRE,滙豐,ShopLG2-01,LG2F,22333000,9:00 am - 4:00 pm (Mon - Fri),,,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,182,i PRIVATE i SALON,i PRIVATE i,ShopL2-55,2F,23140003,11:00 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,184,Jurlique,Jurlique,ShopUG-12,UGF,22658166,11:00 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,187,LensCrafters,亮視點,ShopL1-13,1F,22657957,10:00 am - 7:30 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,188,Levi’s,Levi’s,ShopUG-09,UGF,22657743,12:00 noon - 7:00 pm (Mon - Fri)12:00 noon - 8:00 pm (Sat - Sun & Public Holidays),,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,189,L’OCCITANE,L’OCCITANE,ShopUG-15,UGF,22657511,11:00 am - 9:00 pm (Mon - Thu & Public Holidays)11:00 am - 9:30 pm (Fri - Sun),,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,190,Longchamp,Longchamp,ShopLG2-59,LG2F,22657267,"11:00 am - 8:00 pm (Mon - Thu, Sun & Public Holidays)11:00 am - 9:00 pm (Fri - Sat )",,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,191,Mannings,萬寧,ShopMTR-09,MTRF,22657325,10:00 am - 10:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,193,NAIL NAIL,NAIL NAIL,ShopL2-55,2F,23140220,11:00 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,196,Parsons Music,柏斯音樂,ShopL2-54,2F,22657882,10:00 am - 8:00 pm (Mon - Fri)9:00 am - 9:00 pm (Sat)9:00 am - 8:00 pm (Sun),,,1;6,Fashion & Beauty;Children's Kingdom,,2022-05-02
+FestivalWalk,Shopping,197,Patagonia,Patagonia,ShopL2-06,2F,31051223,11:00 am - 7:30 pm,,1,1;11,Fashion & Beauty;Sports Apparel & Gear,,2022-05-02
+FestivalWalk,Shopping,20,ALEXANDRE ZOUARI,ALEXANDRE ZOUARI,ShopLG1-04,LG1F,21211368,11:00 am - 8:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,204,Standard Chartered Bank,渣打銀行,ShopLG2-46,LG2F,39280435,10:00 am - 4:30 pm (Mon - Fri),,,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,206,adidas Originals,adidas Originals,ShopL1-05,1F,22658652,11:00 am - 8:00 pm,,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,208,Toys “R” Us,玩具“反”斗城,ShopL2-02,2F,22657933,11:30 am - 8:00 pm,,1,1;4;6,Fashion & Beauty;Major Stores;Children's Kingdom,,2022-05-02
+FestivalWalk,Shopping,210,Apple,Apple,ShopLG1-40,LG1F,39793600,"11:00 am - 7:00 pm (Actual opening hours may vary, please refer to the shop's website)",,,2;4;13,Home & Leisure;Major Stores;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,211,UNIQLO,UNIQLO,ShopL1-01,1F,22658586,11:00 am - 10:00 pm,,1,1;4;5,Fashion & Beauty;Major Stores;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,212,BEYORG | Beyond Organic,BEYORG 有機無限,ShopUG-17,UGF,22658882,10:30 am - 7:30 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,218,Bobbi Brown,Bobbi Brown,ShopG-21,GF,22658928,11:00 am - 9:00 pm (Mon - Thu)11:00 am - 9:30 pm (Fri - Sun & Public Holidays),,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,219,bread n butter,bread n butter,ShopUG-48,UGF,31041196,11:30 am - 9:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,220,ARMANI beauty,ARMANI beauty,ShopG-37,GF,31881190,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,221,G2000,G2000,ShopL1-40,1F,22657023,12:00 noon - 8:00 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,225,FANCL,FANCL,ShopUG-30,UGF,36220879,10:30 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,231,MARELLA,MARELLA,ShopLG2-06,LG2F,27229626,11:00 am - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,232,Challenger,挑戰者,ShopMTR-P2,MTRF,22657260,10:30 am - 8:30 pm,,1,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,233,MAX&Co.,MAX&Co.,ShopLG2-05,LG2F,27229613,11:00 am - 9:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,235,PENNYBLACK,PENNYBLACK,ShopLG1-18,LG1F,27229621,11:00 am - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,237,Citibank (Hong Kong),花旗銀行 (香港),ShopLG2-57,LG2F,27886788,9:30 am - 5:00 pm (Mon - Sat),,,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,238,Weekend Max Mara,Weekend Max Mara,ShopLG2-03,LG2F,27229681,11:00 am - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,239,Estēe Lauder,Estēe Lauder,ShopG-17,GF,22658014,11:00 am - 9:30 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,243,double-park,double-park,ShopL1-30,1F,26493206,11:00 am - 8:00 pm,,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,253,Bank of China (Hong Kong),中國銀行 (香港),ShopLG2-56,LG2F,39882388,9:00 am - 4:00 pm (Mon - Fri),,,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,260,agnès b. FLEURISTE,agnès b. FLEURISTE,ShopLG1-49,LG1F,22658388,11:00 am - 7:00 pm,,1,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,269,The Glacier,歡天雪地,ShopUG-21,UGF,28443588,10:30 am - 8:00 pm,,1,4,Major Stores,,2022-05-02
+FestivalWalk,Shopping,27,Clarins,Clarins,ShopUG-13,UGF,31051725,12:00 nn - 6:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,273,Cocktail,Cocktail,ShopLG1-02,LG1F,29072028,11:00 am - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,274,Aēsop,Aēsop,ShopUG-25,UGF,26732399,12:00 nn - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,28,Clinique,倩碧,ShopG-36A,GF,22657719,11:00 am - 9:00 pm (Mon - Thu)11:00 am - 9:30 pm (Fri - Sun & Public Holidays),,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,295,adidas,adidas,ShopUG-06,UGF,24316032,11:00 am - 8:00 pm,,1,1;11,Fashion & Beauty;Sports Apparel & Gear,,2022-05-02
+FestivalWalk,Shopping,296,Private Shop,Private Shop,ShopUG-41,UGF,22658877,11:00 am -  7:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,298,ACCA KAPPA,ACCA KAPPA,ShopUG-KIOSKE1,UGF,23602738,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,307,AVEDA,AVEDA,ShopUG-16,UGF,21132716,11:00 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,308,CLUB MONACO,CLUB MONACO,ShopLG1-07,LG1F,21132712,11:00 am - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,313,Jo Malone London,Jo Malone London,ShopLG2-21,LG2F,25686342,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,316,SK-II,SK-II,ShopG-22,GF,21119464,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,318,Hallmark,Hallmark,ShopL2-17,2F,29972312,11:00 am - 7:00 pm,,1,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,322,J Select Quality+Life,J Select Quality+Life,ShopG-28,GF,31803038,11:00 am - 7:00 pm,,1,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,323,J.LINDEBERG,J.LINDEBERG,ShopL2-37,2F,35807857,12:00 nn - 6:00 pm,,,1;11,Fashion & Beauty;Sports Apparel & Gear,,2022-05-02
+FestivalWalk,Shopping,325,fresh,fresh,ShopUG-42,UGF,29678992,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,326,kate spade new york,kate spade new york,ShopLG1-17,LG1F,21552678,11:00 am - 8:00 pm,,1,1;7;9,Fashion & Beauty;Accessories & Footwear;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,327,Zara Home,Zara Home,ShopG-26,GF,24623268,10:30 am - 10:00 pm,,,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,33,GigaSports,GigaSports,ShopL1-02,1F,22657708,11:00 am - 8:00 pm,,1,1;11,Fashion & Beauty;Sports Apparel & Gear,,2022-05-02
+FestivalWalk,Shopping,330,La Maison VALMONT,La Maison VALMONT,ShopG-36B,GF,36918996,11:00 am - 9:00 pm,,,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,331,GEOX,GEOX,ShopL1-06,1F,27722131,11:00 am - 7:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,336,10/10 HOPE,10/10 HOPE,ShopUG-40,UGF,31050885,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,338,Repetto,Repetto,ShopLG2-19,LG2F,28699468,11:30 am - 7:30 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,339,Anteprima,Anteprima,ShopLG2-15,LG2F,26169668,10:00 am - 7:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,340,FESTIVAL GRAND CINEMA,FESTIVAL GRAND CINEMA,ShopUG,UGF,22371992,N/A,,,4,Major Stores,,2022-05-02
+FestivalWalk,Shopping,344,Phase Eight,Phase Eight,ShopLG1-54,LG1F,31050668,11:00 am - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,346,NARS,NARS,ShopG-33,GF,25280308,10:30 am - 9:00 pm (Mon - Thu & Sun)10:30 am - 9:30 pm (Fri & Sat),,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,371,LANCASTER PARIS,LANCASTER PARIS,ShopLG2-20,LG2F,27925398,11:30 am - 9:00 pm (Mon - Thu)11:30 am - 9:30 pm (Fri - Sun & Public Holidays),,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,38,Samsonite,Samsonite,ShopL1-23,1F,25975728,11:00 am - 8:00 pm,,,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,401,MUJI,無印良品,ShopLG1-30,LG1F,39713208,12:00 nn - 7:00 pm (Mon - Thu)11:00 am - 8:00 pm  (Fri - Sun),,1,2;4;14,Home & Leisure;Major Stores;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,41,Watsons,屈臣氏,ShopMTR-01,MTRF,21808482,9:00 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,42,AIGLE,AIGLE,ShopL2-09,2F,22658098,11:00 am - 8:30 pm,,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,44,Broadway,百老滙,ShopMTR-02,MTRF,22658778,11:00 am - 9:00 pm,,1,2;4;13,Home & Leisure;Major Stores;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,441,La Prairie,La Prairie,ShopG-02,GF,31050855,10:00 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,45,Chow Sang Sang,周生生,ShopLG2-49,LG2F,22658322,11:00 am - 8:30 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,463,Dr. Kong Footcare,Dr. Kong 健康鞋專門店,ShopL2-31,2F,35824346,11:00 am - 8:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,465,Global Timepieces / Omega,Global Timepieces / Omega,ShopLG2-50,LG2F,22657862,11:00 am - 7:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,466,Les Néréides,Les Néréides,ShopUG-43,UGF,26811323,11:30 am - 7:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,467,POLO RALPH LAUREN,POLO RALPH LAUREN,ShopLG2-07,LG2F,23959766,12:00 nn - 8:00 pm,,,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,474,Diamanti Per Tutti,Diamanti Per Tutti,ShopG-05,GF,35250705,11:00 am - 8:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,476,Fila,Fila,ShopL1-36,1F,23684033,11:30 am - 8:30 pm,,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,478,COS,COS,ShopLG1-36,LG1F,31051900,11:00 am - 8:00 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,483,CHOW TAI FOOK,周大福,ShopLG2-55,LG2F,26626199,11:00 am - 7:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,485,Bookazine,Bookazine,ShopUG-46,UGF,28081901,11:00 am - 8:00 pm,,1,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,488,APM Monaco,APM Monaco,ShopLG2-48,LG2F,37934735,11:00 am - 8:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,489,Gilly Hicks,Gilly Hicks,ShopUG-02,UGF,25675023,11:00 am - 9:00 pm (Sun - Thu & Public Holidays)11:00 am - 10:00 pm (Fri & Sat),,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,494,MiDes,MiDes,ShopL2-KIOSKN1,2F,22661000,11:00 am - 8:30 pm (Mon - Sat)11:00 am - 9:00 pm (Sun & Public Holidays),,1,1;6,Fashion & Beauty;Children's Kingdom,,2022-05-02
+FestivalWalk,Shopping,501,Nike Kicks Lounge,Nike Kicks Lounge,ShopL1-03,1F,23360430,11:00 am - 8:00 pm,,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,508,lululemon athletica,lululemon athletica,ShopLG1-25,LG1F,24726568,11:00 am - 8:00 pm,,1,1;11,Fashion & Beauty;Sports Apparel & Gear,,2022-05-02
+FestivalWalk,Shopping,511,YVES SAINT LAURENT,YVES SAINT LAURENT,ShopG-35,GF,28329112,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,513,M.A.C,M.A.C,ShopUG-29,UGF,31041681,"11:00 am - 9:00 pm (Mon - Thu, Sun & Public Holidays)11:00 am - 9:30 pm (Fri & Sat)",,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,514,Cath Kidston,Cath Kidston,ShopL2-KIOSKJ,2F,26873318,11:00 am - 8:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,517,Sandro,Sandro,ShopLG1-45,LG1F,31000561,11:00 am - 8:00 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,519,JINS,JINS,ShopL1-27,1F,23689800,11:00 am - 9:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,52,Lancôme,Lancôme,ShopG-18,GF,22658665,10:30 am - 9:30 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,53,LIULIGONGFANG,琉璃工房,ShopG-31,GF,22657188,11:00 am - 8:00 pm,,1,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,54,Swarovski,Swarovski,ShopLG2-17,LG2F,22657828,11:00 am - 8:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,55,Tommy Hilfiger,Tommy Hilfiger,ShopLG1-09,LG1F,22657056,11:00 am - 8:00 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,67,Ashworth,雅獅威,ShopL2-48,2F,22657169,11:00 am - 7:00 pm,,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,678,OTO,OTO,ShopG-30,GF,24360478,11:00 am - 10:00 pm,,1,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,679,Clé de Peau Beauté,Clé de Peau Beauté,ShopG-38,GF,22658088,10:30 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,680,GUERLAIN,法國嬌蘭,ShopG-39,GF,22657064,11:00 am - 7:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,681,JOYCE Beauty,JOYCE Beauty,ShopG-42,GF,22657176,11:00 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,682,CHICKEEDUCK,CHICKEEDUCK,ShopL2-16,2F,24047955,11:00 am - 7:30 pm,,,1;6,Fashion & Beauty;Children's Kingdom,,2022-05-02
+FestivalWalk,Shopping,684,ba&sh,ba&sh,ShopLG1-38,LG1F,36285371,11:00 am - 8:00 pm (Mon - Fri)11:00 am - 8:30 pm (Sat - Sun & Public Holidays),,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,687,Lukfook Jewellery,六福珠寶,ShopLG2-45,LG2F,26757166,11:30 am - 8:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,689,EMPHASIS,EMPHASIS,ShopLG2-65,LG2F,23842226,11:00 am - 9:30 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,69,Bang & Olufsen,Bang & Olufsen,ShopG-29,GF,22657860,11:00 am - 8:00 pm,,1,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,692,EVISU,EVISU,ShopLG1-28,LG1F,23201698,11:30 am - 8:30 pm,,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,693,ARTE Madrid,ARTE Madrid,ShopLG2-22,LG2F,21550831,11:00 am - 8:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,696,HUGO BOSS,HUGO BOSS,ShopLG2-10,LG2F,28383539,11:00 am - 8:00 pm,,,1;10,Fashion & Beauty;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,697,Marimekko,Marimekko,ShopLG1-13,LG1F,25628328,10:00 am - 7:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,700,Arc’teryx,Arc’teryx,ShopL1-08,1F,29446455,11:00 am - 8:00 pm,,1,1;11,Fashion & Beauty;Sports Apparel & Gear,,2022-05-02
+FestivalWalk,Shopping,701,Nautica,Nautica,ShopL2-51,2F,21047808,11:00 am - 7:30 pm,,,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,702,CROCS,CROCS,ShopL2-36,2F,25110019,12:00 noon - 7:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,708,Rolex & Tudor,Rolex & Tudor,ShopLG2-63,LG2F,22658368,11:00 am - 7:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,717,Sanrio Gift Gate,Sanrio Gift Gate,ShopL2-32,2F,25543268,11:00 am - 8:00 pm,,,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,719,Her own words,Her own words,ShopL1-39,1F,28081990,11:00 am - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,722,PANDORA,PANDORA,ShopLG1-24,LG1F,31044755,11:00 am - 8:00 pm,,1,1;8,Fashion & Beauty;Jewellery & Timepieces,,2022-05-02
+FestivalWalk,Shopping,723,Saloon (Hair & Beauty),Saloon (Hair & Beauty),ShopLG2-23,LG2F,21511716,10:00 am - 8:00 pm,,,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,724,Donguri Republic,Donguri Republic,ShopUG-07,UGF,25807822,11:00 am - 8:00 pm,,,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,726,diptyque,diptyque,ShopG-20,GF,91719251,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,728,CASETiFY STUDiO,CASETiFY STUDiO,ShopLG1-21,LG1F,34803844,11:30 am - 9:00 pm,,1,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,729,Le Fiori,Le Fiori,ShopLG2-67,LG2F,91071231,11:00 am - 8:00 pm,,1,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,730,mtm labo,mtm labo,ShopG-32,GF,21239246,11:00 am - 8:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,734,Awesome,Awesome,ShopL2-33,2F,23162289,11:00 am - 7:00 pm (Mon - Thu)11:00 am - 8:00 pm (Fri - Sun & Public Holidays),,1,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,735,Hobbs,Hobbs,ShopLG1-37,LG1F,26983188,11:00 am - 8:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,736,Calvin Klein Jeans & Calvin Klein Underwear,Calvin Klein Jeans & Calvin Klein Underwear,ShopUG-10,UGF,22658891,11:00 am - 9:00 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,737,6IXTY8IGHT,6IXTY8IGHT,ShopL1-10,1F,28138189,11:00 am - 8:30 pm,,,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,738,Champion,Champion,ShopL1-35,1F,24927606,11:00 am - 7:00 pm,,1,1;5,Fashion & Beauty;Casual Chic,,2022-05-02
+FestivalWalk,Shopping,742,Oasis Medical,Oasis Medical,ShopL2-01,2F,26325288,10:00 am - 8:00 pm (Mon - Fri)10:00 am - 7:00 pm (Sat),,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,744,ghd,ghd,ShopUG-KIOSKE2,UGF,36891012,11:00 am - 9:00 pm,,,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,745,Sweaty Betty,Sweaty Betty,ShopLG1-05,LG1F,23333180,11:00 am - 9:00 pm,,1,1;11,Fashion & Beauty;Sports Apparel & Gear,,2022-05-02
+FestivalWalk,Shopping,747,Rainbow Creative Arts,Rainbow Creative Arts,ShopL2-15,2F,26831312,10:00 am - 7:00 pm (Wed)10:00 am - 8:00 pm (Thu)9:00 am - 6:00 pm (Sat)9:00 am - 2:00 pm (Sun),,,1;6,Fashion & Beauty;Children's Kingdom,,2022-05-02
+FestivalWalk,Shopping,749,7-Eleven,7-Eleven,ShopG-08,GF,27173155,8:00 am - 10:00 pm,,,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,75,Brooks Brothers,Brooks Brothers,ShopLG2-61,LG2F,27780200,11:00 am - 8:00 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,750,B.Duck Playful Store,B.Duck Playful Store,ShopL2-39,2F,67681501,11:30 am - 6:30 pm,,1,2;14,Home & Leisure;Books & Gifts,,2022-05-02
+FestivalWalk,Shopping,754,BoConcept,BoConcept,ShopLG1-34,LG1F,34684899,11:00 am - 9:00 pm,,,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,758,XOVĒ,XOVĒ,ShopUG-KIOSKQ,UGF,39291813,11:00 am - 8:00 pm,,,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,759,Nissan Intelligent Hub,日產「電氣站」,ShopLG2-KIOSKH3,LG2F,22621088,11:00 am - 8:00 pm,,,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,760,Maskology Living,Maskology Living,ShopL1-21,1F,26882130,11:30 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,761,Jumpin GYM U.S.A.,美國冒險樂園,ShopL2-11,2F,26104173,11:00 am - 10:00 pm,,1,1;6,Fashion & Beauty;Children's Kingdom,,2022-05-02
+FestivalWalk,Shopping,762,O.N.S | kapok,O.N.S | kapok,ShopLG1-64,LG1F,28588403,12:00 nn - 8:00 pm,,1,1;9;10,Fashion & Beauty;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,763,Simmons,蓆夢思,ShopL2-53,2F,35251718,11:00 am - 7:00 pm (Mon - Fri)11:00 am - 7:30 pm (Sat - Sun & Public Holidays),,1,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,764,Victorinox,Victorinox,ShopLG2-KIOSKH,LG2F,94104690,10:30 am - 8:30 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,765,Twinkle Dance Company,Twinkle Dance Company,ShopL2-52,2F,66081928,10:30 am - 8:30 pm (Mon - Fri)8:30 am - 6:30 pm (Sat & Sun),,,1;6,Fashion & Beauty;Children's Kingdom,,2022-05-02
+FestivalWalk,Shopping,769,Joy & Peace Galleria,Joy & Peace Galleria,ShopUG-05,UGF,27460018,11:30 am - 8:30 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,770,Vivienne Tam,Vivienne Tam,ShopLG1-19,LG1F,21783388,11:00 am - 7:00 pm,,1,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,771,EMMAS | DENTONS,EMMAS | DENTONS,ShopL2-07,2F,35983409,11:00 am - 8:00 pm,,,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
+FestivalWalk,Shopping,78,Cole Haan,Cole Haan,ShopLG1-22,LG1F,22658386,11:00 am - 8:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,81,ECCO,ECCO,ShopL2-08,2F,27792866,11:00 am - 8:00 pm,,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,85,Fotomax,快圖美,ShopG-44,GF,21100479,11:00 am - 8:00 pm,,,2;15,Home & Leisure;Banks & Services,,2022-05-02
+FestivalWalk,Shopping,90,Shiseido,資生堂,ShopG-43,GF,22657006,10:30 am - 9:00 pm,,1,1;12,Fashion & Beauty;Health & Beauty,,2022-05-02
+FestivalWalk,Shopping,93,Rockport,Rockport,ShopL2-50,2F,22657841,12:00 noon - 7:00 pm (Sun - Fri)11:30 am - 7:30 pm (Sat),,1,1;7,Fashion & Beauty;Accessories & Footwear,,2022-05-02
+FestivalWalk,Shopping,95,Playlord,Playlord,ShopL1-41,1F,31050003,11:00 am - 9:00 pm,,,1;9,Fashion & Beauty;Ladies' Fashion & Lingerie,,2022-05-02
+FestivalWalk,Shopping,97,PS Paul Smith,PS Paul Smith,ShopLG1-55,LG1F,27619303,11:00 am - 8:00 pm,,1,1;7;9;10,Fashion & Beauty;Accessories & Footwear;Ladies' Fashion & Lingerie;Men's Wear,,2022-05-02
+FestivalWalk,Shopping,99,OSIM,OSIM,ShopL2-03,2F,22657253,11:30 am - 8:30 pm,,1,2;13,Home & Leisure;Smart Living & Audio Visual,,2022-05-02
